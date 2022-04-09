@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="2">
+  <advance width="723"/>
+  <unicode hex="0041"/>
+  <anchor x="370" y="720" name="t.asciicircum_1"/>
+  <anchor x="370" y="750" name="t.dieresis"/>
+  <outline>
+    <contour>
+      <point x="265" y="35" type="line"/>
+      <point x="210" y="35" type="line" smooth="yes"/>
+      <point x="182" y="35"/>
+      <point x="167" y="38"/>
+      <point x="167" y="61" type="curve" smooth="yes"/>
+      <point x="167" y="73"/>
+      <point x="170" y="86"/>
+      <point x="177" y="101" type="curve"/>
+      <point x="184" y="120"/>
+      <point x="212" y="196"/>
+      <point x="221" y="216" type="curve"/>
+      <point x="439" y="216" type="line"/>
+      <point x="477" y="110" type="line" smooth="yes"/>
+      <point x="483" y="94"/>
+      <point x="486" y="80"/>
+      <point x="486" y="67" type="curve" smooth="yes"/>
+      <point x="486" y="40"/>
+      <point x="471" y="35"/>
+      <point x="446" y="35" type="curve" smooth="yes"/>
+      <point x="399" y="35" type="line"/>
+      <point x="399" y="0" type="line"/>
+      <point x="707" y="0" type="line"/>
+      <point x="707" y="35" type="line"/>
+      <point x="678" y="35" type="line" smooth="yes"/>
+      <point x="642" y="35"/>
+      <point x="636" y="37"/>
+      <point x="611" y="106" type="curve" smooth="yes"/>
+      <point x="401" y="692" type="line"/>
+      <point x="356" y="692" type="line"/>
+      <point x="124" y="96" type="line" smooth="yes"/>
+      <point x="101" y="37"/>
+      <point x="90" y="35"/>
+      <point x="53" y="35" type="curve" smooth="yes"/>
+      <point x="16" y="35" type="line"/>
+      <point x="16" y="0" type="line"/>
+      <point x="265" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="235" y="252" type="line"/>
+      <point x="336" y="516" type="line"/>
+      <point x="427" y="252" type="line"/>
+      <point x="442" y="252" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>766786ec1bcda0ce8985435211fce75443cb2075a9079e23d993f09235ca2afba1e854ada0bccc55b54f2fc49df4a4d0d67d70a242c849f41114538ba5e400cf</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 35</string>
+          <string>hstem 216 36</string>
+          <string>hstem 692 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

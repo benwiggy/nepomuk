@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oe" format="2">
+  <advance width="762"/>
+  <unicode hex="0153"/>
+  <anchor x="398" y="530" name="t.asciicircum_1"/>
+  <anchor x="398" y="530" name="t.dieresis"/>
+  <outline>
+    <contour>
+      <point x="35" y="225" type="curve" smooth="yes"/>
+      <point x="35" y="95"/>
+      <point x="118" y="-12"/>
+      <point x="247" y="-12" type="curve" smooth="yes"/>
+      <point x="304" y="-12"/>
+      <point x="348" y="12"/>
+      <point x="381" y="45" type="curve"/>
+      <point x="417" y="9"/>
+      <point x="466" y="-12"/>
+      <point x="532" y="-12" type="curve" smooth="yes"/>
+      <point x="617" y="-12"/>
+      <point x="693" y="44"/>
+      <point x="721" y="131" type="curve"/>
+      <point x="666" y="150" type="line"/>
+      <point x="639" y="67"/>
+      <point x="588" y="21" name="hr01"/>
+      <point x="546" y="21" type="curve" smooth="yes"/>
+      <point x="492" y="21"/>
+      <point x="448" y="75"/>
+      <point x="448" y="225" type="curve" smooth="yes"/>
+      <point x="448" y="238" type="line"/>
+      <point x="433" y="238" type="line"/>
+      <point x="720" y="238" type="line"/>
+      <point x="720" y="252" type="line" smooth="yes"/>
+      <point x="720" y="352"/>
+      <point x="666" y="462"/>
+      <point x="532" y="462" type="curve" smooth="yes"/>
+      <point x="471" y="462"/>
+      <point x="423" y="433"/>
+      <point x="389" y="398" type="curve"/>
+      <point x="355" y="436"/>
+      <point x="308" y="462"/>
+      <point x="247" y="462" type="curve" smooth="yes"/>
+      <point x="118" y="462"/>
+      <point x="35" y="355"/>
+    </contour>
+    <contour>
+      <point x="173" y="225" type="curve" smooth="yes"/>
+      <point x="173" y="375"/>
+      <point x="201" y="436"/>
+      <point x="247" y="436" type="curve" smooth="yes"/>
+      <point x="293" y="436"/>
+      <point x="321" y="375"/>
+      <point x="321" y="225" type="curve" smooth="yes"/>
+      <point x="321" y="75"/>
+      <point x="293" y="14"/>
+      <point x="247" y="14" type="curve" smooth="yes"/>
+      <point x="201" y="14"/>
+      <point x="173" y="75"/>
+    </contour>
+    <contour>
+      <point x="587" y="312" type="curve" smooth="yes"/>
+      <point x="587" y="275"/>
+      <point x="576" y="267"/>
+      <point x="553" y="267" type="curve" smooth="yes"/>
+      <point x="449" y="267" type="line"/>
+      <point x="459" y="380"/>
+      <point x="492" y="436"/>
+      <point x="532" y="436" type="curve" smooth="yes"/>
+      <point x="567" y="436"/>
+      <point x="587" y="380"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>3bd7146097fa1c9692f6eb6520b358b22845fcf51f771c63131bb3fcedbba11c15509ce2c60dd89d397512609b33ba5cc9e6a6ad09b39f42e7635b00c57274fe</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 35 138</string>
+          <string>hstem -12 26</string>
+          <string>hstem 238 29</string>
+          <string>hstem 436 26</string>
+          <string>vstem 321 127</string>
+          <string>vstem 587 133</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -12 33</string>
+          <string>vstem 321 127</string>
+          <string>hstem 238 29</string>
+          <string>vstem 587 133</string>
+          <string>hstem 436 26</string>
+          <string>vstem 35 138</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -12 26</string>
+          <string>vstem 35 138</string>
+          <string>vstem 587 133</string>
+          <string>hstem 238 29</string>
+          <string>hstem 436 26</string>
+          <string>vstem 321 127</string>
+        </array>
+        <key>pointTag</key>
+        <string>._.105554230798816</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

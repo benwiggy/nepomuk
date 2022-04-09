@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name=".notdef" format="2">
+  <advance width="512"/>
+  <outline>
+    <contour>
+      <point x="41" y="0" type="line"/>
+      <point x="471" y="0" type="line"/>
+      <point x="471" y="506" type="line"/>
+      <point x="41" y="506" type="line"/>
+    </contour>
+    <contour>
+      <point x="112" y="51" type="line"/>
+      <point x="112" y="455" type="line"/>
+      <point x="400" y="455" type="line"/>
+      <point x="400" y="51" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w512m41,0l471,0l471,506l41,506m112,51l112,455l400,455l400,51</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 51</string>
+          <string>hstem 455 51</string>
+          <string>vstem -31 71.5</string>
+          <string>vstem 328 71.5</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

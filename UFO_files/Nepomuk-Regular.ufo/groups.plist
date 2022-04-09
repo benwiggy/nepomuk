@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>ss01</key>
+  <array>
+    <string>A</string>
+    <string>B</string>
+    <string>C</string>
+    <string>D</string>
+    <string>E</string>
+    <string>F</string>
+    <string>G</string>
+    <string>H</string>
+    <string>I</string>
+    <string>J</string>
+    <string>K</string>
+    <string>L</string>
+    <string>M</string>
+    <string>N</string>
+    <string>O</string>
+    <string>P</string>
+    <string>Q</string>
+    <string>R</string>
+    <string>S</string>
+    <string>T</string>
+    <string>U</string>
+    <string>V</string>
+    <string>W</string>
+    <string>X</string>
+    <string>Y</string>
+    <string>Z</string>
+  </array>
+  <key>ss012</key>
+  <array>
+    <string>A.alt</string>
+    <string>B.alt</string>
+    <string>C.alt</string>
+    <string>D.alt</string>
+    <string>E.alt</string>
+    <string>F.alt</string>
+    <string>G.alt</string>
+    <string>H.alt</string>
+    <string>I.alt</string>
+    <string>J.alt</string>
+    <string>K.alt</string>
+    <string>L.alt</string>
+    <string>M.alt</string>
+    <string>N.alt</string>
+    <string>O.alt</string>
+    <string>P.alt</string>
+    <string>Q.alt</string>
+    <string>R.alt</string>
+    <string>S.alt</string>
+    <string>T.alt</string>
+    <string>U.alt</string>
+    <string>V.alt</string>
+    <string>W.alt</string>
+    <string>X.alt</string>
+    <string>Y.alt</string>
+    <string>Z.alt</string>
+  </array>
+</dict>
+</plist>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii00208" format="2">
+  <advance width="1500"/>
+  <unicode hex="2015"/>
+  <outline>
+    <contour>
+      <point x="-15" y="294" type="line"/>
+      <point x="-15" y="229" type="line"/>
+      <point x="1515" y="239" type="line"/>
+      <point x="1515" y="304" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1500m-15,294l-15,229l1515,239l1515,304</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 234 65</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
