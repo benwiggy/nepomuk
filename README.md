@@ -1,5 +1,9 @@
 # Nepomuk font family
 
-These are two text fonts, regular and italic, with a slightly awkward family name. (Have you ever heard of Johan Nepomuk David?) They are inspired by the text fonts used by Henle in old plate engravings. They're nowhere near finished, but since they found their way into some online font catalogs for music notation, I'll make them available here once more. Feel free to fork this repo if you want to make your own improvements.
+This font family is inspired by the 'punch' text commonly found in music plate engraving in the 20th-century. 
+
+Based on characters designed by Florian Ktretlow, the family has been expanded with Bold and Bold Italic weights. Kerning and tracking has been improved, and a greater range of characters added. This includes diacritics and non-Roman characters (for all your Czech and Icelandic composers), punctuation including non-breaking hyphens, and Unicode musical accidentals.
+
+A small range of sample pages, showing the text fonts on a variety of example title pages of music, can be found in the images folder.
 
 The fonts in this archive are free to use for everybody. They're licensed under the [SIL Open Font License](http://scripts.sil.org/ofl).
