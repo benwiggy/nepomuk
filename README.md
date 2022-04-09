@@ -6,6 +6,6 @@ Based on characters designed by Florian Ktretlow, the family has been expanded w
 
 A small range of sample pages, showing the text fonts on a variety of example title pages of music, can be found in the images folder.
 
-![sample](images/Ravel_Trois_oiseau.png)
+![sample](images/Ravel_Three_birds.png)
 
 The fonts in this archive are free to use for everybody. They're licensed under the [SIL Open Font License](http://scripts.sil.org/ofl).
