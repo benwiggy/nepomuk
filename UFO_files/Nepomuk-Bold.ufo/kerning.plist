@@ -4,6 +4,8 @@
 <dict>
   <key>A</key>
   <dict>
+    <key>C</key>
+    <integer>-51</integer>
     <key>V</key>
     <integer>-123</integer>
     <key>W</key>
@@ -25,6 +27,8 @@
   </dict>
   <key>F</key>
   <dict>
+    <key>A</key>
+    <integer>-101</integer>
     <key>a</key>
     <integer>-28</integer>
     <key>e</key>

@@ -10,10 +10,12 @@
     <integer>-40</integer>
     <key>O</key>
     <integer>-40</integer>
+    <key>Q</key>
+    <integer>-28</integer>
     <key>T</key>
     <integer>-88</integer>
     <key>V</key>
-    <integer>-77</integer>
+    <integer>-131</integer>
     <key>W</key>
     <integer>-134</integer>
     <key>Y</key>
@@ -50,6 +52,8 @@
   </dict>
   <key>F</key>
   <dict>
+    <key>A</key>
+    <integer>-89</integer>
     <key>a</key>
     <integer>-61</integer>
     <key>e</key>
@@ -148,6 +152,11 @@
     <integer>-57</integer>
     <key>y</key>
     <integer>-73</integer>
+  </dict>
+  <key>Y</key>
+  <dict>
+    <key>Q</key>
+    <integer>-31</integer>
   </dict>
   <key>a</key>
   <dict>

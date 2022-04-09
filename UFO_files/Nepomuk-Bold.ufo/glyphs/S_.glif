@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="S" format="2">
-  <advance width="639"/>
+  <advance width="647"/>
   <unicode hex="0053"/>
   <outline>
     <contour>
-      <point x="325" y="27" type="curve" smooth="yes"/>
-      <point x="238" y="27"/>
-      <point x="142" y="94"/>
-      <point x="122" y="287" type="curve"/>
-      <point x="52" y="287" type="line"/>
-      <point x="52" y="-12" type="line"/>
-      <point x="115" y="-12" type="line"/>
-      <point x="123" y="3" type="line" smooth="yes"/>
-      <point x="137" y="29"/>
-      <point x="145" y="42"/>
-      <point x="149" y="42" type="curve" smooth="yes"/>
-      <point x="153" y="42"/>
-      <point x="161" y="38"/>
-      <point x="176" y="29" type="curve" smooth="yes"/>
-      <point x="224" y="1"/>
-      <point x="271" y="-12"/>
-      <point x="330" y="-12" type="curve" smooth="yes"/>
-      <point x="482" y="-12"/>
-      <point x="587" y="76"/>
-      <point x="587" y="189" type="curve" smooth="yes"/>
-      <point x="587" y="347"/>
-      <point x="417" y="401"/>
-      <point x="290" y="441" type="curve"/>
-      <point x="230" y="462"/>
-      <point x="178" y="500"/>
-      <point x="178" y="568" type="curve" smooth="yes"/>
-      <point x="178" y="617"/>
-      <point x="224" y="656"/>
-      <point x="291" y="656" type="curve" smooth="yes"/>
-      <point x="356" y="656"/>
-      <point x="451" y="619"/>
-      <point x="478" y="446" type="curve"/>
-      <point x="548" y="446" type="line"/>
-      <point x="548" y="692" type="line"/>
-      <point x="485" y="692" type="line"/>
-      <point x="477" y="677" type="line" smooth="yes"/>
-      <point x="465" y="655"/>
-      <point x="458" y="646"/>
-      <point x="454" y="646" type="curve" smooth="yes"/>
-      <point x="449" y="646"/>
-      <point x="438" y="651"/>
-      <point x="421" y="660" type="curve" smooth="yes"/>
-      <point x="394" y="675"/>
-      <point x="350" y="692"/>
-      <point x="291" y="692" type="curve" smooth="yes"/>
-      <point x="146" y="692"/>
-      <point x="55" y="606"/>
-      <point x="55" y="511" type="curve" smooth="yes"/>
-      <point x="55" y="420"/>
-      <point x="144" y="368"/>
-      <point x="243" y="333" type="curve" smooth="yes"/>
-      <point x="335" y="302" type="line" smooth="yes"/>
-      <point x="423" y="273"/>
-      <point x="472" y="225"/>
-      <point x="472" y="146" type="curve" smooth="yes"/>
-      <point x="472" y="93"/>
-      <point x="431" y="27"/>
+      <point x="341" y="27" type="curve" smooth="yes"/>
+      <point x="254" y="27"/>
+      <point x="158" y="94"/>
+      <point x="138" y="287" type="curve"/>
+      <point x="68" y="287" type="line"/>
+      <point x="68" y="-12" type="line"/>
+      <point x="131" y="-12" type="line"/>
+      <point x="139" y="3" type="line" smooth="yes"/>
+      <point x="153" y="29"/>
+      <point x="161" y="42"/>
+      <point x="165" y="42" type="curve" smooth="yes"/>
+      <point x="169" y="42"/>
+      <point x="177" y="38"/>
+      <point x="192" y="29" type="curve" smooth="yes"/>
+      <point x="240" y="1"/>
+      <point x="287" y="-12"/>
+      <point x="346" y="-12" type="curve" smooth="yes"/>
+      <point x="498" y="-12"/>
+      <point x="603" y="76"/>
+      <point x="603" y="189" type="curve" smooth="yes"/>
+      <point x="603" y="347"/>
+      <point x="433" y="401"/>
+      <point x="306" y="441" type="curve"/>
+      <point x="246" y="462"/>
+      <point x="194" y="500"/>
+      <point x="194" y="568" type="curve" smooth="yes"/>
+      <point x="194" y="617"/>
+      <point x="240" y="656"/>
+      <point x="307" y="656" type="curve" smooth="yes"/>
+      <point x="372" y="656"/>
+      <point x="467" y="619"/>
+      <point x="494" y="446" type="curve"/>
+      <point x="564" y="446" type="line"/>
+      <point x="564" y="692" type="line"/>
+      <point x="501" y="692" type="line"/>
+      <point x="493" y="677" type="line" smooth="yes"/>
+      <point x="481" y="655"/>
+      <point x="474" y="646"/>
+      <point x="470" y="646" type="curve" smooth="yes"/>
+      <point x="465" y="646"/>
+      <point x="454" y="651"/>
+      <point x="437" y="660" type="curve" smooth="yes"/>
+      <point x="410" y="675"/>
+      <point x="366" y="692"/>
+      <point x="307" y="692" type="curve" smooth="yes"/>
+      <point x="162" y="692"/>
+      <point x="71" y="606"/>
+      <point x="71" y="511" type="curve" smooth="yes"/>
+      <point x="71" y="420"/>
+      <point x="160" y="368"/>
+      <point x="259" y="333" type="curve" smooth="yes"/>
+      <point x="351" y="302" type="line" smooth="yes"/>
+      <point x="439" y="273"/>
+      <point x="488" y="225"/>
+      <point x="488" y="146" type="curve" smooth="yes"/>
+      <point x="488" y="93"/>
+      <point x="447" y="27"/>
     </contour>
   </outline>
   <lib>
@@ -70,15 +70,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>9dad78c43d977a25ea06ab3448bf27e5f621c54e9b7e27ba45233b641c5b52e8c0d1745e7219014104b8e19441175de04c8e4386ff447597ad7cb1049886b33c</string>
+    <string>508f1973590f6dbb6c2876ce1a85c0a70935db5097cfa29bb11f31681c6d275c7714db001555704d59dbf5a997215c57527b8499da59d1d90c33f38df0286f7c</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem -12 39</string>
-          <string>vstem 472 115</string>
-          <string>vstem 55 123</string>
+          <string>vstem 71 123</string>
+          <string>vstem 488 115</string>
           <string>hstem 656 36</string>
         </array>
       </dict>
@@ -86,12 +86,12 @@
         <key>stems</key>
         <array>
           <string>hstem 446 246</string>
-          <string>vstem 55 123</string>
-          <string>vstem 472 115</string>
+          <string>vstem 71 123</string>
+          <string>vstem 488 115</string>
           <string>hstem -12 39</string>
         </array>
         <key>pointTag</key>
-        <string>._.105554230459072</string>
+        <string>._.105554230589904</string>
       </dict>
     </array>
   </dict>
