@@ -6,7 +6,7 @@ Based on characters designed by Florian Ktretlow, the family has been expanded w
 
 The accidentals can be accessed using the ligatures $b, $n, and $s, or directly using their Unicode values U+266D - U+266F).
 
-A small range of sample pages, showing the text fonts on a variety of example title pages of music, can be found in the images folder.
+A small range of sample pages, such as this one below, can be found in the images folder.
 
 ![sample](images/Ravel_Three_birds.png)
 
