@@ -1,70 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ograve" format="2">
-  <advance width="468"/>
+  <advance width="488"/>
   <unicode hex="00F2"/>
+  <anchor x="244" y="530" name="t.asciicircum_1"/>
+  <anchor x="244" y="530" name="t.dieresis"/>
   <outline>
-    <contour>
-      <point x="249" y="706" type="curve"/>
-      <point x="138" y="706" type="line"/>
-      <point x="131" y="686" type="line"/>
-      <point x="173" y="646"/>
-      <point x="279" y="564"/>
-      <point x="335" y="532" type="curve"/>
-      <point x="343" y="554" type="line"/>
-      <point x="309" y="594"/>
-      <point x="267" y="662"/>
-    </contour>
-    <contour>
-      <point x="131" y="225" type="curve" smooth="yes"/>
-      <point x="131" y="375"/>
-      <point x="172" y="436"/>
-      <point x="235" y="436" type="curve" smooth="yes"/>
-      <point x="298" y="436"/>
-      <point x="339" y="375"/>
-      <point x="339" y="225" type="curve" smooth="yes"/>
-      <point x="339" y="75"/>
-      <point x="298" y="14"/>
-      <point x="235" y="14" type="curve" smooth="yes"/>
-      <point x="172" y="14"/>
-      <point x="131" y="75"/>
-    </contour>
-    <contour>
-      <point x="23" y="225" type="curve" smooth="yes"/>
-      <point x="23" y="95"/>
-      <point x="105" y="-12"/>
-      <point x="235" y="-12" type="curve" smooth="yes"/>
-      <point x="365" y="-12"/>
-      <point x="447" y="95"/>
-      <point x="447" y="225" type="curve" smooth="yes"/>
-      <point x="447" y="355"/>
-      <point x="365" y="462"/>
-      <point x="235" y="462" type="curve" smooth="yes"/>
-      <point x="105" y="462"/>
-      <point x="23" y="355"/>
-    </contour>
+    <component base="o"/>
+    <component base="grave" xOffset="138"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>dd2dffcdc4e1f2512d4c01c91904fac8cd9e6753d87856b29ccd9773a962ddc93d5e46509b7ccedea67ee1f150db96041c61157e2be71f39a2ad0a742937cf15</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -12 26</string>
-          <string>hstem 436 26</string>
-          <string>hstem 706 -20</string>
-          <string>vstem 23 108</string>
-          <string>vstem 339 108</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

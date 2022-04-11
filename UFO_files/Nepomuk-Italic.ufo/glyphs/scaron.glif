@@ -2,14 +2,9 @@
 <glyph name="scaron" format="2">
   <advance width="418"/>
   <unicode hex="0161"/>
+  <anchor x="277" y="515" name="accent1"/>
   <outline>
     <component base="s"/>
-    <component base="caron" xOffset="71"/>
+    <component base="caron" xOffset="56" yOffset="9"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.604,0.6,1,1</string>
-  </dict>
-  </lib>
 </glyph>

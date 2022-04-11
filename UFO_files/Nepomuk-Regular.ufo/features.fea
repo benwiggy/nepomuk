@@ -48,6 +48,20 @@ feature ss01 {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 feature cv00 {
 # GSUB
 # Lookups: 1
@@ -60,19 +74,50 @@ feature cv00 {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 feature liga {
 # GSUB feature: Standard Ligatures
 # Lookups: 1
 
-  sub f f i by uniFB03;
-  sub f l by uniFB02;
-  sub f i by uniFB01;
-  sub f f by uniFB00;
+  sub f f i by f_f_i;
+  sub f l by fl;
+  sub f i by fi;
+  sub f f by f_f;
+  sub f f l by f_f_l;
   sub dollar b by uni266D;
   sub dollar n by uni266E;
   sub dollar s by uni266F;
+  sub dollar v by uni2123;
+  sub dollar r by uni211F;
 
 } liga;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -177,6 +222,20 @@ feature mark {
 
 
 } mark;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

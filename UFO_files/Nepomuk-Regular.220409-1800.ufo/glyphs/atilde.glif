@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="atilde" format="2">
+  <advance width="497"/>
+  <unicode hex="00E3"/>
+  <outline>
+    <contour>
+      <point x="157" y="608" type="curve" smooth="yes"/>
+      <point x="194" y="608"/>
+      <point x="249" y="546"/>
+      <point x="299" y="546" type="curve" smooth="yes"/>
+      <point x="349" y="546"/>
+      <point x="384" y="602"/>
+      <point x="400" y="644" type="curve"/>
+      <point x="378" y="652" type="line"/>
+      <point x="366" y="627"/>
+      <point x="348" y="604"/>
+      <point x="322" y="604" type="curve" smooth="yes"/>
+      <point x="285" y="604"/>
+      <point x="230" y="666"/>
+      <point x="180" y="666" type="curve" smooth="yes"/>
+      <point x="130" y="666"/>
+      <point x="95" y="610"/>
+      <point x="79" y="568" type="curve"/>
+      <point x="101" y="560" type="line"/>
+      <point x="113" y="585"/>
+      <point x="131" y="608"/>
+    </contour>
+    <contour>
+      <point x="404" y="316" type="line" smooth="yes"/>
+      <point x="404" y="400"/>
+      <point x="340" y="462"/>
+      <point x="232" y="462" type="curve" smooth="yes"/>
+      <point x="109" y="462"/>
+      <point x="58" y="402"/>
+      <point x="58" y="357" type="curve" smooth="yes"/>
+      <point x="58" y="326"/>
+      <point x="74" y="296"/>
+      <point x="113" y="296" type="curve" smooth="yes"/>
+      <point x="139" y="296"/>
+      <point x="159" y="317"/>
+      <point x="159" y="343" type="curve" smooth="yes"/>
+      <point x="159" y="366"/>
+      <point x="139" y="379"/>
+      <point x="139" y="394" type="curve" smooth="yes"/>
+      <point x="139" y="417"/>
+      <point x="167" y="431"/>
+      <point x="224" y="431" type="curve" smooth="yes"/>
+      <point x="294" y="431"/>
+      <point x="314" y="377"/>
+      <point x="314" y="301" type="curve" smooth="yes"/>
+      <point x="314" y="290" type="line"/>
+      <point x="230" y="270" type="line" smooth="yes"/>
+      <point x="123" y="244"/>
+      <point x="32" y="206"/>
+      <point x="32" y="107" type="curve" smooth="yes"/>
+      <point x="32" y="39"/>
+      <point x="87" y="-12"/>
+      <point x="163" y="-12" type="curve" smooth="yes"/>
+      <point x="242" y="-12"/>
+      <point x="293" y="28"/>
+      <point x="320" y="66" type="curve"/>
+      <point x="331" y="18"/>
+      <point x="358" y="-12"/>
+      <point x="412" y="-12" type="curve" smooth="yes"/>
+      <point x="459" y="-12"/>
+      <point x="503" y="28"/>
+      <point x="513" y="92" type="curve"/>
+      <point x="489" y="98" type="line"/>
+      <point x="480" y="59"/>
+      <point x="464" y="34"/>
+      <point x="440" y="34" type="curve" smooth="yes"/>
+      <point x="416" y="34"/>
+      <point x="404" y="55"/>
+      <point x="404" y="124" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="133" y="118" type="curve" smooth="yes"/>
+      <point x="133" y="185"/>
+      <point x="155" y="222"/>
+      <point x="248" y="245" type="curve" smooth="yes"/>
+      <point x="314" y="261" type="line"/>
+      <point x="314" y="132" type="line" smooth="yes"/>
+      <point x="314" y="81"/>
+      <point x="246" y="24"/>
+      <point x="199" y="24" type="curve" smooth="yes"/>
+      <point x="151" y="24"/>
+      <point x="133" y="56"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>5c195349be5a79a8eb1adee17f048d8eb0b84823cc875c2e12719fbb821e404113a811eeedc56a38eef088f208115831882dbc54b4053e7bcaabbc19a0311bf8</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 608 58</string>
+          <string>hstem 546 58</string>
+          <string>vstem 314 90</string>
+          <string>hstem 296 166</string>
+          <string>vstem 58 81</string>
+          <string>hstem -12 36</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 58 101</string>
+          <string>hstem -12 36</string>
+          <string>hstem 296 166</string>
+          <string>hstem 546 58</string>
+          <string>hstem 608 58</string>
+          <string>vstem 314 90</string>
+        </array>
+        <key>pointTag</key>
+        <string>._.105554029352896</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 58 81</string>
+          <string>hstem 431 31</string>
+          <string>vstem 314 90</string>
+          <string>hstem -12 36</string>
+          <string>hstem 546 58</string>
+          <string>hstem 608 58</string>
+        </array>
+        <key>pointTag</key>
+        <string>._.105554029354976</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 32 101</string>
+          <string>hstem -12 36</string>
+          <string>hstem 296 166</string>
+          <string>hstem 546 58</string>
+          <string>hstem 608 58</string>
+          <string>vstem 314 90</string>
+        </array>
+        <key>pointTag</key>
+        <string>._.105554029347136</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -12 46</string>
+          <string>vstem 314 90</string>
+          <string>vstem 32 101</string>
+          <string>hstem 296 166</string>
+          <string>hstem 546 58</string>
+          <string>hstem 608 58</string>
+        </array>
+        <key>pointTag</key>
+        <string>._.105554029352976</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -12 36</string>
+          <string>vstem 32 101</string>
+          <string>hstem 296 166</string>
+          <string>hstem 546 58</string>
+          <string>hstem 608 58</string>
+          <string>vstem 314 90</string>
+        </array>
+        <key>pointTag</key>
+        <string>._.105554029349216</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

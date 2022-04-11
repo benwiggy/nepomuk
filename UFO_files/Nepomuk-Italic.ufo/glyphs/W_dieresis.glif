@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wdieresis" format="2">
+  <advance width="953"/>
+  <unicode hex="1E84"/>
+  <anchor x="614" y="711" name="accent1"/>
+  <outline>
+    <component base="W"/>
+    <component base="dieresis" xOffset="265" yOffset="177"/>
+  </outline>
+</glyph>

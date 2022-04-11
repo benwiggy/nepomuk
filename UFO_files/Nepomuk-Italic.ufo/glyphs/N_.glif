@@ -2,6 +2,7 @@
 <glyph name="N" format="2">
   <advance width="745"/>
   <unicode hex="004E"/>
+  <anchor x="503" y="718" name="accent1"/>
   <outline>
     <contour>
       <point x="719" y="595" type="line" smooth="yes"/>
@@ -70,7 +71,7 @@
           <string>hstem 9 -21</string>
         </array>
         <key>pointTag</key>
-        <string>._.105554028070944</string>
+        <string>._.105554095860672</string>
       </dict>
     </array>
   </dict>

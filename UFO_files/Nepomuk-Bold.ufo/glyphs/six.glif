@@ -4,13 +4,13 @@
   <unicode hex="0036"/>
   <outline>
     <contour>
-      <point x="326" y="660" type="curve" smooth="yes"/>
+      <point x="317" y="660" type="curve" smooth="yes"/>
       <point x="340" y="660"/>
       <point x="347" y="652"/>
-      <point x="347" y="638" type="curve" smooth="yes"/>
+      <point x="347" y="636" type="curve" smooth="yes"/>
       <point x="347" y="628"/>
       <point x="345" y="619"/>
-      <point x="341" y="612" type="curve" smooth="yes"/>
+      <point x="339" y="609" type="curve" smooth="yes"/>
       <point x="332" y="598"/>
       <point x="329" y="586" name="hr01"/>
       <point x="329" y="575" type="curve" smooth="yes"/>
@@ -19,22 +19,22 @@
       <point x="415" y="504" type="curve" smooth="yes"/>
       <point x="465" y="504"/>
       <point x="501" y="535"/>
-      <point x="501" y="575" type="curve" smooth="yes"/>
+      <point x="501" y="578" type="curve" smooth="yes"/>
       <point x="501" y="639"/>
       <point x="428" y="692"/>
-      <point x="326" y="692" type="curve" smooth="yes"/>
+      <point x="332" y="692" type="curve" smooth="yes"/>
       <point x="165" y="692"/>
       <point x="45" y="530"/>
       <point x="45" y="336" type="curve" smooth="yes"/>
       <point x="45" y="130"/>
       <point x="145" y="-12"/>
-      <point x="306" y="-12" type="curve" smooth="yes"/>
+      <point x="299" y="-12" type="curve" smooth="yes"/>
       <point x="421" y="-12"/>
       <point x="536" y="78" name="hr02"/>
       <point x="536" y="219" type="curve" smooth="yes"/>
       <point x="536" y="355"/>
       <point x="426" y="426"/>
-      <point x="322" y="426" type="curve" smooth="yes"/>
+      <point x="321" y="426" type="curve" smooth="yes"/>
       <point x="261" y="426"/>
       <point x="212" y="403"/>
       <point x="180" y="377" type="curve"/>
@@ -43,13 +43,13 @@
       <point x="225" y="660"/>
     </contour>
     <contour>
-      <point x="304" y="391" type="curve" smooth="yes"/>
+      <point x="308" y="391" type="curve" smooth="yes"/>
       <point x="359" y="391"/>
       <point x="397" y="330"/>
-      <point x="397" y="215" type="curve" smooth="yes"/>
+      <point x="397" y="206" type="curve" smooth="yes"/>
       <point x="397" y="100"/>
       <point x="369" y="20"/>
-      <point x="303" y="20" type="curve" smooth="yes"/>
+      <point x="302" y="20" type="curve" smooth="yes"/>
       <point x="226" y="20"/>
       <point x="180" y="122"/>
       <point x="180" y="206" type="curve" smooth="yes"/>
@@ -65,7 +65,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>e3e701d4ca4bcfa702edc532a8762b650b343376195d6f6fe68c15b5c9610d1ddd855817b5a234795f8df26efc9a7fcffb185eb8a79bd04483658292d6e4fbe9</string>
+    <string>3ee09c7c3e95d86a27d7fedfb56de5308dd7b57e35b1a13a59ae194b3c16abc176795b178703bd0664e6b6612e0df7773db2d6ae707fb2c1df886f95adc535c2</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -1,10 +1,3 @@
-#> classes
-#/> otclasses
-@ss01 = [A B C D E F G H I J K L M N O P Q R S T U V W X Y Z];
-@ss012 = [A.alt B.alt C.alt D.alt E.alt F.alt G.alt H.alt I.alt J.alt K.alt L.alt M.alt N.alt O.alt P.alt Q.alt R.alt S.alt T.alt U.alt V.alt W.alt X.alt Y.alt Z.alt];
-#/< otclasses
-#< classes
-
 ###
 # OpenType Layout feature definitions
 # Format: Adobe FDK for OpenType (AFDKO) version 2.5
@@ -36,16 +29,6 @@ languagesystem latn dflt; # Latin default
 # Feature definitions
 #
 
-feature ss01 {
-# GSUB feature: Stylistic Set 1
-# Lookups: 1
-
-  sub @ss01 by @ss012;
-
-} ss01;
-
-
-
 feature cv00 {
 # GSUB
 # Lookups: 1
@@ -56,19 +39,32 @@ feature cv00 {
 
 
 
+
+
+
+
+
+
 feature liga {
 # GSUB feature: Standard Ligatures
 # Lookups: 1
 
-  sub f f i by uniFB03;
-  sub f l by uniFB02;
-  sub f i by uniFB01;
-  sub f f by uniFB00;
+  sub f f i by f_f_i;
+  sub f l by fl;
+  sub f i by fi;
+  sub f f by f_f;
+  sub f f l by f_f_l;
   sub dollar b by uni266D;
   sub dollar n by uni266E;
   sub dollar s by uni266F;
 
 } liga;
+
+
+
+
+
+
 
 
 
@@ -171,6 +167,12 @@ feature mark {
 
 
 } mark;
+
+
+
+
+
+
 
 
 

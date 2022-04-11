@@ -36,8 +36,10 @@ feature liga {
 	sub f f by uniFB00;
   sub f i by uniFB01;
   sub f l by uniFB02;
+  sub f f i by uniFB03;
   sub dollar b by uni266D;
   sub dollar n by uni266E;
   sub dollar s by uni266F;
 
 } liga;
+

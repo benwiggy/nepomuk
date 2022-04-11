@@ -1,82 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uacute" format="2">
-  <advance width="716"/>
+  <advance width="726"/>
   <unicode hex="00DA"/>
+  <anchor x="395" y="730" name="t.asciicircum_1"/>
+  <anchor x="395" y="750" name="t.dieresis"/>
   <outline>
-    <contour>
-      <point x="351" y="906" type="line"/>
-      <point x="333" y="859"/>
-      <point x="291" y="790"/>
-      <point x="259" y="751" type="curve"/>
-      <point x="270" y="722" type="line"/>
-      <point x="339" y="761"/>
-      <point x="457" y="849"/>
-      <point x="498" y="889" type="curve"/>
-      <point x="492" y="906" type="line"/>
-    </contour>
-    <contour>
-      <point x="591" y="595" type="line" smooth="yes"/>
-      <point x="591" y="640"/>
-      <point x="595" y="645"/>
-      <point x="626" y="645" type="curve" smooth="yes"/>
-      <point x="691" y="645" type="line"/>
-      <point x="691" y="680" type="line"/>
-      <point x="420" y="680" type="line"/>
-      <point x="420" y="645" type="line"/>
-      <point x="485" y="645" type="line" smooth="yes"/>
-      <point x="516" y="645"/>
-      <point x="520" y="640"/>
-      <point x="520" y="595" type="curve" smooth="yes"/>
-      <point x="520" y="274" type="line" smooth="yes"/>
-      <point x="520" y="154"/>
-      <point x="494" y="31"/>
-      <point x="371" y="31" type="curve" smooth="yes"/>
-      <point x="268" y="31"/>
-      <point x="249" y="128"/>
-      <point x="249" y="288" type="curve" smooth="yes"/>
-      <point x="249" y="595" type="line" smooth="yes"/>
-      <point x="249" y="640"/>
-      <point x="253" y="645"/>
-      <point x="284" y="645" type="curve" smooth="yes"/>
-      <point x="339" y="645" type="line"/>
-      <point x="339" y="680" type="line"/>
-      <point x="24" y="680" type="line"/>
-      <point x="24" y="645" type="line"/>
-      <point x="79" y="645" type="line" smooth="yes"/>
-      <point x="110" y="645"/>
-      <point x="114" y="640"/>
-      <point x="114" y="595" type="curve" smooth="yes"/>
-      <point x="114" y="269" type="line" smooth="yes"/>
-      <point x="114" y="69"/>
-      <point x="199" y="-12"/>
-      <point x="349" y="-12" type="curve" smooth="yes"/>
-      <point x="549" y="-12"/>
-      <point x="590" y="118"/>
-      <point x="590" y="257" type="curve" smooth="yes"/>
-    </contour>
+    <component base="U"/>
+    <component base="acute" xOffset="289" yOffset="200"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>95e4a83a1b102d85df8d372aa667f485afa585d388388abe5880530a41809172ffba511bfe38c0c87bd6ff8b7bfe9c24a83662080db405a090f3c6e7a3104f4a</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -12 43</string>
-          <string>hstem 645 35</string>
-          <string>hstem 906 -20</string>
-          <string>vstem 114 135</string>
-          <string>vstem 520 71</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

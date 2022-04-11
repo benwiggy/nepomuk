@@ -10,13 +10,13 @@
       <point x="191" y="68" type="line"/>
       <point x="217" y="21"/>
       <point x="257" y="-12"/>
-      <point x="324" y="-12" type="curve" smooth="yes"/>
+      <point x="323" y="-12" type="curve" smooth="yes"/>
       <point x="429" y="-12"/>
       <point x="515" y="75"/>
-      <point x="515" y="225" type="curve" smooth="yes"/>
+      <point x="515" y="227" type="curve" smooth="yes"/>
       <point x="515" y="375"/>
       <point x="434" y="462"/>
-      <point x="332" y="462" type="curve" smooth="yes"/>
+      <point x="337" y="462" type="curve" smooth="yes"/>
       <point x="277" y="462"/>
       <point x="220" y="428"/>
       <point x="188" y="359" type="curve"/>
@@ -44,10 +44,10 @@
       <point x="209" y="-145" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="383" y="225" type="curve" smooth="yes"/>
+      <point x="383" y="233" type="curve" smooth="yes"/>
       <point x="383" y="90"/>
       <point x="350" y="19"/>
-      <point x="312" y="19" type="curve" smooth="yes"/>
+      <point x="307" y="19" type="curve" smooth="yes"/>
       <point x="267" y="19"/>
       <point x="219" y="79" name="hr04"/>
       <point x="219" y="225" type="curve" smooth="yes"/>
@@ -65,7 +65,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>14692167ce85a953e7a9754be1e333ba771e962039f935e8167b0eea8739c579f997909f381b5ae3a99fa50d292eaec38420ccb47710c17e1f79fca0b763e6fe</string>
+    <string>ee17fc436aab8403afe5be34014e85b05d0ccd5deca7e7863cf411df0c0b365f9c771c28fd6617ec99b14b7c419b2242219c8c05aaa6a0e9d89fc3540bf8bd59</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -88,7 +88,7 @@
           <string>vstem 383 132</string>
         </array>
         <key>pointTag</key>
-        <string>._.105554230486800</string>
+        <string>._.105554096542800</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -112,7 +112,7 @@
           <string>hstem 415 35</string>
         </array>
         <key>pointTag</key>
-        <string>._.105554230411504</string>
+        <string>._.105554096544480</string>
       </dict>
       <dict>
         <key>stems</key>

@@ -1,67 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Igrave" format="2">
-  <advance width="388"/>
+  <advance width="404"/>
   <unicode hex="00CC"/>
   <outline>
-    <contour>
-      <point x="120" y="927" type="curve"/>
-      <point x="9" y="927" type="line"/>
-      <point x="2" y="907" type="line"/>
-      <point x="44" y="867"/>
-      <point x="150" y="785"/>
-      <point x="206" y="753" type="curve"/>
-      <point x="214" y="775" type="line"/>
-      <point x="180" y="815"/>
-      <point x="138" y="883"/>
-    </contour>
-    <contour>
-      <point x="242" y="595" type="line" smooth="yes"/>
-      <point x="242" y="640"/>
-      <point x="247" y="645"/>
-      <point x="292" y="645" type="curve" smooth="yes"/>
-      <point x="332" y="645" type="line"/>
-      <point x="332" y="680" type="line"/>
-      <point x="57" y="680" type="line"/>
-      <point x="57" y="645" type="line"/>
-      <point x="97" y="645" type="line" smooth="yes"/>
-      <point x="142" y="645"/>
-      <point x="147" y="640"/>
-      <point x="147" y="595" type="curve" smooth="yes"/>
-      <point x="147" y="85" type="line" smooth="yes"/>
-      <point x="147" y="40"/>
-      <point x="142" y="35"/>
-      <point x="97" y="35" type="curve" smooth="yes"/>
-      <point x="57" y="35" type="line"/>
-      <point x="57" y="0" type="line"/>
-      <point x="332" y="0" type="line"/>
-      <point x="332" y="35" type="line"/>
-      <point x="292" y="35" type="line" smooth="yes"/>
-      <point x="247" y="35"/>
-      <point x="242" y="49"/>
-      <point x="242" y="85" type="curve" smooth="yes"/>
-    </contour>
+    <component base="I"/>
+    <component base="grave" xOffset="96" yOffset="230"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>3bdc68918f22179ff9a3fb7def9abca4504a40a97afe05822abf10bc6e85863e7f8d7ddcb118ca315319afa49ed74975f0c48e9c18590dff0b38dc13e9323f3d</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 35</string>
-          <string>hstem 645 35</string>
-          <string>hstem 927 -20</string>
-          <string>vstem 147 95</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

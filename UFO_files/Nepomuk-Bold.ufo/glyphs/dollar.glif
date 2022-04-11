@@ -7,13 +7,13 @@
       <point x="231" y="-9" type="line"/>
       <point x="155" y="5"/>
       <point x="53" y="92"/>
-      <point x="53" y="170" type="qcurve" smooth="yes"/>
+      <point x="53" y="164" type="qcurve" smooth="yes"/>
       <point x="53" y="212"/>
       <point x="99" y="266"/>
-      <point x="134" y="266" type="qcurve" smooth="yes"/>
+      <point x="133" y="266" type="qcurve" smooth="yes"/>
       <point x="157" y="266"/>
       <point x="188" y="234" name="hr01"/>
-      <point x="188" y="215" type="qcurve" smooth="yes"/>
+      <point x="188" y="209" type="qcurve" smooth="yes"/>
       <point x="188" y="188"/>
       <point x="169" y="163"/>
       <point x="144" y="148" type="qcurve" smooth="yes"/>
@@ -26,7 +26,7 @@
       <point x="231" y="328" type="line"/>
       <point x="177" y="361" type="line" smooth="yes"/>
       <point x="78" y="423" name="hr03"/>
-      <point x="78" y="540" type="qcurve" smooth="yes"/>
+      <point x="78" y="542" type="qcurve" smooth="yes"/>
       <point x="78" y="622"/>
       <point x="164" y="718"/>
       <point x="231" y="735" type="qcurve"/>
@@ -34,7 +34,7 @@
       <point x="264" y="815" type="line"/>
       <point x="264" y="742" type="line"/>
       <point x="289" y="745"/>
-      <point x="311" y="745" type="qcurve" smooth="yes"/>
+      <point x="310" y="745" type="qcurve" smooth="yes"/>
       <point x="326" y="745"/>
       <point x="350" y="743" type="qcurve"/>
       <point x="350" y="815" type="line"/>
@@ -45,13 +45,13 @@
       <point x="541" y="580" type="qcurve" smooth="yes"/>
       <point x="541" y="537"/>
       <point x="500" y="469"/>
-      <point x="467" y="469" type="qcurve" smooth="yes"/>
+      <point x="465" y="469" type="qcurve" smooth="yes"/>
       <point x="440" y="469"/>
       <point x="409" y="498"/>
       <point x="409" y="520" type="qcurve" smooth="yes"/>
       <point x="409" y="540"/>
       <point x="432" y="568"/>
-      <point x="449" y="577" type="qcurve" smooth="yes"/>
+      <point x="454" y="579" type="qcurve" smooth="yes"/>
       <point x="470" y="587"/>
       <point x="487" y="603" name="hr04"/>
       <point x="487" y="617" type="qcurve" smooth="yes"/>
@@ -62,7 +62,7 @@
       <point x="423" y="384" type="line" smooth="yes"/>
       <point x="478" y="349"/>
       <point x="539" y="257"/>
-      <point x="539" y="194" type="qcurve" smooth="yes"/>
+      <point x="539" y="192" type="qcurve" smooth="yes"/>
       <point x="539" y="112"/>
       <point x="453" y="11"/>
       <point x="383" y="-7" type="qcurve"/>
@@ -70,7 +70,7 @@
       <point x="350" y="-86" type="line"/>
       <point x="350" y="-13" type="line"/>
       <point x="329" y="-16"/>
-      <point x="308" y="-16" type="qcurve" smooth="yes"/>
+      <point x="303" y="-16" type="qcurve" smooth="yes"/>
       <point x="280" y="-16"/>
       <point x="264" y="-14" type="qcurve"/>
       <point x="264" y="-86" type="line"/>
@@ -89,12 +89,12 @@
       <point x="231" y="698" type="line"/>
       <point x="197" y="685"/>
       <point x="156" y="635"/>
-      <point x="156" y="603" type="qcurve" smooth="yes"/>
+      <point x="156" y="604" type="qcurve" smooth="yes"/>
       <point x="156" y="547"/>
       <point x="231" y="503" type="qcurve"/>
     </contour>
     <contour>
-      <point x="308" y="16" type="qcurve" smooth="yes"/>
+      <point x="310" y="16" type="qcurve" smooth="yes"/>
       <point x="332" y="16"/>
       <point x="350" y="19" type="qcurve"/>
       <point x="350" y="254" type="line"/>
@@ -106,7 +106,7 @@
       <point x="383" y="28" type="line"/>
       <point x="422" y="42"/>
       <point x="457" y="95" name="hr05"/>
-      <point x="457" y="124" type="qcurve" smooth="yes"/>
+      <point x="457" y="127" type="qcurve" smooth="yes"/>
       <point x="457" y="165"/>
       <point x="414" y="215"/>
       <point x="383" y="233" type="qcurve"/>
@@ -119,7 +119,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>c114302e55d582624665aa9a734c1172bbe90874d69781872b5bb8f6e210fa9451eda6b4ac339f285fb19c9ab7d6ccf97415373033e96b2500faaf2877ea6d08</string>
+    <string>8c937eee4779ddf9b1bb88ddd84b829958a6bce2e4b371ff0b2cb9eed484cf040c480e0fea8c5ebb07c9c7ceb4b0a91d3109fce3f4c96191a28a19bc5c099e61</string>
     <key>hintSetList</key>
     <array>
       <dict>

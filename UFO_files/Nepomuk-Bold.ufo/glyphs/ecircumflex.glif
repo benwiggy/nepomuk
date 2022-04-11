@@ -33,27 +33,27 @@
       <point x="33" y="225" type="curve" smooth="yes"/>
       <point x="33" y="95"/>
       <point x="120" y="-12"/>
-      <point x="260" y="-12" type="curve" smooth="yes"/>
+      <point x="251" y="-12" type="curve" smooth="yes"/>
       <point x="345" y="-12"/>
       <point x="430" y="43"/>
       <point x="458" y="130" type="curve"/>
       <point x="399" y="150" type="line"/>
       <point x="371" y="66"/>
       <point x="315" y="25"/>
-      <point x="272" y="25" type="curve" smooth="yes"/>
+      <point x="269" y="25" type="curve" smooth="yes"/>
       <point x="218" y="25"/>
       <point x="171" y="75"/>
       <point x="171" y="224" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="329" y="312" type="curve" smooth="yes"/>
+      <point x="329" y="315" type="curve" smooth="yes"/>
       <point x="329" y="275"/>
       <point x="319" y="267"/>
       <point x="296" y="267" type="curve" smooth="yes"/>
       <point x="171" y="267" type="line"/>
       <point x="181" y="380"/>
       <point x="214" y="436"/>
-      <point x="260" y="436" type="curve" smooth="yes"/>
+      <point x="258" y="436" type="curve" smooth="yes"/>
       <point x="302" y="436"/>
       <point x="329" y="380"/>
     </contour>
@@ -65,7 +65,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>3bd5e201bf074c1018eb746b78401ebd60a0d1c28d2eacb32c4fbc0c208a0ddf80e1870c6a2855d1138d7cf07caac1db1211c23ef68b9a2be55e62d41285133f</string>
+    <string>c50dbeb3b67e263841459509d80afbe45512d61d9ebef627bc4ed7c77e40943ac6233d5621562d096aab4d885cf80ed3801261e0be5fe861c549cfe9c72f0bff</string>
     <key>hintSetList</key>
     <array>
       <dict>

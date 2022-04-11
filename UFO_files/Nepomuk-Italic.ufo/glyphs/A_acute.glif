@@ -1,75 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aacute" format="2">
-  <advance width="661"/>
+  <advance width="653"/>
   <unicode hex="00C1"/>
+  <anchor x="439" y="718" name="accent1"/>
   <outline>
-    <contour>
-      <point x="404" y="848" type="line"/>
-      <point x="381" y="808"/>
-      <point x="333" y="747"/>
-      <point x="301" y="716" type="curve"/>
-      <point x="309" y="694" type="line"/>
-      <point x="357" y="720"/>
-      <point x="477" y="806"/>
-      <point x="521" y="840" type="curve"/>
-      <point x="514" y="860" type="line"/>
-    </contour>
-    <contour>
-      <point x="200" y="252" type="line"/>
-      <point x="380" y="559" type="line"/>
-      <point x="413" y="252" type="line"/>
-    </contour>
-    <contour>
-      <point x="179" y="217" type="line"/>
-      <point x="417" y="217" type="line"/>
-      <point x="428" y="109" type="line" smooth="yes"/>
-      <point x="434" y="50"/>
-      <point x="415" y="35"/>
-      <point x="366" y="35" type="curve" smooth="yes"/>
-      <point x="338" y="35" type="line"/>
-      <point x="328" y="0" type="line"/>
-      <point x="623" y="0" type="line"/>
-      <point x="633" y="35" type="line"/>
-      <point x="599" y="35" type="line" smooth="yes"/>
-      <point x="566" y="35"/>
-      <point x="541" y="42"/>
-      <point x="533" y="106" type="curve" smooth="yes"/>
-      <point x="461" y="692" type="line"/>
-      <point x="412" y="692" type="line"/>
-      <point x="73" y="116" type="line"/>
-      <point x="27" y="36"/>
-      <point x="-10" y="35"/>
-      <point x="-45" y="35" type="curve" smooth="yes"/>
-      <point x="-70" y="35" type="line"/>
-      <point x="-80" y="0" type="line"/>
-      <point x="175" y="0" type="line"/>
-      <point x="185" y="35" type="line"/>
-      <point x="158" y="35" type="line" smooth="yes"/>
-      <point x="98" y="35"/>
-      <point x="79" y="47"/>
-      <point x="120" y="117" type="curve" smooth="yes"/>
-    </contour>
+    <component base="A"/>
+    <component base="acute" xOffset="250" yOffset="209"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>77af938cf71a352ee763835b21da7e9dc416958561a0b715ab1c2a990c260e3b7c2db66fe55431f4d1f3e3d1392e80d0b5ff694f956e24bf3a2d5b427fa62a49</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 35</string>
-          <string>hstem 217 35</string>
-          <string>hstem 692 -20</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

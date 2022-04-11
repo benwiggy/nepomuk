@@ -8,10 +8,4 @@
     <component base="C" xOffset="-9"/>
     <component base="caron" xOffset="167" yOffset="200"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.604,0.6,1,1</string>
-  </dict>
-  </lib>
 </glyph>

@@ -44,11 +44,11 @@
       <point x="98" y="35" type="curve" smooth="yes"/>
       <point x="43" y="35" type="line"/>
       <point x="43" y="0" type="line"/>
-      <point x="614" y="0" type="line"/>
-      <point x="619" y="269" type="line"/>
+      <point x="617" y="0" type="line"/>
+      <point x="617" y="269" type="line"/>
       <point x="559" y="269" type="line"/>
-      <point x="537" y="148"/>
-      <point x="519" y="36"/>
+      <point x="526" y="90"/>
+      <point x="482" y="36"/>
       <point x="368" y="36" type="curve" smooth="yes"/>
       <point x="294" y="36" type="line" smooth="yes"/>
       <point x="276" y="36"/>
@@ -74,8 +74,8 @@
       <point x="479" y="644"/>
       <point x="515" y="576"/>
       <point x="542" y="449" type="curve"/>
-      <point x="602" y="449" type="line"/>
-      <point x="597" y="680" type="line"/>
+      <point x="600" y="449" type="line"/>
+      <point x="600" y="680" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -85,7 +85,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>a07c449491f8b81ed6e24de36f181d8d9516f8e35e9d9d5a039a2f922df0022638178f3066e1d6e9335da9234195fa01578e9a1eccef32a16f91f9ba19e78313</string>
+    <string>ea99b2746a1e353d8e2a94022a0b320026cb838f44128af71462ce44b3f61150502efd176c41c01b0d810f8ba6b3f27a2c9db571aef8070937c43b1487bf7daa</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -123,7 +123,7 @@
           <string>vstem 389 134</string>
         </array>
         <key>pointTag</key>
-        <string>._.105554229863808</string>
+        <string>._.105554096557184</string>
       </dict>
     </array>
   </dict>

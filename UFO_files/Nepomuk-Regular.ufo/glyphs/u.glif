@@ -2,6 +2,7 @@
 <glyph name="u" format="2">
   <advance width="550"/>
   <unicode hex="0075"/>
+  <anchor x="248" y="510" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="365" y="96" type="curve"/>

@@ -1,72 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Icircumflex" format="2">
-  <advance width="393"/>
+  <advance width="400"/>
   <unicode hex="00CE"/>
+  <anchor x="331" y="718" name="accent1"/>
   <outline>
-    <contour>
-      <point x="307" y="876" type="line"/>
-      <point x="280" y="836"/>
-      <point x="218" y="762"/>
-      <point x="184" y="732" type="curve"/>
-      <point x="192" y="710" type="line"/>
-      <point x="225" y="730"/>
-      <point x="284" y="772"/>
-      <point x="331" y="809" type="curve"/>
-      <point x="363" y="771"/>
-      <point x="401" y="732"/>
-      <point x="430" y="703" type="curve"/>
-      <point x="452" y="711" type="line"/>
-      <point x="425" y="751"/>
-      <point x="385" y="832"/>
-      <point x="368" y="876" type="curve"/>
-    </contour>
-    <contour>
-      <point x="351" y="595" type="line" smooth="yes"/>
-      <point x="361" y="630"/>
-      <point x="380" y="645"/>
-      <point x="415" y="645" type="curve" smooth="yes"/>
-      <point x="450" y="645" type="line"/>
-      <point x="460" y="680" type="line"/>
-      <point x="175" y="680" type="line"/>
-      <point x="165" y="645" type="line"/>
-      <point x="210" y="645" type="line" smooth="yes"/>
-      <point x="245" y="645"/>
-      <point x="256" y="630"/>
-      <point x="246" y="595" type="curve" smooth="yes"/>
-      <point x="99" y="85" type="line" smooth="yes"/>
-      <point x="89" y="50"/>
-      <point x="70" y="35"/>
-      <point x="35" y="35" type="curve" smooth="yes"/>
-      <point x="0" y="35" type="line"/>
-      <point x="-10" y="0" type="line"/>
-      <point x="275" y="0" type="line"/>
-      <point x="285" y="35" type="line"/>
-      <point x="240" y="35" type="line" smooth="yes"/>
-      <point x="205" y="35"/>
-      <point x="195" y="50"/>
-      <point x="205" y="85" type="curve" smooth="yes"/>
-    </contour>
+    <component base="I"/>
+    <component base="circumflex" xOffset="84" yOffset="188"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>ec496125c0dee50722fb8eca828770f0c82b0687ccbf77c5ad005ff66eae20946ee7ddb1663478fd7769125656bbad242f8685b77947aa88825f6072431bbb8d</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 35</string>
-          <string>hstem 645 35</string>
-          <string>hstem 876 -20</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

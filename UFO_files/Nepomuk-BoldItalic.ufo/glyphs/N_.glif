@@ -2,6 +2,7 @@
 <glyph name="N" format="2">
   <advance width="778"/>
   <unicode hex="004E"/>
+  <anchor x="497" y="714" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="729" y="595" type="line" smooth="yes"/>

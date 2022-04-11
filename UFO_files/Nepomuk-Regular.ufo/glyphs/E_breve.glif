@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ebreve" format="2">
+  <advance width="649"/>
+  <unicode hex="0114"/>
+  <anchor x="346" y="730" name="t.asciicircum_1"/>
+  <anchor x="346" y="750" name="t.dieresis"/>
+  <outline>
+    <component base="E"/>
+    <component base="breve" xOffset="200" yOffset="230"/>
+  </outline>
+</glyph>

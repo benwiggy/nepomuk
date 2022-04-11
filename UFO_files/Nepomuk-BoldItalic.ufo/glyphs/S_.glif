@@ -2,6 +2,7 @@
 <glyph name="S" format="2">
   <advance width="641"/>
   <unicode hex="0053"/>
+  <anchor x="426" y="714" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="56" y="0" type="line"/>
@@ -35,7 +36,7 @@
       <point x="551" y="455"/>
       <point x="551" y="446" type="curve"/>
       <point x="614" y="446" type="line"/>
-      <point x="681" y="680" type="line" name="hr02"/>
+      <point x="681" y="680" type="line"/>
       <point x="625" y="680" type="line"/>
       <point x="613" y="664" type="line" smooth="yes"/>
       <point x="592" y="637"/>
@@ -66,8 +67,8 @@
       <point x="139" y="246"/>
       <point x="140" y="267"/>
       <point x="144" y="287" type="curve"/>
-      <point x="81" y="287" type="line" name="hr04"/>
-      <point x="0" y="0" type="line"/>
+      <point x="81" y="287" type="line"/>
+      <point x="0" y="0" type="line" name="hr04"/>
     </contour>
   </outline>
   <lib>
@@ -85,19 +86,17 @@
         <array>
           <string>hstem 21 -21</string>
           <string>hstem 656 36</string>
-          <string>vstem 17 63.5</string>
-          <string>vstem 356 113.5</string>
-          <string>vstem 487 63.5</string>
+          <string>vstem 470 113</string>
+          <string>vstem 146 120</string>
         </array>
       </dict>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem -12 39</string>
-          <string>vstem 356 113.5</string>
+          <string>vstem 470 113</string>
+          <string>vstem 146 120</string>
           <string>hstem 656 36</string>
-          <string>vstem 487 63.5</string>
-          <string>vstem 17 63.5</string>
         </array>
         <key>pointTag</key>
         <string>hr01</string>
@@ -107,21 +106,19 @@
         <array>
           <string>hstem 680 -20</string>
           <string>hstem -12 39</string>
-          <string>vstem 17 63.5</string>
-          <string>vstem 356 113.5</string>
-          <string>vstem 487 63.5</string>
+          <string>vstem 470 113</string>
+          <string>vstem 146 120</string>
         </array>
         <key>pointTag</key>
-        <string>hr02</string>
+        <string>._.105554227069248</string>
       </dict>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 656 36</string>
-          <string>vstem 25 120.5</string>
-          <string>vstem 356 113.5</string>
+          <string>vstem 146 120</string>
+          <string>vstem 470 113</string>
           <string>hstem -12 39</string>
-          <string>vstem 487 63.5</string>
         </array>
         <key>pointTag</key>
         <string>hr03</string>
@@ -129,11 +126,10 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 17 63.5</string>
           <string>hstem 21 -21</string>
           <string>hstem 656 36</string>
-          <string>vstem 356 113.5</string>
-          <string>vstem 487 63.5</string>
+          <string>vstem 470 113</string>
+          <string>vstem 146 120</string>
         </array>
         <key>pointTag</key>
         <string>hr04</string>

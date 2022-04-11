@@ -2,9 +2,10 @@
 <glyph name="W" format="2">
   <advance width="953"/>
   <unicode hex="0057"/>
+  <anchor x="614" y="711" name="accent1"/>
   <outline>
     <contour>
-      <point x="131" y="645" type="line"/>
+      <point x="141" y="645" type="line"/>
       <point x="151" y="645" type="line" smooth="yes"/>
       <point x="186" y="645"/>
       <point x="219" y="641"/>
@@ -19,8 +20,8 @@
       <point x="972" y="638"/>
       <point x="994" y="645"/>
       <point x="1023" y="645" type="curve" smooth="yes"/>
-      <point x="1053" y="645" type="line"/>
-      <point x="1063" y="680" type="line"/>
+      <point x="1049" y="645" type="line"/>
+      <point x="1059" y="680" type="line"/>
       <point x="810" y="680" type="line"/>
       <point x="800" y="645" type="line"/>
       <point x="841" y="645" type="line" smooth="yes"/>
@@ -48,7 +49,7 @@
       <point x="362" y="645" type="curve" smooth="yes"/>
       <point x="399" y="645" type="line"/>
       <point x="409" y="680" type="line"/>
-      <point x="141" y="680" type="line"/>
+      <point x="151" y="680" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -58,7 +59,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>5efa17b7499082cf1286b6eeb6a15d8f468af72728d25fb84c13f288e7c33555070ab590a7506ca10f5befb9b1864656e58c128fed93d847725a9490cd903be5</string>
+    <string>ea17d12db679a1101e5afc96c442847be63cadc2bf15b4bb696289a4584a6b2cbff6ac5b054c90bdb8bf7989463101c952a9f644275e80343fa2dc6aeb66ed7a</string>
     <key>hintSetList</key>
     <array>
       <dict>

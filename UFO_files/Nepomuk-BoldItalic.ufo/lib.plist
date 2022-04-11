@@ -411,7 +411,6 @@
     <string>ellipsis</string>
     <string>trademark</string>
     <string>Euro</string>
-    <string>Eth</string>
     <string>Thorn</string>
     <string>eth</string>
     <string>oslash</string>
@@ -425,6 +424,92 @@
     <string>musicflat</string>
     <string>musicnatural</string>
     <string>musicsharp</string>
+    <string>Ecaron</string>
+    <string>Zcaron</string>
+    <string>ecaron</string>
+    <string>zcaron</string>
+    <string>bullet</string>
+    <string>circumflex</string>
+    <string>macronmod</string>
+    <string>breve</string>
+    <string>dotaccent</string>
+    <string>ring</string>
+    <string>tilde</string>
+    <string>Amacron</string>
+    <string>Zdotaccent</string>
+    <string>zdotaccent</string>
+    <string>zacute</string>
+    <string>Zacute</string>
+    <string>amacron</string>
+    <string>Abreve</string>
+    <string>abreve</string>
+    <string>Cacute</string>
+    <string>cacute</string>
+    <string>ccircumflex</string>
+    <string>Cdotaccent</string>
+    <string>cdotaccent</string>
+    <string>dcroat</string>
+    <string>Emacron</string>
+    <string>emacron</string>
+    <string>Ebreve</string>
+    <string>ebreve</string>
+    <string>Edotaccent</string>
+    <string>edotaccent</string>
+    <string>Gcircumflex</string>
+    <string>gcircumflex</string>
+    <string>Gbreve</string>
+    <string>Gdotaccent</string>
+    <string>gdotaccent</string>
+    <string>Nacute</string>
+    <string>nacute</string>
+    <string>Ncaron</string>
+    <string>ncaron</string>
+    <string>Omacron</string>
+    <string>omacron</string>
+    <string>Obreve</string>
+    <string>obreve</string>
+    <string>Racute</string>
+    <string>racute</string>
+    <string>Sacute</string>
+    <string>sacute</string>
+    <string>Scircumflex</string>
+    <string>scircumflex</string>
+    <string>Scedilla</string>
+    <string>scedilla</string>
+    <string>Utilde</string>
+    <string>utilde</string>
+    <string>Umacron</string>
+    <string>umacron</string>
+    <string>Ubreve</string>
+    <string>ubreve</string>
+    <string>Uring</string>
+    <string>uring</string>
+    <string>Ycircumflex</string>
+    <string>ycircumflex</string>
+    <string>Wcircumflex</string>
+    <string>wcircumflex</string>
+    <string>dotlessi</string>
+    <string>versicle</string>
+    <string>response</string>
+    <string>Wgrave</string>
+    <string>Wacute</string>
+    <string>wacute</string>
+    <string>Wdieresis</string>
+    <string>wdieresis</string>
+    <string>perthousand</string>
+    <string>dagger</string>
+    <string>daggerdbl</string>
+    <string>Eth</string>
+    <string>Dcroat</string>
+    <string>gbreve</string>
+    <string>wgrave</string>
+    <string>Ccircumflex</string>
+    <string>longs</string>
+    <string>f_f_i</string>
+    <string>imacron</string>
+    <string>Imacron</string>
+    <string>itilde</string>
+    <string>Itilde</string>
   </array>
 </dict>
 </plist>
