@@ -4,25 +4,25 @@
   <unicode hex="FB04"/>
   <outline>
     <contour>
-      <point x="855" y="35" type="line" smooth="yes"/>
-      <point x="810" y="35"/>
-      <point x="805" y="40"/>
-      <point x="805" y="85" type="curve" smooth="yes"/>
-      <point x="805" y="680" type="line"/>
-      <point x="615" y="680" type="line"/>
-      <point x="615" y="645" type="line"/>
-      <point x="665" y="645" type="line" smooth="yes"/>
-      <point x="710" y="645"/>
-      <point x="715" y="640"/>
-      <point x="715" y="595" type="curve" smooth="yes"/>
-      <point x="715" y="85" type="line" smooth="yes"/>
-      <point x="715" y="40"/>
-      <point x="710" y="35"/>
-      <point x="665" y="35" type="curve" smooth="yes"/>
-      <point x="635" y="35" type="line"/>
-      <point x="635" y="0" type="line"/>
-      <point x="885" y="0" type="line"/>
-      <point x="885" y="35" type="line"/>
+      <point x="842" y="35" type="line" smooth="yes"/>
+      <point x="797" y="35"/>
+      <point x="792" y="40"/>
+      <point x="792" y="85" type="curve" smooth="yes"/>
+      <point x="792" y="680" type="line"/>
+      <point x="602" y="680" type="line"/>
+      <point x="602" y="645" type="line"/>
+      <point x="652" y="645" type="line" smooth="yes"/>
+      <point x="697" y="645"/>
+      <point x="702" y="640"/>
+      <point x="702" y="595" type="curve" smooth="yes"/>
+      <point x="702" y="85" type="line" smooth="yes"/>
+      <point x="702" y="40"/>
+      <point x="697" y="35"/>
+      <point x="652" y="35" type="curve" smooth="yes"/>
+      <point x="622" y="35" type="line"/>
+      <point x="622" y="0" type="line"/>
+      <point x="872" y="0" type="line"/>
+      <point x="872" y="35" type="line"/>
     </contour>
     <contour>
       <point x="671" y="590" type="curve" smooth="yes"/>
@@ -118,14 +118,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>12512659ea4bc9bbab746aab8c8170d8c9a7ff68de2d90dcb40e1af86c2de87733e85ccfec9b6935acb24d5e5767877e7b7a568d1d350da7ec08af94005f19c2</string>
+    <string>5d784a8e5bd24832a5b72ad66c66001f1e87311d8914fd4ff1c2529079079cc98321d179d9ffbca020e4151b121e37cb08ca3fcfc9bebe6d622b0a3278278285</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 0 35</string>
-          <string>vstem 591 214</string>
+          <string>vstem 591 201</string>
           <string>hstem 527 153</string>
           <string>hstem 415 35</string>
           <string>hstem 681 29</string>
@@ -137,7 +137,7 @@
         <key>stems</key>
         <array>
           <string>hstem 645 35</string>
-          <string>vstem 715 90</string>
+          <string>vstem 702 90</string>
           <string>hstem 0 35</string>
           <string>vstem 561 110</string>
           <string>hstem 681 29</string>
@@ -146,12 +146,12 @@
           <string>vstem 370 90</string>
         </array>
         <key>pointTag</key>
-        <string>._.105554095480000</string>
+        <string>._.105554294921712</string>
       </dict>
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 591 214</string>
+          <string>vstem 591 201</string>
           <string>hstem 0 35</string>
           <string>hstem 415 35</string>
           <string>hstem 527 153</string>
@@ -172,7 +172,7 @@
           <string>vstem 99 90</string>
           <string>hstem 681 29</string>
           <string>hstem 0 35</string>
-          <string>vstem 715 90</string>
+          <string>vstem 702 90</string>
         </array>
         <key>pointTag</key>
         <string>hr03</string>
@@ -187,10 +187,10 @@
           <string>hstem 681 29</string>
           <string>vstem 99 90</string>
           <string>vstem 561 110</string>
-          <string>vstem 715 90</string>
+          <string>vstem 702 90</string>
         </array>
         <key>pointTag</key>
-        <string>._.105554095478640</string>
+        <string>._.105554294920352</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -202,10 +202,10 @@
           <string>hstem 681 29</string>
           <string>vstem 99 90</string>
           <string>vstem 561 110</string>
-          <string>vstem 715 90</string>
+          <string>vstem 702 90</string>
         </array>
         <key>pointTag</key>
-        <string>._.105554095478880</string>
+        <string>._.105554294920592</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -217,7 +217,7 @@
           <string>hstem 681 29</string>
           <string>vstem 99 90</string>
           <string>vstem 561 110</string>
-          <string>vstem 715 90</string>
+          <string>vstem 702 90</string>
         </array>
         <key>pointTag</key>
         <string>rsb</string>

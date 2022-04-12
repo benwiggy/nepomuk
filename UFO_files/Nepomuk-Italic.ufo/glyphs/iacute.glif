@@ -7,4 +7,10 @@
     <component base="dotlessi"/>
     <component base="acute" xOffset="-2" yOffset="6"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+acute</string>
+  </dict>
+  </lib>
 </glyph>

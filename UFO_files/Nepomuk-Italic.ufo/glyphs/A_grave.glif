@@ -7,4 +7,10 @@
     <component base="A"/>
     <component base="grave" xOffset="250" yOffset="209"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A+grave</string>
+  </dict>
+  </lib>
 </glyph>

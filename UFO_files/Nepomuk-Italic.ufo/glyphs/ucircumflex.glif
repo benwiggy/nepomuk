@@ -7,4 +7,10 @@
     <component base="u"/>
     <component base="circumflex" xOffset="52" yOffset="-15"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>u+circumflex</string>
+  </dict>
+  </lib>
 </glyph>

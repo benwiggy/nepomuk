@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aacute" format="2">
+  <advance width="515"/>
+  <unicode hex="00E1"/>
+  <anchor x="245" y="530" name="t.asciicircum_1"/>
+  <anchor x="245" y="530" name="t.dieresis"/>
+  <outline>
+    <component base="a"/>
+    <component base="acute" xOffset="139"/>
+  </outline>
+</glyph>

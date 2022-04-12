@@ -224,8 +224,14 @@
   <string>W_.glif</string>
   <key>W.alt</key>
   <string>W_.alt.glif</string>
+  <key>Wacute</key>
+  <string>W_acute.glif</string>
   <key>Wcircumflex</key>
   <string>W_circumflex.glif</string>
+  <key>Wdieresis</key>
+  <string>W_dieresis.glif</string>
+  <key>Wgrave</key>
+  <string>W_grave.glif</string>
   <key>X</key>
   <string>X_.glif</string>
   <key>X.alt</key>
@@ -768,8 +774,14 @@
   <string>versicle.glif</string>
   <key>w</key>
   <string>w.glif</string>
+  <key>wacute</key>
+  <string>wacute.glif</string>
   <key>wcircumflex</key>
   <string>wcircumflex.glif</string>
+  <key>wdieresis</key>
+  <string>wdieresis.glif</string>
+  <key>wgrave</key>
+  <string>wgrave.glif</string>
   <key>x</key>
   <string>x.glif</string>
   <key>y</key>

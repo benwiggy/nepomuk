@@ -5,28 +5,12 @@
   <anchor x="284" y="530" name="t.asciicircum_1"/>
   <outline>
     <contour>
-      <point x="193" y="358" type="curve"/>
-      <point x="208" y="358" type="line"/>
-      <point x="198" y="358" type="line"/>
-      <point x="213" y="358" type="line"/>
-      <point x="213" y="450" type="line"/>
-      <point x="23" y="450" type="line"/>
-      <point x="23" y="415" type="line"/>
-      <point x="68" y="415" type="line" smooth="yes"/>
-      <point x="99" y="415"/>
-      <point x="103" y="410"/>
-      <point x="103" y="365" type="curve" smooth="yes"/>
-      <point x="103" y="85" type="line" smooth="yes"/>
-      <point x="103" y="45"/>
-      <point x="96" y="35"/>
-      <point x="68" y="35" type="curve" smooth="yes"/>
-      <point x="33" y="35" type="line"/>
       <point x="33" y="0" type="line"/>
       <point x="278" y="0" type="line"/>
       <point x="278" y="35" type="line"/>
       <point x="253" y="35" type="line" smooth="yes"/>
       <point x="222" y="35"/>
-      <point x="218" y="40" name="hr01"/>
+      <point x="218" y="40"/>
       <point x="218" y="85" type="curve" smooth="yes"/>
       <point x="218" y="236" type="line" smooth="yes"/>
       <point x="218" y="296"/>
@@ -51,8 +35,21 @@
       <point x="504" y="383"/>
       <point x="456" y="462"/>
       <point x="350" y="462" type="curve" smooth="yes"/>
-      <point x="270" y="462"/>
-      <point x="219" y="416"/>
+      <point x="287" y="462"/>
+      <point x="242" y="433"/>
+      <point x="213" y="393" type="curve" name="hr01"/>
+      <point x="213" y="450" type="line"/>
+      <point x="23" y="450" type="line"/>
+      <point x="23" y="415" type="line"/>
+      <point x="68" y="415" type="line" smooth="yes"/>
+      <point x="99" y="415"/>
+      <point x="103" y="410"/>
+      <point x="103" y="365" type="curve" smooth="yes"/>
+      <point x="103" y="85" type="line" smooth="yes"/>
+      <point x="103" y="45"/>
+      <point x="96" y="35"/>
+      <point x="68" y="35" type="curve" smooth="yes"/>
+      <point x="33" y="35" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -62,9 +59,18 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>c094bdc1a2b6e0060078374ba21d2b89384d81f747cc4759f8c94ed490b27c195bddc308551e41b405a1d0df8e1f0bbcccc9a142b8c1bd272f1e44a7ec279dc7</string>
+    <string>00b6607f6808c969f884c2640ff80adaa8a884bf7607799004cdd51acb9bb9844feb97277517de03b8cf302fa30f1f9f501c2d0200e34ab27c225bbf610a6fa1</string>
     <key>hintSetList</key>
     <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 35</string>
+          <string>vstem 103 115</string>
+          <string>hstem 418 44</string>
+          <string>vstem 384 120</string>
+        </array>
+      </dict>
       <dict>
         <key>stems</key>
         <array>
@@ -72,15 +78,6 @@
           <string>hstem 415 35</string>
           <string>hstem 0 35</string>
           <string>vstem 384 120</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 103 115</string>
-          <string>hstem 418 44</string>
-          <string>vstem 384 120</string>
-          <string>hstem 0 35</string>
         </array>
         <key>pointTag</key>
         <string>hr01</string>

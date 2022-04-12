@@ -191,23 +191,8 @@
     <string>multiply</string>
     <string>Oslash</string>
     <string>germandbls</string>
-    <string>agrave</string>
-    <string>aacute</string>
-    <string>acircumflex</string>
-    <string>atilde</string>
-    <string>adieresis</string>
-    <string>aring</string>
     <string>ae</string>
     <string>ccedilla</string>
-    <string>egrave</string>
-    <string>eacute</string>
-    <string>ecircumflex</string>
-    <string>edieresis</string>
-    <string>igrave</string>
-    <string>iacute</string>
-    <string>icircumflex</string>
-    <string>idieresis</string>
-    <string>ntilde</string>
     <string>ograve</string>
     <string>oacute</string>
     <string>ocircumflex</string>
@@ -215,11 +200,6 @@
     <string>odieresis</string>
     <string>divide</string>
     <string>oslash</string>
-    <string>ugrave</string>
-    <string>uacute</string>
-    <string>ucircumflex</string>
-    <string>udieresis</string>
-    <string>yacute</string>
     <string>ydieresis</string>
     <string>Idotaccent</string>
     <string>dotlessi</string>
@@ -405,6 +385,29 @@
     <string>f_f_l</string>
     <string>longs</string>
     <string>florin</string>
+    <string>one.alt</string>
+    <string>versicle</string>
+    <string>response</string>
+    <string>agrave</string>
+    <string>aacute</string>
+    <string>acircumflex</string>
+    <string>atilde</string>
+    <string>adieresis</string>
+    <string>aring</string>
+    <string>egrave</string>
+    <string>eacute</string>
+    <string>ecircumflex</string>
+    <string>edieresis</string>
+    <string>igrave</string>
+    <string>iacute</string>
+    <string>icircumflex</string>
+    <string>idieresis</string>
+    <string>ntilde</string>
+    <string>ugrave</string>
+    <string>uacute</string>
+    <string>ucircumflex</string>
+    <string>udieresis</string>
+    <string>yacute</string>
   </array>
 </dict>
 </plist>

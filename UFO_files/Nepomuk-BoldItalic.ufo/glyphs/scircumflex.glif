@@ -5,6 +5,6 @@
   <anchor x="265" y="488" name="t.asciicircum_1"/>
   <outline>
     <component base="s"/>
-    <component base="circumflex" xOffset="21" yOffset="-42"/>
+    <component base="circumflex" xOffset="21" yOffset="-32"/>
   </outline>
 </glyph>

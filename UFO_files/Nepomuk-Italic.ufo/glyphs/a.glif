@@ -5,8 +5,7 @@
   <anchor x="277" y="515" name="accent1"/>
   <outline>
     <contour>
-      <point x="270" y="79" type="curve"/>
-      <point x="277" y="79" type="line"/>
+      <point x="277" y="79" type="curve"/>
       <point x="277" y="24"/>
       <point x="295" y="-8"/>
       <point x="344" y="-8" type="curve" smooth="yes"/>
@@ -25,9 +24,8 @@
       <point x="377" y="142" type="curve" smooth="yes"/>
       <point x="477" y="450" type="line"/>
       <point x="387" y="450" type="line"/>
-      <point x="366" y="384" type="line"/>
-      <point x="358" y="384" type="line"/>
-      <point x="349" y="432"/>
+      <point x="362" y="373" type="line"/>
+      <point x="353" y="421"/>
       <point x="325" y="462"/>
       <point x="275" y="462" type="curve" smooth="yes"/>
       <point x="185" y="462"/>
@@ -40,7 +38,7 @@
       <point x="58" y="-12" name="hr01"/>
       <point x="132" y="-12" type="curve" smooth="yes"/>
       <point x="180" y="-12"/>
-      <point x="232" y="26"/>
+      <point x="239" y="26"/>
     </contour>
     <contour>
       <point x="287" y="424" type="curve" smooth="yes"/>
@@ -71,7 +69,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>a0068dc281284477fd35885a053cc723bf7afc69cd6553d2c7fbab14f4b1024fa0795589dc239a93448fee4c289272d7b286e59755a2a7ae596ae68e23d228c4</string>
+    <string>e2d36f5f75913c78069cac1ee9024b6ce981c20c7ac51db36141a48a07c85c83f87a6abed86b6918684a04dffd79442df2d0138aa3b78ef58bcbd31d549dbeb1</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -87,9 +85,9 @@
         <key>stems</key>
         <array>
           <string>hstem -12 45</string>
+          <string>vstem 277 77</string>
           <string>hstem 424 38</string>
           <string>vstem 30 82</string>
-          <string>vstem 277 77</string>
         </array>
         <key>pointTag</key>
         <string>hr01</string>

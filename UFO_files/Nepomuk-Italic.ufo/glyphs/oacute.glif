@@ -7,4 +7,10 @@
     <component base="o"/>
     <component base="acute" xOffset="88" yOffset="6"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>o+acute</string>
+  </dict>
+  </lib>
 </glyph>

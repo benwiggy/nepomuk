@@ -45,6 +45,7 @@ feature cv00 {
 
 
 
+
 feature liga {
 # GSUB feature: Standard Ligatures
 # Lookups: 1
@@ -59,6 +60,7 @@ feature liga {
   sub dollar s by uni266F;
 
 } liga;
+
 
 
 
@@ -167,6 +169,7 @@ feature mark {
 
 
 } mark;
+
 
 
 

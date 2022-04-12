@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wacute" format="2">
+  <advance width="744"/>
+  <unicode hex="1E83"/>
+  <anchor x="435" y="488" name="t.asciicircum_1"/>
+  <outline>
+    <component base="w"/>
+    <component base="acute" xOffset="347" yOffset="-2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>w+acute</string>
+  </dict>
+  </lib>
+</glyph>

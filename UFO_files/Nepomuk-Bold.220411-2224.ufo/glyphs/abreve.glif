@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="abreve" format="2">
+  <advance width="547"/>
+  <unicode hex="0103"/>
+  <anchor x="261" y="530" name="t.asciicircum_1"/>
+  <anchor x="261" y="530" name="t.dieresis"/>
+  <outline>
+    <component base="a"/>
+    <component base="breve" xOffset="149"/>
+  </outline>
+</glyph>

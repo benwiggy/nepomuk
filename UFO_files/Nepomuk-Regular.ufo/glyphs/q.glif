@@ -4,7 +4,7 @@
   <unicode hex="0071"/>
   <outline>
     <contour>
-      <point x="343" y="82" type="line" name="hr02"/>
+      <point x="343" y="82" type="curve"/>
       <point x="343" y="-145" type="line" smooth="yes"/>
       <point x="343" y="-190"/>
       <point x="338" y="-195" name="hr01"/>
@@ -20,7 +20,12 @@
       <point x="428" y="462" type="line"/>
       <point x="403" y="462" type="line"/>
       <point x="353" y="365" type="line"/>
-      <point x="346" y="365" type="line"/>
+      <point x="353" y="365"/>
+      <point x="352" y="362"/>
+      <point x="349" y="362" type="curve" smooth="yes"/>
+      <point x="347" y="362"/>
+      <point x="346" y="365"/>
+      <point x="346" y="365" type="curve"/>
       <point x="318" y="423"/>
       <point x="283" y="462"/>
       <point x="218" y="462" type="curve" smooth="yes"/>
@@ -33,6 +38,11 @@
       <point x="255" y="-12"/>
       <point x="304" y="19"/>
       <point x="335" y="82" type="curve"/>
+      <point x="335" y="82"/>
+      <point x="336" y="84"/>
+      <point x="339" y="84" type="curve" smooth="yes"/>
+      <point x="343" y="84" name="hr02"/>
+      <point x="343" y="82"/>
     </contour>
     <contour>
       <point x="144" y="225" type="curve" smooth="yes"/>
@@ -40,7 +50,7 @@
       <point x="183" y="431"/>
       <point x="230" y="431" type="curve" smooth="yes"/>
       <point x="283" y="431"/>
-      <point x="338" y="371" name="hr03"/>
+      <point x="338" y="371"/>
       <point x="338" y="225" type="curve" smooth="yes"/>
       <point x="338" y="121"/>
       <point x="289" y="21"/>
@@ -56,7 +66,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f0ec9cc77e93f730d5b8cd5ca86ba875dd74891afa342efe69181089810c25bbafa0c880e28c22312f3c573ca2b5b262a220dd137fedb3bd6c8323cf60a45718</string>
+    <string>eaf0fbf2bea78730f05706e73043fad42a60490921ea6e2c0f08007ff094aceb0982b0cd4aee4530ea0ca3bd44bfbd52ec8d26b0bd0b6f544a77b2ed6045900a</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -103,7 +113,7 @@
           <string>hstem 431 31</string>
         </array>
         <key>pointTag</key>
-        <string>hr03</string>
+        <string>._.105554295608640</string>
       </dict>
     </array>
   </dict>

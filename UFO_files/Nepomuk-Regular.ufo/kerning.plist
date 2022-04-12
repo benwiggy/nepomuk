@@ -19,6 +19,8 @@
   </dict>
   <key>D</key>
   <dict>
+    <key>public.kern2.krA</key>
+    <integer>-58</integer>
     <key>public.kern2.krpunct1</key>
     <integer>-64</integer>
   </dict>

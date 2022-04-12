@@ -7,4 +7,10 @@
     <component base="n"/>
     <component base="caron" xOffset="78" yOffset="7"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>n+caron</string>
+  </dict>
+  </lib>
 </glyph>

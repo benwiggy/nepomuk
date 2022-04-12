@@ -7,4 +7,10 @@
     <component base="a"/>
     <component base="macron" xOffset="-71" yOffset="23"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>a+macron</string>
+  </dict>
+  </lib>
 </glyph>

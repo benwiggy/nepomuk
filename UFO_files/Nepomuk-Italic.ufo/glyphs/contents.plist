@@ -94,6 +94,8 @@
   <string>I_tilde.glif</string>
   <key>J</key>
   <string>J_.glif</string>
+  <key>Jcircumflex</key>
+  <string>J_circumflex.glif</string>
   <key>K</key>
   <string>K_.glif</string>
   <key>L</key>
@@ -176,6 +178,8 @@
   <string>W_.glif</string>
   <key>Wacute</key>
   <string>W_acute.glif</string>
+  <key>Wcircumflex</key>
+  <string>W_circumflex.glif</string>
   <key>Wdieresis</key>
   <string>W_dieresis.glif</string>
   <key>Wgrave</key>
@@ -304,6 +308,8 @@
   <string>dotaccent.glif</string>
   <key>dotlessi</key>
   <string>dotlessi.glif</string>
+  <key>dotlessj</key>
+  <string>dotlessj.glif</string>
   <key>e</key>
   <string>e.glif</string>
   <key>eacute</key>
@@ -402,6 +408,8 @@
   <string>itilde.glif</string>
   <key>j</key>
   <string>j.glif</string>
+  <key>jcircumflex</key>
+  <string>jcircumflex.glif</string>
   <key>k</key>
   <string>k.glif</string>
   <key>l</key>
@@ -462,6 +470,8 @@
   <string>omacron.glif</string>
   <key>one</key>
   <string>one.glif</string>
+  <key>one.alt</key>
+  <string>one.alt.glif</string>
   <key>onehalf</key>
   <string>onehalf.glif</string>
   <key>onequarter</key>
@@ -642,6 +652,8 @@
   <string>w.glif</string>
   <key>wacute</key>
   <string>wacute.glif</string>
+  <key>wcircumflex</key>
+  <string>wcircumflex.glif</string>
   <key>wdieresis</key>
   <string>wdieresis.glif</string>
   <key>wgrave</key>

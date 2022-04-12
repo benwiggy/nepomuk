@@ -159,6 +159,13 @@
     <key>public.kern2.kro</key>
     <integer>-48</integer>
   </dict>
+  <key>g</key>
+  <dict>
+    <key>j</key>
+    <integer>48</integer>
+    <key>public.kern2.krf2</key>
+    <integer>60</integer>
+  </dict>
   <key>n</key>
   <dict>
     <key>quoteright</key>

@@ -7,4 +7,10 @@
     <component base="u"/>
     <component base="dieresis" xOffset="-50" yOffset="-19"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>u+dieresis</string>
+  </dict>
+  </lib>
 </glyph>

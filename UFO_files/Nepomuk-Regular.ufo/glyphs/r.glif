@@ -4,8 +4,7 @@
   <unicode hex="0072"/>
   <outline>
     <contour>
-      <point x="193" y="359" type="curve"/>
-      <point x="182" y="359" type="line"/>
+      <point x="182" y="350" type="curve"/>
       <point x="182" y="450" type="line"/>
       <point x="22" y="450" type="line"/>
       <point x="22" y="415" type="line"/>
@@ -42,7 +41,7 @@
       <point x="347" y="462"/>
       <point x="309" y="462" type="curve" smooth="yes"/>
       <point x="262" y="462"/>
-      <point x="220" y="416"/>
+      <point x="209" y="407"/>
     </contour>
   </outline>
   <lib>
@@ -52,7 +51,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>d375f1eb2ca9e2ed6ae5dcaeb8814788e532257ba491dc066dd623a5f9d43366f5c174a858e037f44ce21cecba04b6d8bdfe137209482a32eb80a95ce12e3274</string>
+    <string>160e11049217d4c6ee762a871c8c0cbbe2c547d1b3942313be7b40d0ff929e6d25a44503a601e360a6434423b2a1b57b4c74bd9d203db78fbf41daee623a8b5a</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -81,7 +80,7 @@
           <string>hstem 332 130</string>
         </array>
         <key>pointTag</key>
-        <string>._.105554095892320</string>
+        <string>._.105554295610640</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -92,6 +91,16 @@
         </array>
         <key>pointTag</key>
         <string>hr03</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 22 160</string>
+          <string>hstem 0 35</string>
+          <string>hstem 332 130</string>
+        </array>
+        <key>pointTag</key>
+        <string>lsb</string>
       </dict>
     </array>
   </dict>

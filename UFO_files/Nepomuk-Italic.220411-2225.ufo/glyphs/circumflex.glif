@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex" format="2">
+  <advance width="313"/>
+  <unicode hex="02C6"/>
+  <anchor x="247" y="530" name="_accent1"/>
+  <outline>
+    <contour>
+      <point x="213" y="702" type="line"/>
+      <point x="189" y="655"/>
+      <point x="130" y="582"/>
+      <point x="90" y="545" type="curve"/>
+      <point x="98" y="523" type="line"/>
+      <point x="133" y="544"/>
+      <point x="197" y="589"/>
+      <point x="244" y="628" type="curve"/>
+      <point x="290" y="589"/>
+      <point x="354" y="544"/>
+      <point x="389" y="523" type="curve"/>
+      <point x="397" y="545" type="line"/>
+      <point x="357" y="582"/>
+      <point x="298" y="655"/>
+      <point x="274" y="702" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w313m213,702c189,655 130,582 90,545l98,523c133,544 197,589 244,628c290,589 354,544 389,523l397,545c357,582 298,655 274,702</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 702 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

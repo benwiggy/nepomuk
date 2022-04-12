@@ -27,10 +27,9 @@
       <point x="584.64" y="127"/>
       <point x="579.59" y="172" type="curve" smooth="yes"/>
       <point x="570.5" y="252"/>
-      <point x="515.96" y="334"/>
-      <point x="436.17" y="357" type="curve"/>
-      <point x="436.17" y="365" type="line"/>
-      <point x="536.16" y="379"/>
+      <point x="507.88" y="338"/>
+      <point x="428.09" y="361" type="curve"/>
+      <point x="528.08" y="375"/>
       <point x="590.7" y="441"/>
       <point x="590.7" y="520" type="curve" smooth="yes"/>
       <point x="590.7" y="619"/>
@@ -76,7 +75,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>6ba21eaf3e2c6dd616fd83989ac07c3b7dd91b0ccb04b2b73255823e1845ac4b166c672b48fd8a31e0f370e2829f343d80065ea956f67dfa181f95797d009a21</string>
+    <string>41d5dceac26577c9b833c15ddbf5c5ab440e0b2a9b4f4833045700517982cc2fcd9604d0869139e33de0a1feb1d14021974013a1b874d9ae4c0027019125a197</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -127,7 +126,7 @@
           <string>hstem 348 36</string>
         </array>
         <key>pointTag</key>
-        <string>._.105554096413808</string>
+        <string>._.105554230650320</string>
       </dict>
       <dict>
         <key>stems</key>

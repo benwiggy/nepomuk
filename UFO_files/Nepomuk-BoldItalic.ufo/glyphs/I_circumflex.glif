@@ -1,56 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Icircumflex" format="2">
-  <advance width="393"/>
+  <advance width="400"/>
   <unicode hex="00CE"/>
+  <anchor x="326" y="714" name="t.asciicircum_1"/>
   <outline>
-    <contour>
-      <point x="298" y="876" type="line"/>
-      <point x="270" y="834"/>
-      <point x="208" y="759"/>
-      <point x="175" y="730" type="curve"/>
-      <point x="185" y="703" type="line"/>
-      <point x="225" y="727"/>
-      <point x="284" y="768"/>
-      <point x="329" y="802" type="curve"/>
-      <point x="361" y="764"/>
-      <point x="397" y="729"/>
-      <point x="426" y="700" type="curve"/>
-      <point x="460" y="712" type="line"/>
-      <point x="435" y="750"/>
-      <point x="395" y="830"/>
-      <point x="378" y="876" type="curve"/>
-    </contour>
-    <contour>
-      <point x="361" y="595" type="line" smooth="yes"/>
-      <point x="371" y="630"/>
-      <point x="387" y="645"/>
-      <point x="415" y="645" type="curve" smooth="yes"/>
-      <point x="460" y="645" type="line"/>
-      <point x="470" y="680" type="line"/>
-      <point x="165" y="680" type="line"/>
-      <point x="155" y="645" type="line"/>
-      <point x="210" y="645" type="line" smooth="yes"/>
-      <point x="230" y="645"/>
-      <point x="239" y="636"/>
-      <point x="239" y="616" type="curve" smooth="yes"/>
-      <point x="239" y="609"/>
-      <point x="238" y="602"/>
-      <point x="236" y="595" type="curve" smooth="yes"/>
-      <point x="89" y="85" type="line" smooth="yes"/>
-      <point x="79" y="50"/>
-      <point x="63" y="35"/>
-      <point x="35" y="35" type="curve" smooth="yes"/>
-      <point x="-10" y="35" type="line"/>
-      <point x="-20" y="0" type="line"/>
-      <point x="285" y="0" type="line"/>
-      <point x="295" y="35" type="line"/>
-      <point x="240" y="35" type="line" smooth="yes"/>
-      <point x="221" y="35"/>
-      <point x="212" y="44"/>
-      <point x="212" y="63" type="curve" smooth="yes"/>
-      <point x="212" y="70"/>
-      <point x="213" y="78"/>
-      <point x="215" y="85" type="curve" smooth="yes"/>
-    </contour>
+    <component base="I"/>
+    <component base="circumflex" xOffset="82" yOffset="194"/>
   </outline>
 </glyph>

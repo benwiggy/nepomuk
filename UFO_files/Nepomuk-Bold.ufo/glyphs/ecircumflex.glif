@@ -2,85 +2,10 @@
 <glyph name="ecircumflex" format="2">
   <advance width="499"/>
   <unicode hex="00EA"/>
+  <anchor x="260" y="530" name="t.asciicircum_1"/>
+  <anchor x="260" y="530" name="t.dieresis"/>
   <outline>
-    <contour>
-      <point x="217" y="702" type="line"/>
-      <point x="192" y="652"/>
-      <point x="133" y="578"/>
-      <point x="95" y="542" type="curve"/>
-      <point x="106" y="512" type="line"/>
-      <point x="151" y="540"/>
-      <point x="218" y="584"/>
-      <point x="262" y="619" type="curve"/>
-      <point x="305" y="584"/>
-      <point x="372" y="540"/>
-      <point x="417" y="512" type="curve"/>
-      <point x="428" y="542" type="line"/>
-      <point x="390" y="578"/>
-      <point x="331" y="652"/>
-      <point x="306" y="702" type="curve"/>
-    </contour>
-    <contour>
-      <point x="171" y="237" type="line"/>
-      <point x="156" y="237" type="line"/>
-      <point x="463" y="237" type="line"/>
-      <point x="463" y="251" type="line" smooth="yes"/>
-      <point x="463" y="351"/>
-      <point x="401" y="462"/>
-      <point x="260" y="462" type="curve" smooth="yes"/>
-      <point x="121" y="462"/>
-      <point x="33" y="355"/>
-      <point x="33" y="225" type="curve" smooth="yes"/>
-      <point x="33" y="95"/>
-      <point x="120" y="-12"/>
-      <point x="251" y="-12" type="curve" smooth="yes"/>
-      <point x="345" y="-12"/>
-      <point x="430" y="43"/>
-      <point x="458" y="130" type="curve"/>
-      <point x="399" y="150" type="line"/>
-      <point x="371" y="66"/>
-      <point x="315" y="25"/>
-      <point x="269" y="25" type="curve" smooth="yes"/>
-      <point x="218" y="25"/>
-      <point x="171" y="75"/>
-      <point x="171" y="224" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="329" y="315" type="curve" smooth="yes"/>
-      <point x="329" y="275"/>
-      <point x="319" y="267"/>
-      <point x="296" y="267" type="curve" smooth="yes"/>
-      <point x="171" y="267" type="line"/>
-      <point x="181" y="380"/>
-      <point x="214" y="436"/>
-      <point x="258" y="436" type="curve" smooth="yes"/>
-      <point x="302" y="436"/>
-      <point x="329" y="380"/>
-    </contour>
+    <component base="e"/>
+    <component base="circumflex" xOffset="106"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>c50dbeb3b67e263841459509d80afbe45512d61d9ebef627bc4ed7c77e40943ac6233d5621562d096aab4d885cf80ed3801261e0be5fe861c549cfe9c72f0bff</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -12 37</string>
-          <string>hstem 237 30</string>
-          <string>hstem 436 26</string>
-          <string>hstem 702 -20</string>
-          <string>vstem 33 138</string>
-          <string>vstem 329 134</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

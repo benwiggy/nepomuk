@@ -2,9 +2,15 @@
 <glyph name="ntilde" format="2">
   <advance width="544"/>
   <unicode hex="00F1"/>
-  <anchor x="319" y="513" name="accent1"/>
+  <anchor x="299" y="513" name="accent1"/>
   <outline>
     <component base="n"/>
-    <component base="tilde" xOffset="63" yOffset="-167"/>
+    <component base="tilde" xOffset="43" yOffset="-167"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>n+tilde</string>
+  </dict>
+  </lib>
 </glyph>

@@ -517,6 +517,12 @@
     <string>wacute</string>
     <string>Wdieresis</string>
     <string>wdieresis</string>
+    <string>Wcircumflex</string>
+    <string>wcircumflex</string>
+    <string>one.alt</string>
+    <string>dotlessj</string>
+    <string>jcircumflex</string>
+    <string>Jcircumflex</string>
   </array>
 </dict>
 </plist>

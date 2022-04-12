@@ -24,10 +24,9 @@
       <point x="463" y="-102"/>
       <point x="416" y="-63"/>
       <point x="359" y="-12" type="curve"/>
-      <point x="349" y="-12" type="line"/>
       <point x="541" y="-12"/>
       <point x="649" y="146"/>
-      <point x="649" y="340" type="curve" smooth="yes"/>
+      <point x="649" y="340" type="curve"/>
       <point x="649" y="535"/>
       <point x="541" y="692"/>
       <point x="349" y="692" type="curve" smooth="yes"/>
@@ -35,10 +34,9 @@
       <point x="48" y="535"/>
       <point x="48" y="342" type="curve" smooth="yes"/>
       <point x="48" y="207"/>
-      <point x="102" y="89"/>
-      <point x="199" y="27" type="curve"/>
-      <point x="205" y="27" type="line"/>
-      <point x="134" y="8"/>
+      <point x="104" y="86"/>
+      <point x="202" y="26" type="curve"/>
+      <point x="131" y="7"/>
       <point x="97" y="-52"/>
       <point x="66" y="-112" type="curve"/>
     </contour>
@@ -64,7 +62,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>0b6cec41a829678e6d1e989191b233a4bdc61ee3723dfd33f88b39497380f04cadaaa0bf23e9939ad4cf976b6039725327b9bfd5c62814727f3a5e1a057d6540</string>
+    <string>f8eef73aff387a28f192f63ee831783af802edefdab1ed1ceda94d66d25bbb91bfbed7bfd37f8a1ea5ff51ed18f36ca6fa492ffba3325c3c5b52a74be9bb6cda</string>
     <key>hintSetList</key>
     <array>
       <dict>

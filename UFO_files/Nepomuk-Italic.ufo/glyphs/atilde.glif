@@ -7,4 +7,10 @@
     <component base="a"/>
     <component base="tilde" xOffset="21" yOffset="-165"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>a+tilde</string>
+  </dict>
+  </lib>
 </glyph>

@@ -6,7 +6,12 @@
   <outline>
     <contour>
       <point x="365" y="96" type="curve"/>
-      <point x="374" y="96" type="line"/>
+      <point x="365" y="96"/>
+      <point x="366" y="99"/>
+      <point x="369" y="99" type="curve" smooth="yes"/>
+      <point x="374" y="99"/>
+      <point x="374" y="96"/>
+      <point x="374" y="96" type="curve"/>
       <point x="374" y="0" type="line"/>
       <point x="524" y="0" type="line"/>
       <point x="524" y="35" type="line"/>
@@ -50,7 +55,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>e43558c880dc3db3e3c2aa2b0fcb137c180245c574a26b4e6fe5b11a066814c4a5c0621f70d3d9de93c27127f2ae021303f010217680ad586d42229aa777004e</string>
+    <string>143276ea117822f2ec3781b6073656d7aa9a75babfe92c8e530e8dc448689ac47dbaff0c1032ac058d39f7d8247cde20fce46c692d175145895ff3b6afbd2934</string>
     <key>hintSetList</key>
     <array>
       <dict>

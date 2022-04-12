@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ntilde" format="2">
+  <advance width="555"/>
+  <unicode hex="00F1"/>
+  <anchor x="268" y="530" name="t.asciicircum_1"/>
+  <outline>
+    <component base="n"/>
+    <component base="tilde" xOffset="142" yOffset="-150"/>
+  </outline>
+</glyph>

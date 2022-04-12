@@ -2,7 +2,7 @@
 <glyph name="S" format="2">
   <advance width="641"/>
   <unicode hex="0053"/>
-  <anchor x="426" y="714" name="t.asciicircum_1"/>
+  <anchor x="426" y="724" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="56" y="0" type="line"/>
@@ -110,7 +110,7 @@
           <string>vstem 146 120</string>
         </array>
         <key>pointTag</key>
-        <string>._.105554227069248</string>
+        <string>._.105554096055600</string>
       </dict>
       <dict>
         <key>stems</key>

@@ -446,6 +446,8 @@
   <string>omacron.glif</string>
   <key>one</key>
   <string>one.glif</string>
+  <key>one.alt</key>
+  <string>one.alt.glif</string>
   <key>onehalf</key>
   <string>onehalf.glif</string>
   <key>onequarter</key>
@@ -612,8 +614,6 @@
   <string>uni001E_.glif</string>
   <key>uni001F</key>
   <string>uni001F_.glif</string>
-  <key>uni0080</key>
-  <string>uni0080.glif</string>
   <key>uring</key>
   <string>uring.glif</string>
   <key>utilde</key>
