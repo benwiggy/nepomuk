@@ -6,4 +6,12 @@
     <component base="S"/>
     <component base="cedilla" xOffset="209"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>S+cedilla</string>
+  </dict>
+  </lib>
 </glyph>

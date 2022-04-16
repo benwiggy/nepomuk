@@ -8,4 +8,12 @@
     <component base="dotlessi"/>
     <component base="grave" xOffset="44"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+grave</string>
+  </dict>
+  </lib>
 </glyph>

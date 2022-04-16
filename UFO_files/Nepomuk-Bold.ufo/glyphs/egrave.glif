@@ -8,4 +8,12 @@
     <component base="e"/>
     <component base="grave" xOffset="154"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e+grave</string>
+  </dict>
+  </lib>
 </glyph>

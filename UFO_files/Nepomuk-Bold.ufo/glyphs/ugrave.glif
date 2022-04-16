@@ -4,6 +4,14 @@
   <unicode hex="00F9"/>
   <outline>
     <component base="u"/>
-    <component base="grave" xOffset="186"/>
+    <component base="grave" xOffset="185.5"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>u+grave</string>
+  </dict>
+  </lib>
 </glyph>

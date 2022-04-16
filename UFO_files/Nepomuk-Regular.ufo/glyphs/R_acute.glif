@@ -6,4 +6,12 @@
     <component base="R"/>
     <component base="acute" xOffset="243" yOffset="230"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>R+acute</string>
+  </dict>
+  </lib>
 </glyph>

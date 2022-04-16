@@ -202,7 +202,7 @@
     <string>nonbreakinghyphen</string>
     <string>endash</string>
     <string>emdash</string>
-    <string>afii00208</string>
+    <string>horizontalbar</string>
     <string>quoteleft</string>
     <string>quoteright</string>
     <string>quotesinglbase</string>
@@ -440,13 +440,132 @@
     <string>f_f_l</string>
     <string>itilde</string>
     <string>Itilde</string>
-    <string>one.alt2</string>
     <string>Wgrave</string>
     <string>wgrave</string>
     <string>Wacute</string>
     <string>wacute</string>
     <string>Wdieresis</string>
     <string>wdieresis</string>
+    <string>Omega</string>
+    <string>uni0394</string>
+    <string>dollar.1</string>
+    <string>fl.1</string>
+    <string>a.smcp</string>
+    <string>b.smcp</string>
+    <string>c.smcp</string>
+    <string>d.smcp</string>
+    <string>e.smcp</string>
+    <string>f.smcp</string>
+    <string>g.smcp</string>
+    <string>h.smcp</string>
+    <string>i.smcp</string>
+    <string>j.smcp</string>
+    <string>k.smcp</string>
+    <string>l.smcp</string>
+    <string>m.smcp</string>
+    <string>n.smcp</string>
+    <string>o.smcp</string>
+    <string>p.smcp</string>
+    <string>q.smcp</string>
+    <string>r.smcp</string>
+    <string>s.smcp</string>
+    <string>t.smcp</string>
+    <string>u.smcp</string>
+    <string>v.smcp</string>
+    <string>w.smcp</string>
+    <string>x.smcp</string>
+    <string>y.smcp</string>
+    <string>z.smcp</string>
+    <string>dieresis.smcp</string>
+    <string>adieresis.smcp</string>
+    <string>acute.smcp</string>
+    <string>aacute.smcp</string>
+    <string>circumflex.smcp</string>
+    <string>caron.smcp</string>
+    <string>breve.smcp</string>
+    <string>dotaccent.smcp</string>
+    <string>ring.smcp</string>
+    <string>tilde.smcp</string>
+    <string>grave.c2sc</string>
+    <string>egrave.smcp</string>
+    <string>agrave.smcp</string>
+    <string>acircumflex.smcp</string>
+    <string>atilde.smcp</string>
+    <string>macron.smcp</string>
+    <string>amacron.smcp</string>
+    <string>abreve.smcp</string>
+    <string>eacute.smcp</string>
+    <string>ecircumflex.smcp</string>
+    <string>edieresis.smcp</string>
+    <string>igrave.smcp</string>
+    <string>iacute.smcp</string>
+    <string>icircumflex.smcp</string>
+    <string>ntilde.smcp</string>
+    <string>ograve.smcp</string>
+    <string>oacute.smcp</string>
+    <string>ocircumflex.smcp</string>
+    <string>otilde.smcp</string>
+    <string>odieresis.smcp</string>
+    <string>ugrave.smcp</string>
+    <string>uacute.smcp</string>
+    <string>ucircumflex.smcp</string>
+    <string>udieresis.smcp</string>
+    <string>yacute.smcp</string>
+    <string>cacute.smcp</string>
+    <string>cdotaccent.smcp</string>
+    <string>emacron.smcp</string>
+    <string>ebreve.smcp</string>
+    <string>edotaccent.smcp</string>
+    <string>itilde.smcp</string>
+    <string>imacron.smcp</string>
+    <string>nacute.smcp</string>
+    <string>omacron.smcp</string>
+    <string>obreve.smcp</string>
+    <string>racute.smcp</string>
+    <string>sacute.smcp</string>
+    <string>scircumflex.smcp</string>
+    <string>utilde.smcp</string>
+    <string>umacron.smcp</string>
+    <string>ubreve.smcp</string>
+    <string>wcircumflex.smcp</string>
+    <string>ycircumflex.smcp</string>
+    <string>ydieresis.smcp</string>
+    <string>ccircumflex.smcp</string>
+    <string>idieresis.smcp</string>
+    <string>ae.smcp</string>
+    <string>oslash.smcp</string>
+    <string>wgrave.smcp</string>
+    <string>wacute.smcp</string>
+    <string>wdieresis.smcp</string>
+    <string>gbreve.smcp</string>
+    <string>gdotaccent.smcp</string>
+    <string>jcircumflex.smcp</string>
+    <string>zacute.smcp</string>
+    <string>zdotaccent.smcp</string>
+    <string>eth.smcp</string>
+    <string>ringcomb</string>
+    <string>caroncomb</string>
+    <string>ringcomb.smcp</string>
+    <string>aring.smcp</string>
+    <string>caroncomb.smcp</string>
+    <string>ccaron.smcp</string>
+    <string>gcircumflex.smcp</string>
+    <string>scaron.smcp</string>
+    <string>rcaron.smcp</string>
+    <string>uring.smcp</string>
+    <string>zcaron.smcp</string>
+    <string>ecaron.smcp</string>
+    <string>grave.smcp</string>
+    <string>ncaron.smcp</string>
+    <string>thorn.smcp</string>
+    <string>cedillacomb</string>
+    <string>cedillacomb.smcp</string>
+    <string>ccedilla.smcp</string>
+    <string>oe.smcp</string>
+    <string>dcaron.smcp</string>
+    <string>Ygrave</string>
+    <string>ygrave</string>
+    <string>summation</string>
   </array>
 </dict>
 </plist>

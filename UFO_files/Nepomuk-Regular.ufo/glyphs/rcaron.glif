@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rcaron" format="2">
-  <advance width="366"/>
+  <advance width="384"/>
   <unicode hex="0159"/>
   <outline>
-    <component base="r" xOffset="-9"/>
-    <component base="caron" xOffset="30"/>
+    <component base="r"/>
+    <component base="caron" xOffset="39"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>r+caron</string>
+  </dict>
+  </lib>
 </glyph>

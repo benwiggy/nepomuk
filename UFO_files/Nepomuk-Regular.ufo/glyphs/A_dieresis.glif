@@ -8,4 +8,12 @@
     <component base="A"/>
     <component base="dieresis" xOffset="237" yOffset="220"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>A+dieresis</string>
+  </dict>
+  </lib>
 </glyph>

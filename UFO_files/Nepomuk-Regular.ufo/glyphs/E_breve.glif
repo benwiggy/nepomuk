@@ -8,4 +8,12 @@
     <component base="E"/>
     <component base="breve" xOffset="200" yOffset="230"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>E+breve</string>
+  </dict>
+  </lib>
 </glyph>

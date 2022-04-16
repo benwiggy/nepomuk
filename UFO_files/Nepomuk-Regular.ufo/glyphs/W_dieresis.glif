@@ -6,4 +6,12 @@
     <component base="W"/>
     <component base="dieresis" xOffset="333" yOffset="230"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>W+dieresis</string>
+  </dict>
+  </lib>
 </glyph>

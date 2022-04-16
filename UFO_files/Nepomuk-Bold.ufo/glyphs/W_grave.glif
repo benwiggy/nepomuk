@@ -6,4 +6,12 @@
     <component base="W"/>
     <component base="grave" xOffset="383" yOffset="230"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>W+grave</string>
+  </dict>
+  </lib>
 </glyph>

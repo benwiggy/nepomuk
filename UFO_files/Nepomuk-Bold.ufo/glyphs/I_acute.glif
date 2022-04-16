@@ -1,67 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iacute" format="2">
-  <advance width="430"/>
+  <advance width="425"/>
   <unicode hex="00CD"/>
   <outline>
-    <contour>
-      <point x="297" y="927" type="line"/>
-      <point x="279" y="880"/>
-      <point x="237" y="811"/>
-      <point x="205" y="772" type="curve"/>
-      <point x="216" y="743" type="line"/>
-      <point x="285" y="782"/>
-      <point x="403" y="870"/>
-      <point x="444" y="910" type="curve"/>
-      <point x="438" y="927" type="line"/>
-    </contour>
-    <contour>
-      <point x="277" y="595" type="line" smooth="yes"/>
-      <point x="277" y="640"/>
-      <point x="281" y="645"/>
-      <point x="312" y="645" type="curve" smooth="yes"/>
-      <point x="367" y="645" type="line"/>
-      <point x="367" y="680" type="line"/>
-      <point x="62" y="680" type="line"/>
-      <point x="62" y="645" type="line"/>
-      <point x="117" y="645" type="line" smooth="yes"/>
-      <point x="148" y="645"/>
-      <point x="152" y="640"/>
-      <point x="152" y="595" type="curve" smooth="yes"/>
-      <point x="152" y="85" type="line" smooth="yes"/>
-      <point x="152" y="40"/>
-      <point x="148" y="35"/>
-      <point x="117" y="35" type="curve" smooth="yes"/>
-      <point x="62" y="35" type="line"/>
-      <point x="62" y="0" type="line"/>
-      <point x="367" y="0" type="line"/>
-      <point x="367" y="35" type="line"/>
-      <point x="312" y="35" type="line" smooth="yes"/>
-      <point x="281" y="35"/>
-      <point x="277" y="49"/>
-      <point x="277" y="85" type="curve" smooth="yes"/>
-    </contour>
+    <component base="I"/>
+    <component base="acute" xOffset="106" yOffset="230"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>538ad4e027840efe9933d3dbd7bfe7cafd8b22ffb26b4e910bfc3529164a1715024d40c39393f41b28284ae9b0d027cb390b2fd88dd0493c10e62ab912d20631</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 35</string>
-          <string>hstem 645 35</string>
-          <string>hstem 927 -20</string>
-          <string>vstem 152 125</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   </dict>
   </lib>
 </glyph>

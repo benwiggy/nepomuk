@@ -2,9 +2,17 @@
 <glyph name="ntilde" format="2">
   <advance width="555"/>
   <unicode hex="00F1"/>
-  <anchor x="268" y="530" name="t.asciicircum_1"/>
+  <anchor x="268" y="520" name="t.asciicircum_1"/>
   <outline>
     <component base="n"/>
-    <component base="tilde" xOffset="142" yOffset="-150"/>
+    <component base="tilde" xOffset="142" yOffset="-160"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>n+tilde</string>
+  </dict>
+  </lib>
 </glyph>

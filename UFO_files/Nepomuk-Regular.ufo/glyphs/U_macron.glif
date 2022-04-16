@@ -8,4 +8,12 @@
     <component base="U"/>
     <component base="macron" xOffset="176" yOffset="230"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>U+macron</string>
+  </dict>
+  </lib>
 </glyph>

@@ -6,4 +6,12 @@
     <component base="G"/>
     <component base="breve" xOffset="236" yOffset="230"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>G+breve</string>
+  </dict>
+  </lib>
 </glyph>

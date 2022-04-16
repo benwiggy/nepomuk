@@ -6,4 +6,12 @@
     <component base="dotlessj"/>
     <component base="circumflex" xOffset="8"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessj+circumflex</string>
+  </dict>
+  </lib>
 </glyph>

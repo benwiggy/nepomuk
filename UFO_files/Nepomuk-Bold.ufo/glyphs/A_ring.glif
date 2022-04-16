@@ -1,112 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aring" format="2">
-  <advance width="724"/>
+  <advance width="730"/>
   <unicode hex="00C5"/>
+  <anchor x="374" y="720" name="t.asciicircum_1"/>
+  <anchor x="374" y="750" name="t.dieresis"/>
   <outline>
-    <contour>
-      <point x="322" y="795" type="curve" smooth="yes"/>
-      <point x="322" y="837"/>
-      <point x="348" y="866"/>
-      <point x="378" y="866" type="curve" smooth="yes"/>
-      <point x="411" y="866"/>
-      <point x="434" y="834"/>
-      <point x="434" y="795" type="curve" smooth="yes"/>
-      <point x="434" y="753"/>
-      <point x="408" y="724"/>
-      <point x="378" y="724" type="curve" smooth="yes"/>
-      <point x="345" y="724"/>
-      <point x="322" y="756"/>
-    </contour>
-    <contour>
-      <point x="255" y="795" type="curve" smooth="yes"/>
-      <point x="255" y="737" name="hr01"/>
-      <point x="307" y="686"/>
-      <point x="378" y="686" type="curve" smooth="yes"/>
-      <point x="445" y="686"/>
-      <point x="501" y="733"/>
-      <point x="501" y="795" type="curve" smooth="yes"/>
-      <point x="501" y="853"/>
-      <point x="449" y="901"/>
-      <point x="378" y="901" type="curve" smooth="yes"/>
-      <point x="311" y="901"/>
-      <point x="255" y="857"/>
-    </contour>
-    <contour>
-      <point x="275" y="35" type="line"/>
-      <point x="220" y="35" type="line" smooth="yes"/>
-      <point x="192" y="35"/>
-      <point x="177" y="38"/>
-      <point x="177" y="62" type="curve" smooth="yes"/>
-      <point x="177" y="73"/>
-      <point x="180" y="86"/>
-      <point x="187" y="101" type="curve"/>
-      <point x="231" y="216" type="line"/>
-      <point x="449" y="216" type="line"/>
-      <point x="487" y="110" type="line" smooth="yes"/>
-      <point x="493" y="94"/>
-      <point x="496" y="80"/>
-      <point x="496" y="67" type="curve" smooth="yes"/>
-      <point x="496" y="40"/>
-      <point x="481" y="35"/>
-      <point x="456" y="35" type="curve" smooth="yes"/>
-      <point x="409" y="35" type="line"/>
-      <point x="409" y="0" type="line"/>
-      <point x="727" y="0" type="line"/>
-      <point x="727" y="35" type="line"/>
-      <point x="688" y="35" type="line" smooth="yes"/>
-      <point x="652" y="35"/>
-      <point x="646" y="37"/>
-      <point x="621" y="106" type="curve" smooth="yes"/>
-      <point x="411" y="693" type="line"/>
-      <point x="345" y="693" type="line"/>
-      <point x="113" y="96" type="line" smooth="yes"/>
-      <point x="90" y="37"/>
-      <point x="79" y="35"/>
-      <point x="42" y="35" type="curve" smooth="yes"/>
-      <point x="-5" y="35" type="line"/>
-      <point x="-5" y="0" type="line"/>
-      <point x="275" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="245" y="252" type="line"/>
-      <point x="346" y="517" type="line"/>
-      <point x="437" y="252" type="line"/>
-      <point x="452" y="252" type="line"/>
-    </contour>
+    <component base="A"/>
+    <component base="ring" xOffset="249" yOffset="230"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>3f7ab18dbc922f497c6f3e81af21255518731e9fa77916508332d4e99e21cfdf99080b28600c769517aff850a0aad88651d7e96d45f5d0b59afe2bcb8cdd5f21</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 322 112</string>
-          <string>hstem 866 35</string>
-          <string>hstem 0 35</string>
-          <string>hstem 216 36</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 255 67</string>
-          <string>vstem 434 67</string>
-          <string>hstem 866 35</string>
-          <string>hstem 0 35</string>
-          <string>hstem 216 36</string>
-        </array>
-        <key>pointTag</key>
-        <string>hr01</string>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   </dict>
   </lib>
 </glyph>

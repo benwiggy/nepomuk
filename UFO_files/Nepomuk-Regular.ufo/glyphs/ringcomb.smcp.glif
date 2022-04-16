@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringcomb.smcp" format="2">
+  <advance width="250"/>
+  <anchor x="125" y="482" name="_t.asciicircum_1"/>
+  <outline>
+    <component base="ring"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

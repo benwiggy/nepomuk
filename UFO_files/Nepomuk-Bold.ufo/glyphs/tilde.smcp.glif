@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde.smcp" format="2">
+  <advance width="321"/>
+  <anchor x="160" y="530" name="_t.asciicircum_1"/>
+  <outline>
+    <component base="tilde"/>
+  </outline>
+</glyph>

@@ -5,4 +5,12 @@
   <outline>
     <component base="u"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>u</string>
+  </dict>
+  </lib>
 </glyph>

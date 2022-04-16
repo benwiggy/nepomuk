@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i.smcp" format="2">
+  <advance width="361"/>
+  <anchor x="183" y="578" name="t.asciicircum_1"/>
+  <anchor x="183" y="593" name="t.dieresis"/>
+  <outline>
+    <contour>
+      <point x="235" y="446" type="line" smooth="yes"/>
+      <point x="235" y="480"/>
+      <point x="238" y="484"/>
+      <point x="264" y="484" type="curve" smooth="yes"/>
+      <point x="303" y="484" type="line"/>
+      <point x="303" y="510" type="line"/>
+      <point x="59" y="510" type="line"/>
+      <point x="59" y="484" type="line"/>
+      <point x="97" y="484" type="line" smooth="yes"/>
+      <point x="123" y="484"/>
+      <point x="127" y="480"/>
+      <point x="127" y="446" type="curve" smooth="yes"/>
+      <point x="127" y="64" type="line" smooth="yes"/>
+      <point x="127" y="30"/>
+      <point x="123" y="26"/>
+      <point x="97" y="26" type="curve" smooth="yes"/>
+      <point x="50" y="26" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="312" y="0" type="line"/>
+      <point x="312" y="26" type="line"/>
+      <point x="264" y="26" type="line" smooth="yes"/>
+      <point x="238" y="26"/>
+      <point x="235" y="37"/>
+      <point x="235" y="64" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d39f68ca5b709fff0204e300cb7f25fef58ad6304f64c99ca963153172ab5ca49def6a4afba7ba0b5ec28115877313f821e57e3b462a04028c8ba9a659f333cc</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 26</string>
+          <string>hstem 484 26</string>
+          <string>vstem 127 108</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

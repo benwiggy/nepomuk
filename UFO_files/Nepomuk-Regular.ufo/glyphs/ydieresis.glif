@@ -1,136 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ydieresis" format="2">
-  <advance width="458"/>
+  <advance width="517"/>
   <unicode hex="00FF"/>
+  <anchor x="278" y="530" name="t.asciicircum_1"/>
+  <anchor x="278" y="530" name="t.dieresis"/>
   <outline>
-    <contour>
-      <point x="297" y="588" type="curve" smooth="yes"/>
-      <point x="297" y="559"/>
-      <point x="320" y="536"/>
-      <point x="349" y="536" type="curve" smooth="yes"/>
-      <point x="378" y="536"/>
-      <point x="401" y="559"/>
-      <point x="401" y="588" type="curve" smooth="yes"/>
-      <point x="401" y="617"/>
-      <point x="378" y="640"/>
-      <point x="349" y="640" type="curve" smooth="yes"/>
-      <point x="320" y="640"/>
-      <point x="297" y="617"/>
-    </contour>
-    <contour>
-      <point x="103" y="588" type="curve" smooth="yes"/>
-      <point x="103" y="559"/>
-      <point x="126" y="536"/>
-      <point x="155" y="536" type="curve" smooth="yes"/>
-      <point x="184" y="536"/>
-      <point x="207" y="559"/>
-      <point x="207" y="588" type="curve" smooth="yes"/>
-      <point x="207" y="617"/>
-      <point x="184" y="640"/>
-      <point x="155" y="640" type="curve" smooth="yes"/>
-      <point x="126" y="640"/>
-      <point x="103" y="617"/>
-    </contour>
-    <contour>
-      <point x="8" y="-72" type="curve" smooth="yes"/>
-      <point x="-28" y="-72"/>
-      <point x="-44" y="-103"/>
-      <point x="-44" y="-132" type="curve" smooth="yes"/>
-      <point x="-44" y="-194"/>
-      <point x="10" y="-225"/>
-      <point x="68" y="-225" type="curve" smooth="yes"/>
-      <point x="153" y="-225"/>
-      <point x="186" y="-149"/>
-      <point x="242" y="-19" type="curve"/>
-      <point x="404" y="368" type="line" smooth="yes"/>
-      <point x="420" y="407"/>
-      <point x="427" y="415"/>
-      <point x="474" y="415" type="curve" smooth="yes"/>
-      <point x="483" y="415" type="line"/>
-      <point x="483" y="450" type="line"/>
-      <point x="288" y="450" type="line"/>
-      <point x="288" y="415" type="line"/>
-      <point x="330" y="415" type="line" smooth="yes"/>
-      <point x="370" y="415"/>
-      <point x="385" y="412"/>
-      <point x="356" y="344" type="curve" smooth="yes"/>
-      <point x="261" y="121" type="line"/>
-      <point x="160" y="359" type="line" smooth="yes"/>
-      <point x="142" y="402"/>
-      <point x="144" y="415"/>
-      <point x="184" y="415" type="curve" smooth="yes"/>
-      <point x="208" y="415" type="line"/>
-      <point x="208" y="450" type="line"/>
-      <point x="-15" y="450" type="line"/>
-      <point x="-15" y="415" type="line"/>
-      <point x="-7" y="415" type="line" smooth="yes"/>
-      <point x="33" y="415"/>
-      <point x="43" y="410"/>
-      <point x="60" y="371" type="curve" smooth="yes"/>
-      <point x="215" y="10" type="line"/>
-      <point x="208" y="-5" type="line" smooth="yes"/>
-      <point x="151" y="-127"/>
-      <point x="125" y="-194"/>
-      <point x="69" y="-194" type="curve" smooth="yes"/>
-      <point x="55" y="-194"/>
-      <point x="48" y="-187"/>
-      <point x="48" y="-176" type="curve" smooth="yes"/>
-      <point x="48" y="-161"/>
-      <point x="61" y="-145"/>
-      <point x="61" y="-125" type="curve" smooth="yes"/>
-      <point x="61" y="-94" name="hr02"/>
-      <point x="34" y="-72"/>
-    </contour>
+    <component base="y"/>
+    <component base="dieresis" xOffset="129"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>f7c14053fd7896fcf5096443995d6d85e90f1e529f5527c67d9bea48305c78dfaebe3796a54f8725697f7562570467e60e38b45182bd07e2c355d2538f83c39d</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 297 104</string>
-          <string>hstem 536 104</string>
-          <string>vstem 103 104</string>
-          <string>hstem -225 153</string>
-          <string>vstem -44 92</string>
-          <string>hstem 415 35</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -225 31</string>
-          <string>vstem -44 92</string>
-          <string>hstem 415 35</string>
-          <string>hstem 536 104</string>
-          <string>vstem 103 104</string>
-          <string>vstem 297 104</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.105554229682464</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem -44 105</string>
-          <string>hstem -225 153</string>
-          <string>hstem 415 35</string>
-          <string>hstem 536 104</string>
-          <string>vstem 103 104</string>
-          <string>vstem 297 104</string>
-        </array>
-        <key>pointTag</key>
-        <string>hr02</string>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   </dict>
   </lib>
 </glyph>

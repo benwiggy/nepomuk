@@ -38,6 +38,16 @@
     <string>Oslash</string>
     <string>Otilde</string>
   </array>
+  <key>public.kern1.kr_aSC</key>
+  <array>
+    <string>a.smcp</string>
+    <string>aacute.smcp</string>
+    <string>acircumflex.smcp</string>
+    <string>adieresis.smcp</string>
+    <string>agrave.smcp</string>
+    <string>aring.smcp</string>
+    <string>atilde.smcp</string>
+  </array>
   <key>public.kern1.kra</key>
   <array>
     <string>a</string>
@@ -106,6 +116,16 @@
     <string>Omacron</string>
     <string>Oslash</string>
     <string>Otilde</string>
+  </array>
+  <key>public.kern2.kr_aSC</key>
+  <array>
+    <string>a.smcp</string>
+    <string>aacute.smcp</string>
+    <string>acircumflex.smcp</string>
+    <string>adieresis.smcp</string>
+    <string>agrave.smcp</string>
+    <string>aring.smcp</string>
+    <string>atilde.smcp</string>
   </array>
   <key>public.kern2.kra</key>
   <array>

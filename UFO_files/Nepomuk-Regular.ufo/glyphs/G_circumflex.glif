@@ -6,4 +6,12 @@
     <component base="G"/>
     <component base="circumflex" xOffset="190" yOffset="230"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>G+circumflex</string>
+  </dict>
+  </lib>
 </glyph>

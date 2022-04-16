@@ -7,4 +7,12 @@
     <component base="N"/>
     <component base="acute" xOffset="287" yOffset="200"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>N+acute</string>
+  </dict>
+  </lib>
 </glyph>

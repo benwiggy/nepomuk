@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fl" format="2">
-  <advance width="629"/>
+  <advance width="612"/>
   <unicode hex="FB02"/>
   <outline>
     <contour>
@@ -63,7 +63,7 @@
       <point x="379" y="622" type="line"/>
       <point x="380" y="624" type="line" smooth="yes"/>
       <point x="383" y="629"/>
-      <point x="385" y="633" name="hr03"/>
+      <point x="385" y="633"/>
     </contour>
   </outline>
   <lib>
@@ -73,17 +73,17 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>009963df33d3ac154a3e303abf79b5276390d7026caa818816f4f5517beef46ce4021d707aa53e4cc7ff4cbe67ea325ae16a55499907bae233b462e117a5b042</string>
+    <string>f849e1f05b59332474c179bf49b856fd083f444315299c756ebf4afc0d4cc2051658a43d8ea3c46e14b1c3d423d00df910dec419f54a8bc1f231126e94a1f7a4</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 385 128</string>
           <string>hstem 681 29</string>
           <string>vstem 99 140</string>
           <string>hstem 415 35</string>
           <string>hstem 0 35</string>
+          <string>vstem 359 154</string>
         </array>
       </dict>
       <dict>
@@ -109,18 +109,6 @@
         </array>
         <key>pointTag</key>
         <string>hr02</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 385 128</string>
-          <string>hstem 0 35</string>
-          <string>hstem 415 35</string>
-          <string>hstem 681 29</string>
-          <string>vstem 99 140</string>
-        </array>
-        <key>pointTag</key>
-        <string>hr03</string>
       </dict>
     </array>
   </dict>

@@ -7,4 +7,12 @@
     <component base="u"/>
     <component base="breve" xOffset="150"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>u+breve</string>
+  </dict>
+  </lib>
 </glyph>

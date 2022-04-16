@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wdieresis.smcp" format="2">
+  <advance width="830"/>
+  <anchor x="400" y="560" name="t.asciicircum_1"/>
+  <anchor x="400" y="583" name="t.dieresis"/>
+  <outline>
+    <component base="w.smcp"/>
+    <component base="dieresis.smcp" xOffset="251" yOffset="53"/>
+  </outline>
+</glyph>

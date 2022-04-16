@@ -6,6 +6,14 @@
   <anchor x="386" y="750" name="t.dieresis"/>
   <outline>
     <component base="A"/>
-    <component base="macron" xOffset="197" yOffset="230"/>
+    <component base="macron" xOffset="196.5" yOffset="230"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>A+macron</string>
+  </dict>
+  </lib>
 </glyph>

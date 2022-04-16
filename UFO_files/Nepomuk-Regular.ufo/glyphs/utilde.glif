@@ -2,9 +2,17 @@
 <glyph name="utilde" format="2">
   <advance width="550"/>
   <unicode hex="0169"/>
-  <anchor x="248" y="520" name="t.asciicircum_1"/>
+  <anchor x="248" y="510" name="t.asciicircum_1"/>
   <outline>
     <component base="u"/>
-    <component base="tilde" xOffset="122" yOffset="-160"/>
+    <component base="tilde" xOffset="122" yOffset="-170"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>u+tilde</string>
+  </dict>
+  </lib>
 </glyph>

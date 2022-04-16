@@ -46,6 +46,120 @@ feature cv00 {
 
 
 
+
+
+feature smcp {
+# Small Caps
+
+#> feature
+  sub a by a.smcp;
+  sub aacute by aacute.smcp;
+  sub abreve by abreve.smcp;
+  sub acircumflex by acircumflex.smcp;
+  sub acute by acute.smcp;
+  sub adieresis by adieresis.smcp;
+  sub ae by ae.smcp;
+  sub agrave by agrave.smcp;
+  sub amacron by amacron.smcp;
+  sub aring by aring.smcp;
+  sub atilde by atilde.smcp;
+  sub b by b.smcp;
+  sub breve by breve.smcp;
+  sub c by c.smcp;
+  sub cacute by cacute.smcp;
+  sub caroncomb by caroncomb.smcp;
+  sub ccaron by ccaron.smcp;
+  sub ccedilla by ccedilla.smcp;
+  sub ccircumflex by ccircumflex.smcp;
+  sub cdotaccent by cdotaccent.smcp;
+  sub circumflex by circumflex.smcp;
+  sub circumflexcomb by circumflexcomb.smcp;
+  sub d by d.smcp;
+  sub dieresis by dieresis.smcp;
+  sub dotaccent by dotaccent.smcp;
+  sub e by e.smcp;
+  sub eacute by eacute.smcp;
+  sub ebreve by ebreve.smcp;
+  sub ecaron by ecaron.smcp;
+  sub ecircumflex by ecircumflex.smcp;
+  sub edieresis by edieresis.smcp;
+  sub edotaccent by edotaccent.smcp;
+  sub egrave by egrave.smcp;
+  sub emacron by emacron.smcp;
+  sub f by f.smcp;
+  sub g by g.smcp;
+  sub gbreve by gbreve.smcp;
+  sub gcircumflex by gcircumflex.smcp;
+  sub gdotaccent by gdotaccent.smcp;
+  sub grave by grave.smcp;
+  sub h by h.smcp;
+  sub i by i.smcp;
+  sub iacute by iacute.smcp;
+  sub icircumflex by icircumflex.smcp;
+  sub idieresis by idieresis.smcp;
+  sub igrave by igrave.smcp;
+  sub imacron by imacron.smcp;
+  sub itilde by itilde.smcp;
+  sub j by j.smcp;
+  sub k by k.smcp;
+  sub l by l.smcp;
+  sub m by m.smcp;
+  sub macron by macron.smcp;
+  sub n by n.smcp;
+  sub nacute by nacute.smcp;
+  sub ncaron by ncaron.smcp;
+  sub ntilde by ntilde.smcp;
+  sub o by o.smcp;
+  sub oacute by oacute.smcp;
+  sub obreve by obreve.smcp;
+  sub ocircumflex by ocircumflex.smcp;
+  sub odieresis by odieresis.smcp;
+  sub oe by oe.smcp;
+  sub ograve by ograve.smcp;
+  sub omacron by omacron.smcp;
+  sub oslash by oslash.smcp;
+  sub otilde by otilde.smcp;
+  sub p by p.smcp;
+  sub q by q.smcp;
+  sub r by r.smcp;
+  sub racute by racute.smcp;
+  sub rcaron by rcaron.smcp;
+  sub ringcomb by ringcomb.smcp;
+  sub s by s.smcp;
+  sub sacute by sacute.smcp;
+  sub scaron by scaron.smcp;
+  sub scircumflex by scircumflex.smcp;
+  sub t by t.smcp;
+  sub tilde by tilde.smcp;
+  sub u by u.smcp;
+  sub uacute by uacute.smcp;
+  sub ubreve by ubreve.smcp;
+  sub ucircumflex by ucircumflex.smcp;
+  sub udieresis by udieresis.smcp;
+  sub ugrave by ugrave.smcp;
+  sub umacron by umacron.smcp;
+  sub uring by uring.smcp;
+  sub utilde by utilde.smcp;
+  sub v by v.smcp;
+  sub w by w.smcp;
+  sub wacute by wacute.smcp;
+  sub wcircumflex by wcircumflex.smcp;
+  sub wdieresis by wdieresis.smcp;
+  sub wgrave by wgrave.smcp;
+  sub x by x.smcp;
+  sub y by y.smcp;
+  sub yacute by yacute.smcp;
+  sub ycircumflex by ycircumflex.smcp;
+  sub ydieresis by ydieresis.smcp;
+  sub ygrave by ygrave.smcp;
+  sub z by z.smcp;
+  sub zacute by zacute.smcp;
+  sub zcaron by zcaron.smcp;
+  sub zdotaccent by zdotaccent.smcp;
+#< feature
+} smcp;
+
+
 feature liga {
 # GSUB feature: Standard Ligatures
 # Lookups: 1
@@ -60,6 +174,8 @@ feature liga {
   sub dollar s by uni266F;
 
 } liga;
+
+
 
 
 
@@ -141,34 +257,13 @@ feature mark {
     pos base oe
         <anchor 398 530> mark @t.dieresis
         <anchor 398 530> mark @t.asciicircum_1;
-    pos base A.alt
-        <anchor 360 750> mark @t.dieresis
-        <anchor 360 720> mark @t.asciicircum_1;
-    pos base C.alt
-        <anchor 323 750> mark @t.dieresis
-        <anchor 323 730> mark @t.asciicircum_1;
-    pos base E.alt
-        <anchor 339 750> mark @t.dieresis
-        <anchor 339 730> mark @t.asciicircum_1;
-    pos base N.alt
-        <anchor NULL> mark @t.dieresis
-        <anchor 364 730> mark @t.asciicircum_1;
-    pos base O.alt
-        <anchor 323 750> mark @t.dieresis
-        <anchor 323 730> mark @t.asciicircum_1;
-    pos base U.alt
-        <anchor 358 750> mark @t.dieresis
-        <anchor 358 730> mark @t.asciicircum_1;
-    pos base V.alt
-        <anchor 380 750> mark @t.dieresis
-        <anchor 380 720> mark @t.asciicircum_1;
-    pos base Y.alt
-        <anchor 346 750> mark @t.dieresis
-        <anchor 346 730> mark @t.asciicircum_1;
+   
   } mark;
 
 
 } mark;
+
+
 
 
 

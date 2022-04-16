@@ -100,6 +100,8 @@
   <string>M_.glif</string>
   <key>N</key>
   <string>N_.glif</string>
+  <key>NULL</key>
+  <string>N_U_L_L_.glif</string>
   <key>Nacute</key>
   <string>N_acute.glif</string>
   <key>Ncaron</key>
@@ -190,6 +192,8 @@
   <string>Y_circumflex.glif</string>
   <key>Ydieresis</key>
   <string>Y_dieresis.glif</string>
+  <key>Ygrave</key>
+  <string>Y_grave.glif</string>
   <key>Z</key>
   <string>Z_.glif</string>
   <key>Zacute</key>
@@ -200,28 +204,48 @@
   <string>Z_dotaccent.glif</string>
   <key>a</key>
   <string>a.glif</string>
+  <key>a.smcp</key>
+  <string>a.smcp.glif</string>
   <key>aacute</key>
   <string>aacute.glif</string>
+  <key>aacute.smcp</key>
+  <string>aacute.smcp.glif</string>
   <key>abreve</key>
   <string>abreve.glif</string>
+  <key>abreve.smcp</key>
+  <string>abreve.smcp.glif</string>
   <key>acircumflex</key>
   <string>acircumflex.glif</string>
+  <key>acircumflex.smcp</key>
+  <string>acircumflex.smcp.glif</string>
   <key>acute</key>
   <string>acute.glif</string>
+  <key>acute.smcp</key>
+  <string>acute.smcp.glif</string>
   <key>adieresis</key>
   <string>adieresis.glif</string>
+  <key>adieresis.smcp</key>
+  <string>adieresis.smcp.glif</string>
   <key>ae</key>
   <string>ae.glif</string>
+  <key>ae.smcp</key>
+  <string>ae.smcp.glif</string>
   <key>afii00208</key>
   <string>afii00208.glif</string>
   <key>agrave</key>
   <string>agrave.glif</string>
+  <key>agrave.smcp</key>
+  <string>agrave.smcp.glif</string>
   <key>amacron</key>
   <string>amacron.glif</string>
+  <key>amacron.smcp</key>
+  <string>amacron.smcp.glif</string>
   <key>ampersand</key>
   <string>ampersand.glif</string>
   <key>aring</key>
   <string>aring.glif</string>
+  <key>aring.smcp</key>
+  <string>aring.smcp.glif</string>
   <key>arrowleft</key>
   <string>arrowleft.glif</string>
   <key>arrowright</key>
@@ -236,8 +260,12 @@
   <string>at.glif</string>
   <key>atilde</key>
   <string>atilde.glif</string>
+  <key>atilde.smcp</key>
+  <string>atilde.smcp.glif</string>
   <key>b</key>
   <string>b.glif</string>
+  <key>b.smcp</key>
+  <string>b.smcp.glif</string>
   <key>backslash</key>
   <string>backslash.glif</string>
   <key>bar</key>
@@ -252,30 +280,54 @@
   <string>bracketright.glif</string>
   <key>breve</key>
   <string>breve.glif</string>
+  <key>breve.smcp</key>
+  <string>breve.smcp.glif</string>
   <key>brokenbar</key>
   <string>brokenbar.glif</string>
   <key>bullet</key>
   <string>bullet.glif</string>
   <key>c</key>
   <string>c.glif</string>
+  <key>c.smcp</key>
+  <string>c.smcp.glif</string>
   <key>cacute</key>
   <string>cacute.glif</string>
+  <key>cacute.smcp</key>
+  <string>cacute.smcp.glif</string>
   <key>caron</key>
   <string>caron.glif</string>
+  <key>caroncomb</key>
+  <string>caroncomb.glif</string>
+  <key>caroncomb.smcp</key>
+  <string>caroncomb.smcp.glif</string>
   <key>ccaron</key>
   <string>ccaron.glif</string>
+  <key>ccaron.smcp</key>
+  <string>ccaron.smcp.glif</string>
   <key>ccedilla</key>
   <string>ccedilla.glif</string>
+  <key>ccedilla.smcp</key>
+  <string>ccedilla.smcp.glif</string>
   <key>ccircumflex</key>
   <string>ccircumflex.glif</string>
+  <key>ccircumflex.smcp</key>
+  <string>ccircumflex.smcp.glif</string>
   <key>cdotaccent</key>
   <string>cdotaccent.glif</string>
+  <key>cdotaccent.smcp</key>
+  <string>cdotaccent.smcp.glif</string>
   <key>cedilla</key>
   <string>cedilla.glif</string>
   <key>cent</key>
   <string>cent.glif</string>
   <key>circumflex</key>
   <string>circumflex.glif</string>
+  <key>circumflex.smcp</key>
+  <string>circumflex.smcp.glif</string>
+  <key>circumflexcomb</key>
+  <string>circumflexcomb.glif</string>
+  <key>circumflexcomb.smcp</key>
+  <string>circumflexcomb.smcp.glif</string>
   <key>colon</key>
   <string>colon.glif</string>
   <key>comma</key>
@@ -286,6 +338,8 @@
   <string>currency.glif</string>
   <key>d</key>
   <string>d.glif</string>
+  <key>d.smcp</key>
+  <string>d.smcp.glif</string>
   <key>dagger</key>
   <string>dagger.glif</string>
   <key>daggerdbl</key>
@@ -294,36 +348,58 @@
   <string>degree.glif</string>
   <key>dieresis</key>
   <string>dieresis.glif</string>
+  <key>dieresis.smcp</key>
+  <string>dieresis.smcp.glif</string>
   <key>divide</key>
   <string>divide.glif</string>
   <key>dollar</key>
   <string>dollar.glif</string>
   <key>dotaccent</key>
   <string>dotaccent.glif</string>
+  <key>dotaccent.smcp</key>
+  <string>dotaccent.smcp.glif</string>
   <key>dotlessi</key>
   <string>dotlessi.glif</string>
   <key>e</key>
   <string>e.glif</string>
+  <key>e.smcp</key>
+  <string>e.smcp.glif</string>
   <key>eacute</key>
   <string>eacute.glif</string>
+  <key>eacute.smcp</key>
+  <string>eacute.smcp.glif</string>
   <key>ebreve</key>
   <string>ebreve.glif</string>
+  <key>ebreve.smcp</key>
+  <string>ebreve.smcp.glif</string>
   <key>ecaron</key>
   <string>ecaron.glif</string>
+  <key>ecaron.smcp</key>
+  <string>ecaron.smcp.glif</string>
   <key>ecircumflex</key>
   <string>ecircumflex.glif</string>
+  <key>ecircumflex.smcp</key>
+  <string>ecircumflex.smcp.glif</string>
   <key>edieresis</key>
   <string>edieresis.glif</string>
+  <key>edieresis.smcp</key>
+  <string>edieresis.smcp.glif</string>
   <key>edotaccent</key>
   <string>edotaccent.glif</string>
+  <key>edotaccent.smcp</key>
+  <string>edotaccent.smcp.glif</string>
   <key>egrave</key>
   <string>egrave.glif</string>
+  <key>egrave.smcp</key>
+  <string>egrave.smcp.glif</string>
   <key>eight</key>
   <string>eight.glif</string>
   <key>ellipsis</key>
   <string>ellipsis.glif</string>
   <key>emacron</key>
   <string>emacron.glif</string>
+  <key>emacron.smcp</key>
+  <string>emacron.smcp.glif</string>
   <key>emdash</key>
   <string>emdash.glif</string>
   <key>endash</key>
@@ -342,6 +418,8 @@
   <string>f.glif</string>
   <key>f.short</key>
   <string>f.short.glif</string>
+  <key>f.smcp</key>
+  <string>f.smcp.glif</string>
   <key>f_f</key>
   <string>f_f.glif</string>
   <key>f_f_i</key>
@@ -360,16 +438,26 @@
   <string>four.glif</string>
   <key>g</key>
   <string>g.glif</string>
+  <key>g.smcp</key>
+  <string>g.smcp.glif</string>
   <key>gbreve</key>
   <string>gbreve.glif</string>
+  <key>gbreve.smcp</key>
+  <string>gbreve.smcp.glif</string>
   <key>gcircumflex</key>
   <string>gcircumflex.glif</string>
+  <key>gcircumflex.smcp</key>
+  <string>gcircumflex.smcp.glif</string>
   <key>gdotaccent</key>
   <string>gdotaccent.glif</string>
+  <key>gdotaccent.smcp</key>
+  <string>gdotaccent.smcp.glif</string>
   <key>germandbls</key>
   <string>germandbls.glif</string>
   <key>grave</key>
   <string>grave.glif</string>
+  <key>grave.smcp</key>
+  <string>grave.smcp.glif</string>
   <key>greater</key>
   <string>greater.glif</string>
   <key>guillemotleft</key>
@@ -382,28 +470,54 @@
   <string>guilsinglright.glif</string>
   <key>h</key>
   <string>h.glif</string>
+  <key>h.smcp</key>
+  <string>h.smcp.glif</string>
   <key>hyphen</key>
   <string>hyphen.glif</string>
   <key>i</key>
   <string>i.glif</string>
+  <key>i.smcp</key>
+  <string>i.smcp.glif</string>
   <key>iacute</key>
   <string>iacute.glif</string>
+  <key>iacute.smcp</key>
+  <string>iacute.smcp.glif</string>
+  <key>ibreve.smcp</key>
+  <string>ibreve.smcp.glif</string>
   <key>icircumflex</key>
   <string>icircumflex.glif</string>
+  <key>icircumflex.smcp</key>
+  <string>icircumflex.smcp.glif</string>
   <key>idieresis</key>
   <string>idieresis.glif</string>
+  <key>idieresis.smcp</key>
+  <string>idieresis.smcp.glif</string>
   <key>igrave</key>
   <string>igrave.glif</string>
+  <key>igrave.smcp</key>
+  <string>igrave.smcp.glif</string>
   <key>imacron</key>
   <string>imacron.glif</string>
+  <key>imacron.smcp</key>
+  <string>imacron.smcp.glif</string>
   <key>itilde</key>
   <string>itilde.glif</string>
+  <key>itilde.smcp</key>
+  <string>itilde.smcp.glif</string>
   <key>j</key>
   <string>j.glif</string>
+  <key>j.smcp</key>
+  <string>j.smcp.glif</string>
+  <key>jcircumflex.smcp</key>
+  <string>jcircumflex.smcp.glif</string>
   <key>k</key>
   <string>k.glif</string>
+  <key>k.smcp</key>
+  <string>k.smcp.glif</string>
   <key>l</key>
   <string>l.glif</string>
+  <key>l.smcp</key>
+  <string>l.smcp.glif</string>
   <key>less</key>
   <string>less.glif</string>
   <key>logicalnot</key>
@@ -412,8 +526,12 @@
   <string>longs.glif</string>
   <key>m</key>
   <string>m.glif</string>
+  <key>m.smcp</key>
+  <string>m.smcp.glif</string>
   <key>macron</key>
   <string>macron.glif</string>
+  <key>macron.smcp</key>
+  <string>macron.smcp.glif</string>
   <key>macronmod</key>
   <string>macronmod.glif</string>
   <key>minus</key>
@@ -432,32 +550,56 @@
   <string>musicsharp.glif</string>
   <key>n</key>
   <string>n.glif</string>
+  <key>n.smcp</key>
+  <string>n.smcp.glif</string>
   <key>nacute</key>
   <string>nacute.glif</string>
+  <key>nacute.smcp</key>
+  <string>nacute.smcp.glif</string>
   <key>ncaron</key>
   <string>ncaron.glif</string>
+  <key>ncaron.smcp</key>
+  <string>ncaron.smcp.glif</string>
   <key>nine</key>
   <string>nine.glif</string>
   <key>ntilde</key>
   <string>ntilde.glif</string>
+  <key>ntilde.smcp</key>
+  <string>ntilde.smcp.glif</string>
   <key>numbersign</key>
   <string>numbersign.glif</string>
   <key>o</key>
   <string>o.glif</string>
+  <key>o.smcp</key>
+  <string>o.smcp.glif</string>
   <key>oacute</key>
   <string>oacute.glif</string>
+  <key>oacute.smcp</key>
+  <string>oacute.smcp.glif</string>
   <key>obreve</key>
   <string>obreve.glif</string>
+  <key>obreve.smcp</key>
+  <string>obreve.smcp.glif</string>
   <key>ocircumflex</key>
   <string>ocircumflex.glif</string>
+  <key>ocircumflex.smcp</key>
+  <string>ocircumflex.smcp.glif</string>
   <key>odieresis</key>
   <string>odieresis.glif</string>
+  <key>odieresis.smcp</key>
+  <string>odieresis.smcp.glif</string>
   <key>oe</key>
   <string>oe.glif</string>
+  <key>oe.smcp</key>
+  <string>oe.smcp.glif</string>
   <key>ograve</key>
   <string>ograve.glif</string>
+  <key>ograve.smcp</key>
+  <string>ograve.smcp.glif</string>
   <key>omacron</key>
   <string>omacron.glif</string>
+  <key>omacron.smcp</key>
+  <string>omacron.smcp.glif</string>
   <key>one</key>
   <string>one.glif</string>
   <key>one.alt</key>
@@ -476,10 +618,16 @@
   <string>ordmasculine.glif</string>
   <key>oslash</key>
   <string>oslash.glif</string>
+  <key>oslash.smcp</key>
+  <string>oslash.smcp.glif</string>
   <key>otilde</key>
   <string>otilde.glif</string>
+  <key>otilde.smcp</key>
+  <string>otilde.smcp.glif</string>
   <key>p</key>
   <string>p.glif</string>
+  <key>p.smcp</key>
+  <string>p.smcp.glif</string>
   <key>paragraph</key>
   <string>paragraph.glif</string>
   <key>parenleft</key>
@@ -502,6 +650,8 @@
   <string>plusminus.glif</string>
   <key>q</key>
   <string>q.glif</string>
+  <key>q.smcp</key>
+  <string>q.smcp.glif</string>
   <key>question</key>
   <string>question.glif</string>
   <key>questiondown</key>
@@ -526,26 +676,44 @@
   <string>quotesingle.glif</string>
   <key>r</key>
   <string>r.glif</string>
+  <key>r.smcp</key>
+  <string>r.smcp.glif</string>
   <key>racute</key>
   <string>racute.glif</string>
+  <key>racute.smcp</key>
+  <string>racute.smcp.glif</string>
   <key>rcaron</key>
   <string>rcaron.glif</string>
+  <key>rcaron.smcp</key>
+  <string>rcaron.smcp.glif</string>
   <key>registered</key>
   <string>registered.glif</string>
   <key>response</key>
   <string>response.glif</string>
   <key>ring</key>
   <string>ring.glif</string>
+  <key>ringcomb</key>
+  <string>ringcomb.glif</string>
+  <key>ringcomb.smcp</key>
+  <string>ringcomb.smcp.glif</string>
   <key>s</key>
   <string>s.glif</string>
+  <key>s.smcp</key>
+  <string>s.smcp.glif</string>
   <key>sacute</key>
   <string>sacute.glif</string>
+  <key>sacute.smcp</key>
+  <string>sacute.smcp.glif</string>
   <key>scaron</key>
   <string>scaron.glif</string>
+  <key>scaron.smcp</key>
+  <string>scaron.smcp.glif</string>
   <key>scedilla</key>
   <string>scedilla.glif</string>
   <key>scircumflex</key>
   <string>scircumflex.glif</string>
+  <key>scircumflex.smcp</key>
+  <string>scircumflex.smcp.glif</string>
   <key>second</key>
   <string>second.glif</string>
   <key>section</key>
@@ -564,6 +732,8 @@
   <string>sterling.glif</string>
   <key>t</key>
   <string>t.glif</string>
+  <key>t.smcp</key>
+  <string>t.smcp.glif</string>
   <key>thorn</key>
   <string>thorn.glif</string>
   <key>three</key>
@@ -574,6 +744,10 @@
   <string>threesuperior.glif</string>
   <key>tilde</key>
   <string>tilde.glif</string>
+  <key>tilde.smcp</key>
+  <string>tilde.smcp.glif</string>
+  <key>tildecomb</key>
+  <string>tildecomb.glif</string>
   <key>trademark</key>
   <string>trademark.glif</string>
   <key>two</key>
@@ -584,78 +758,40 @@
   <string>twosuperior.glif</string>
   <key>u</key>
   <string>u.glif</string>
+  <key>u.smcp</key>
+  <string>u.smcp.glif</string>
   <key>uacute</key>
   <string>uacute.glif</string>
+  <key>uacute.smcp</key>
+  <string>uacute.smcp.glif</string>
   <key>ubreve</key>
   <string>ubreve.glif</string>
+  <key>ubreve.smcp</key>
+  <string>ubreve.smcp.glif</string>
   <key>ucircumflex</key>
   <string>ucircumflex.glif</string>
+  <key>ucircumflex.smcp</key>
+  <string>ucircumflex.smcp.glif</string>
   <key>udieresis</key>
   <string>udieresis.glif</string>
+  <key>udieresis.smcp</key>
+  <string>udieresis.smcp.glif</string>
   <key>ugrave</key>
   <string>ugrave.glif</string>
+  <key>ugrave.smcp</key>
+  <string>ugrave.smcp.glif</string>
   <key>umacron</key>
   <string>umacron.glif</string>
+  <key>umacron.smcp</key>
+  <string>umacron.smcp.glif</string>
   <key>underscore</key>
   <string>underscore.glif</string>
-  <key>uni0000</key>
-  <string>uni0000.glif</string>
-  <key>uni0001</key>
-  <string>uni0001.glif</string>
-  <key>uni0002</key>
-  <string>uni0002.glif</string>
-  <key>uni0003</key>
-  <string>uni0003.glif</string>
-  <key>uni0004</key>
-  <string>uni0004.glif</string>
-  <key>uni0005</key>
-  <string>uni0005.glif</string>
-  <key>uni0006</key>
-  <string>uni0006.glif</string>
-  <key>uni0007</key>
-  <string>uni0007.glif</string>
-  <key>uni0008</key>
-  <string>uni0008.glif</string>
-  <key>uni0009</key>
-  <string>uni0009.glif</string>
-  <key>uni000A</key>
-  <string>uni000A_.glif</string>
-  <key>uni000B</key>
-  <string>uni000B_.glif</string>
-  <key>uni000C</key>
-  <string>uni000C_.glif</string>
   <key>uni000D</key>
   <string>uni000D_.glif</string>
-  <key>uni000E</key>
-  <string>uni000E_.glif</string>
-  <key>uni000F</key>
-  <string>uni000F_.glif</string>
-  <key>uni0010</key>
-  <string>uni0010.glif</string>
-  <key>uni0011</key>
-  <string>uni0011.glif</string>
-  <key>uni0012</key>
-  <string>uni0012.glif</string>
-  <key>uni0013</key>
-  <string>uni0013.glif</string>
-  <key>uni0014</key>
-  <string>uni0014.glif</string>
-  <key>uni0015</key>
-  <string>uni0015.glif</string>
-  <key>uni0019</key>
-  <string>uni0019.glif</string>
-  <key>uni001A</key>
-  <string>uni001A_.glif</string>
-  <key>uni001B</key>
-  <string>uni001B_.glif</string>
-  <key>uni001C</key>
-  <string>uni001C_.glif</string>
-  <key>uni001E</key>
-  <string>uni001E_.glif</string>
-  <key>uni001F</key>
-  <string>uni001F_.glif</string>
   <key>uni0237</key>
   <string>uni0237.glif</string>
+  <key>uni0327.smcp</key>
+  <string>uni0327.smcp.glif</string>
   <key>uni2010</key>
   <string>uni2010.glif</string>
   <key>uni2011</key>
@@ -688,42 +824,80 @@
   <string>uni2051.glif</string>
   <key>uring</key>
   <string>uring.glif</string>
+  <key>uring.smcp</key>
+  <string>uring.smcp.glif</string>
   <key>utilde</key>
   <string>utilde.glif</string>
+  <key>utilde.smcp</key>
+  <string>utilde.smcp.glif</string>
   <key>v</key>
   <string>v.glif</string>
+  <key>v.smcp</key>
+  <string>v.smcp.glif</string>
   <key>versicle</key>
   <string>versicle.glif</string>
   <key>w</key>
   <string>w.glif</string>
+  <key>w.smcp</key>
+  <string>w.smcp.glif</string>
   <key>wacute</key>
   <string>wacute.glif</string>
+  <key>wacute.smcp</key>
+  <string>wacute.smcp.glif</string>
   <key>wcircumflex</key>
   <string>wcircumflex.glif</string>
+  <key>wcircumflex.smcp</key>
+  <string>wcircumflex.smcp.glif</string>
   <key>wdieresis</key>
   <string>wdieresis.glif</string>
+  <key>wdieresis.smcp</key>
+  <string>wdieresis.smcp.glif</string>
   <key>wgrave</key>
   <string>wgrave.glif</string>
+  <key>wgrave.smcp</key>
+  <string>wgrave.smcp.glif</string>
   <key>x</key>
   <string>x.glif</string>
+  <key>x.smcp</key>
+  <string>x.smcp.glif</string>
   <key>y</key>
   <string>y.glif</string>
+  <key>y.smcp</key>
+  <string>y.smcp.glif</string>
   <key>yacute</key>
   <string>yacute.glif</string>
+  <key>yacute.smcp</key>
+  <string>yacute.smcp.glif</string>
   <key>ycircumflex</key>
   <string>ycircumflex.glif</string>
+  <key>ycircumflex.smcp</key>
+  <string>ycircumflex.smcp.glif</string>
   <key>ydieresis</key>
   <string>ydieresis.glif</string>
+  <key>ydieresis.smcp</key>
+  <string>ydieresis.smcp.glif</string>
   <key>yen</key>
   <string>yen.glif</string>
+  <key>ygrave</key>
+  <string>ygrave.glif</string>
+  <key>ygrave.smcp</key>
+  <string>ygrave.smcp.glif</string>
   <key>z</key>
   <string>z.glif</string>
+  <key>z.smcp</key>
+  <string>z.smcp.glif</string>
   <key>zacute</key>
   <string>zacute.glif</string>
+  <key>zacute.smcp</key>
+  <string>zacute.smcp.glif</string>
   <key>zcaron</key>
   <string>zcaron.glif</string>
+  <key>zcaron.smcp</key>
+  <string>zcaron.smcp.glif</string>
   <key>zdotaccent</key>
   <string>zdotaccent.glif</string>
+  <key>zdotaccent.smcp</key>
+  <string>zdotaccent.smcp.glif</string>
   <key>zero</key>
   <string>zero.glif</string>
 </dict>

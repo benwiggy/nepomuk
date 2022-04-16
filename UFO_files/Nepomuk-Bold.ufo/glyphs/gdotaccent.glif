@@ -6,4 +6,12 @@
     <component base="g"/>
     <component base="dotaccent" xOffset="126"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>g+dotaccent</string>
+  </dict>
+  </lib>
 </glyph>

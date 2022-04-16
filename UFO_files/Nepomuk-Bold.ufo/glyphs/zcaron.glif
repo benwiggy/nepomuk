@@ -6,4 +6,12 @@
     <component base="z"/>
     <component base="caron" xOffset="81"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>z+caron</string>
+  </dict>
+  </lib>
 </glyph>

@@ -8,4 +8,12 @@
     <component base="C"/>
     <component base="dotaccent" xOffset="142" yOffset="230"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>C+dotaccent</string>
+  </dict>
+  </lib>
 </glyph>

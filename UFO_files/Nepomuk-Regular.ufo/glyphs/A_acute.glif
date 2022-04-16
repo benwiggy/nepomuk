@@ -8,4 +8,12 @@
     <component base="A"/>
     <component base="acute" xOffset="280" yOffset="190"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>A+acute</string>
+  </dict>
+  </lib>
 </glyph>

@@ -8,4 +8,12 @@
     <component base="dotlessi"/>
     <component base="tilde" xOffset="-10"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+tilde</string>
+  </dict>
+  </lib>
 </glyph>

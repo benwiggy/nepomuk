@@ -8,4 +8,12 @@
     <component base="U"/>
     <component base="circumflex" xOffset="241" yOffset="200"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>U+circumflex</string>
+  </dict>
+  </lib>
 </glyph>

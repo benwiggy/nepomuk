@@ -8,4 +8,12 @@
     <component base="U"/>
     <component base="tilde" xOffset="240" yOffset="50"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>U+tilde</string>
+  </dict>
+  </lib>
 </glyph>

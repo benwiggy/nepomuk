@@ -6,6 +6,14 @@
   <anchor x="330" y="750" name="t.dieresis"/>
   <outline>
     <component base="O"/>
-    <component base="tilde" xOffset="213" yOffset="28"/>
+    <component base="tilde" xOffset="204" yOffset="50"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>O+tilde</string>
+  </dict>
+  </lib>
 </glyph>

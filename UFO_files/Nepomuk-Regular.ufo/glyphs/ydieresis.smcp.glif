@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ydieresis.smcp" format="2">
+  <advance width="546"/>
+  <anchor x="296" y="559" name="t.asciicircum_1"/>
+  <anchor x="296" y="574" name="t.dieresis"/>
+  <outline>
+    <component base="y.smcp"/>
+    <component base="dieresis.smcp" xOffset="147" yOffset="44"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>y.smcp+dieresis.smcp</string>
+  </dict>
+  </lib>
+</glyph>

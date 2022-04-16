@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fi" format="2">
-  <advance width="554"/>
+  <advance width="561"/>
   <unicode hex="FB01"/>
   <outline>
     <contour>
@@ -70,7 +70,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>4fac087e439314e06fcbdeafef682747ad7ec8fd4bc5e7a193088418eb64471e9b97141a220ac8cd18ec9252b0395a471310bcb19ea31b687ab8206c106f2cc0</string>
+    <string>10a20a22113cb6c694c0ba259da6cb7a1e3f7453c0bb3177cc60c7018a225be8a3acb821295b837616ec24583f22b500312e43a67b76e919799b7b452971eedb</string>
     <key>hintSetList</key>
     <array>
       <dict>
