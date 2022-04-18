@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gecyr" format="2">
+  <advance width="613"/>
+  <unicode hex="0413"/>
+  <outline>
+    <contour>
+      <point x="360" y="644" type="line" smooth="yes"/>
+      <point x="480" y="644"/>
+      <point x="519" y="576"/>
+      <point x="546" y="449" type="curve"/>
+      <point x="576" y="449" type="line"/>
+      <point x="571" y="680" type="line"/>
+      <point x="47" y="680" type="line"/>
+      <point x="47" y="645" type="line"/>
+      <point x="87" y="645" type="line" smooth="yes"/>
+      <point x="132" y="645"/>
+      <point x="137" y="640"/>
+      <point x="137" y="595" type="curve" smooth="yes"/>
+      <point x="137" y="85" type="line" smooth="yes"/>
+      <point x="137" y="40"/>
+      <point x="132" y="35"/>
+      <point x="87" y="35" type="curve" smooth="yes"/>
+      <point x="47" y="35" type="line"/>
+      <point x="47" y="0" type="line"/>
+      <point x="342" y="0" type="line"/>
+      <point x="342" y="35" type="line"/>
+      <point x="282" y="35" type="line" smooth="yes"/>
+      <point x="237" y="35"/>
+      <point x="232" y="40"/>
+      <point x="232" y="85" type="curve"/>
+      <point x="232" y="604" type="line"/>
+      <point x="232" y="628"/>
+      <point x="267" y="644"/>
+      <point x="297" y="644" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>1079b2ccd42bd99bf1d18cd65cc9a37387819510256d2c5ba19f929435ea6bbda12b0c804fa3a05a8d65952ecf0ffdb1709477ec679e83d52b3cbbe6e9a4534c</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 35</string>
+          <string>hstem 644 36</string>
+          <string>vstem 137 95</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

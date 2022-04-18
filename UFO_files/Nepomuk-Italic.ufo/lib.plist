@@ -523,6 +523,38 @@
     <string>dotlessj</string>
     <string>jcircumflex</string>
     <string>Jcircumflex</string>
+    <string>one.roman</string>
+    <string>two.roman</string>
+    <string>three.roman</string>
+    <string>four.roman</string>
+    <string>five.roman</string>
+    <string>six.roman</string>
+    <string>seven.roman</string>
+    <string>eight.roman</string>
+    <string>nine.roman</string>
+    <string>ten.roman</string>
+    <string>eleven.roman</string>
+    <string>twelve.roman</string>
+    <string>fifty.roman</string>
+    <string>onehundred.roman</string>
+    <string>fivehundred.roman</string>
+    <string>onethousand.roman</string>
+    <string>one.romansmall</string>
+    <string>two.romansmall</string>
+    <string>three.romansmall</string>
+    <string>four.romansmall</string>
+    <string>five.romansmall</string>
+    <string>six.romansmall</string>
+    <string>seven.romansmall</string>
+    <string>eight.romansmall</string>
+    <string>nine.romansmall</string>
+    <string>ten.romansmall</string>
+    <string>eleven.romansmall</string>
+    <string>twelve.romansmall</string>
+    <string>fifty.romansmall</string>
+    <string>onehundred.romansmall</string>
+    <string>fivehundred.romansmall</string>
+    <string>onethousand.romansmall</string>
   </array>
 </dict>
 </plist>

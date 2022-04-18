@@ -178,12 +178,34 @@
     <key>j</key>
     <integer>48</integer>
     <key>public.kern2.krf2</key>
+    <integer>68</integer>
+  </dict>
+  <key>hyphen</key>
+  <dict>
+    <key>V</key>
+    <integer>-120</integer>
+    <key>W</key>
+    <integer>-151</integer>
+  </dict>
+  <key>j</key>
+  <dict>
+    <key>public.kern2.krf2</key>
     <integer>60</integer>
   </dict>
   <key>n</key>
   <dict>
     <key>quoteright</key>
     <integer>-65</integer>
+  </dict>
+  <key>p</key>
+  <dict>
+    <key>public.kern2.krf2</key>
+    <integer>39</integer>
+  </dict>
+  <key>q</key>
+  <dict>
+    <key>public.kern2.krf2</key>
+    <integer>139</integer>
   </dict>
   <key>public.kern1.krA</key>
   <dict>
@@ -225,6 +247,11 @@
     <integer>-11</integer>
     <key>public.kern2.kro</key>
     <integer>-40</integer>
+  </dict>
+  <key>public.kern1.kry</key>
+  <dict>
+    <key>public.kern2.krf2</key>
+    <integer>103</integer>
   </dict>
 </dict>
 </plist>

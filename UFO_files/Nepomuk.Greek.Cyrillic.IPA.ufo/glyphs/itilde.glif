@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="itilde" format="2">
+  <advance width="302"/>
+  <unicode hex="0129"/>
+  <anchor x="155" y="507" name="t.asciicircum_1"/>
+  <anchor x="155" y="513" name="t.dieresis"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="tilde" xOffset="29" yOffset="-173"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+tilde</string>
+  </dict>
+  </lib>
+</glyph>

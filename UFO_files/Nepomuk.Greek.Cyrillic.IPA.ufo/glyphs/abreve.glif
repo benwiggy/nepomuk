@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="abreve" format="2">
+  <advance width="515"/>
+  <unicode hex="0103"/>
+  <anchor x="245" y="524" name="t.asciicircum_1"/>
+  <anchor x="245" y="530" name="t.dieresis"/>
+  <outline>
+    <component base="a"/>
+    <component base="breve" xOffset="132.5"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>a+breve</string>
+  </dict>
+  </lib>
+</glyph>

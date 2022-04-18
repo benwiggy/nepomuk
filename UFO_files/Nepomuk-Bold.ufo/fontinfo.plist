@@ -135,7 +135,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2014/09/03 19:23:51</string>
+  <string>2014/09/03 20:23:51</string>
   <key>openTypeHeadFlags</key>
   <array>
   </array>
@@ -152,7 +152,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Bold</string>
   <key>openTypeNameVersion</key>
-  <string>Version 2.010</string>
+  <string>Version 2.020</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -270,7 +270,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <key>versionMajor</key>
   <integer>2</integer>
   <key>versionMinor</key>
-  <integer>10</integer>
+  <integer>20</integer>
   <key>xHeight</key>
   <integer>450</integer>
 </dict>

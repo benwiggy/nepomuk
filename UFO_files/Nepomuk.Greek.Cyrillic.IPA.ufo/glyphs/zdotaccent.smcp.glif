@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zdotaccent.smcp" format="2">
+  <advance width="543"/>
+  <anchor x="280" y="579" name="t.asciicircum_1"/>
+  <anchor x="280" y="594" name="t.dieresis"/>
+  <outline>
+    <component base="z.smcp"/>
+    <component base="dotaccent.smcp" xOffset="116" yOffset="101"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>z.smcp+dotaccent.smcp</string>
+  </dict>
+  </lib>
+</glyph>

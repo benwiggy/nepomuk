@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="j" format="2">
-  <advance width="307"/>
+  <advance width="329"/>
   <unicode hex="006A"/>
   <outline>
     <contour>
@@ -63,7 +63,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>6b227e73ba300d0a70f493e451c86734b9bf0c81591973526a6f26656979c4c38a8fdd87923434dd81783967077b278239f582eb2366fc60ee97998d6a3a55bc</string>
+    <string>83d65c2463891ef062a21e841ad06f48a25a2b86c7a836fbfefe4b300914d8fb5c1f256f556eb0d9cd626b6bda3bea0ea84cdcbd099eddf889c1fe5f304d7eed</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -86,7 +86,7 @@
           <string>vstem 246 116</string>
         </array>
         <key>pointTag</key>
-        <string>._.105553369633872</string>
+        <string>._.105553235202992</string>
       </dict>
     </array>
   </dict>

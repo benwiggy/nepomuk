@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ubreve" format="2">
+  <advance width="550"/>
+  <unicode hex="016D"/>
+  <anchor x="248" y="510" name="t.asciicircum_1"/>
+  <outline>
+    <component base="u"/>
+    <component base="breve" xOffset="150"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>u+breve</string>
+  </dict>
+  </lib>
+</glyph>

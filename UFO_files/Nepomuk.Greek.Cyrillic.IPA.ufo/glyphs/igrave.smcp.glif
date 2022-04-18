@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="igrave.smcp" format="2">
+  <advance width="351"/>
+  <anchor x="177" y="564" name="t.asciicircum_1"/>
+  <anchor x="177" y="579" name="t.dieresis"/>
+  <outline>
+    <component base="i.smcp"/>
+    <component base="grave.c2sc" xOffset="71" yOffset="34"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>i.smcp+grave.c2sc</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lambda" format="2">
+  <advance width="734"/>
+  <unicode hex="039B"/>
+  <anchor x="386" y="720" name="t.asciicircum_1"/>
+  <anchor x="386" y="750" name="t.dieresis"/>
+  <outline>
+    <contour>
+      <point x="352" y="556" type="line"/>
+      <point x="508" y="110" type="line"/>
+      <point x="531" y="44"/>
+      <point x="510" y="35"/>
+      <point x="462" y="35" type="curve" smooth="yes"/>
+      <point x="430" y="35" type="line"/>
+      <point x="430" y="0" type="line"/>
+      <point x="718" y="0" type="line"/>
+      <point x="718" y="35" type="line"/>
+      <point x="694" y="35" type="line" smooth="yes"/>
+      <point x="646" y="35"/>
+      <point x="637" y="37"/>
+      <point x="612" y="106" type="curve" smooth="yes"/>
+      <point x="402" y="692" type="line"/>
+      <point x="366" y="692" type="line"/>
+      <point x="134" y="96" type="line" smooth="yes"/>
+      <point x="111" y="37"/>
+      <point x="96" y="35"/>
+      <point x="48" y="35" type="curve" smooth="yes"/>
+      <point x="16" y="35" type="line"/>
+      <point x="16" y="0" type="line"/>
+      <point x="266" y="0" type="line"/>
+      <point x="266" y="35" type="line"/>
+      <point x="226" y="35" type="line" smooth="yes"/>
+      <point x="173" y="35"/>
+      <point x="155" y="40"/>
+      <point x="178" y="101" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>16aed3e4944bbf73991e25ead38ce1eeef0ca58c02786a3674ebb027f6c6cede5365442bf888ae1aed9ef2f04f5a864c9737d325a5b72e02807b429177a6d50a</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 35</string>
+          <string>hstem 216 340</string>
+          <string>hstem 692 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

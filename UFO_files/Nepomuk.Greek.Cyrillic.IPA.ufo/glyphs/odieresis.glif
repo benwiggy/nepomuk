@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="odieresis" format="2">
+  <advance width="488"/>
+  <unicode hex="00F6"/>
+  <anchor x="244" y="530" name="t.asciicircum_1"/>
+  <anchor x="244" y="530" name="t.dieresis"/>
+  <outline>
+    <component base="o"/>
+    <component base="dieresis" xOffset="95"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>o+dieresis</string>
+  </dict>
+  </lib>
+</glyph>

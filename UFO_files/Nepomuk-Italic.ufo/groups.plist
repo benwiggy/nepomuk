@@ -146,12 +146,5 @@
     <string>uring</string>
     <string>utilde</string>
   </array>
-  <key>public.kern2.kry</key>
-  <array>
-    <string>y</string>
-    <string>yacute</string>
-    <string>ycircumflex</string>
-    <string>ydieresis</string>
-  </array>
 </dict>
 </plist>

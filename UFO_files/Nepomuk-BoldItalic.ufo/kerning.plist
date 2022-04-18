@@ -109,6 +109,8 @@
   <dict>
     <key>n</key>
     <integer>-55</integer>
+    <key>oe</key>
+    <integer>-31</integer>
     <key>p</key>
     <integer>-21</integer>
     <key>r</key>
@@ -124,6 +126,10 @@
   </dict>
   <key>V</key>
   <dict>
+    <key>ae</key>
+    <integer>-79</integer>
+    <key>oe</key>
+    <integer>-48</integer>
     <key>r</key>
     <integer>-7</integer>
     <key>public.kern2.kra</key>
@@ -137,6 +143,10 @@
   </dict>
   <key>W</key>
   <dict>
+    <key>ae</key>
+    <integer>-62</integer>
+    <key>oe</key>
+    <integer>-46</integer>
     <key>r</key>
     <integer>-21</integer>
     <key>public.kern2.krA</key>
@@ -152,6 +162,10 @@
   </dict>
   <key>Y</key>
   <dict>
+    <key>ae</key>
+    <integer>-31</integer>
+    <key>oe</key>
+    <integer>-46</integer>
     <key>public.kern2.krA</key>
     <integer>-17</integer>
     <key>public.kern2.kra</key>
@@ -164,12 +178,34 @@
     <key>j</key>
     <integer>48</integer>
     <key>public.kern2.krf2</key>
+    <integer>68</integer>
+  </dict>
+  <key>hyphen</key>
+  <dict>
+    <key>V</key>
+    <integer>-105</integer>
+    <key>W</key>
+    <integer>-95</integer>
+  </dict>
+  <key>j</key>
+  <dict>
+    <key>public.kern2.krf2</key>
     <integer>60</integer>
   </dict>
   <key>n</key>
   <dict>
     <key>quoteright</key>
     <integer>-65</integer>
+  </dict>
+  <key>p</key>
+  <dict>
+    <key>public.kern2.krf2</key>
+    <integer>39</integer>
+  </dict>
+  <key>q</key>
+  <dict>
+    <key>public.kern2.krf2</key>
+    <integer>139</integer>
   </dict>
   <key>public.kern1.krA</key>
   <dict>
@@ -211,6 +247,11 @@
     <integer>-11</integer>
     <key>public.kern2.kro</key>
     <integer>-40</integer>
+  </dict>
+  <key>public.kern1.kry</key>
+  <dict>
+    <key>public.kern2.krf2</key>
+    <integer>103</integer>
   </dict>
 </dict>
 </plist>

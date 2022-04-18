@@ -460,6 +460,14 @@
   <string>egrave.smcp.glif</string>
   <key>eight</key>
   <string>eight.glif</string>
+  <key>eight.roman</key>
+  <string>eight.roman.glif</string>
+  <key>eight.romansmall</key>
+  <string>eight.romansmall.glif</string>
+  <key>eleven.roman</key>
+  <string>eleven.roman.glif</string>
+  <key>eleven.romansmall</key>
+  <string>eleven.romansmall.glif</string>
   <key>ellipsis</key>
   <string>ellipsis.glif</string>
   <key>emacron</key>
@@ -498,8 +506,20 @@
   <string>f_f_l.glif</string>
   <key>fi</key>
   <string>fi.glif</string>
+  <key>fifty.roman</key>
+  <string>fifty.roman.glif</string>
+  <key>fifty.romansmall</key>
+  <string>fifty.romansmall.glif</string>
   <key>five</key>
   <string>five.glif</string>
+  <key>five.roman</key>
+  <string>five.roman.glif</string>
+  <key>five.romansmall</key>
+  <string>five.romansmall.glif</string>
+  <key>fivehundred.roman</key>
+  <string>fivehundred.roman.glif</string>
+  <key>fivehundred.romansmall</key>
+  <string>fivehundred.romansmall.glif</string>
   <key>fl</key>
   <string>fl.glif</string>
   <key>fl.1</key>
@@ -508,6 +528,10 @@
   <string>florin.glif</string>
   <key>four</key>
   <string>four.glif</string>
+  <key>four.roman</key>
+  <string>four.roman.glif</string>
+  <key>four.romansmall</key>
+  <string>four.romansmall.glif</string>
   <key>fraction</key>
   <string>fraction.glif</string>
   <key>g</key>
@@ -652,6 +676,10 @@
   <string>ncaron.smcp.glif</string>
   <key>nine</key>
   <string>nine.glif</string>
+  <key>nine.roman</key>
+  <string>nine.roman.glif</string>
+  <key>nine.romansmall</key>
+  <string>nine.romansmall.glif</string>
   <key>nonbreakinghyphen</key>
   <string>nonbreakinghyphen.glif</string>
   <key>notequal</key>
@@ -698,14 +726,26 @@
   <string>one.glif</string>
   <key>one.alt</key>
   <string>one.alt.glif</string>
+  <key>one.roman</key>
+  <string>one.roman.glif</string>
+  <key>one.romansmall</key>
+  <string>one.romansmall.glif</string>
   <key>onedotenleader</key>
   <string>onedotenleader.glif</string>
   <key>onehalf</key>
   <string>onehalf.glif</string>
+  <key>onehundred.roman</key>
+  <string>onehundred.roman.glif</string>
+  <key>onehundred.romansmall</key>
+  <string>onehundred.romansmall.glif</string>
   <key>onequarter</key>
   <string>onequarter.glif</string>
   <key>onesuperior</key>
   <string>onesuperior.glif</string>
+  <key>onethousand.roman</key>
+  <string>onethousand.roman.glif</string>
+  <key>onethousand.romansmall</key>
+  <string>onethousand.romansmall.glif</string>
   <key>ordfeminine</key>
   <string>ordfeminine.glif</string>
   <key>ordmasculine</key>
@@ -830,8 +870,16 @@
   <string>semicolon.glif</string>
   <key>seven</key>
   <string>seven.glif</string>
+  <key>seven.roman</key>
+  <string>seven.roman.glif</string>
+  <key>seven.romansmall</key>
+  <string>seven.romansmall.glif</string>
   <key>six</key>
   <string>six.glif</string>
+  <key>six.roman</key>
+  <string>six.roman.glif</string>
+  <key>six.romansmall</key>
+  <string>six.romansmall.glif</string>
   <key>slash</key>
   <string>slash.glif</string>
   <key>space</key>
@@ -844,12 +892,20 @@
   <string>t.glif</string>
   <key>t.smcp</key>
   <string>t.smcp.glif</string>
+  <key>ten.roman</key>
+  <string>ten.roman.glif</string>
+  <key>ten.romansmall</key>
+  <string>ten.romansmall.glif</string>
   <key>thorn</key>
   <string>thorn.glif</string>
   <key>thorn.smcp</key>
   <string>thorn.smcp.glif</string>
   <key>three</key>
   <string>three.glif</string>
+  <key>three.roman</key>
+  <string>three.roman.glif</string>
+  <key>three.romansmall</key>
+  <string>three.romansmall.glif</string>
   <key>threequarters</key>
   <string>threequarters.glif</string>
   <key>threesuperior</key>
@@ -860,8 +916,16 @@
   <string>tilde.smcp.glif</string>
   <key>trademark</key>
   <string>trademark.glif</string>
+  <key>twelve.roman</key>
+  <string>twelve.roman.glif</string>
+  <key>twelve.romansmall</key>
+  <string>twelve.romansmall.glif</string>
   <key>two</key>
   <string>two.glif</string>
+  <key>two.roman</key>
+  <string>two.roman.glif</string>
+  <key>two.romansmall</key>
+  <string>two.romansmall.glif</string>
   <key>twoasterisksalignedvertically</key>
   <string>twoasterisksalignedvertically.glif</string>
   <key>twodotenleader</key>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Osmall" format="2">
+  <advance width="469"/>
+  <unicode hex="1D0F"/>
+  <anchor x="235" y="475" name="t.asciicircum_1"/>
+  <anchor x="235" y="488" name="t.dieresis"/>
+  <outline>
+    <contour>
+      <point x="125" y="221" type="curve" smooth="yes"/>
+      <point x="125" y="384"/>
+      <point x="169" y="429"/>
+      <point x="235" y="429" type="curve" smooth="yes"/>
+      <point x="300" y="429"/>
+      <point x="343" y="384"/>
+      <point x="343" y="221" type="curve" smooth="yes"/>
+      <point x="343" y="59"/>
+      <point x="300" y="13"/>
+      <point x="235" y="13" type="curve" smooth="yes"/>
+      <point x="169" y="13"/>
+      <point x="125" y="59"/>
+    </contour>
+    <contour>
+      <point x="29" y="221" type="curve" smooth="yes"/>
+      <point x="29" y="95"/>
+      <point x="104" y="-8"/>
+      <point x="235" y="-8" type="curve" smooth="yes"/>
+      <point x="366" y="-8"/>
+      <point x="440" y="95"/>
+      <point x="440" y="221" type="curve" smooth="yes"/>
+      <point x="440" y="349"/>
+      <point x="366" y="450"/>
+      <point x="235" y="450" type="curve" smooth="yes"/>
+      <point x="104" y="450"/>
+      <point x="29" y="349"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>755d594276c8276b9da2dd7238b2ec8f572b14851f15371afd9d78e8012330c12da3567550a144e09d59581a748954569a8bee62bbdb41a9e23a15643e33ed5c</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -8 21</string>
+          <string>hstem 429 21</string>
+          <string>vstem 29 96</string>
+          <string>vstem 343 97</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

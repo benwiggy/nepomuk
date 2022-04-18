@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex.smcp" format="2">
+  <advance width="313"/>
+  <anchor x="154" y="510" name="_t.asciicircum_1"/>
+  <outline>
+    <contour>
+      <point x="123" y="702" type="line"/>
+      <point x="99" y="655"/>
+      <point x="40" y="582"/>
+      <point x="0" y="545" type="curve"/>
+      <point x="8" y="523" type="line"/>
+      <point x="43" y="544"/>
+      <point x="107" y="589"/>
+      <point x="154" y="628" type="curve"/>
+      <point x="200" y="589"/>
+      <point x="264" y="544"/>
+      <point x="299" y="523" type="curve"/>
+      <point x="307" y="545" type="line"/>
+      <point x="267" y="582"/>
+      <point x="208" y="655"/>
+      <point x="184" y="702" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w313m123,702c99,655 40,582 0,545l8,523c43,544 107,589 154,628c200,589 264,544 299,523l307,545c267,582 208,655 184,702</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 702 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
