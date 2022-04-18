@@ -6,7 +6,8 @@ Based on characters designed by Florian Kretlow, the family has been expanded wi
 
 The accidentals can be accessed using the ligatures $b, $n, and $s, or directly using their Unicode values U+266D - U+266F).
 
-v2.01: More improvements to kerning; Small Caps have been added to Regular and Bold.
+v2.01: More improvements to kerning; Small Caps have been added to Regular and Bold styles.  
+v2.02: More kerning revisions! Also Unicode Roman Numerals to Regular and Italic styles.
 
 A small range of sample pages, such as this one below, can be found in the images folder.
 
