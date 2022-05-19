@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cacute.smcp" format="2">
+  <advance width="463"/>
+  <outline>
+    <component base="c.smcp"/>
+    <component base="acute" xOffset="125"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>c.smcp+acute</string>
+  </dict>
+  </lib>
+</glyph>

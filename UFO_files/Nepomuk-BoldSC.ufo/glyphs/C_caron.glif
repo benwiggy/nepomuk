@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ccaron" format="2">
+  <advance width="635"/>
+  <unicode hex="010C"/>
+  <anchor x="349" y="730" name="t.asciicircum_1"/>
+  <anchor x="349" y="750" name="t.dieresis"/>
+  <outline>
+    <component base="C"/>
+    <component base="caron" xOffset="195" yOffset="210"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>C+caron</string>
+  </dict>
+  </lib>
+</glyph>

@@ -38,6 +38,14 @@
     <string>Oslash</string>
     <string>Otilde</string>
   </array>
+  <key>public.kern1.krW</key>
+  <array>
+    <string>W</string>
+    <string>Wacute</string>
+    <string>Wcircumflex</string>
+    <string>Wdieresis</string>
+    <string>Wgrave</string>
+  </array>
   <key>public.kern1.kr_aSC</key>
   <array>
     <string>a.smcp</string>
@@ -47,6 +55,47 @@
     <string>agrave.smcp</string>
     <string>aring.smcp</string>
     <string>atilde.smcp</string>
+  </array>
+  <key>public.kern1.kr_iSC</key>
+  <array>
+    <string>i.smcp</string>
+    <string>iacute.smcp</string>
+    <string>icircumflex.smcp</string>
+    <string>idieresis.smcp</string>
+    <string>igrave.smcp</string>
+    <string>imacron.smcp</string>
+    <string>itilde.smcp</string>
+  </array>
+  <key>public.kern1.kr_oSC</key>
+  <array>
+    <string>o.smcp</string>
+    <string>oacute.smcp</string>
+    <string>obreve.smcp</string>
+    <string>ocircumflex.smcp</string>
+    <string>odieresis.smcp</string>
+    <string>ograve.smcp</string>
+    <string>omacron.smcp</string>
+    <string>oslash.smcp</string>
+    <string>otilde.smcp</string>
+  </array>
+  <key>public.kern1.kr_uSC</key>
+  <array>
+    <string>u.smcp</string>
+    <string>uacute.smcp</string>
+    <string>ubreve.smcp</string>
+    <string>ucircumflex.smcp</string>
+    <string>udieresis.smcp</string>
+    <string>ugrave.smcp</string>
+    <string>umacron.smcp</string>
+    <string>uring.smcp</string>
+    <string>utilde.smcp</string>
+  </array>
+  <key>public.kern1.kr_ySC</key>
+  <array>
+    <string>y.smcp</string>
+    <string>yacute.smcp</string>
+    <string>ycircumflex.smcp</string>
+    <string>ydieresis.smcp</string>
   </array>
   <key>public.kern1.kra</key>
   <array>
@@ -71,6 +120,19 @@
     <string>omacron</string>
     <string>oslash</string>
     <string>otilde</string>
+  </array>
+  <key>public.kern1.krpunct1</key>
+  <array>
+    <string>comma</string>
+    <string>period</string>
+  </array>
+  <key>public.kern1.kry</key>
+  <array>
+    <string>y</string>
+    <string>yacute</string>
+    <string>ycircumflex</string>
+    <string>ydieresis</string>
+    <string>ygrave</string>
   </array>
   <key>public.kern2.krA</key>
   <array>
@@ -117,6 +179,14 @@
     <string>Oslash</string>
     <string>Otilde</string>
   </array>
+  <key>public.kern2.krW</key>
+  <array>
+    <string>W</string>
+    <string>Wacute</string>
+    <string>Wcircumflex</string>
+    <string>Wdieresis</string>
+    <string>Wgrave</string>
+  </array>
   <key>public.kern2.kr_aSC</key>
   <array>
     <string>a.smcp</string>
@@ -126,6 +196,59 @@
     <string>agrave.smcp</string>
     <string>aring.smcp</string>
     <string>atilde.smcp</string>
+  </array>
+  <key>public.kern2.kr_eSC</key>
+  <array>
+    <string>e.smcp</string>
+    <string>eacute.smcp</string>
+    <string>ebreve.smcp</string>
+    <string>ecaron.smcp</string>
+    <string>ecircumflex.smcp</string>
+    <string>edieresis.smcp</string>
+    <string>edotaccent.smcp</string>
+    <string>egrave.smcp</string>
+    <string>emacron.smcp</string>
+  </array>
+  <key>public.kern2.kr_iSC</key>
+  <array>
+    <string>i.smcp</string>
+    <string>iacute.smcp</string>
+    <string>icircumflex.smcp</string>
+    <string>idieresis.smcp</string>
+    <string>igrave.smcp</string>
+    <string>imacron.smcp</string>
+    <string>itilde.smcp</string>
+  </array>
+  <key>public.kern2.kr_oSC</key>
+  <array>
+    <string>o.smcp</string>
+    <string>oacute.smcp</string>
+    <string>obreve.smcp</string>
+    <string>ocircumflex.smcp</string>
+    <string>odieresis.smcp</string>
+    <string>ograve.smcp</string>
+    <string>omacron.smcp</string>
+    <string>oslash.smcp</string>
+    <string>otilde.smcp</string>
+  </array>
+  <key>public.kern2.kr_uSC</key>
+  <array>
+    <string>u.smcp</string>
+    <string>uacute.smcp</string>
+    <string>ubreve.smcp</string>
+    <string>ucircumflex.smcp</string>
+    <string>udieresis.smcp</string>
+    <string>ugrave.smcp</string>
+    <string>umacron.smcp</string>
+    <string>uring.smcp</string>
+    <string>utilde.smcp</string>
+  </array>
+  <key>public.kern2.kr_ySC</key>
+  <array>
+    <string>y.smcp</string>
+    <string>yacute.smcp</string>
+    <string>ycircumflex.smcp</string>
+    <string>ydieresis.smcp</string>
   </array>
   <key>public.kern2.kra</key>
   <array>
@@ -197,6 +320,7 @@
     <string>yacute</string>
     <string>ycircumflex</string>
     <string>ydieresis</string>
+    <string>ygrave</string>
   </array>
   <key>ss01</key>
   <array>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iacute" format="2">
+  <advance width="337"/>
+  <unicode hex="00ED"/>
+  <anchor x="170" y="542" name="t.asciicircum_1"/>
+  <anchor x="170" y="556" name="t.dieresis"/>
+  <outline>
+    <component base="i"/>
+    <component base="acute.smcp" xOffset="64" yOffset="12"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>i+acute.smcp</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sacute.smcp" format="2">
-  <advance width="555"/>
-  <anchor x="275" y="568" name="t.asciicircum_1"/>
-  <anchor x="275" y="583" name="t.dieresis"/>
+  <advance width="533"/>
+  <anchor x="264" y="545" name="t.asciicircum_1"/>
+  <anchor x="264" y="560" name="t.dieresis"/>
   <outline>
     <component base="s.smcp"/>
-    <component base="acute.smcp" xOffset="169" yOffset="38"/>
+    <component base="acute.smcp" xOffset="158" yOffset="15"/>
   </outline>
   <lib>
   <dict>

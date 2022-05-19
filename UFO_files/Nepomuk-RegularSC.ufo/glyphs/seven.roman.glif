@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.roman" format="2">
+  <advance width="1404"/>
+  <unicode hex="2166"/>
+  <outline>
+    <component base="V" xOffset="14"/>
+    <component base="I" xOffset="706"/>
+    <component base="I" xOffset="1030"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

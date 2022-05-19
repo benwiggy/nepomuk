@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Obreve" format="2">
+  <advance width="683"/>
+  <unicode hex="014E"/>
+  <anchor x="349" y="730" name="t.asciicircum_1"/>
+  <anchor x="349" y="750" name="t.dieresis"/>
+  <outline>
+    <component base="O"/>
+    <component base="breve" xOffset="217" yOffset="230"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>O+breve</string>
+  </dict>
+  </lib>
+</glyph>

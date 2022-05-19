@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nacute.smcp" format="2">
-  <advance width="648"/>
-  <anchor x="334" y="568" name="t.asciicircum_1"/>
+  <advance width="623"/>
+  <anchor x="321" y="545" name="t.asciicircum_1"/>
   <outline>
     <component base="n.smcp"/>
-    <component base="acute.smcp" xOffset="228" yOffset="38"/>
+    <component base="acute.smcp" xOffset="215" yOffset="15"/>
   </outline>
   <lib>
   <dict>

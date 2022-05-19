@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gcircumflex.smcp" format="2">
+  <advance width="548"/>
+  <outline>
+    <component base="g.smcp"/>
+    <component base="circumflex" xOffset="121"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>g.smcp+circumflex</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ubreve.smcp" format="2">
+  <advance width="550"/>
+  <anchor x="248" y="510" name="t.asciicircum_1"/>
+  <outline>
+    <component base="u.smcp"/>
+    <component base="breve" xOffset="126" yOffset="16"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>u.smcp+breve</string>
+  </dict>
+  </lib>
+</glyph>

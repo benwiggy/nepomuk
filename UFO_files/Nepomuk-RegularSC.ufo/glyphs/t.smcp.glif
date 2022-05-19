@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t.smcp" format="2">
+  <advance width="337"/>
+  <outline>
+    <contour>
+      <point x="175" y="450" type="line"/>
+      <point x="175" y="666" type="line"/>
+      <point x="149" y="666" type="line"/>
+      <point x="127" y="575"/>
+      <point x="80" y="492"/>
+      <point x="8" y="438" type="curve"/>
+      <point x="8" y="415" type="line"/>
+      <point x="90" y="415" type="line"/>
+      <point x="90" y="125" type="line" smooth="yes"/>
+      <point x="90" y="41"/>
+      <point x="117" y="-12"/>
+      <point x="194" y="-12" type="curve" smooth="yes"/>
+      <point x="269" y="-12"/>
+      <point x="316" y="51"/>
+      <point x="316" y="182" type="curve" smooth="yes"/>
+      <point x="316" y="203" type="line"/>
+      <point x="286" y="203" type="line"/>
+      <point x="286" y="183" type="line" smooth="yes"/>
+      <point x="286" y="80"/>
+      <point x="256" y="38"/>
+      <point x="219" y="38" type="curve" smooth="yes"/>
+      <point x="196" y="38"/>
+      <point x="175" y="50"/>
+      <point x="175" y="139" type="curve" smooth="yes"/>
+      <point x="175" y="415" type="line"/>
+      <point x="286" y="415" type="line"/>
+      <point x="286" y="450" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>e92c1a78ce54584bdbfe4d4d6970527bf2c9bcc4e5f1faf06770ccf62db42fb92980daa69508caae7e8388b7c704887cca3119570c2e184329b8ac013b224c73</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -12 50</string>
+          <string>hstem 415 35</string>
+          <string>hstem 666 -20</string>
+          <string>vstem 90 85</string>
+          <string>vstem 286 30</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

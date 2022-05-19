@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breve.smcp" format="2">
+  <advance width="250"/>
+  <anchor x="125" y="497" name="_t.asciicircum_1"/>
+  <outline>
+    <component base="breve"/>
+  </outline>
+</glyph>

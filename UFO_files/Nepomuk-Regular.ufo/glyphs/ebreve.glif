@@ -6,7 +6,7 @@
   <anchor x="244" y="519" name="t.dieresis"/>
   <outline>
     <component base="e"/>
-    <component base="breve" xOffset="109"/>
+    <component base="breve" xOffset="122" yOffset="33"/>
   </outline>
   <lib>
   <dict>

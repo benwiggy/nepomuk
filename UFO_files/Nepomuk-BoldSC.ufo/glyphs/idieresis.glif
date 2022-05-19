@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idieresis" format="2">
+  <advance width="347"/>
+  <unicode hex="00EF"/>
+  <anchor x="176" y="555" name="t.asciicircum_1"/>
+  <anchor x="176" y="569" name="t.dieresis"/>
+  <outline>
+    <component base="i"/>
+    <component base="dieresis.smcp" xOffset="27" yOffset="39"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>i+dieresis.smcp</string>
+  </dict>
+  </lib>
+</glyph>

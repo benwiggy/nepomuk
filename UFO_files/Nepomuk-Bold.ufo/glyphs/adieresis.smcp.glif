@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="adieresis.smcp" format="2">
-  <advance width="621"/>
-  <anchor x="318" y="540" name="t.asciicircum_1"/>
-  <anchor x="318" y="563" name="t.dieresis"/>
+  <advance width="596"/>
+  <anchor x="305" y="519" name="t.asciicircum_1"/>
+  <anchor x="305" y="541" name="t.dieresis"/>
   <outline>
     <component base="a.smcp"/>
-    <component base="dieresis.smcp" xOffset="169" yOffset="33"/>
+    <component base="dieresis.smcp" xOffset="156" yOffset="11"/>
   </outline>
   <lib>
   <dict>

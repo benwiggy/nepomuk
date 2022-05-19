@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="x" format="2">
+  <advance width="591"/>
+  <unicode hex="0078"/>
+  <outline>
+    <contour>
+      <point x="238" y="25" type="line"/>
+      <point x="237" y="25"/>
+      <point x="235" y="25"/>
+      <point x="233" y="25" type="curve" smooth="yes"/>
+      <point x="231" y="25" type="line" smooth="yes"/>
+      <point x="229" y="25"/>
+      <point x="227" y="24"/>
+      <point x="226" y="24" type="curve" smooth="yes"/>
+      <point x="197" y="24" type="line" smooth="yes"/>
+      <point x="176" y="24"/>
+      <point x="155" y="26"/>
+      <point x="155" y="40" type="curve" smooth="yes"/>
+      <point x="155" y="61"/>
+      <point x="219" y="138"/>
+      <point x="254" y="179" type="curve" smooth="yes"/>
+      <point x="274" y="204" type="line"/>
+      <point x="365" y="78" type="line" smooth="yes"/>
+      <point x="372" y="67"/>
+      <point x="381" y="54"/>
+      <point x="381" y="45" type="curve" smooth="yes"/>
+      <point x="381" y="27"/>
+      <point x="360" y="25"/>
+      <point x="341" y="25" type="curve" smooth="yes"/>
+      <point x="328" y="25" type="line" smooth="yes"/>
+      <point x="325" y="25"/>
+      <point x="324" y="25"/>
+      <point x="322" y="25" type="curve" smooth="yes"/>
+      <point x="318" y="25" type="line"/>
+      <point x="318" y="0" type="line"/>
+      <point x="583" y="0" type="line"/>
+      <point x="583" y="25" type="line"/>
+      <point x="546" y="25" type="line" smooth="yes"/>
+      <point x="520" y="25"/>
+      <point x="512" y="35"/>
+      <point x="498" y="53" type="curve" smooth="yes"/>
+      <point x="490" y="63" type="line" smooth="yes"/>
+      <point x="337" y="273" type="line"/>
+      <point x="337" y="273" type="line"/>
+      <point x="457" y="424" type="line" smooth="yes"/>
+      <point x="488" y="463"/>
+      <point x="494" y="464"/>
+      <point x="533" y="464" type="curve" smooth="yes"/>
+      <point x="555" y="464" type="line"/>
+      <point x="555" y="490" type="line"/>
+      <point x="342" y="490" type="line"/>
+      <point x="342" y="464" type="line"/>
+      <point x="368" y="464" type="line" smooth="yes"/>
+      <point x="390" y="464"/>
+      <point x="417" y="463"/>
+      <point x="417" y="451" type="curve" smooth="yes"/>
+      <point x="417" y="435"/>
+      <point x="362" y="368"/>
+      <point x="332" y="334" type="curve" smooth="yes"/>
+      <point x="316" y="314" type="line"/>
+      <point x="313" y="318"/>
+      <point x="307" y="325"/>
+      <point x="303" y="329" type="curve" smooth="yes"/>
+      <point x="296" y="338" type="line" smooth="yes"/>
+      <point x="295" y="339"/>
+      <point x="295" y="340"/>
+      <point x="294" y="341" type="curve" smooth="yes"/>
+      <point x="294" y="342"/>
+      <point x="290" y="345"/>
+      <point x="286" y="348" type="curve" smooth="yes"/>
+      <point x="256" y="383"/>
+      <point x="217" y="429"/>
+      <point x="217" y="449" type="curve" smooth="yes"/>
+      <point x="217" y="451"/>
+      <point x="217" y="453"/>
+      <point x="218" y="454" type="curve" smooth="yes"/>
+      <point x="223" y="463"/>
+      <point x="242" y="464"/>
+      <point x="258" y="464" type="curve" smooth="yes"/>
+      <point x="286" y="464" type="line"/>
+      <point x="286" y="490" type="line"/>
+      <point x="37" y="490" type="line"/>
+      <point x="37" y="464" type="line"/>
+      <point x="71" y="464" type="line" smooth="yes"/>
+      <point x="93" y="464"/>
+      <point x="105" y="449"/>
+      <point x="115" y="434" type="curve" smooth="yes"/>
+      <point x="253" y="244" type="line"/>
+      <point x="253" y="244" type="line"/>
+      <point x="112" y="67" type="line" smooth="yes"/>
+      <point x="80" y="28"/>
+      <point x="76" y="25"/>
+      <point x="38" y="25" type="curve" smooth="yes"/>
+      <point x="13" y="25" type="line"/>
+      <point x="13" y="0" type="line"/>
+      <point x="238" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>3533c6f1fb8422baa507e950a77c518b1157a7a9f9337df395760bc30f4fbf21ae763069d65288bda45876f34481e9815e2d7525f00604364639abcfb44bb73a</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 25 12</string>
+          <string>hstem 435 16</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

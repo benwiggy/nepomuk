@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="otilde.smcp" format="2">
+  <advance width="488"/>
+  <anchor x="244" y="530" name="t.asciicircum_1"/>
+  <anchor x="244" y="530" name="t.dieresis"/>
+  <outline>
+    <component base="o.smcp"/>
+    <component base="tilde" xOffset="118" yOffset="-150"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>o.smcp+tilde</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="abreve.smcp" format="2">
+  <advance width="547"/>
+  <anchor x="261" y="530" name="t.asciicircum_1"/>
+  <anchor x="261" y="530" name="t.dieresis"/>
+  <outline>
+    <component base="a.smcp"/>
+    <component base="breve" xOffset="149"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>a.smcp+breve</string>
+  </dict>
+  </lib>
+</glyph>

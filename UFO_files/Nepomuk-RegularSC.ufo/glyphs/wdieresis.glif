@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wdieresis" format="2">
+  <advance width="724"/>
+  <unicode hex="1E85"/>
+  <anchor x="365" y="546" name="t.asciicircum_1"/>
+  <anchor x="365" y="560" name="t.dieresis"/>
+  <outline>
+    <component base="w"/>
+    <component base="dieresis.smcp" xOffset="216" yOffset="30"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>w+dieresis.smcp</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="edotaccent" format="2">
+  <advance width="523"/>
+  <unicode hex="0117"/>
+  <anchor x="278" y="537" name="t.asciicircum_1"/>
+  <anchor x="278" y="551" name="t.dieresis"/>
+  <outline>
+    <component base="e"/>
+    <component base="dotaccent.smcp" xOffset="114" yOffset="59"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e+dotaccent.smcp</string>
+  </dict>
+  </lib>
+</glyph>

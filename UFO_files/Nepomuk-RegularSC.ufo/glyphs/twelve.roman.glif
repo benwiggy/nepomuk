@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twelve.roman" format="2">
+  <advance width="1387"/>
+  <unicode hex="216B"/>
+  <outline>
+    <component base="X" xOffset="16"/>
+    <component base="I" xOffset="680"/>
+    <component base="I" xOffset="1014"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

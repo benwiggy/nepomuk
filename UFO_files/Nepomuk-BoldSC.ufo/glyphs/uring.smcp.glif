@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uring.smcp" format="2">
+  <advance width="582"/>
+  <outline>
+    <component base="u.smcp"/>
+    <component base="ring" xOffset="166"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>u.smcp+ring</string>
+  </dict>
+  </lib>
+</glyph>

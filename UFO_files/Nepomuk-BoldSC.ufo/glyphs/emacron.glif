@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emacron" format="2">
+  <advance width="542"/>
+  <unicode hex="0113"/>
+  <anchor x="291" y="527" name="t.asciicircum_1"/>
+  <anchor x="291" y="541" name="t.dieresis"/>
+  <outline>
+    <component base="e"/>
+    <component base="macron.smcp" xOffset="120" yOffset="33"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e+macron.smcp</string>
+  </dict>
+  </lib>
+</glyph>

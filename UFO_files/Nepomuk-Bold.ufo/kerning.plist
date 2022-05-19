@@ -4,12 +4,14 @@
 <dict>
   <key>B</key>
   <dict>
+    <key>U</key>
+    <integer>-11</integer>
+    <key>V</key>
+    <integer>-7</integer>
     <key>r</key>
     <integer>-20</integer>
-    <key>v</key>
-    <integer>-48</integer>
     <key>z</key>
-    <integer>-35</integer>
+    <integer>-6</integer>
     <key>public.kern2.kr_aSC</key>
     <integer>-40</integer>
     <key>public.kern2.kra</key>
@@ -21,187 +23,598 @@
   </dict>
   <key>D</key>
   <dict>
+    <key>AE</key>
+    <integer>-40</integer>
+    <key>V</key>
+    <integer>-16</integer>
+    <key>Y</key>
+    <integer>-13</integer>
     <key>ae.smcp</key>
     <integer>-131</integer>
     <key>public.kern2.krA</key>
-    <integer>-58</integer>
+    <integer>-13</integer>
     <key>public.kern2.kr_aSC</key>
-    <integer>-62</integer>
+    <integer>-82</integer>
     <key>public.kern2.krpunct1</key>
-    <integer>-64</integer>
+    <integer>-18</integer>
+  </dict>
+  <key>Eth</key>
+  <dict>
+    <key>V</key>
+    <integer>-22</integer>
+    <key>public.kern2.krA</key>
+    <integer>-19</integer>
   </dict>
   <key>F</key>
   <dict>
+    <key>AE</key>
+    <integer>-110</integer>
+    <key>J</key>
+    <integer>-9</integer>
+    <key>ae</key>
+    <integer>-24</integer>
     <key>ae.smcp</key>
     <integer>-147</integer>
+    <key>c</key>
+    <integer>-41</integer>
+    <key>colon</key>
+    <integer>-25</integer>
+    <key>d</key>
+    <integer>-31</integer>
+    <key>g</key>
+    <integer>-46</integer>
+    <key>guilsinglright</key>
+    <integer>-42</integer>
+    <key>hyphen</key>
+    <integer>-52</integer>
+    <key>q</key>
+    <integer>-36</integer>
+    <key>s</key>
+    <integer>-25</integer>
+    <key>semicolon</key>
+    <integer>-35</integer>
     <key>public.kern2.krA</key>
-    <integer>-89</integer>
+    <integer>-90</integer>
     <key>public.kern2.kr_aSC</key>
-    <integer>-96</integer>
+    <integer>-119</integer>
+    <key>public.kern2.kr_iSC</key>
+    <integer>-36</integer>
+    <key>public.kern2.kr_oSC</key>
+    <integer>-54</integer>
     <key>public.kern2.kra</key>
-    <integer>-61</integer>
+    <integer>-30</integer>
     <key>public.kern2.kre</key>
-    <integer>-78</integer>
+    <integer>-42</integer>
     <key>public.kern2.kro</key>
-    <integer>-72</integer>
+    <integer>-42</integer>
     <key>public.kern2.krpunct1</key>
-    <integer>-129</integer>
+    <integer>-126</integer>
   </dict>
   <key>G</key>
   <dict>
+    <key>AE</key>
+    <integer>-29</integer>
+    <key>public.kern2.krA</key>
+    <integer>-15</integer>
     <key>public.kern2.kr_aSC</key>
     <integer>-44</integer>
+  </dict>
+  <key>H</key>
+  <dict>
+    <key>c</key>
+    <integer>-12</integer>
+    <key>d</key>
+    <integer>-9</integer>
+    <key>q</key>
+    <integer>-9</integer>
+    <key>t</key>
+    <integer>-12</integer>
+    <key>v</key>
+    <integer>-55</integer>
+    <key>w</key>
+    <integer>-51</integer>
+    <key>public.kern2.kr_oSC</key>
+    <integer>-33</integer>
+    <key>public.kern2.kr_uSC</key>
+    <integer>-56</integer>
+    <key>public.kern2.kre</key>
+    <integer>-12</integer>
+    <key>public.kern2.kro</key>
+    <integer>-13</integer>
+    <key>public.kern2.kru</key>
+    <integer>-15</integer>
+    <key>public.kern2.kry</key>
+    <integer>-63</integer>
   </dict>
   <key>I</key>
   <dict>
     <key>ae.smcp</key>
     <integer>-12</integer>
+    <key>d</key>
+    <integer>-6</integer>
+    <key>eth</key>
+    <integer>-9</integer>
+    <key>q</key>
+    <integer>-6</integer>
+    <key>public.kern2.kr_oSC</key>
+    <integer>-18</integer>
+    <key>public.kern2.kr_uSC</key>
+    <integer>-26</integer>
+  </dict>
+  <key>J</key>
+  <dict>
+    <key>AE</key>
+    <integer>-18</integer>
+    <key>J</key>
+    <integer>-13</integer>
+    <key>d</key>
+    <integer>-8</integer>
+    <key>q</key>
+    <integer>-8</integer>
+    <key>s</key>
+    <integer>-6</integer>
+    <key>public.kern2.kr_aSC</key>
+    <integer>-74</integer>
+    <key>public.kern2.kr_oSC</key>
+    <integer>-20</integer>
+    <key>public.kern2.kra</key>
+    <integer>-13</integer>
+    <key>public.kern2.krpunct1</key>
+    <integer>-31</integer>
+  </dict>
+  <key>K</key>
+  <dict>
+    <key>G</key>
+    <integer>-28</integer>
+    <key>hyphen</key>
+    <integer>-65</integer>
+    <key>v</key>
+    <integer>-51</integer>
+    <key>w</key>
+    <integer>-47</integer>
+    <key>public.kern2.krC</key>
+    <integer>-27</integer>
+    <key>public.kern2.krO</key>
+    <integer>-28</integer>
+    <key>public.kern2.kr_oSC</key>
+    <integer>-18</integer>
+    <key>public.kern2.kru</key>
+    <integer>-7</integer>
+    <key>public.kern2.kry</key>
+    <integer>-56</integer>
   </dict>
   <key>L</key>
   <dict>
     <key>T</key>
-    <integer>-45</integer>
+    <integer>-25</integer>
+    <key>U</key>
+    <integer>-10</integer>
+    <key>V</key>
+    <integer>-65</integer>
+    <key>Y</key>
+    <integer>-63</integer>
+    <key>quoteright</key>
+    <integer>-60</integer>
+    <key>quotesingle</key>
+    <integer>-75</integer>
+    <key>public.kern2.krW</key>
+    <integer>-50</integer>
   </dict>
   <key>M</key>
   <dict>
-    <key>public.kern2.kra</key>
-    <integer>-45</integer>
-    <key>public.kern2.kre</key>
-    <integer>-45</integer>
+    <key>public.kern2.kr_oSC</key>
+    <integer>-48</integer>
     <key>public.kern2.kri</key>
     <integer>-10</integer>
-    <key>public.kern2.kro</key>
-    <integer>-33</integer>
-    <key>public.kern2.kru</key>
-    <integer>-38</integer>
   </dict>
   <key>N</key>
   <dict>
+    <key>AE</key>
+    <integer>-20</integer>
+    <key>ae</key>
+    <integer>-42</integer>
+    <key>c</key>
+    <integer>-49</integer>
+    <key>d</key>
+    <integer>-53</integer>
+    <key>f</key>
+    <integer>-20</integer>
+    <key>g</key>
+    <integer>-25</integer>
+    <key>j</key>
+    <integer>-16</integer>
+    <key>m</key>
+    <integer>-22</integer>
+    <key>n</key>
+    <integer>-22</integer>
+    <key>p</key>
+    <integer>-26</integer>
+    <key>q</key>
+    <integer>-53</integer>
+    <key>r</key>
+    <integer>-17</integer>
+    <key>s</key>
+    <integer>-19</integer>
+    <key>t</key>
+    <integer>-22</integer>
+    <key>v</key>
+    <integer>-20</integer>
+    <key>w</key>
+    <integer>-23</integer>
+    <key>x</key>
+    <integer>-9</integer>
+    <key>z</key>
+    <integer>-27</integer>
+    <key>public.kern2.kr_aSC</key>
+    <integer>-84</integer>
+    <key>public.kern2.kr_iSC</key>
+    <integer>-46</integer>
+    <key>public.kern2.kr_oSC</key>
+    <integer>-46</integer>
+    <key>public.kern2.kr_uSC</key>
+    <integer>-43</integer>
     <key>public.kern2.kra</key>
-    <integer>-55</integer>
+    <integer>-49</integer>
+    <key>public.kern2.kre</key>
+    <integer>-49</integer>
     <key>public.kern2.kri</key>
-    <integer>-41</integer>
+    <integer>-16</integer>
     <key>public.kern2.kro</key>
-    <integer>-59</integer>
+    <integer>-49</integer>
     <key>public.kern2.kru</key>
-    <integer>-48</integer>
+    <integer>-26</integer>
+    <key>public.kern2.kry</key>
+    <integer>-20</integer>
   </dict>
   <key>P</key>
   <dict>
-    <key>r</key>
-    <integer>-28</integer>
+    <key>c</key>
+    <integer>-19</integer>
+    <key>d</key>
+    <integer>-19</integer>
+    <key>g</key>
+    <integer>-60</integer>
+    <key>hyphen</key>
+    <integer>-107</integer>
+    <key>q</key>
+    <integer>-19</integer>
+    <key>s</key>
+    <integer>-8</integer>
+    <key>public.kern2.krA</key>
+    <integer>-82</integer>
     <key>public.kern2.kr_aSC</key>
-    <integer>-135</integer>
+    <integer>-143</integer>
+    <key>public.kern2.kr_oSC</key>
+    <integer>-61</integer>
     <key>public.kern2.kra</key>
-    <integer>-77</integer>
+    <integer>-12</integer>
     <key>public.kern2.kre</key>
-    <integer>-65</integer>
+    <integer>-19</integer>
     <key>public.kern2.kro</key>
-    <integer>-71</integer>
+    <integer>-68</integer>
     <key>public.kern2.krpunct1</key>
-    <integer>-141</integer>
+    <integer>-130</integer>
+  </dict>
+  <key>Q</key>
+  <dict>
+    <key>public.kern2.krA</key>
+    <integer>-11</integer>
+    <key>public.kern2.krpunct1</key>
+    <integer>-25</integer>
+  </dict>
+  <key>R</key>
+  <dict>
+    <key>T</key>
+    <integer>-30</integer>
+    <key>U</key>
+    <integer>-10</integer>
+    <key>V</key>
+    <integer>-44</integer>
+    <key>Y</key>
+    <integer>-40</integer>
+    <key>hyphen</key>
+    <integer>-22</integer>
+    <key>quoteright</key>
+    <integer>-26</integer>
+    <key>v</key>
+    <integer>-17</integer>
+    <key>w</key>
+    <integer>-16</integer>
+    <key>public.kern2.krW</key>
+    <integer>-33</integer>
+    <key>public.kern2.kry</key>
+    <integer>-20</integer>
   </dict>
   <key>S</key>
   <dict>
+    <key>AE</key>
+    <integer>-12</integer>
     <key>ae.smcp</key>
     <integer>-106</integer>
-    <key>public.kern2.krA</key>
-    <integer>-50</integer>
+    <key>z</key>
+    <integer>-8</integer>
     <key>public.kern2.kr_aSC</key>
-    <integer>-48</integer>
+    <integer>-63</integer>
   </dict>
   <key>T</key>
   <dict>
-    <key>r</key>
-    <integer>-14</integer>
+    <key>AE</key>
+    <integer>-40</integer>
+    <key>J</key>
+    <integer>-11</integer>
+    <key>c</key>
+    <integer>-18</integer>
+    <key>colon</key>
+    <integer>-10</integer>
+    <key>d</key>
+    <integer>-17</integer>
+    <key>g</key>
+    <integer>-27</integer>
+    <key>hyphen</key>
+    <integer>-35</integer>
+    <key>q</key>
+    <integer>-17</integer>
+    <key>semicolon</key>
+    <integer>-19</integer>
     <key>public.kern2.krA</key>
-    <integer>-77</integer>
+    <integer>-27</integer>
+    <key>public.kern2.krO</key>
+    <integer>-16</integer>
     <key>public.kern2.kr_aSC</key>
     <integer>-76</integer>
     <key>public.kern2.kra</key>
-    <integer>-57</integer>
+    <integer>-9</integer>
     <key>public.kern2.kre</key>
-    <integer>-57</integer>
+    <integer>-19</integer>
     <key>public.kern2.kro</key>
-    <integer>-58</integer>
+    <integer>-34</integer>
     <key>public.kern2.krpunct1</key>
-    <integer>-88</integer>
+    <integer>-77</integer>
   </dict>
   <key>U</key>
   <dict>
+    <key>J</key>
+    <integer>-27</integer>
+    <key>c</key>
+    <integer>-18</integer>
+    <key>d</key>
+    <integer>-21</integer>
+    <key>g</key>
+    <integer>-16</integer>
+    <key>j</key>
+    <integer>-24</integer>
+    <key>q</key>
+    <integer>-21</integer>
+    <key>r.smcp</key>
+    <integer>-56</integer>
+    <key>s</key>
+    <integer>-17</integer>
+    <key>z</key>
+    <integer>-10</integer>
     <key>public.kern2.krA</key>
-    <integer>-78</integer>
+    <integer>-42</integer>
     <key>public.kern2.kr_aSC</key>
-    <integer>-70</integer>
+    <integer>-108</integer>
+    <key>public.kern2.kr_oSC</key>
+    <integer>-54</integer>
+    <key>public.kern2.kra</key>
+    <integer>-23</integer>
+    <key>public.kern2.kre</key>
+    <integer>-18</integer>
+    <key>public.kern2.kro</key>
+    <integer>-20</integer>
     <key>public.kern2.krpunct1</key>
-    <integer>-141</integer>
+    <integer>-47</integer>
   </dict>
   <key>V</key>
   <dict>
+    <key>AE</key>
+    <integer>-145</integer>
+    <key>G</key>
+    <integer>-24</integer>
+    <key>S</key>
+    <integer>-11</integer>
+    <key>ae</key>
+    <integer>-80</integer>
     <key>ae.smcp</key>
     <integer>-243</integer>
-    <key>public.kern2.krA</key>
-    <integer>-207</integer>
-    <key>public.kern2.krO</key>
-    <integer>-62</integer>
-    <key>public.kern2.kr_aSC</key>
-    <integer>-193</integer>
-    <key>public.kern2.kra</key>
-    <integer>-116</integer>
-    <key>public.kern2.kre</key>
-    <integer>-101</integer>
-    <key>public.kern2.kro</key>
-    <integer>-101</integer>
-    <key>public.kern2.krpunct1</key>
-    <integer>-183</integer>
-    <key>public.kern2.kru</key>
-    <integer>-60</integer>
-  </dict>
-  <key>W</key>
-  <dict>
-    <key>ae.smcp</key>
-    <integer>-209</integer>
+    <key>c</key>
+    <integer>-89</integer>
+    <key>colon</key>
+    <integer>-64</integer>
+    <key>d</key>
+    <integer>-91</integer>
+    <key>f</key>
+    <integer>-20</integer>
+    <key>g</key>
+    <integer>-89</integer>
+    <key>guilsinglright</key>
+    <integer>-58</integer>
+    <key>hyphen</key>
+    <integer>-95</integer>
+    <key>j</key>
+    <integer>-40</integer>
+    <key>m</key>
+    <integer>-27</integer>
+    <key>n</key>
+    <integer>-27</integer>
+    <key>p</key>
+    <integer>-22</integer>
+    <key>q</key>
+    <integer>-83</integer>
     <key>r</key>
-    <integer>-70</integer>
+    <integer>-27</integer>
+    <key>s</key>
+    <integer>-74</integer>
+    <key>semicolon</key>
+    <integer>-85</integer>
+    <key>t</key>
+    <integer>-16</integer>
+    <key>v</key>
+    <integer>-16</integer>
+    <key>w</key>
+    <integer>-20</integer>
+    <key>x</key>
+    <integer>-41</integer>
+    <key>z</key>
+    <integer>-53</integer>
     <key>public.kern2.krA</key>
-    <integer>-144</integer>
+    <integer>-145</integer>
+    <key>public.kern2.krC</key>
+    <integer>-24</integer>
     <key>public.kern2.krO</key>
-    <integer>-57</integer>
+    <integer>-49</integer>
     <key>public.kern2.kr_aSC</key>
-    <integer>-165</integer>
+    <integer>-224</integer>
+    <key>public.kern2.kr_eSC</key>
+    <integer>-69</integer>
+    <key>public.kern2.kr_iSC</key>
+    <integer>-89</integer>
+    <key>public.kern2.kr_oSC</key>
+    <integer>-104</integer>
+    <key>public.kern2.kr_uSC</key>
+    <integer>-84</integer>
     <key>public.kern2.kra</key>
-    <integer>-115</integer>
+    <integer>-86</integer>
     <key>public.kern2.kre</key>
-    <integer>-112</integer>
+    <integer>-89</integer>
+    <key>public.kern2.kri</key>
+    <integer>-13</integer>
     <key>public.kern2.kro</key>
-    <integer>-103</integer>
+    <integer>-104</integer>
     <key>public.kern2.krpunct1</key>
-    <integer>-207</integer>
+    <integer>-138</integer>
     <key>public.kern2.kru</key>
-    <integer>-57</integer>
+    <integer>-22</integer>
     <key>public.kern2.kry</key>
-    <integer>-73</integer>
+    <integer>-28</integer>
+  </dict>
+  <key>X</key>
+  <dict>
+    <key>hyphen</key>
+    <integer>-53</integer>
+    <key>v</key>
+    <integer>-45</integer>
+    <key>w</key>
+    <integer>-41</integer>
+    <key>public.kern2.krC</key>
+    <integer>-22</integer>
+    <key>public.kern2.krO</key>
+    <integer>-22</integer>
+    <key>public.kern2.kr_oSC</key>
+    <integer>-33</integer>
+    <key>public.kern2.kr_uSC</key>
+    <integer>-41</integer>
+    <key>public.kern2.kry</key>
+    <integer>-50</integer>
   </dict>
   <key>Y</key>
   <dict>
+    <key>G</key>
+    <integer>-9</integer>
+    <key>J</key>
+    <integer>-24</integer>
     <key>Q</key>
     <integer>-31</integer>
     <key>ae.smcp</key>
     <integer>-171</integer>
+    <key>c</key>
+    <integer>-58</integer>
+    <key>colon</key>
+    <integer>-41</integer>
+    <key>d</key>
+    <integer>-61</integer>
+    <key>g</key>
+    <integer>-56</integer>
+    <key>guilsinglright</key>
+    <integer>-37</integer>
+    <key>hyphen</key>
+    <integer>-62</integer>
+    <key>j</key>
+    <integer>-29</integer>
+    <key>m</key>
+    <integer>-12</integer>
+    <key>n</key>
+    <integer>-12</integer>
+    <key>p</key>
+    <integer>-8</integer>
+    <key>q</key>
+    <integer>-57</integer>
+    <key>r</key>
+    <integer>-12</integer>
+    <key>s</key>
+    <integer>-46</integer>
+    <key>semicolon</key>
+    <integer>-58</integer>
+    <key>v</key>
+    <integer>-12</integer>
+    <key>w</key>
+    <integer>-12</integer>
+    <key>x</key>
+    <integer>-16</integer>
+    <key>z</key>
+    <integer>-35</integer>
+    <key>public.kern2.krA</key>
+    <integer>-46</integer>
+    <key>public.kern2.krC</key>
+    <integer>-10</integer>
+    <key>public.kern2.krO</key>
+    <integer>-23</integer>
     <key>public.kern2.kr_aSC</key>
     <integer>-114</integer>
+    <key>public.kern2.kr_eSC</key>
+    <integer>-59</integer>
+    <key>public.kern2.kr_oSC</key>
+    <integer>-89</integer>
+    <key>public.kern2.kr_uSC</key>
+    <integer>-69</integer>
+    <key>public.kern2.kra</key>
+    <integer>-59</integer>
+    <key>public.kern2.kre</key>
+    <integer>-58</integer>
+    <key>public.kern2.kri</key>
+    <integer>-12</integer>
+    <key>public.kern2.kro</key>
+    <integer>-66</integer>
     <key>public.kern2.krpunct1</key>
-    <integer>-118</integer>
+    <integer>-105</integer>
+    <key>public.kern2.kru</key>
+    <integer>-12</integer>
+    <key>public.kern2.kry</key>
+    <integer>-24</integer>
+  </dict>
+  <key>Z</key>
+  <dict>
+    <key>v</key>
+    <integer>-8</integer>
+    <key>w</key>
+    <integer>-8</integer>
+    <key>public.kern2.kry</key>
+    <integer>-13</integer>
+  </dict>
+  <key>ae</key>
+  <dict>
+    <key>b</key>
+    <integer>-50</integer>
   </dict>
   <key>b</key>
   <dict>
-    <key>public.kern2.krpunct1</key>
-    <integer>-37</integer>
+    <key>b</key>
+    <integer>-61</integer>
+    <key>j</key>
+    <integer>-8</integer>
+    <key>quotesingle</key>
+    <integer>-17</integer>
   </dict>
   <key>b.smcp</key>
   <dict>
     <key>ae.smcp</key>
     <integer>-66</integer>
+  </dict>
+  <key>c</key>
+  <dict>
+    <key>b</key>
+    <integer>-47</integer>
   </dict>
   <key>c.smcp</key>
   <dict>
@@ -215,12 +628,31 @@
     <key>public.kern2.kr_aSC</key>
     <integer>-56</integer>
   </dict>
+  <key>eth</key>
+  <dict>
+    <key>public.kern2.kra</key>
+    <integer>-11</integer>
+  </dict>
   <key>f</key>
   <dict>
+    <key>ae</key>
+    <integer>-8</integer>
+    <key>c</key>
+    <integer>-24</integer>
+    <key>d</key>
+    <integer>-23</integer>
+    <key>g</key>
+    <integer>-8</integer>
     <key>t</key>
     <integer>60</integer>
+    <key>public.kern2.kra</key>
+    <integer>-8</integer>
+    <key>public.kern2.kre</key>
+    <integer>-24</integer>
+    <key>public.kern2.kro</key>
+    <integer>-24</integer>
     <key>public.kern2.krpunct1</key>
-    <integer>-36</integer>
+    <integer>-13</integer>
   </dict>
   <key>f.smcp</key>
   <dict>
@@ -231,6 +663,8 @@
   </dict>
   <key>g</key>
   <dict>
+    <key>public.kern2.kro</key>
+    <integer>-35</integer>
     <key>public.kern2.krpunct1</key>
     <integer>-44</integer>
   </dict>
@@ -238,6 +672,61 @@
   <dict>
     <key>public.kern2.kr_aSC</key>
     <integer>-24</integer>
+  </dict>
+  <key>guilsinglleft</key>
+  <dict>
+    <key>V</key>
+    <integer>-46</integer>
+    <key>Y</key>
+    <integer>-51</integer>
+    <key>public.kern2.krW</key>
+    <integer>-34</integer>
+  </dict>
+  <key>h</key>
+  <dict>
+    <key>quoteright</key>
+    <integer>-11</integer>
+    <key>quotesingle</key>
+    <integer>-24</integer>
+    <key>t</key>
+    <integer>-9</integer>
+    <key>w</key>
+    <integer>-8</integer>
+    <key>public.kern2.kru</key>
+    <integer>-11</integer>
+  </dict>
+  <key>hyphen</key>
+  <dict>
+    <key>T</key>
+    <integer>-42</integer>
+    <key>V</key>
+    <integer>-84</integer>
+    <key>X</key>
+    <integer>-61</integer>
+    <key>Y</key>
+    <integer>-86</integer>
+    <key>x</key>
+    <integer>-44</integer>
+    <key>public.kern2.krA</key>
+    <integer>-36</integer>
+    <key>public.kern2.krW</key>
+    <integer>-69</integer>
+  </dict>
+  <key>j</key>
+  <dict>
+    <key>ae</key>
+    <integer>-20</integer>
+    <key>s</key>
+    <integer>-11</integer>
+    <key>z</key>
+    <integer>-11</integer>
+    <key>public.kern2.kra</key>
+    <integer>-28</integer>
+  </dict>
+  <key>k</key>
+  <dict>
+    <key>hyphen</key>
+    <integer>-46</integer>
   </dict>
   <key>longs</key>
   <dict>
@@ -250,10 +739,37 @@
     <key>public.kern2.kru</key>
     <integer>-20</integer>
   </dict>
+  <key>m</key>
+  <dict>
+    <key>quoteright</key>
+    <integer>-7</integer>
+    <key>quotesingle</key>
+    <integer>-21</integer>
+    <key>public.kern2.kru</key>
+    <integer>-7</integer>
+  </dict>
+  <key>n</key>
+  <dict>
+    <key>quoteright</key>
+    <integer>-9</integer>
+    <key>quotesingle</key>
+    <integer>-22</integer>
+    <key>public.kern2.kru</key>
+    <integer>-8</integer>
+  </dict>
   <key>n.smcp</key>
   <dict>
     <key>ae.smcp</key>
     <integer>-82</integer>
+    <key>public.kern2.kr_aSC</key>
+    <integer>-51</integer>
+  </dict>
+  <key>p</key>
+  <dict>
+    <key>b</key>
+    <integer>-61</integer>
+    <key>quotesingle</key>
+    <integer>-17</integer>
   </dict>
   <key>p.smcp</key>
   <dict>
@@ -262,10 +778,75 @@
     <key>public.kern2.kr_aSC</key>
     <integer>-70</integer>
   </dict>
+  <key>questiondown</key>
+  <dict>
+    <key>T</key>
+    <integer>-27</integer>
+    <key>V</key>
+    <integer>-18</integer>
+    <key>Y</key>
+    <integer>-13</integer>
+  </dict>
+  <key>quoteleft</key>
+  <dict>
+    <key>J</key>
+    <integer>-36</integer>
+    <key>c</key>
+    <integer>-44</integer>
+    <key>d</key>
+    <integer>-40</integer>
+    <key>g</key>
+    <integer>-90</integer>
+    <key>q</key>
+    <integer>-41</integer>
+    <key>s</key>
+    <integer>-30</integer>
+    <key>public.kern2.krA</key>
+    <integer>-126</integer>
+    <key>public.kern2.krO</key>
+    <integer>-44</integer>
+    <key>public.kern2.kra</key>
+    <integer>-33</integer>
+    <key>public.kern2.kre</key>
+    <integer>-45</integer>
+    <key>public.kern2.kro</key>
+    <integer>-90</integer>
+  </dict>
+  <key>quotesinglbase</key>
+  <dict>
+    <key>T</key>
+    <integer>-50</integer>
+    <key>U</key>
+    <integer>-27</integer>
+    <key>V</key>
+    <integer>-126</integer>
+    <key>Y</key>
+    <integer>-114</integer>
+    <key>v</key>
+    <integer>-29</integer>
+    <key>w</key>
+    <integer>-27</integer>
+    <key>public.kern2.krW</key>
+    <integer>-118</integer>
+  </dict>
+  <key>quotesingle</key>
+  <dict>
+    <key>public.kern2.krA</key>
+    <integer>-123</integer>
+  </dict>
   <key>r</key>
   <dict>
+    <key>b</key>
+    <integer>-40</integer>
     <key>t</key>
     <integer>24</integer>
+    <key>public.kern2.krpunct1</key>
+    <integer>-26</integer>
+  </dict>
+  <key>s</key>
+  <dict>
+    <key>b</key>
+    <integer>-46</integer>
   </dict>
   <key>s.smcp</key>
   <dict>
@@ -283,103 +864,278 @@
   </dict>
   <key>v</key>
   <dict>
-    <key>public.kern2.kra</key>
-    <integer>-35</integer>
+    <key>b</key>
+    <integer>-43</integer>
+    <key>c</key>
+    <integer>-10</integer>
+    <key>d</key>
+    <integer>-9</integer>
+    <key>g</key>
+    <integer>-13</integer>
+    <key>hyphen</key>
+    <integer>-13</integer>
+    <key>public.kern2.kre</key>
+    <integer>-10</integer>
     <key>public.kern2.kro</key>
-    <integer>-27</integer>
+    <integer>-26</integer>
     <key>public.kern2.krpunct1</key>
-    <integer>-66</integer>
+    <integer>-63</integer>
   </dict>
   <key>v.smcp</key>
   <dict>
     <key>ae.smcp</key>
     <integer>-227</integer>
     <key>public.kern2.kr_aSC</key>
-    <integer>-129</integer>
+    <integer>-164</integer>
   </dict>
   <key>w</key>
   <dict>
-    <key>public.kern2.kra</key>
+    <key>b</key>
     <integer>-38</integer>
+    <key>public.kern2.kro</key>
+    <integer>-17</integer>
+    <key>public.kern2.krpunct1</key>
+    <integer>-52</integer>
   </dict>
   <key>w.smcp</key>
   <dict>
     <key>ae.smcp</key>
     <integer>-173</integer>
     <key>public.kern2.kr_aSC</key>
-    <integer>-119</integer>
+    <integer>-160</integer>
   </dict>
-  <key>y.smcp</key>
+  <key>x</key>
   <dict>
-    <key>ae.smcp</key>
-    <integer>-123</integer>
+    <key>hyphen</key>
+    <integer>-48</integer>
+  </dict>
+  <key>z</key>
+  <dict>
+    <key>b</key>
+    <integer>-9</integer>
   </dict>
   <key>public.kern1.krA</key>
   <dict>
     <key>G</key>
-    <integer>-40</integer>
+    <integer>-15</integer>
     <key>Q</key>
-    <integer>-28</integer>
+    <integer>-14</integer>
     <key>T</key>
-    <integer>-88</integer>
+    <integer>-34</integer>
     <key>U</key>
-    <integer>-44</integer>
+    <integer>-36</integer>
     <key>V</key>
-    <integer>-131</integer>
-    <key>W</key>
-    <integer>-134</integer>
+    <integer>-127</integer>
     <key>Y</key>
-    <integer>-115</integer>
-    <key>d</key>
+    <integer>-58</integer>
+    <key>eth</key>
+    <integer>-9</integer>
+    <key>hyphen</key>
     <integer>-21</integer>
-    <key>p</key>
-    <integer>-25</integer>
-    <key>q</key>
-    <integer>-25</integer>
+    <key>quoteright</key>
+    <integer>-74</integer>
+    <key>quotesingle</key>
+    <integer>-92</integer>
     <key>v</key>
-    <integer>-65</integer>
+    <integer>-53</integer>
     <key>v.smcp</key>
     <integer>-86</integer>
     <key>w</key>
-    <integer>-91</integer>
+    <integer>-52</integer>
+    <key>w.smcp</key>
+    <integer>-102</integer>
     <key>public.kern2.krC</key>
-    <integer>-40</integer>
+    <integer>-14</integer>
     <key>public.kern2.krO</key>
-    <integer>-40</integer>
-    <key>public.kern2.kro</key>
     <integer>-15</integer>
+    <key>public.kern2.krW</key>
+    <integer>-111</integer>
+    <key>public.kern2.kr_uSC</key>
+    <integer>-54</integer>
     <key>public.kern2.kry</key>
-    <integer>-63</integer>
+    <integer>-38</integer>
   </dict>
   <key>public.kern1.krO</key>
   <dict>
+    <key>V</key>
+    <integer>-14</integer>
+    <key>X</key>
+    <integer>-17</integer>
+    <key>Y</key>
+    <integer>-11</integer>
+    <key>public.kern2.krA</key>
+    <integer>-11</integer>
     <key>public.kern2.kr_aSC</key>
     <integer>-54</integer>
     <key>public.kern2.krpunct1</key>
+    <integer>-16</integer>
+  </dict>
+  <key>public.kern1.krW</key>
+  <dict>
+    <key>S</key>
+    <integer>-6</integer>
+    <key>ae.smcp</key>
+    <integer>-209</integer>
+    <key>c</key>
+    <integer>-69</integer>
+    <key>colon</key>
+    <integer>-49</integer>
+    <key>d</key>
+    <integer>-71</integer>
+    <key>f</key>
+    <integer>-11</integer>
+    <key>g</key>
+    <integer>-72</integer>
+    <key>guilsinglright</key>
+    <integer>-40</integer>
+    <key>hyphen</key>
+    <integer>-74</integer>
+    <key>j</key>
+    <integer>-37</integer>
+    <key>m</key>
+    <integer>-14</integer>
+    <key>n</key>
+    <integer>-14</integer>
+    <key>q</key>
+    <integer>-67</integer>
+    <key>r</key>
+    <integer>-14</integer>
+    <key>r.smcp</key>
+    <integer>-59</integer>
+    <key>s</key>
+    <integer>-59</integer>
+    <key>semicolon</key>
+    <integer>-67</integer>
+    <key>t</key>
+    <integer>-7</integer>
+    <key>x</key>
+    <integer>-28</integer>
+    <key>z</key>
+    <integer>-41</integer>
+    <key>public.kern2.krA</key>
+    <integer>-115</integer>
+    <key>public.kern2.krC</key>
+    <integer>-18</integer>
+    <key>public.kern2.krO</key>
+    <integer>-37</integer>
+    <key>public.kern2.kr_aSC</key>
+    <integer>-165</integer>
+    <key>public.kern2.kr_eSC</key>
+    <integer>-77</integer>
+    <key>public.kern2.kr_iSC</key>
+    <integer>-67</integer>
+    <key>public.kern2.kr_oSC</key>
+    <integer>-107</integer>
+    <key>public.kern2.kr_uSC</key>
+    <integer>-69</integer>
+    <key>public.kern2.kra</key>
     <integer>-68</integer>
+    <key>public.kern2.kre</key>
+    <integer>-69</integer>
+    <key>public.kern2.kri</key>
+    <integer>-9</integer>
+    <key>public.kern2.kro</key>
+    <integer>-80</integer>
+    <key>public.kern2.krpunct1</key>
+    <integer>-126</integer>
+    <key>public.kern2.kry</key>
+    <integer>-16</integer>
   </dict>
   <key>public.kern1.kr_aSC</key>
   <dict>
+    <key>c.smcp</key>
+    <integer>-30</integer>
+    <key>g.smcp</key>
+    <integer>-42</integer>
+    <key>t.smcp</key>
+    <integer>-46</integer>
     <key>v.smcp</key>
-    <integer>-98</integer>
+    <integer>-136</integer>
     <key>w.smcp</key>
     <integer>-104</integer>
-    <key>y.smcp</key>
+    <key>public.kern2.kr_oSC</key>
+    <integer>-34</integer>
+    <key>public.kern2.kr_uSC</key>
+    <integer>-56</integer>
+    <key>public.kern2.kr_ySC</key>
     <integer>-79</integer>
+  </dict>
+  <key>public.kern1.kr_iSC</key>
+  <dict>
+    <key>v.smcp</key>
+    <integer>-20</integer>
+  </dict>
+  <key>public.kern1.kr_oSC</key>
+  <dict>
+    <key>v.smcp</key>
+    <integer>-59</integer>
+    <key>public.kern2.kr_aSC</key>
+    <integer>-61</integer>
+    <key>public.kern2.kr_ySC</key>
+    <integer>-38</integer>
+  </dict>
+  <key>public.kern1.kr_uSC</key>
+  <dict>
+    <key>public.kern2.kr_aSC</key>
+    <integer>-105</integer>
+    <key>public.kern2.kr_oSC</key>
+    <integer>-28</integer>
+  </dict>
+  <key>public.kern1.kr_ySC</key>
+  <dict>
+    <key>ae.smcp</key>
+    <integer>-123</integer>
   </dict>
   <key>public.kern1.kra</key>
   <dict>
+    <key>quoteright</key>
+    <integer>-24</integer>
+    <key>quotesingle</key>
+    <integer>-35</integer>
     <key>v</key>
-    <integer>-51</integer>
+    <integer>-16</integer>
     <key>w</key>
-    <integer>-43</integer>
+    <integer>-20</integer>
     <key>public.kern2.kry</key>
-    <integer>-51</integer>
+    <integer>-17</integer>
+  </dict>
+  <key>public.kern1.kre</key>
+  <dict>
+    <key>b</key>
+    <integer>-58</integer>
   </dict>
   <key>public.kern1.kro</key>
   <dict>
-    <key>public.kern2.kry</key>
-    <integer>-20</integer>
+    <key>b</key>
+    <integer>-56</integer>
+    <key>j</key>
+    <integer>-12</integer>
+    <key>quoteright</key>
+    <integer>-9</integer>
+    <key>quotesingle</key>
+    <integer>-18</integer>
+  </dict>
+  <key>public.kern1.krpunct1</key>
+  <dict>
+    <key>T</key>
+    <integer>-63</integer>
+    <key>V</key>
+    <integer>-130</integer>
+    <key>Y</key>
+    <integer>-110</integer>
+    <key>public.kern2.krW</key>
+    <integer>-122</integer>
+  </dict>
+  <key>public.kern1.kry</key>
+  <dict>
+    <key>g</key>
+    <integer>-13</integer>
+    <key>hyphen</key>
+    <integer>-15</integer>
+    <key>public.kern2.kro</key>
+    <integer>-31</integer>
+    <key>public.kern2.krpunct1</key>
+    <integer>-78</integer>
   </dict>
 </dict>
 </plist>

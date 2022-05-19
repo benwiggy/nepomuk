@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucircumflex" format="2">
+  <advance width="556"/>
+  <unicode hex="00FB"/>
+  <anchor x="294" y="537" name="t.asciicircum_1"/>
+  <anchor x="294" y="551" name="t.dieresis"/>
+  <outline>
+    <component base="u"/>
+    <component base="circumflex.smcp" xOffset="140" yOffset="27"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>u+circumflex.smcp</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="igrave.smcp" format="2">
-  <advance width="351"/>
-  <anchor x="177" y="564" name="t.asciicircum_1"/>
-  <anchor x="177" y="579" name="t.dieresis"/>
+  <advance width="337"/>
+  <anchor x="170" y="542" name="t.asciicircum_1"/>
+  <anchor x="170" y="556" name="t.dieresis"/>
   <outline>
     <component base="i.smcp"/>
-    <component base="grave.c2sc" xOffset="71" yOffset="34"/>
+    <component base="grave.c2sc" xOffset="64" yOffset="12"/>
   </outline>
   <lib>
   <dict>

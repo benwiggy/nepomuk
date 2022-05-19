@@ -47,6 +47,38 @@
     <string>Oslash</string>
     <string>Otilde</string>
   </array>
+  <key>public.kern1.krW</key>
+  <array>
+    <string>W</string>
+    <string>Wacute</string>
+    <string>Wcircumflex</string>
+    <string>Wdieresis</string>
+    <string>Wgrave</string>
+  </array>
+  <key>public.kern1.kra</key>
+  <array>
+    <string>a</string>
+    <string>aacute</string>
+    <string>abreve</string>
+    <string>acircumflex</string>
+    <string>adieresis</string>
+    <string>agrave</string>
+    <string>amacron</string>
+    <string>aring</string>
+    <string>atilde</string>
+  </array>
+  <key>public.kern1.kro</key>
+  <array>
+    <string>o</string>
+    <string>oacute</string>
+    <string>obreve</string>
+    <string>ocircumflex</string>
+    <string>odieresis</string>
+    <string>ograve</string>
+    <string>omacron</string>
+    <string>oslash</string>
+    <string>otilde</string>
+  </array>
   <key>public.kern1.kry</key>
   <array>
     <string>y</string>
@@ -66,17 +98,13 @@
     <string>Aring</string>
     <string>Atilde</string>
   </array>
-  <key>public.kern2.krO</key>
+  <key>public.kern2.krW</key>
   <array>
-    <string>O</string>
-    <string>Oacute</string>
-    <string>Obreve</string>
-    <string>Ocircumflex</string>
-    <string>Odieresis</string>
-    <string>Ograve</string>
-    <string>Omacron</string>
-    <string>Oslash</string>
-    <string>Otilde</string>
+    <string>W</string>
+    <string>Wacute</string>
+    <string>Wcircumflex</string>
+    <string>Wdieresis</string>
+    <string>Wgrave</string>
   </array>
   <key>public.kern2.kra</key>
   <array>
@@ -145,6 +173,13 @@
     <string>umacron</string>
     <string>uring</string>
     <string>utilde</string>
+  </array>
+  <key>public.kern2.kry</key>
+  <array>
+    <string>y</string>
+    <string>yacute</string>
+    <string>ycircumflex</string>
+    <string>ydieresis</string>
   </array>
 </dict>
 </plist>

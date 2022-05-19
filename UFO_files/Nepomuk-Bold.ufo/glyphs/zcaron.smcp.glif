@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zcaron.smcp" format="2">
-  <advance width="541"/>
-  <anchor x="280" y="560" name="t.asciicircum_1"/>
-  <anchor x="280" y="583" name="t.dieresis"/>
+  <advance width="520"/>
+  <anchor x="269" y="538" name="t.asciicircum_1"/>
+  <anchor x="269" y="560" name="t.dieresis"/>
   <outline>
     <component base="z.smcp"/>
-    <component base="caroncomb.smcp" xOffset="126" yOffset="40"/>
+    <component base="caroncomb.smcp" xOffset="115" yOffset="18"/>
   </outline>
   <lib>
   <dict>

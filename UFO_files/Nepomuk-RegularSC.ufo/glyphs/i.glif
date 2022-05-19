@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i" format="2">
+  <advance width="337"/>
+  <unicode hex="0069"/>
+  <anchor x="170" y="542" name="t.asciicircum_1"/>
+  <anchor x="170" y="556" name="t.dieresis"/>
+  <outline>
+    <contour>
+      <point x="214.147" y="436.937" type="line" smooth="yes"/>
+      <point x="214.147" y="470.547"/>
+      <point x="218.948" y="473.428"/>
+      <point x="255.44" y="473.428" type="curve" smooth="yes"/>
+      <point x="288.09" y="473.428" type="line"/>
+      <point x="288.09" y="499.356" type="line"/>
+      <point x="48.9753" y="499.356" type="line"/>
+      <point x="48.9753" y="473.428" type="line"/>
+      <point x="82.5858" y="473.428" type="line" smooth="yes"/>
+      <point x="119.077" y="473.428"/>
+      <point x="123.879" y="470.547"/>
+      <point x="123.879" y="436.937" type="curve" smooth="yes"/>
+      <point x="123.879" y="62.4195" type="line" smooth="yes"/>
+      <point x="123.879" y="29.7693"/>
+      <point x="119.077" y="25.9281"/>
+      <point x="82.5858" y="25.9281" type="curve" smooth="yes"/>
+      <point x="48.9753" y="25.9281" type="line"/>
+      <point x="48.9753" y="0" type="line"/>
+      <point x="288.09" y="0" type="line"/>
+      <point x="288.09" y="25.9281" type="line"/>
+      <point x="255.44" y="25.9281" type="line" smooth="yes"/>
+      <point x="218.948" y="25.9281"/>
+      <point x="214.147" y="36.4914"/>
+      <point x="214.147" y="62.4195" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>fbd8995ee702eee88149a59c69fa1a63c162e0dca2f8fc05eedcb2e05ccc34f3d889325d18c26ab6aaf3d6b3b80857fb6646a13e049cf6c24c7bdb4a260afed2</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 25.93</string>
+          <string>hstem 473.43 25.93</string>
+          <string>vstem 123.88 90.27</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

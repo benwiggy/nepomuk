@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ncaron.smcp" format="2">
-  <advance width="615"/>
-  <anchor x="311" y="559" name="t.asciicircum_1"/>
+  <advance width="591"/>
+  <anchor x="299" y="537" name="t.asciicircum_1"/>
   <outline>
     <component base="n.smcp"/>
-    <component base="caroncomb.smcp" xOffset="158" yOffset="57"/>
+    <component base="caroncomb.smcp" xOffset="146" yOffset="35"/>
   </outline>
   <lib>
   <dict>

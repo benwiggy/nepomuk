@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onedotenleader" format="2">
+  <advance width="500"/>
+  <unicode hex="2024"/>
+  <outline>
+    <contour>
+      <point x="199" y="59" type="curve" smooth="yes"/>
+      <point x="199" y="20"/>
+      <point x="231" y="-12"/>
+      <point x="270" y="-12" type="curve" smooth="yes"/>
+      <point x="309" y="-12"/>
+      <point x="341" y="20"/>
+      <point x="341" y="59" type="curve" smooth="yes"/>
+      <point x="341" y="98"/>
+      <point x="309" y="130"/>
+      <point x="270" y="130" type="curve" smooth="yes"/>
+      <point x="231" y="130"/>
+      <point x="199" y="98"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w500m199,59c199,20 231,-12 270,-12c309,-12 341,20 341,59c341,98 309,130 270,130c231,130 199,98 199,59</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -12 142</string>
+          <string>vstem 199 142</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

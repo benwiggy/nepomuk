@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zacute" format="2">
+  <advance width="522"/>
+  <unicode hex="017A"/>
+  <anchor x="269" y="556" name="t.asciicircum_1"/>
+  <anchor x="269" y="570" name="t.dieresis"/>
+  <outline>
+    <component base="z"/>
+    <component base="acute.smcp" xOffset="163" yOffset="26"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>z+acute.smcp</string>
+  </dict>
+  </lib>
+</glyph>

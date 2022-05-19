@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jcircumflex.smcp" format="2">
+  <advance width="323"/>
+  <outline>
+    <component base="dotlessj.smcp"/>
+    <component base="circumflex" xOffset="8"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessj.smcp+circumflex</string>
+  </dict>
+  </lib>
+</glyph>

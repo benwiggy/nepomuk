@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ygrave" format="2">
+  <advance width="594"/>
+  <unicode hex="1EF3"/>
+  <anchor x="316" y="558" name="t.asciicircum_1"/>
+  <anchor x="316" y="573" name="t.dieresis"/>
+  <outline>
+    <component base="y"/>
+    <component base="grave.smcp" xOffset="210" yOffset="28"/>
+  </outline>
+</glyph>

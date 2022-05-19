@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zcaron.smcp" format="2">
+  <advance width="436"/>
+  <outline>
+    <component base="z.smcp"/>
+    <component base="caron" xOffset="65"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>z.smcp+caron</string>
+  </dict>
+  </lib>
+</glyph>

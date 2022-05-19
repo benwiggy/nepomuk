@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocircumflex.smcp" format="2">
+  <advance width="518"/>
+  <anchor x="260" y="530" name="t.asciicircum_1"/>
+  <anchor x="260" y="530" name="t.dieresis"/>
+  <outline>
+    <component base="o.smcp"/>
+    <component base="circumflex.smcp" xOffset="106" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  </dict>
+  </lib>
+</glyph>

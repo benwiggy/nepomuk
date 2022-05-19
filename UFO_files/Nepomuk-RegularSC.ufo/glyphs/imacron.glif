@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="imacron" format="2">
+  <advance width="337"/>
+  <unicode hex="012B"/>
+  <anchor x="170" y="542" name="t.asciicircum_1"/>
+  <anchor x="170" y="556" name="t.dieresis"/>
+  <outline>
+    <component base="i"/>
+    <component base="macron.smcp" xOffset="-1" yOffset="68"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>i+macron.smcp</string>
+  </dict>
+  </lib>
+</glyph>

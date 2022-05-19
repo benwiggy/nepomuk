@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zdotaccent" format="2">
+  <advance width="520"/>
+  <unicode hex="017C"/>
+  <anchor x="269" y="538" name="t.asciicircum_1"/>
+  <anchor x="269" y="560" name="t.dieresis"/>
+  <outline>
+    <component base="z"/>
+    <component base="dotaccent.smcp" xOffset="104" yOffset="8"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>z+dotaccent.smcp</string>
+  </dict>
+  </lib>
+</glyph>
