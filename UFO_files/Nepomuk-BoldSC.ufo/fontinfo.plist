@@ -135,7 +135,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2014/09/03 22:23:51</string>
+  <string>2014/09/03 23:23:51</string>
   <key>openTypeHeadFlags</key>
   <array>
   </array>
@@ -150,7 +150,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <key>openTypeNamePreferredFamilyName</key>
   <string>Nepomuk</string>
   <key>openTypeNamePreferredSubfamilyName</key>
-  <string>SmallCapsBold</string>
+  <string>SmallCaps Bold</string>
   <key>openTypeNameVersion</key>
   <string>Version 2.030</string>
   <key>openTypeOS2CodePageRanges</key>
@@ -245,7 +245,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>Nepomuk SmallCapsBold</string>
+  <string>Nepomuk SmallCaps Bold</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptOtherBlues</key>
@@ -264,7 +264,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <key>styleMapStyleName</key>
   <string>bold</string>
   <key>styleName</key>
-  <string>SmallCapsBold</string>
+  <string>SmallCaps Bold</string>
   <key>unitsPerEm</key>
   <integer>1024</integer>
   <key>versionMajor</key>

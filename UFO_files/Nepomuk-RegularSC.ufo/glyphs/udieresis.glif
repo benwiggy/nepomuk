@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="udieresis" format="2">
-  <advance width="556"/>
+  <advance width="555"/>
   <unicode hex="00FC"/>
   <anchor x="294" y="537" name="t.asciicircum_1"/>
   <anchor x="294" y="551" name="t.dieresis"/>

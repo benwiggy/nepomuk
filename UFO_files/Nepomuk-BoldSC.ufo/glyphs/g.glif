@@ -1,60 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="g" format="2">
-  <advance width="590"/>
+  <advance width="588"/>
   <unicode hex="0067"/>
   <anchor x="291" y="545" name="t.asciicircum_1"/>
   <anchor x="291" y="560" name="t.dieresis"/>
   <outline>
     <contour>
-      <point x="491.674" y="195.901" type="line" smooth="yes"/>
-      <point x="491.674" y="228.551"/>
-      <point x="494.555" y="232.393"/>
-      <point x="520.483" y="232.393" type="curve" smooth="yes"/>
-      <point x="565.617" y="232.393" type="line"/>
-      <point x="565.617" y="258.321" type="line"/>
-      <point x="314.018" y="258.321" type="line"/>
-      <point x="314.018" y="232.393" type="line"/>
-      <point x="359.152" y="232.393" type="line" smooth="yes"/>
-      <point x="385.08" y="232.393"/>
-      <point x="387.961" y="228.551"/>
-      <point x="387.961" y="195.901" type="curve" smooth="yes"/>
-      <point x="387.961" y="134.442" type="line" smooth="yes"/>
-      <point x="387.961" y="52.8165"/>
-      <point x="337.065" y="19.206"/>
-      <point x="293.852" y="19.206" type="curve" smooth="yes"/>
-      <point x="222.79" y="19.206"/>
-      <point x="160.37" y="65.3004"/>
-      <point x="160.37" y="246.797" type="curve" smooth="yes"/>
-      <point x="160.37" y="425.413"/>
-      <point x="218.948" y="472.468"/>
-      <point x="286.169" y="472.468" type="curve" smooth="yes"/>
-      <point x="342.827" y="472.468"/>
-      <point x="405.247" y="438.857"/>
-      <point x="427.334" y="314.018" type="curve"/>
-      <point x="484.952" y="314.018" type="line"/>
-      <point x="484.952" y="498.396" type="line"/>
-      <point x="433.095" y="498.396" type="line"/>
-      <point x="426.373" y="487.832" type="line"/>
-      <point x="409.088" y="465.746" type="line"/>
-      <point x="380.279" y="478.229" type="line" smooth="yes"/>
-      <point x="346.668" y="492.634"/>
-      <point x="323.621" y="498.396"/>
-      <point x="288.09" y="498.396" type="curve" smooth="yes"/>
-      <point x="129.641" y="498.396"/>
-      <point x="39.3723" y="385.08"/>
-      <point x="39.3723" y="246.797" type="curve" smooth="yes"/>
-      <point x="39.3723" y="105.633"/>
-      <point x="131.561" y="-8.6427"/>
-      <point x="276.566" y="-8.6427" type="curve" smooth="yes"/>
-      <point x="323.621" y="-8.6427"/>
-      <point x="363.954" y="2.8809"/>
-      <point x="396.604" y="26.8884" type="curve"/>
-      <point x="415.81" y="40.3326" type="line" smooth="yes"/>
-      <point x="416.77" y="41.2929"/>
-      <point x="416.77" y="41.2929"/>
-      <point x="416.77" y="41.2929" type="curve"/>
-      <point x="442.698" y="-8.6427" type="line"/>
-      <point x="491.674" y="-8.6427" type="line"/>
+      <point x="490.962" y="196.29" type="line" smooth="yes"/>
+      <point x="490.962" y="225.662"/>
+      <point x="493.805" y="229.452"/>
+      <point x="516.545" y="229.452" type="curve" smooth="yes"/>
+      <point x="563.92" y="229.452" type="line"/>
+      <point x="563.92" y="260.72" type="line"/>
+      <point x="309.99" y="260.72" type="line"/>
+      <point x="309.99" y="229.452" type="line"/>
+      <point x="357.365" y="229.452" type="line" smooth="yes"/>
+      <point x="380.105" y="229.452"/>
+      <point x="382.947" y="225.662"/>
+      <point x="382.947" y="196.29" type="curve" smooth="yes"/>
+      <point x="382.947" y="135.65" type="line" smooth="yes"/>
+      <point x="382.947" y="57.0075"/>
+      <point x="334.625" y="24.7925"/>
+      <point x="292.935" y="24.7925" type="curve" smooth="yes"/>
+      <point x="224.715" y="24.7925"/>
+      <point x="164.075" y="69.325"/>
+      <point x="164.075" y="246.507" type="curve" smooth="yes"/>
+      <point x="164.075" y="420.847"/>
+      <point x="220.925" y="466.327"/>
+      <point x="285.355" y="466.327" type="curve" smooth="yes"/>
+      <point x="340.31" y="466.327"/>
+      <point x="400.002" y="433.165"/>
+      <point x="421.795" y="309.99" type="curve"/>
+      <point x="484.33" y="309.99" type="line"/>
+      <point x="484.33" y="497.595" type="line"/>
+      <point x="428.427" y="497.595" type="line"/>
+      <point x="421.795" y="486.225" type="line"/>
+      <point x="405.687" y="466.327" type="line"/>
+      <point x="379.157" y="477.697" type="line" smooth="yes"/>
+      <point x="345.995" y="491.91"/>
+      <point x="322.307" y="497.595"/>
+      <point x="287.25" y="497.595" type="curve" smooth="yes"/>
+      <point x="129.017" y="497.595"/>
+      <point x="39.005" y="384.842"/>
+      <point x="39.005" y="246.507" type="curve" smooth="yes"/>
+      <point x="39.005" y="105.33"/>
+      <point x="130.912" y="-8.37"/>
+      <point x="275.88" y="-8.37" type="curve" smooth="yes"/>
+      <point x="322.307" y="-8.37"/>
+      <point x="363.05" y="3.9475"/>
+      <point x="396.212" y="27.635" type="curve" smooth="yes"/>
+      <point x="416.11" y="41.8475" type="line"/>
+      <point x="411.372" y="42.795" type="line"/>
+      <point x="437.902" y="-8.37" type="line"/>
+      <point x="490.962" y="-8.37" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -64,18 +62,18 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>c2c0bf65273d2917d98a13b37e0874e7aefef70c4c3e100fde3799c7dbf209a7297a969a7d0b0d6afe6d50d2e4faa50c4b05a701f0340ffdaf2c9ea71dceeba6</string>
+    <string>0b63f185f72d982aaf4f937fc5ef851b211876f6c0bb9d5d862040ffe05af8a22d9962461afe90e432214b36e0017e41b57a01910110c6ceebce3480b1e888d5</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -8.64 27.85</string>
-          <string>hstem 232.39 25.93</string>
-          <string>hstem 314.02 184.38</string>
-          <string>hstem 472.47 25.93</string>
-          <string>vstem 39.37 121.</string>
-          <string>vstem 387.96 103.71</string>
+          <string>hstem -5.53 27.48</string>
+          <string>hstem 232.29 25.58</string>
+          <string>hstem 312.83 181.92</string>
+          <string>hstem 469.17 25.58</string>
+          <string>vstem 41.85 119.38</string>
+          <string>vstem 385.79 102.33</string>
         </array>
       </dict>
     </array>

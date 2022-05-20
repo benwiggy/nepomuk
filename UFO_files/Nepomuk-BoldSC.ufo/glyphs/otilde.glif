@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="otilde" format="2">
-  <advance width="558"/>
+  <advance width="556"/>
   <unicode hex="00F5"/>
   <anchor x="285" y="527" name="t.asciicircum_1"/>
   <anchor x="285" y="541" name="t.dieresis"/>

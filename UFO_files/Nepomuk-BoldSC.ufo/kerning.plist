@@ -203,7 +203,7 @@
   <key>M</key>
   <dict>
     <key>public.kern2.kr_oSC</key>
-    <integer>-48</integer>
+    <integer>-28</integer>
     <key>public.kern2.kri</key>
     <integer>-10</integer>
   </dict>
@@ -1067,6 +1067,8 @@
   </dict>
   <key>public.kern1.kr_oSC</key>
   <dict>
+    <key>n</key>
+    <integer>-24</integer>
     <key>v</key>
     <integer>-59</integer>
     <key>public.kern2.kr_aSC</key>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omacron.smcp" format="2">
-  <advance width="558"/>
+  <advance width="556"/>
   <anchor x="285" y="527" name="t.asciicircum_1"/>
   <anchor x="285" y="541" name="t.dieresis"/>
   <outline>

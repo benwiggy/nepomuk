@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ecircumflex" format="2">
-  <advance width="523"/>
+  <advance width="522"/>
   <unicode hex="00EA"/>
   <anchor x="278" y="537" name="t.asciicircum_1"/>
   <anchor x="278" y="551" name="t.dieresis"/>

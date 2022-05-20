@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wacute.smcp" format="2">
-  <advance width="724"/>
+  <advance width="720"/>
   <anchor x="365" y="546" name="t.asciicircum_1"/>
   <anchor x="365" y="560" name="t.dieresis"/>
   <outline>

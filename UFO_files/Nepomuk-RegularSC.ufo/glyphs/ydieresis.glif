@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ydieresis" format="2">
-  <advance width="525"/>
+  <advance width="523"/>
   <unicode hex="00FF"/>
-  <anchor x="284" y="537" name="t.asciicircum_1"/>
-  <anchor x="284" y="551" name="t.dieresis"/>
+  <anchor x="283" y="537" name="t.asciicircum_1"/>
+  <anchor x="283" y="551" name="t.dieresis"/>
   <outline>
     <component base="y"/>
-    <component base="dieresis.smcp" xOffset="135" yOffset="21"/>
+    <component base="dieresis.smcp" xOffset="134" yOffset="21"/>
   </outline>
   <lib>
   <dict>

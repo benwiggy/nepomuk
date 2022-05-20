@@ -1,51 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="q.smcp" format="2">
-  <advance width="530"/>
+  <advance width="529"/>
   <outline>
     <contour>
-      <point x="61" y="-91" type="line"/>
-      <point x="109" y="-15"/>
-      <point x="167" y="-14"/>
-      <point x="223" y="-64" type="curve" smooth="yes"/>
-      <point x="321" y="-150"/>
-      <point x="423" y="-183"/>
-      <point x="493" y="-26" type="curve"/>
-      <point x="477" y="-16" type="line"/>
-      <point x="419" y="-95"/>
-      <point x="376" y="-74"/>
-      <point x="313" y="-31" type="curve" smooth="yes"/>
-      <point x="292" y="-16"/>
-      <point x="307" y="-7"/>
+      <point x="64" y="-91" type="line"/>
+      <point x="91" y="-48"/>
+      <point x="120" y="-30"/>
+      <point x="149" y="-30" type="curve" smooth="yes"/>
+      <point x="173" y="-30"/>
+      <point x="197" y="-41"/>
+      <point x="221" y="-62" type="curve" smooth="yes"/>
+      <point x="269" y="-105"/>
+      <point x="319" y="-134"/>
+      <point x="365" y="-134" type="curve" smooth="yes"/>
+      <point x="412" y="-134"/>
+      <point x="457" y="-103"/>
+      <point x="493" y="-22" type="curve"/>
+      <point x="473" y="-9" type="line"/>
+      <point x="444" y="-47"/>
+      <point x="420" y="-62"/>
+      <point x="397" y="-62" type="curve" smooth="yes"/>
+      <point x="371" y="-62"/>
+      <point x="344" y="-46"/>
+      <point x="314" y="-26" type="curve" smooth="yes"/>
+      <point x="309" y="-22"/>
+      <point x="305" y="-17"/>
+      <point x="305" y="-14" type="curve"/>
+      <point x="306" y="-9"/>
+      <point x="315" y="-5"/>
       <point x="325" y="-2" type="curve"/>
-      <point x="436" y="25"/>
-      <point x="497" y="128"/>
-      <point x="497" y="249" type="curve" smooth="yes"/>
-      <point x="497" y="394"/>
-      <point x="413" y="508"/>
-      <point x="265" y="508" type="curve" smooth="yes"/>
-      <point x="117" y="508"/>
+      <point x="435" y="25"/>
+      <point x="496" y="128"/>
+      <point x="496" y="249" type="curve" smooth="yes"/>
+      <point x="496" y="394"/>
+      <point x="412" y="507"/>
+      <point x="264" y="507" type="curve" smooth="yes"/>
+      <point x="116" y="507"/>
       <point x="33" y="394"/>
       <point x="33" y="249" type="curve" smooth="yes"/>
-      <point x="33" y="151"/>
-      <point x="74" y="65"/>
-      <point x="147" y="22" type="curve"/>
-      <point x="102" y="5"/>
-      <point x="69" y="-42"/>
-      <point x="45" y="-84" type="curve"/>
+      <point x="33" y="152"/>
+      <point x="70" y="69"/>
+      <point x="141" y="26" type="curve"/>
+      <point x="99" y="7"/>
+      <point x="67" y="-39"/>
+      <point x="43" y="-81" type="curve"/>
     </contour>
     <contour>
-      <point x="142" y="249" type="curve" smooth="yes"/>
-      <point x="142" y="434"/>
-      <point x="191" y="485"/>
-      <point x="265" y="485" type="curve" smooth="yes"/>
-      <point x="339" y="485"/>
-      <point x="388" y="434"/>
-      <point x="388" y="249" type="curve" smooth="yes"/>
-      <point x="388" y="66"/>
-      <point x="339" y="15"/>
-      <point x="265" y="15" type="curve" smooth="yes"/>
-      <point x="191" y="15"/>
-      <point x="142" y="66"/>
+      <point x="146" y="249" type="curve" smooth="yes"/>
+      <point x="146" y="429"/>
+      <point x="193" y="479"/>
+      <point x="264" y="479" type="curve" smooth="yes"/>
+      <point x="336" y="479"/>
+      <point x="383" y="429"/>
+      <point x="383" y="249" type="curve" smooth="yes"/>
+      <point x="383" y="70"/>
+      <point x="336" y="21"/>
+      <point x="264" y="21" type="curve" smooth="yes"/>
+      <point x="193" y="21"/>
+      <point x="146" y="70"/>
     </contour>
   </outline>
   <lib>
@@ -55,7 +67,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>5cc274daf63e0cdbe246f3aee7bd3740d134979405cfb1216ac47559dd791c05a3bd87d8eecb395e47c213f21c393372e04f9623c13c6dff25769054b2f194fc</string>
+    <string>b1aadbd55723e39acb1cee2c1fc6631de8f2ed6a192c3c146cd590e5c40fb9908f93fa7d67ab49600bb8f372ea7f7775baa696a16ed50f952ff73bd3829697d6</string>
     <key>hintSetList</key>
     <array>
       <dict>

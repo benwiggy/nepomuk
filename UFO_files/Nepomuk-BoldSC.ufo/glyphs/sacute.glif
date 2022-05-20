@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sacute" format="2">
-  <advance width="533"/>
+  <advance width="532"/>
   <unicode hex="015B"/>
   <anchor x="264" y="545" name="t.asciicircum_1"/>
   <anchor x="264" y="560" name="t.dieresis"/>
