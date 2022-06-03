@@ -201,6 +201,12 @@
     <integer>-38</integer>
     <key>public.kern2.krA</key>
     <integer>-75</integer>
+    <key>public.kern2.kra</key>
+    <integer>-34</integer>
+    <key>public.kern2.kre</key>
+    <integer>-31</integer>
+    <key>public.kern2.kro</key>
+    <integer>-38</integer>
   </dict>
   <key>U</key>
   <dict>
@@ -258,8 +264,6 @@
     <integer>-46</integer>
     <key>r</key>
     <integer>-21</integer>
-    <key>public.kern2.krA</key>
-    <integer>-47</integer>
     <key>public.kern2.kra</key>
     <integer>-41</integer>
     <key>public.kern2.kre</key>
@@ -336,6 +340,8 @@
   <dict>
     <key>ae</key>
     <integer>-49</integer>
+    <key>b</key>
+    <integer>140</integer>
     <key>c</key>
     <integer>-38</integer>
     <key>comma</key>
@@ -344,8 +350,24 @@
     <integer>-57</integer>
     <key>eth</key>
     <integer>-30</integer>
+    <key>exclam</key>
+    <integer>96</integer>
     <key>g</key>
     <integer>-78</integer>
+    <key>h</key>
+    <integer>152</integer>
+    <key>k</key>
+    <integer>134</integer>
+    <key>question</key>
+    <integer>112</integer>
+    <key>quotedblleft</key>
+    <integer>71</integer>
+    <key>quotedblright</key>
+    <integer>93</integer>
+    <key>quoteleft</key>
+    <integer>75</integer>
+    <key>quoteright</key>
+    <integer>105</integer>
     <key>public.kern2.kra</key>
     <integer>-38</integer>
     <key>public.kern2.kre</key>
@@ -356,9 +378,9 @@
   <key>g</key>
   <dict>
     <key>j</key>
-    <integer>-30</integer>
+    <integer>51</integer>
     <key>public.kern2.krf2</key>
-    <integer>-30</integer>
+    <integer>63</integer>
   </dict>
   <key>guilsinglleft</key>
   <dict>
@@ -384,8 +406,6 @@
     <integer>-15</integer>
     <key>V</key>
     <integer>-87</integer>
-    <key>W</key>
-    <integer>-151</integer>
     <key>X</key>
     <integer>-101</integer>
     <key>Y</key>
@@ -460,6 +480,8 @@
   </dict>
   <key>q</key>
   <dict>
+    <key>j</key>
+    <integer>93</integer>
     <key>public.kern2.krf2</key>
     <integer>139</integer>
   </dict>
@@ -548,12 +570,12 @@
     <integer>-19</integer>
     <key>V</key>
     <integer>-87</integer>
-    <key>W</key>
-    <integer>-66</integer>
     <key>quoteright</key>
     <integer>-57</integer>
     <key>quotesingle</key>
     <integer>-87</integer>
+    <key>v</key>
+    <integer>-40</integer>
     <key>public.kern2.krW</key>
     <integer>-78</integer>
     <key>public.kern2.kra</key>

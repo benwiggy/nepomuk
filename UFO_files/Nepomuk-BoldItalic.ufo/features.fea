@@ -45,6 +45,288 @@ feature liga {
 } liga;
 
 
+feature dlig {
+# Discretionary Ligatures
+
+#> feature
+  sub f j by f_j.dlig;
+#< feature
+} dlig;
+feature mark {
+# GPOS feature : Mark Positioning
+    markClass grave <anchor 126 490> @t.asciicircum_1;
+    markClass dieresis <anchor 351 524> @t.asciicircum_1;
+    markClass acute <anchor 88 490> @t.asciicircum_1;
+    markClass caron <anchor 218 490> @t.asciicircum_1;
+    markClass macron <anchor 350 494> @t.asciicircum_1;
+    markClass circumflex <anchor 244 520> @t.asciicircum_1;
+    markClass macronmod <anchor 260 494> @t.asciicircum_1;
+    markClass breve <anchor 241 494> @t.asciicircum_1;
+    markClass dotaccent <anchor 284 526> @t.asciicircum_1;
+    markClass ring <anchor 125 490> @t.asciicircum_1;
+    markClass tilde <anchor 270 530> @t.asciicircum_1;
+
+  lookup markLTR {
+      pos base A
+          <anchor 436 694> mark @t.asciicircum_1;
+      pos base C
+          <anchor 436 714> mark @t.asciicircum_1;
+      pos base E
+          <anchor 436 714> mark @t.asciicircum_1;
+      pos base G
+          <anchor 436 714> mark @t.asciicircum_1;
+      pos base I
+          <anchor 326 714> mark @t.asciicircum_1;
+      pos base N
+          <anchor 497 714> mark @t.asciicircum_1;
+      pos base O
+          <anchor 436 704> mark @t.asciicircum_1;
+      pos base R
+          <anchor 436 704> mark @t.asciicircum_1;
+      pos base S
+          <anchor 426 724> mark @t.asciicircum_1;
+      pos base T
+          <anchor 426 724> mark @t.asciicircum_1;
+      pos base U
+          <anchor 476 714> mark @t.asciicircum_1;
+      pos base W
+          <anchor 626 724> mark @t.asciicircum_1;
+      pos base Y
+          <anchor 436 714> mark @t.asciicircum_1;
+      pos base Z
+          <anchor 426 714> mark @t.asciicircum_1;
+      pos base a
+          <anchor 315 497> mark @t.asciicircum_1;
+      pos base c
+          <anchor 295 488> mark @t.asciicircum_1;
+      pos base e
+          <anchor 295 488> mark @t.asciicircum_1;
+      pos base g
+          <anchor 355 498> mark @t.asciicircum_1;
+      pos base n
+          <anchor 335 488> mark @t.asciicircum_1;
+      pos base o
+          <anchor 295 488> mark @t.asciicircum_1;
+      pos base r
+          <anchor 295 488> mark @t.asciicircum_1;
+      pos base s
+          <anchor 265 488> mark @t.asciicircum_1;
+      pos base u
+          <anchor 345 495> mark @t.asciicircum_1;
+      pos base w
+          <anchor 435 498> mark @t.asciicircum_1;
+      pos base y
+          <anchor 335 498> mark @t.asciicircum_1;
+      pos base z
+          <anchor 325 488> mark @t.asciicircum_1;
+      pos base Amacron
+          <anchor 436 694> mark @t.asciicircum_1;
+      pos base Zdotaccent
+          <anchor 426 714> mark @t.asciicircum_1;
+      pos base zdotaccent
+          <anchor 325 488> mark @t.asciicircum_1;
+      pos base zacute
+          <anchor 325 488> mark @t.asciicircum_1;
+      pos base Zacute
+          <anchor 426 714> mark @t.asciicircum_1;
+      pos base amacron
+          <anchor 315 488> mark @t.asciicircum_1;
+      pos base Abreve
+          <anchor 436 694> mark @t.asciicircum_1;
+      pos base abreve
+          <anchor 315 488> mark @t.asciicircum_1;
+      pos base Cacute
+          <anchor 436 714> mark @t.asciicircum_1;
+      pos base cacute
+          <anchor 295 488> mark @t.asciicircum_1;
+      pos base ccircumflex
+          <anchor 295 488> mark @t.asciicircum_1;
+      pos base Cdotaccent
+          <anchor 436 714> mark @t.asciicircum_1;
+      pos base cdotaccent
+          <anchor 295 488> mark @t.asciicircum_1;
+      pos base Emacron
+          <anchor 436 714> mark @t.asciicircum_1;
+      pos base emacron
+          <anchor 295 488> mark @t.asciicircum_1;
+      pos base Ebreve
+          <anchor 436 714> mark @t.asciicircum_1;
+      pos base ebreve
+          <anchor 295 488> mark @t.asciicircum_1;
+      pos base Edotaccent
+          <anchor 436 714> mark @t.asciicircum_1;
+      pos base edotaccent
+          <anchor 295 488> mark @t.asciicircum_1;
+      pos base Gcircumflex
+          <anchor 436 714> mark @t.asciicircum_1;
+      pos base gcircumflex
+          <anchor 355 498> mark @t.asciicircum_1;
+      pos base Gbreve
+          <anchor 436 714> mark @t.asciicircum_1;
+      pos base Gdotaccent
+          <anchor 436 714> mark @t.asciicircum_1;
+      pos base gdotaccent
+          <anchor 355 498> mark @t.asciicircum_1;
+      pos base Nacute
+          <anchor 497 714> mark @t.asciicircum_1;
+      pos base nacute
+          <anchor 335 488> mark @t.asciicircum_1;
+      pos base Ncaron
+          <anchor 497 714> mark @t.asciicircum_1;
+      pos base ncaron
+          <anchor 335 488> mark @t.asciicircum_1;
+      pos base Omacron
+          <anchor 436 704> mark @t.asciicircum_1;
+      pos base omacron
+          <anchor 295 488> mark @t.asciicircum_1;
+      pos base Obreve
+          <anchor 436 704> mark @t.asciicircum_1;
+      pos base obreve
+          <anchor 295 488> mark @t.asciicircum_1;
+      pos base Racute
+          <anchor 436 704> mark @t.asciicircum_1;
+      pos base racute
+          <anchor 295 488> mark @t.asciicircum_1;
+      pos base Sacute
+          <anchor 426 714> mark @t.asciicircum_1;
+      pos base sacute
+          <anchor 265 488> mark @t.asciicircum_1;
+      pos base Scedilla
+          <anchor 426 714> mark @t.asciicircum_1;
+      pos base scedilla
+          <anchor 265 488> mark @t.asciicircum_1;
+      pos base Utilde
+          <anchor 476 714> mark @t.asciicircum_1;
+      pos base utilde
+          <anchor 345 488> mark @t.asciicircum_1;
+      pos base Umacron
+          <anchor 476 714> mark @t.asciicircum_1;
+      pos base umacron
+          <anchor 345 488> mark @t.asciicircum_1;
+      pos base Ubreve
+          <anchor 476 714> mark @t.asciicircum_1;
+      pos base ubreve
+          <anchor 345 488> mark @t.asciicircum_1;
+      pos base Uring
+          <anchor 476 714> mark @t.asciicircum_1;
+      pos base uring
+          <anchor 345 488> mark @t.asciicircum_1;
+      pos base Ycircumflex
+          <anchor 436 714> mark @t.asciicircum_1;
+      pos base ycircumflex
+          <anchor 335 498> mark @t.asciicircum_1;
+      pos base Wcircumflex
+          <anchor 626 724> mark @t.asciicircum_1;
+      pos base wcircumflex
+          <anchor 435 498> mark @t.asciicircum_1;
+      pos base dotlessi
+          <anchor 225 488> mark @t.asciicircum_1;
+      pos base response
+          <anchor 436 704> mark @t.asciicircum_1;
+      pos base Wgrave
+          <anchor 626 714> mark @t.asciicircum_1;
+      pos base Wacute
+          <anchor 626 714> mark @t.asciicircum_1;
+      pos base wacute
+          <anchor 435 488> mark @t.asciicircum_1;
+      pos base Wdieresis
+          <anchor 626 714> mark @t.asciicircum_1;
+      pos base wdieresis
+          <anchor 435 488> mark @t.asciicircum_1;
+      pos base gbreve
+          <anchor 355 498> mark @t.asciicircum_1;
+      pos base wgrave
+          <anchor 435 488> mark @t.asciicircum_1;
+      pos base Ccircumflex
+          <anchor 436 714> mark @t.asciicircum_1;
+      pos base imacron
+          <anchor 225 488> mark @t.asciicircum_1;
+      pos base Imacron
+          <anchor 326 714> mark @t.asciicircum_1;
+      pos base itilde
+          <anchor 225 488> mark @t.asciicircum_1;
+      pos base Itilde
+          <anchor 326 714> mark @t.asciicircum_1;
+      pos base agrave
+          <anchor 315 497> mark @t.asciicircum_1;
+      pos base aacute
+          <anchor 315 497> mark @t.asciicircum_1;
+      pos base acircumflex
+          <anchor 315 497> mark @t.asciicircum_1;
+      pos base atilde
+          <anchor 315 497> mark @t.asciicircum_1;
+      pos base adieresis
+          <anchor 315 497> mark @t.asciicircum_1;
+      pos base aring
+          <anchor 315 497> mark @t.asciicircum_1;
+      pos base egrave
+          <anchor 295 488> mark @t.asciicircum_1;
+      pos base eacute
+          <anchor 295 488> mark @t.asciicircum_1;
+      pos base ecircumflex
+          <anchor 295 488> mark @t.asciicircum_1;
+      pos base edieresis
+          <anchor 295 488> mark @t.asciicircum_1;
+      pos base igrave
+          <anchor 225 488> mark @t.asciicircum_1;
+      pos base iacute
+          <anchor 225 488> mark @t.asciicircum_1;
+      pos base icircumflex
+          <anchor 225 488> mark @t.asciicircum_1;
+      pos base idieresis
+          <anchor 225 488> mark @t.asciicircum_1;
+      pos base ntilde
+          <anchor 335 488> mark @t.asciicircum_1;
+      pos base ugrave
+          <anchor 345 488> mark @t.asciicircum_1;
+      pos base uacute
+          <anchor 345 488> mark @t.asciicircum_1;
+      pos base ucircumflex
+          <anchor 345 488> mark @t.asciicircum_1;
+      pos base udieresis
+          <anchor 345 488> mark @t.asciicircum_1;
+      pos base yacute
+          <anchor 335 498> mark @t.asciicircum_1;
+      pos base Igrave
+          <anchor 326 714> mark @t.asciicircum_1;
+      pos base Iacute
+          <anchor 326 714> mark @t.asciicircum_1;
+      pos base Icircumflex
+          <anchor 326 714> mark @t.asciicircum_1;
+      pos base Idieresis
+          <anchor 326 714> mark @t.asciicircum_1;
+      pos base Ugrave
+          <anchor 476 714> mark @t.asciicircum_1;
+      pos base Uacute
+          <anchor 476 714> mark @t.asciicircum_1;
+      pos base Ucircumflex
+          <anchor 476 714> mark @t.asciicircum_1;
+      pos base Udieresis
+          <anchor 476 714> mark @t.asciicircum_1;
+      pos base Yacute
+          <anchor 436 714> mark @t.asciicircum_1;
+      pos base Agrave
+          <anchor 436 694> mark @t.asciicircum_1;
+      pos base Aacute
+          <anchor 436 694> mark @t.asciicircum_1;
+      pos base Acircumflex
+          <anchor 436 694> mark @t.asciicircum_1;
+      pos base Atilde
+          <anchor 436 694> mark @t.asciicircum_1;
+      pos base Adieresis
+          <anchor 436 694> mark @t.asciicircum_1;
+      pos base Aring
+          <anchor 436 694> mark @t.asciicircum_1;
+      pos base Scircumflex
+          <anchor 426 724> mark @t.asciicircum_1;
+      pos base scircumflex
+          <anchor 265 488> mark @t.asciicircum_1;
+      pos base Tcaron
+          <anchor 426 724> mark @t.asciicircum_1;
+  } markLTR;
+
+  lookup markLTR;
+} mark;
 feature kern {
   @_krA = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde];
   @_krE = [E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron];
@@ -97,7 +379,6 @@ feature kern {
     pos F fl -49;
     pos F fi -49;
     pos F f_f -49;
-    pos F AE -35;
     pos F Amacron -24;
     pos F Abreve -24;
     pos F f_f_i -49;
@@ -242,7 +523,6 @@ feature kern {
     pos U fl -56;
     pos U fi -56;
     pos U f_f -56;
-    pos U oe -31;
     pos U f_f_i -56;
     pos U f_f_l -56;
     pos V comma -81;
@@ -273,10 +553,7 @@ feature kern {
     pos V fl -60;
     pos V fi -60;
     pos V f_f -60;
-    pos V guilsinglright -11;
     pos V oslash -14;
-    pos V oe -48;
-    pos V AE -35;
     pos V ecaron -17;
     pos V Amacron -35;
     pos V amacron -17;
@@ -321,7 +598,6 @@ feature kern {
     pos W x -25;
     pos W z -25;
     pos W ae -62;
-    pos W oe -46;
     pos W Amacron -66;
     pos W Abreve -66;
     pos W Agrave -66;
@@ -366,9 +642,7 @@ feature kern {
     pos Y fl -56;
     pos Y fi -56;
     pos Y f_f -56;
-    pos Y guilsinglright -15;
     pos Y oslash -17;
-    pos Y oe -46;
     pos Y ecaron -17;
     pos Y Amacron -16;
     pos Y amacron -17;
@@ -407,8 +681,23 @@ feature kern {
     pos Z f_f_l -17;
     pos a quotesingle -164;
     pos b quotesingle -69;
+    pos f exclam 77;
     pos f comma -38;
+    pos f question 112;
+    pos f b 105;
     pos f g -30;
+    pos f h 105;
+    pos f k 98;
+    pos f quoteleft 105;
+    pos f quotedblleft 105;
+    pos f quoteright 117;
+    pos f quotedblright 91;
+    pos g f 57;
+    pos g fl 57;
+    pos g fi 57;
+    pos g f_f 57;
+    pos g f_f_i 57;
+    pos g f_f_l 57;
     pos h quotesingle -78;
     pos j f 60;
     pos j fl 60;
@@ -437,49 +726,6 @@ feature kern {
     pos ocircumflex quotesingle -171;
     pos otilde quotesingle -171;
     pos odieresis quotesingle -171;
-    pos quoteleft A -23;
-    pos quoteleft J -42;
-    pos quoteleft a -69;
-    pos quoteleft c -70;
-    pos quoteleft d -69;
-    pos quoteleft e -62;
-    pos quoteleft g -23;
-    pos quoteleft o -71;
-    pos quoteleft q -71;
-    pos quoteleft s -57;
-    pos quoteleft ograve -71;
-    pos quoteleft oacute -71;
-    pos quoteleft ocircumflex -71;
-    pos quoteleft otilde -71;
-    pos quoteleft odieresis -71;
-    pos quoteleft oslash -71;
-    pos quoteleft ecaron -62;
-    pos quoteleft Amacron -23;
-    pos quoteleft amacron -69;
-    pos quoteleft Abreve -23;
-    pos quoteleft abreve -69;
-    pos quoteleft emacron -62;
-    pos quoteleft ebreve -62;
-    pos quoteleft edotaccent -62;
-    pos quoteleft omacron -71;
-    pos quoteleft obreve -71;
-    pos quoteleft agrave -69;
-    pos quoteleft aacute -69;
-    pos quoteleft acircumflex -69;
-    pos quoteleft atilde -69;
-    pos quoteleft adieresis -69;
-    pos quoteleft aring -69;
-    pos quoteleft egrave -62;
-    pos quoteleft eacute -62;
-    pos quoteleft ecircumflex -62;
-    pos quoteleft edieresis -62;
-    pos quoteleft Agrave -23;
-    pos quoteleft Aacute -23;
-    pos quoteleft Acircumflex -23;
-    pos quoteleft Atilde -23;
-    pos quoteleft Adieresis -23;
-    pos quoteleft Aring -23;
-    pos eth j -7;
     pos oslash quotesingle -171;
     pos Amacron quotesingle -34;
     pos Amacron V -11;
@@ -502,7 +748,6 @@ feature kern {
     pos Wcircumflex x -25;
     pos Wcircumflex z -25;
     pos Wcircumflex ae -62;
-    pos Wcircumflex oe -46;
     pos Wgrave comma -47;
     pos Wgrave period -37;
     pos Wgrave semicolon -27;
@@ -516,7 +761,6 @@ feature kern {
     pos Wgrave x -25;
     pos Wgrave z -25;
     pos Wgrave ae -62;
-    pos Wgrave oe -46;
     pos Wacute comma -47;
     pos Wacute period -37;
     pos Wacute semicolon -27;
@@ -530,7 +774,6 @@ feature kern {
     pos Wacute x -25;
     pos Wacute z -25;
     pos Wacute ae -62;
-    pos Wacute oe -46;
     pos Wdieresis comma -47;
     pos Wdieresis period -37;
     pos Wdieresis semicolon -27;
@@ -544,7 +787,6 @@ feature kern {
     pos Wdieresis x -25;
     pos Wdieresis z -25;
     pos Wdieresis ae -62;
-    pos Wdieresis oe -46;
     pos agrave quotesingle -164;
     pos aacute quotesingle -164;
     pos acircumflex quotesingle -164;

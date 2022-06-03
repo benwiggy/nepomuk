@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bullet" format="2">
-  <advance width="408"/>
+  <advance width="386"/>
   <unicode hex="2022"/>
   <outline>
     <contour>
       <point x="45" y="410" type="curve" smooth="yes"/>
       <point x="45" y="331"/>
-      <point x="116" y="266"/>
-      <point x="204" y="266" type="curve" smooth="yes"/>
-      <point x="292" y="266"/>
-      <point x="363" y="331"/>
-      <point x="363" y="410" type="curve" smooth="yes"/>
-      <point x="363" y="489"/>
-      <point x="292" y="554"/>
-      <point x="204" y="554" type="curve" smooth="yes"/>
-      <point x="116" y="554"/>
+      <point x="110" y="266"/>
+      <point x="190" y="266" type="curve" smooth="yes"/>
+      <point x="270" y="266"/>
+      <point x="335" y="331"/>
+      <point x="335" y="410" type="curve" smooth="yes"/>
+      <point x="335" y="489"/>
+      <point x="270" y="554"/>
+      <point x="190" y="554" type="curve" smooth="yes"/>
+      <point x="110" y="554"/>
       <point x="45" y="489"/>
     </contour>
   </outline>
@@ -25,7 +25,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w408m45,410c45,331 116,266 204,266c292,266 363,331 363,410c363,489 292,554 204,554c116,554 45,489 45,410</string>
+    <string>w386m45,410c45,331 110,266 190,266c270,266 335,331 335,410c335,489 270,554 190,554c110,554 45,489 45,410</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -18,8 +18,8 @@
       <point x="593" y="35" type="curve" smooth="yes"/>
       <point x="648" y="35" type="line"/>
       <point x="648" y="0" type="line"/>
-      <point x="378" y="0" type="line"/>
-      <point x="378" y="35" type="line"/>
+      <point x="398" y="0" type="line"/>
+      <point x="398" y="35" type="line"/>
       <point x="423" y="35" type="line" smooth="yes"/>
       <point x="445" y="35"/>
       <point x="448" y="40" name="hr01"/>
@@ -67,10 +67,10 @@
       <point x="290" y="40"/>
       <point x="294" y="35"/>
       <point x="325" y="35" type="curve" smooth="yes"/>
-      <point x="390" y="35" type="line"/>
-      <point x="390" y="0" type="line"/>
-      <point x="90" y="0" type="line"/>
-      <point x="90" y="35" type="line"/>
+      <point x="350" y="35" type="line"/>
+      <point x="350" y="0" type="line"/>
+      <point x="120" y="0" type="line"/>
+      <point x="120" y="35" type="line"/>
       <point x="135" y="35" type="line" smooth="yes"/>
       <point x="166" y="35"/>
       <point x="170" y="40"/>
@@ -81,8 +81,8 @@
       <point x="19" y="40"/>
       <point x="23" y="35"/>
       <point x="54" y="35" type="curve" smooth="yes"/>
-      <point x="89" y="35" type="line"/>
-      <point x="89" y="0" type="line"/>
+      <point x="79" y="35" type="line"/>
+      <point x="79" y="0" type="line"/>
       <point x="-181" y="0" type="line"/>
       <point x="-181" y="35" type="line"/>
       <point x="-136" y="35" type="line" smooth="yes"/>
@@ -154,7 +154,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>a30e044e42d02d57991a34da8471fd8bdd2df7d34c2f84c17b8d441ece6d031d14ec2b4a47c11d8aff288c41fe1a3af69da69de1ca9f61b7f3158c8712e3f63f</string>
+    <string>05440359fa3f77e7fb50f31f2dd2e8910353045149b3ac2690bd57f37f5b6652ae7bff278052830968e71ec97ae0d959ea85795a81dacc068082f9ba3141c379</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -192,7 +192,7 @@
           <string>vstem -101 120</string>
         </array>
         <key>pointTag</key>
-        <string>._.105553223605520</string>
+        <string>._.105553214147072</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -205,7 +205,7 @@
           <string>vstem 411 157</string>
         </array>
         <key>pointTag</key>
-        <string>._.105553223607760</string>
+        <string>._.105553214146352</string>
       </dict>
       <dict>
         <key>stems</key>

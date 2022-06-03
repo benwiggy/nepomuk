@@ -637,12 +637,30 @@
   <dict>
     <key>ae</key>
     <integer>-8</integer>
+    <key>b</key>
+    <integer>103</integer>
     <key>c</key>
     <integer>-24</integer>
     <key>d</key>
     <integer>-23</integer>
+    <key>exclam</key>
+    <integer>94</integer>
     <key>g</key>
     <integer>-8</integer>
+    <key>h</key>
+    <integer>80</integer>
+    <key>k</key>
+    <integer>77</integer>
+    <key>question</key>
+    <integer>97</integer>
+    <key>quotedblleft</key>
+    <integer>87</integer>
+    <key>quotedblright</key>
+    <integer>86</integer>
+    <key>quoteleft</key>
+    <integer>79</integer>
+    <key>quoteright</key>
+    <integer>81</integer>
     <key>t</key>
     <integer>60</integer>
     <key>public.kern2.kra</key>
@@ -954,6 +972,11 @@
     <integer>-54</integer>
     <key>public.kern2.kry</key>
     <integer>-38</integer>
+  </dict>
+  <key>public.kern1.krC</key>
+  <dict>
+    <key>public.kern2.kri</key>
+    <integer>28</integer>
   </dict>
   <key>public.kern1.krO</key>
   <dict>

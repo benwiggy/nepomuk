@@ -511,6 +511,9 @@
     <string>Scircumflex</string>
     <string>scircumflex</string>
     <string>f_f_l</string>
+    <string>tcaron</string>
+    <string>Tcaron</string>
+    <string>f_j.dlig</string>
   </array>
 </dict>
 </plist>

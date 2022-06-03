@@ -196,6 +196,8 @@
   <string>T_.glif</string>
   <key>T.alt</key>
   <string>T_.alt.glif</string>
+  <key>Tcaron</key>
+  <string>T_caron.glif</string>
   <key>Thorn</key>
   <string>T_horn.glif</string>
   <key>U</key>
@@ -504,6 +506,8 @@
   <string>f_f_i.glif</string>
   <key>f_f_l</key>
   <string>f_f_l.glif</string>
+  <key>f_j.dlig</key>
+  <string>f_j.dlig.glif</string>
   <key>fi</key>
   <string>fi.glif</string>
   <key>fifty.roman</key>
@@ -582,6 +586,8 @@
   <string>i.glif</string>
   <key>i.smcp</key>
   <string>i.smcp.glif</string>
+  <key>i_j.dlig</key>
+  <string>i_j.dlig.glif</string>
   <key>iacute</key>
   <string>iacute.glif</string>
   <key>iacute.smcp</key>
@@ -892,6 +898,10 @@
   <string>t.glif</string>
   <key>t.smcp</key>
   <string>t.smcp.glif</string>
+  <key>tcaron</key>
+  <string>tcaron.glif</string>
+  <key>tcaron.smcp</key>
+  <string>tcaron.smcp.glif</string>
   <key>ten.roman</key>
   <string>ten.roman.glif</string>
   <key>ten.romansmall</key>

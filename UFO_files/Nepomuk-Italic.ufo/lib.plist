@@ -555,6 +555,9 @@
     <string>onehundred.romansmall</string>
     <string>fivehundred.romansmall</string>
     <string>onethousand.romansmall</string>
+    <string>f_j.dlig</string>
+    <string>tcaron</string>
+    <string>Tcaron</string>
   </array>
 </dict>
 </plist>

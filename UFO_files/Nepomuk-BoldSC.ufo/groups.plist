@@ -14,6 +14,15 @@
     <string>Aring</string>
     <string>Atilde</string>
   </array>
+  <key>public.kern1.krC</key>
+  <array>
+    <string>C</string>
+    <string>Cacute</string>
+    <string>Ccaron</string>
+    <string>Ccedilla</string>
+    <string>Ccircumflex</string>
+    <string>Cdotaccent</string>
+  </array>
   <key>public.kern1.krE</key>
   <array>
     <string>E</string>
@@ -56,16 +65,6 @@
     <string>aring</string>
     <string>atilde</string>
   </array>
-  <key>public.kern1.kr_iSC</key>
-  <array>
-    <string>i</string>
-    <string>iacute</string>
-    <string>icircumflex</string>
-    <string>idieresis</string>
-    <string>igrave</string>
-    <string>imacron</string>
-    <string>itilde</string>
-  </array>
   <key>public.kern1.kr_oSC</key>
   <array>
     <string>o</string>
@@ -89,13 +88,6 @@
     <string>umacron</string>
     <string>uring</string>
     <string>utilde</string>
-  </array>
-  <key>public.kern1.kr_ySC</key>
-  <array>
-    <string>y</string>
-    <string>yacute</string>
-    <string>ycircumflex</string>
-    <string>ydieresis</string>
   </array>
   <key>public.kern1.kra</key>
   <array>

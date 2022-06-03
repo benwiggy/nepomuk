@@ -152,6 +152,8 @@
   <string>S_circumflex.glif</string>
   <key>T</key>
   <string>T_.glif</string>
+  <key>Tcaron</key>
+  <string>T_caron.glif</string>
   <key>Thorn</key>
   <string>T_horn.glif</string>
   <key>U</key>
@@ -360,6 +362,8 @@
   <string>f_f_i.glif</string>
   <key>f_f_l</key>
   <string>f_f_l.glif</string>
+  <key>f_j.dlig</key>
+  <string>f_j.dlig.glif</string>
   <key>fi</key>
   <string>fi.glif</string>
   <key>fifty.roman</key>
@@ -612,6 +616,8 @@
   <string>sterling.glif</string>
   <key>t</key>
   <string>t.glif</string>
+  <key>tcaron</key>
+  <string>tcaron.glif</string>
   <key>ten.roman</key>
   <string>ten.roman.glif</string>
   <key>ten.romansmall</key>

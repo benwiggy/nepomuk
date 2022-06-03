@@ -14,6 +14,15 @@
     <string>Aring</string>
     <string>Atilde</string>
   </array>
+  <key>public.kern1.krC</key>
+  <array>
+    <string>C</string>
+    <string>Cacute</string>
+    <string>Ccaron</string>
+    <string>Ccedilla</string>
+    <string>Ccircumflex</string>
+    <string>Cdotaccent</string>
+  </array>
   <key>public.kern1.krE</key>
   <array>
     <string>E</string>

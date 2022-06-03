@@ -4,10 +4,10 @@
   <unicode hex="005C"/>
   <outline>
     <contour>
-      <point x="27" y="754" type="line"/>
-      <point x="-20" y="754" type="line"/>
-      <point x="327" y="-123" type="line"/>
-      <point x="374" y="-123" type="line"/>
+      <point x="51" y="692" type="line"/>
+      <point x="4" y="692" type="line"/>
+      <point x="278" y="0" type="line"/>
+      <point x="325" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -17,14 +17,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w354m27,754l-20,754l327,-123l374,-123</string>
+    <string>w354m51,692l4,692l278,0l325,0</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -102 -21</string>
-          <string>hstem 754 -20</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 692 -20</string>
         </array>
       </dict>
     </array>

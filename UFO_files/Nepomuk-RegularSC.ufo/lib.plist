@@ -598,6 +598,9 @@
     <string>onehundred.romansmall</string>
     <string>fivehundred.romansmall</string>
     <string>onethousand.romansmall</string>
+    <string>Tcaron</string>
+    <string>tcaron</string>
+    <string>tcaron.smcp</string>
   </array>
 </dict>
 </plist>

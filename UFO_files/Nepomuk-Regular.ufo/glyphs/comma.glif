@@ -4,25 +4,25 @@
   <unicode hex="002C"/>
   <outline>
     <contour>
-      <point x="132" y="37" type="curve" smooth="yes"/>
-      <point x="167" y="37"/>
-      <point x="183" y="28"/>
-      <point x="183" y="-5" type="curve" smooth="yes"/>
-      <point x="183" y="-65"/>
-      <point x="116" y="-121"/>
-      <point x="40" y="-139" type="curve"/>
-      <point x="48" y="-168" type="line"/>
-      <point x="134" y="-152"/>
-      <point x="230" y="-90"/>
-      <point x="230" y="46" type="curve" smooth="yes"/>
-      <point x="230" y="136"/>
-      <point x="192" y="179"/>
-      <point x="131" y="179" type="curve" smooth="yes"/>
-      <point x="89" y="179"/>
-      <point x="60" y="144" name="hr01"/>
-      <point x="60" y="108" type="curve" smooth="yes"/>
-      <point x="60" y="72"/>
-      <point x="89" y="37"/>
+      <point x="123" y="5" type="curve" smooth="yes"/>
+      <point x="155" y="5"/>
+      <point x="169" y="-3"/>
+      <point x="169" y="-33" type="curve" smooth="yes"/>
+      <point x="169" y="-87"/>
+      <point x="108" y="-137"/>
+      <point x="40" y="-153" type="curve"/>
+      <point x="48" y="-180" type="line"/>
+      <point x="125" y="-166"/>
+      <point x="212" y="-110"/>
+      <point x="212" y="13" type="curve" smooth="yes"/>
+      <point x="212" y="95"/>
+      <point x="177" y="134"/>
+      <point x="122" y="134" type="curve" smooth="yes"/>
+      <point x="85" y="134"/>
+      <point x="58" y="101" name="hr01"/>
+      <point x="58" y="69" type="curve" smooth="yes"/>
+      <point x="58" y="37"/>
+      <point x="85" y="5"/>
     </contour>
   </outline>
   <lib>
@@ -32,21 +32,21 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>dd43198c5f615e72f0d4cd710c068fb8d119ed923e339511faf028d420de22ce4659c93e8410dfce4420b0691b2e3ca37b34838ad15b8a70b910cfb0c28cdf6b</string>
+    <string>4fedbf3c2ad2fc7c7c26a4ae1f88aa684a13fd3c717229364ae1395f3e39fc082d47cb81c1cb0d846037bd6cb0a4bc242ff03b9add3ec6217e35b9db0571d44c</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 37 142</string>
-          <string>vstem 183 47</string>
+          <string>hstem 5 129</string>
+          <string>vstem 169 43</string>
         </array>
       </dict>
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 60 170</string>
-          <string>hstem 37 142</string>
+          <string>vstem 58 154</string>
+          <string>hstem 5 129</string>
         </array>
         <key>pointTag</key>
         <string>hr01</string>

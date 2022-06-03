@@ -276,6 +276,7 @@ feature mark {
 
 feature kern {
   @_krA = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde];
+  @_krC = [C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent];
   @_kra = [a aacute abreve acircumflex adieresis agrave amacron aring atilde];
   @_krO = [O Oacute Obreve Ocircumflex Odieresis Ograve Omacron Oslash Otilde];
   @_kry = [y yacute ycircumflex ydieresis ygrave];
@@ -284,11 +285,10 @@ feature kern {
   @_kr_oSC = [o.smcp oacute.smcp obreve.smcp ocircumflex.smcp odieresis.smcp ograve.smcp omacron.smcp oslash.smcp otilde.smcp];
   @_kr_uSC = [u.smcp uacute.smcp ubreve.smcp ucircumflex.smcp udieresis.smcp ugrave.smcp umacron.smcp uring.smcp utilde.smcp];
   @_krW = [W Wacute Wcircumflex Wdieresis Wgrave];
-  @_krC = [C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent];
+  @_kri = [dotlessi i iacute icircumflex idieresis igrave imacron itilde];
   @_kro = [o oacute obreve ocircumflex odieresis ograve omacron oslash otilde];
   @_kr_ySC = [y.smcp yacute.smcp ycircumflex.smcp ydieresis.smcp];
   @_kre = [e eacute ebreve ecaron ecircumflex edieresis edotaccent egrave emacron];
-  @_kri = [dotlessi i iacute icircumflex idieresis igrave imacron itilde];
   @_kr_eSC = [e.smcp eacute.smcp ebreve.smcp ecaron.smcp ecircumflex.smcp edieresis.smcp edotaccent.smcp egrave.smcp emacron.smcp];
   @_kr_iSC = [i.smcp iacute.smcp icircumflex.smcp idieresis.smcp igrave.smcp imacron.smcp itilde.smcp];
 
@@ -1349,13 +1349,18 @@ feature kern {
     pos b j -8;
     pos c b -47;
     pos e b -58;
+    pos f exclam 94;
     pos f comma -13;
     pos f period -13;
+    pos f question 97;
     pos f a -8;
+    pos f b 103;
     pos f c -24;
     pos f d -23;
     pos f e -24;
     pos f g -8;
+    pos f h 80;
+    pos f k 77;
     pos f o -24;
     pos f t 60;
     pos f ae -8;
@@ -1365,6 +1370,10 @@ feature kern {
     pos f otilde -24;
     pos f odieresis -24;
     pos f oslash -24;
+    pos f quoteleft 79;
+    pos f quoteright 81;
+    pos f quotedblleft 87;
+    pos f quotedblright 86;
     pos f ecaron -24;
     pos f amacron -8;
     pos f emacron -24;
@@ -2052,6 +2061,7 @@ feature kern {
     pos @_krA @_kry -38;
     pos @_krA @_kr_uSC -54;
     pos @_krA @_krW -111;
+    pos @_krC @_kri 28;
     pos @_kra @_kry -17;
     pos @_krO @_krA -11;
     pos @_krO @_krpunct1 -16;

@@ -40,8 +40,8 @@
       <point x="74" y="35" type="curve" smooth="yes"/>
       <point x="29" y="35" type="line"/>
       <point x="29" y="0" type="line"/>
-      <point x="309" y="0" type="line"/>
-      <point x="309" y="35" type="line"/>
+      <point x="279" y="0" type="line"/>
+      <point x="279" y="35" type="line"/>
       <point x="264" y="35" type="line" smooth="yes"/>
       <point x="233" y="35"/>
       <point x="229" y="40"/>
@@ -52,10 +52,10 @@
       <point x="380" y="40"/>
       <point x="376" y="35"/>
       <point x="345" y="35" type="curve" smooth="yes"/>
-      <point x="300" y="35" type="line"/>
-      <point x="300" y="0" type="line"/>
-      <point x="570" y="0" type="line"/>
-      <point x="570" y="35" type="line"/>
+      <point x="320" y="35" type="line"/>
+      <point x="320" y="0" type="line"/>
+      <point x="550" y="0" type="line"/>
+      <point x="550" y="35" type="line"/>
       <point x="535" y="35" type="line" smooth="yes"/>
       <point x="504" y="35"/>
       <point x="500" y="40"/>
@@ -69,8 +69,8 @@
       <point x="640" y="45"/>
       <point x="633" y="35"/>
       <point x="605" y="35" type="curve" smooth="yes"/>
-      <point x="565" y="35" type="line"/>
-      <point x="565" y="0" type="line"/>
+      <point x="585" y="35" type="line"/>
+      <point x="585" y="0" type="line"/>
       <point x="840" y="0" type="line"/>
       <point x="840" y="35" type="line"/>
       <point x="795" y="35" type="line" smooth="yes"/>
@@ -117,7 +117,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>7d76240f13a5c8529cbbb4fdf678bc48fc52098924b3b1e6558c270948accf3c01c84083d27382cbbc9f8036029973c338d86e3612d2aa808d7cd648266fc9de</string>
+    <string>9e57181288e60b0c2e37145d70fb00a40cacd4ed08b97fee1646b206d4625a1b54a898534f2865190d4d502b5ab8c083eff7cadcd80ddbf6d8ff22696e8989aa</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -181,7 +181,7 @@
           <string>vstem 620 140</string>
         </array>
         <key>pointTag</key>
-        <string>._.105553223286784</string>
+        <string>._.105553214771824</string>
       </dict>
     </array>
   </dict>

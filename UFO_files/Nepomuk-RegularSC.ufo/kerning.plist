@@ -15,7 +15,7 @@
     <key>public.kern2.kr_aSC</key>
     <integer>-40</integer>
     <key>public.kern2.kra</key>
-    <integer>-42</integer>
+    <integer>-17</integer>
     <key>public.kern2.kre</key>
     <integer>-11</integer>
     <key>public.kern2.kru</key>
@@ -399,7 +399,7 @@
     <key>z.smcp</key>
     <integer>-44</integer>
     <key>public.kern2.krA</key>
-    <integer>-141</integer>
+    <integer>-182</integer>
     <key>public.kern2.krC</key>
     <integer>-13</integer>
     <key>public.kern2.krO</key>
@@ -557,12 +557,26 @@
   <dict>
     <key>ae.smcp</key>
     <integer>-8</integer>
+    <key>b.smcp</key>
+    <integer>80</integer>
     <key>c.smcp</key>
     <integer>-19</integer>
     <key>d.smcp</key>
     <integer>-23</integer>
     <key>g.smcp</key>
     <integer>-8</integer>
+    <key>h.smcp</key>
+    <integer>80</integer>
+    <key>k.smcp</key>
+    <integer>89</integer>
+    <key>quotedblleft</key>
+    <integer>78</integer>
+    <key>quotedblright</key>
+    <integer>80</integer>
+    <key>quoteleft</key>
+    <integer>62</integer>
+    <key>quoteright</key>
+    <integer>87</integer>
     <key>t.smcp</key>
     <integer>60</integer>
     <key>public.kern2.kra</key>
@@ -712,6 +726,13 @@
     <key>Y</key>
     <integer>-11</integer>
   </dict>
+  <key>quotedblleft</key>
+  <dict>
+    <key>b.smcp</key>
+    <integer>64</integer>
+    <key>k.smcp</key>
+    <integer>31</integer>
+  </dict>
   <key>quoteleft</key>
   <dict>
     <key>J</key>
@@ -840,9 +861,9 @@
     <key>U</key>
     <integer>-24</integer>
     <key>V</key>
-    <integer>-114</integer>
+    <integer>-155</integer>
     <key>Y</key>
-    <integer>-54</integer>
+    <integer>-105</integer>
     <key>hyphen</key>
     <integer>-19</integer>
     <key>quoteright</key>
@@ -862,11 +883,18 @@
     <key>public.kern2.krO</key>
     <integer>-8</integer>
     <key>public.kern2.krW</key>
-    <integer>-105</integer>
+    <integer>-130</integer>
     <key>public.kern2.kr_uSC</key>
     <integer>-54</integer>
     <key>public.kern2.kry</key>
     <integer>-38</integer>
+  </dict>
+  <key>public.kern1.krC</key>
+  <dict>
+    <key>public.kern2.kr_iSC</key>
+    <integer>10</integer>
+    <key>public.kern2.kri</key>
+    <integer>20</integer>
   </dict>
   <key>public.kern1.krO</key>
   <dict>
@@ -914,7 +942,7 @@
     <key>z.smcp</key>
     <integer>-33</integer>
     <key>public.kern2.krA</key>
-    <integer>-109</integer>
+    <integer>-160</integer>
     <key>public.kern2.krC</key>
     <integer>-8</integer>
     <key>public.kern2.krO</key>

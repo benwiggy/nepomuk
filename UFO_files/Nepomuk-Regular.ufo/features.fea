@@ -40,6 +40,7 @@ languagesystem latn dflt; # Latin default
 
 
 
+
 feature ss01 {
 # GSUB feature: Stylistic Set 1
 # Lookups: 1
@@ -47,6 +48,7 @@ feature ss01 {
   sub @ss01 by @ss012;
 
 } ss01;
+
 
 
 
@@ -158,6 +160,7 @@ feature smcp {
   sub scaron by scaron.smcp;
   sub scircumflex by scircumflex.smcp;
   sub t by t.smcp;
+  sub tcaron by tcaron.smcp;
   sub thorn by thorn.smcp;
   sub tilde by tilde.smcp;
   sub u by u.smcp;
@@ -190,6 +193,7 @@ feature smcp {
 
 
 
+
 feature liga {
 # GSUB feature: Standard Ligatures
 # Lookups: 1
@@ -206,6 +210,7 @@ feature liga {
   sub dollar r by uni211F;
 
 } liga;
+
 
 
 
@@ -355,8 +360,19 @@ feature mark {
 
 
 
+
+feature dlig {
+# Discretionary Ligatures
+
+#> feature
+  sub f j by f_j.dlig;
+  sub i j by i_j.dlig;
+#< feature
+} dlig;
+
 feature kern {
   @_krA = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde];
+  @_krC = [C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent];
   @_kra = [a aacute abreve acircumflex adieresis agrave amacron aring atilde];
   @_krO = [O Oacute Obreve Ocircumflex Odieresis Ograve Omacron Oslash Otilde];
   @_kry = [y yacute ycircumflex ydieresis ygrave];
@@ -365,12 +381,12 @@ feature kern {
   @_kr_oSC = [o.smcp oacute.smcp obreve.smcp ocircumflex.smcp odieresis.smcp ograve.smcp omacron.smcp oslash.smcp otilde.smcp];
   @_kr_uSC = [u.smcp uacute.smcp ubreve.smcp ucircumflex.smcp udieresis.smcp ugrave.smcp umacron.smcp uring.smcp utilde.smcp];
   @_krW = [W Wacute Wcircumflex Wdieresis Wgrave];
-  @_krC = [C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent];
+  @_kri = [dotlessi i iacute icircumflex idieresis igrave imacron itilde];
+  @_kr_iSC = [i.smcp iacute.smcp icircumflex.smcp idieresis.smcp igrave.smcp imacron.smcp itilde.smcp];
   @_kro = [o oacute obreve ocircumflex odieresis ograve omacron oslash otilde];
   @_kr_ySC = [y.smcp yacute.smcp ycircumflex.smcp ydieresis.smcp];
   @_kre = [e eacute ebreve ecaron ecircumflex edieresis edotaccent egrave emacron];
   @_kr_eSC = [e.smcp eacute.smcp ebreve.smcp ecaron.smcp ecircumflex.smcp edieresis.smcp edotaccent.smcp egrave.smcp emacron.smcp];
-  @_kr_iSC = [i.smcp iacute.smcp icircumflex.smcp idieresis.smcp igrave.smcp imacron.smcp itilde.smcp];
 
   lookup KERN_LTR  {
   lookupflag IgnoreMarks;
@@ -413,8 +429,8 @@ feature kern {
     pos A G -8;
     pos A T -27;
     pos A U -24;
-    pos A V -114;
-    pos A Y -54;
+    pos A V -155;
+    pos A Y -105;
     pos A v -52;
     pos A w -53;
     pos A quoteright -70;
@@ -423,17 +439,17 @@ feature kern {
     pos B U -8;
     pos B V -7;
     pos B Y -7;
-    pos B a -42;
+    pos B a -17;
     pos B e -11;
     pos B r -20;
     pos B u -31;
     pos B ecaron -11;
-    pos B aacute -42;
-    pos B agrave -42;
-    pos B acircumflex -42;
-    pos B adieresis -42;
-    pos B atilde -42;
-    pos B aring -42;
+    pos B aacute -17;
+    pos B agrave -17;
+    pos B acircumflex -17;
+    pos B adieresis -17;
+    pos B atilde -17;
+    pos B aring -17;
     pos B eacute -11;
     pos B egrave -11;
     pos B ecircumflex -11;
@@ -442,9 +458,9 @@ feature kern {
     pos B ugrave -31;
     pos B ucircumflex -31;
     pos B udieresis -31;
-    pos B amacron -42;
+    pos B amacron -17;
     pos B emacron -11;
-    pos B abreve -42;
+    pos B abreve -17;
     pos B ebreve -11;
     pos B utilde -31;
     pos B umacron -31;
@@ -1006,7 +1022,7 @@ feature kern {
     pos V period -140;
     pos V colon -57;
     pos V semicolon -80;
-    pos V A -141;
+    pos V A -182;
     pos V C -13;
     pos V G -13;
     pos V O -40;
@@ -1031,7 +1047,7 @@ feature kern {
     pos V x -26;
     pos V y -19;
     pos V z -44;
-    pos V Aring -141;
+    pos V Aring -182;
     pos V AE -148;
     pos V Ccedilla -13;
     pos V Odieresis -40;
@@ -1042,13 +1058,13 @@ feature kern {
     pos V guilsinglright -57;
     pos V ecaron -79;
     pos V Ccaron -13;
-    pos V Aacute -141;
+    pos V Aacute -182;
     pos V Oacute -40;
     pos V Ocircumflex -40;
     pos V Ograve -40;
-    pos V Agrave -141;
-    pos V Acircumflex -141;
-    pos V Atilde -141;
+    pos V Agrave -182;
+    pos V Acircumflex -182;
+    pos V Atilde -182;
     pos V Otilde -40;
     pos V aacute -72;
     pos V agrave -72;
@@ -1073,14 +1089,14 @@ feature kern {
     pos V Cacute -13;
     pos V Ccircumflex -13;
     pos V Cdotaccent -13;
-    pos V Adieresis -141;
+    pos V Adieresis -182;
     pos V ycircumflex -19;
-    pos V Amacron -141;
+    pos V Amacron -182;
     pos V amacron -72;
     pos V emacron -79;
     pos V Omacron -40;
     pos V omacron -95;
-    pos V Abreve -141;
+    pos V Abreve -182;
     pos V abreve -72;
     pos V ebreve -79;
     pos V Obreve -40;
@@ -1317,15 +1333,24 @@ feature kern {
     pos a quoteright -18;
     pos b quotesingle -18;
     pos b j -8;
+    pos f exclam 55;
+    pos f question 98;
     pos f a -8;
+    pos f b 101;
     pos f c -19;
     pos f d -23;
     pos f e -19;
     pos f g -8;
+    pos f h 80;
+    pos f k 89;
     pos f o -19;
     pos f t 60;
     pos f ae -8;
     pos f oslash -19;
+    pos f quoteleft 75;
+    pos f quoteright 87;
+    pos f quotedblleft 77;
+    pos f quotedblright 80;
     pos f ecaron -19;
     pos f aacute -8;
     pos f agrave -8;
@@ -1493,8 +1518,8 @@ feature kern {
     pos Aring G -8;
     pos Aring T -27;
     pos Aring U -24;
-    pos Aring V -114;
-    pos Aring Y -54;
+    pos Aring V -155;
+    pos Aring Y -105;
     pos Aring v -52;
     pos Aring w -53;
     pos Aring quoteright -70;
@@ -1573,6 +1598,8 @@ feature kern {
     pos quotesinglbase Wgrave -121;
     pos quotesinglbase Wacute -121;
     pos quotesinglbase Wdieresis -121;
+    pos quotedblleft b 64;
+    pos quotedblleft k 31;
     pos guilsinglleft V -44;
     pos guilsinglleft W -30;
     pos guilsinglleft Y -48;
@@ -1605,8 +1632,8 @@ feature kern {
     pos Aacute G -8;
     pos Aacute T -27;
     pos Aacute U -24;
-    pos Aacute V -114;
-    pos Aacute Y -54;
+    pos Aacute V -155;
+    pos Aacute Y -105;
     pos Aacute v -52;
     pos Aacute w -53;
     pos Aacute quoteright -70;
@@ -1626,8 +1653,8 @@ feature kern {
     pos Agrave G -8;
     pos Agrave T -27;
     pos Agrave U -24;
-    pos Agrave V -114;
-    pos Agrave Y -54;
+    pos Agrave V -155;
+    pos Agrave Y -105;
     pos Agrave v -52;
     pos Agrave w -53;
     pos Agrave quoteright -70;
@@ -1638,8 +1665,8 @@ feature kern {
     pos Acircumflex G -8;
     pos Acircumflex T -27;
     pos Acircumflex U -24;
-    pos Acircumflex V -114;
-    pos Acircumflex Y -54;
+    pos Acircumflex V -155;
+    pos Acircumflex Y -105;
     pos Acircumflex v -52;
     pos Acircumflex w -53;
     pos Acircumflex quoteright -70;
@@ -1650,8 +1677,8 @@ feature kern {
     pos Atilde G -8;
     pos Atilde T -27;
     pos Atilde U -24;
-    pos Atilde V -114;
-    pos Atilde Y -54;
+    pos Atilde V -155;
+    pos Atilde Y -105;
     pos Atilde v -52;
     pos Atilde w -53;
     pos Atilde quoteright -70;
@@ -1706,8 +1733,8 @@ feature kern {
     pos Adieresis G -8;
     pos Adieresis T -27;
     pos Adieresis U -24;
-    pos Adieresis V -114;
-    pos Adieresis Y -54;
+    pos Adieresis V -155;
+    pos Adieresis Y -105;
     pos Adieresis v -52;
     pos Adieresis w -53;
     pos Adieresis quoteright -70;
@@ -1756,8 +1783,8 @@ feature kern {
     pos Amacron G -8;
     pos Amacron T -27;
     pos Amacron U -24;
-    pos Amacron V -114;
-    pos Amacron Y -54;
+    pos Amacron V -155;
+    pos Amacron Y -105;
     pos Amacron v -52;
     pos Amacron w -53;
     pos Amacron quoteright -70;
@@ -1778,8 +1805,8 @@ feature kern {
     pos Abreve G -8;
     pos Abreve T -27;
     pos Abreve U -24;
-    pos Abreve V -114;
-    pos Abreve Y -54;
+    pos Abreve V -155;
+    pos Abreve Y -105;
     pos Abreve v -52;
     pos Abreve w -53;
     pos Abreve quoteright -70;
@@ -1986,7 +2013,9 @@ feature kern {
     pos @_krA @_krO -8;
     pos @_krA @_kry -38;
     pos @_krA @_kr_uSC -54;
-    pos @_krA @_krW -105;
+    pos @_krA @_krW -130;
+    pos @_krC @_kri 20;
+    pos @_krC @_kr_iSC 10;
     pos @_kra @_kry -19;
     pos @_krO @_krA -11;
     pos @_krO @_krpunct1 -9;
@@ -2001,7 +2030,7 @@ feature kern {
     pos @_kr_oSC @_kr_ySC -38;
     pos @_kr_uSC @_kr_aSC -105;
     pos @_kr_uSC @_kr_oSC -28;
-    pos @_krW @_krA -109;
+    pos @_krW @_krA -160;
     pos @_krW @_krC -8;
     pos @_krW @_kra -59;
     pos @_krW @_kre -60;
@@ -2019,3 +2048,4 @@ feature kern {
 
   lookup KERN_LTR;
 } kern;
+

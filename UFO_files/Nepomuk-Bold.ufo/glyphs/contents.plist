@@ -150,6 +150,8 @@
   <string>S_circumflex.glif</string>
   <key>T</key>
   <string>T_.glif</string>
+  <key>Tcaron</key>
+  <string>T_caron.glif</string>
   <key>Thorn</key>
   <string>T_horn.glif</string>
   <key>U</key>
@@ -734,6 +736,8 @@
   <string>t.glif</string>
   <key>t.smcp</key>
   <string>t.smcp.glif</string>
+  <key>tcaron</key>
+  <string>tcaron.glif</string>
   <key>thorn</key>
   <string>thorn.glif</string>
   <key>three</key>

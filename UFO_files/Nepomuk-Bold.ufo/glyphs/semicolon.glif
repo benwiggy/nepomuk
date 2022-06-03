@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="semicolon" format="2">
-  <advance width="335"/>
+  <advance width="314"/>
   <unicode hex="003B"/>
   <outline>
     <contour>
-      <point x="85" y="391" type="curve" smooth="yes"/>
-      <point x="85" y="352"/>
-      <point x="123" y="320"/>
-      <point x="171" y="320" type="curve" smooth="yes"/>
-      <point x="219" y="320"/>
-      <point x="257" y="352"/>
-      <point x="257" y="391" type="curve" smooth="yes"/>
-      <point x="257" y="430"/>
-      <point x="219" y="462"/>
-      <point x="171" y="462" type="curve" smooth="yes"/>
-      <point x="123" y="462"/>
-      <point x="85" y="430"/>
+      <point x="82" y="391" type="curve" smooth="yes"/>
+      <point x="82" y="352"/>
+      <point x="115" y="320"/>
+      <point x="159" y="320" type="curve" smooth="yes"/>
+      <point x="202" y="320"/>
+      <point x="235" y="352"/>
+      <point x="235" y="391" type="curve" smooth="yes"/>
+      <point x="235" y="430"/>
+      <point x="202" y="462"/>
+      <point x="159" y="462" type="curve" smooth="yes"/>
+      <point x="115" y="462"/>
+      <point x="82" y="430"/>
     </contour>
     <contour>
-      <point x="162" y="17" type="curve" smooth="yes"/>
-      <point x="187" y="17"/>
-      <point x="198" y="8"/>
-      <point x="198" y="-19" type="curve" smooth="yes"/>
-      <point x="198" y="-87"/>
-      <point x="131" y="-144"/>
+      <point x="150" y="17" type="curve" smooth="yes"/>
+      <point x="173" y="17"/>
+      <point x="183" y="8"/>
+      <point x="183" y="-19" type="curve" smooth="yes"/>
+      <point x="183" y="-87"/>
+      <point x="123" y="-144"/>
       <point x="56" y="-162" type="curve"/>
-      <point x="64" y="-191" type="line"/>
-      <point x="164" y="-172"/>
-      <point x="275" y="-108"/>
-      <point x="275" y="29" type="curve" smooth="yes"/>
-      <point x="275" y="116"/>
-      <point x="231" y="159"/>
-      <point x="167" y="159" type="curve" smooth="yes"/>
-      <point x="110" y="159"/>
-      <point x="75" y="124"/>
-      <point x="75" y="88" type="curve" smooth="yes"/>
-      <point x="75" y="52"/>
-      <point x="110" y="17"/>
+      <point x="63" y="-191" type="line"/>
+      <point x="152" y="-172"/>
+      <point x="251" y="-108"/>
+      <point x="251" y="29" type="curve" smooth="yes"/>
+      <point x="251" y="116"/>
+      <point x="212" y="159"/>
+      <point x="155" y="159" type="curve" smooth="yes"/>
+      <point x="105" y="159"/>
+      <point x="73" y="124"/>
+      <point x="73" y="88" type="curve" smooth="yes"/>
+      <point x="73" y="52"/>
+      <point x="105" y="17"/>
     </contour>
   </outline>
   <lib>
@@ -46,13 +46,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>5da3ca6520b28e7feda5ed269a0caa85f4302a8af382688da5e41fa7eadeb29a7487f589ab6598800b864475b1b58ad6d62a9964dba0d4de1091dca6ab49c8cd</string>
+    <string>49006948e73567abdec8c82f306dfcc55fdd77533b3bf1fc67fcfd37f24227cc4acc83950688d47feeda92d4a18595c0eca1d1aa0a129e2a244b93e8f863392f</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 85 172</string>
+          <string>vstem 82 153</string>
           <string>hstem 320 142</string>
           <string>hstem 17 142</string>
         </array>
@@ -60,22 +60,22 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 198 77</string>
+          <string>vstem 183 68</string>
           <string>hstem 17 142</string>
           <string>hstem 320 142</string>
         </array>
         <key>pointTag</key>
-        <string>._.105553220453952</string>
+        <string>._.105553416377104</string>
       </dict>
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 75 200</string>
+          <string>vstem 73 178</string>
           <string>hstem 17 142</string>
           <string>hstem 320 142</string>
         </array>
         <key>pointTag</key>
-        <string>._.105553220463872</string>
+        <string>._.105553416375424</string>
       </dict>
     </array>
   </dict>
