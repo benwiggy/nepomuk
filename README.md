@@ -11,6 +11,6 @@ v2.02: More kerning revisions! Also Unicode Roman Numerals to Regular and Italic
 
 A small range of sample pages, such as this one below, can be found in the images folder.
 
-![sample](images/Ravel_Three_birds.png)
+![sample](images/Debussy_Trois_Chansons.pdf)
 
 The fonts in this archive are free to use for everybody. They're licensed under the [SIL Open Font License](http://scripts.sil.org/ofl).
