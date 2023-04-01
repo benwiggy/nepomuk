@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aring.smcp" format="2">
   <advance width="578"/>
-  <anchor x="310" y="516" name="t.asciicircum_1"/>
   <anchor x="310" y="537" name="t.dieresis"/>
   <outline>
     <component base="a.smcp"/>

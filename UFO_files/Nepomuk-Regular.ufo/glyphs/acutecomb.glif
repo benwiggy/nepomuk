@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb" format="2">
+  <advance width="212"/>
+  <unicode hex="0301"/>
+  <anchor x="106" y="530" name="_t.asciicircum_1"/>
+  <outline>
+    <component base="acute"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>acute%</string>
+  </dict>
+  </lib>
+</glyph>

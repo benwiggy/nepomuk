@@ -2,7 +2,6 @@
 <glyph name="Itilde" format="2">
   <advance width="404"/>
   <unicode hex="0128"/>
-  <anchor x="199" y="730" name="t.asciicircum_1"/>
   <outline>
     <component base="I"/>
     <component base="tilde" xOffset="73" yOffset="50"/>

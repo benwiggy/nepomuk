@@ -3,16 +3,16 @@
   <advance width="512"/>
   <outline>
     <contour>
-      <point x="51" y="0" type="line"/>
       <point x="461" y="0" type="line"/>
       <point x="461" y="506" type="line"/>
       <point x="51" y="506" type="line"/>
+      <point x="51" y="0" type="line"/>
     </contour>
     <contour>
+      <point x="410" y="51" type="line"/>
       <point x="102" y="51" type="line"/>
       <point x="102" y="455" type="line"/>
       <point x="410" y="455" type="line"/>
-      <point x="410" y="51" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -22,7 +22,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w512m51,0l461,0l461,506l51,506m102,51l102,455l410,455l410,51</string>
+    <string>w512m461,0l461,506l51,506l51,0m410,51l102,51l102,455l410,455</string>
     <key>hintSetList</key>
     <array>
       <dict>

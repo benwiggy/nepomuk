@@ -2,10 +2,13 @@
 <glyph name="dotlessi" format="2">
   <advance width="302"/>
   <unicode hex="0131"/>
-  <anchor x="155" y="507" name="t.asciicircum_1"/>
   <anchor x="155" y="513" name="t.dieresis"/>
+  <anchor x="155" y="507" name="t.asciicircum_1"/>
   <outline>
     <contour>
+      <point x="32" y="0" type="line"/>
+      <point x="282" y="0" type="line"/>
+      <point x="282" y="35" type="line"/>
       <point x="252" y="35" type="line" smooth="yes"/>
       <point x="207" y="35"/>
       <point x="202" y="40"/>
@@ -15,16 +18,13 @@
       <point x="32" y="415" type="line"/>
       <point x="62" y="415" type="line" smooth="yes"/>
       <point x="107" y="415"/>
-      <point x="112" y="410" name="hr01"/>
+      <point x="112" y="410" name=".hr01"/>
       <point x="112" y="365" type="curve" smooth="yes"/>
       <point x="112" y="85" type="line" smooth="yes"/>
       <point x="112" y="45"/>
       <point x="102" y="35"/>
       <point x="62" y="35" type="curve" smooth="yes"/>
-      <point x="32" y="35" type="line" name="hr02"/>
-      <point x="32" y="0" type="line"/>
-      <point x="282" y="0" type="line"/>
-      <point x="282" y="35" type="line"/>
+      <point x="32" y="35" type="line" name=".hr02"/>
     </contour>
   </outline>
   <lib>
@@ -34,7 +34,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>c0c110b79d47f0d90a1f85dc6f31a1572961c72910b5b9026006e59b6de6dc36b5fda74334d5d6dc2a4200c55a5914166fc74166ff5b01d4800b4f0757559972</string>
+    <string>67d9d9d46778190a28e70ffd0016d053dfba6ce9dd6366d909507e31080e6d431d11a5654c86ed8ce5a40368cd23aa98d45336801ddd9189485122800c7045ea</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -55,7 +55,7 @@
           <string>hstem 415 35</string>
         </array>
         <key>pointTag</key>
-        <string>hr01</string>
+        <string>.hr01</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -66,7 +66,7 @@
           <string>hstem 415 35</string>
         </array>
         <key>pointTag</key>
-        <string>hr02</string>
+        <string>.hr02</string>
       </dict>
     </array>
   </dict>

@@ -2,8 +2,8 @@
 <glyph name="j" format="2">
   <advance width="381"/>
   <unicode hex="006A"/>
-  <anchor x="245" y="556" name="t.asciicircum_1"/>
   <anchor x="245" y="570" name="t.dieresis"/>
+  <anchor x="245" y="556" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="291.987" y="434.112" type="line" smooth="yes"/>
@@ -61,7 +61,7 @@
           <string>hstem -52.9 21.79</string>
           <string>hstem -52.9 146.86</string>
           <string>hstem 470.12 25.58</string>
-          <string>vstem 19.11 62.53</string>
+          <string>vstem 19.11 62.54</string>
           <string>vstem 19.11 93.8</string>
           <string>vstem 199.13 90.01</string>
         </array>

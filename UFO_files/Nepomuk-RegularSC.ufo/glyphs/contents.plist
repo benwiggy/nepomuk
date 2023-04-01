@@ -24,6 +24,8 @@
   <string>A_grave.1.glif</string>
   <key>Amacron</key>
   <string>A_macron.glif</string>
+  <key>Aogonek</key>
+  <string>A_ogonek.glif</string>
   <key>Aring</key>
   <string>A_ring.glif</string>
   <key>Atilde</key>
@@ -74,6 +76,8 @@
   <string>E_grave.glif</string>
   <key>Emacron</key>
   <string>E_macron.glif</string>
+  <key>Eogonek</key>
+  <string>E_ogonek.glif</string>
   <key>Eth</key>
   <string>E_th.glif</string>
   <key>Euro</key>
@@ -96,6 +100,10 @@
   <string>H_.glif</string>
   <key>H.alt</key>
   <string>H_.alt.glif</string>
+  <key>Hbar</key>
+  <string>H_bar.glif</string>
+  <key>Hcircumflex</key>
+  <string>H_circumflex.glif</string>
   <key>I</key>
   <string>I_.glif</string>
   <key>I.alt</key>
@@ -106,10 +114,14 @@
   <string>I_circumflex.glif</string>
   <key>Idieresis</key>
   <string>I_dieresis.glif</string>
+  <key>Idotaccent</key>
+  <string>I_dotaccent.glif</string>
   <key>Igrave</key>
   <string>I_grave.glif</string>
   <key>Imacron</key>
   <string>I_macron.glif</string>
+  <key>Iogonek</key>
+  <string>I_ogonek.glif</string>
   <key>Itilde</key>
   <string>I_tilde.glif</string>
   <key>J</key>
@@ -126,6 +138,14 @@
   <string>L_.glif</string>
   <key>L.alt</key>
   <string>L_.alt.glif</string>
+  <key>Lacute</key>
+  <string>L_acute.glif</string>
+  <key>Lcaron</key>
+  <string>L_caron.glif</string>
+  <key>Ldot</key>
+  <string>L_dot.glif</string>
+  <key>Lslash</key>
+  <string>L_slash.glif</string>
   <key>M</key>
   <string>M_.glif</string>
   <key>M.alt</key>
@@ -156,6 +176,8 @@
   <string>O_dieresis.glif</string>
   <key>Ograve</key>
   <string>O_grave.glif</string>
+  <key>Ohungarumlaut</key>
+  <string>O_hungarumlaut.glif</string>
   <key>Omacron</key>
   <string>O_macron.glif</string>
   <key>Omega</key>
@@ -196,8 +218,12 @@
   <string>T_.glif</string>
   <key>T.alt</key>
   <string>T_.alt.glif</string>
+  <key>Tbar</key>
+  <string>T_bar.glif</string>
   <key>Tcaron</key>
   <string>T_caron.glif</string>
+  <key>Tcedilla</key>
+  <string>T_cedilla.glif</string>
   <key>Thorn</key>
   <string>T_horn.glif</string>
   <key>U</key>
@@ -214,8 +240,12 @@
   <string>U_dieresis.glif</string>
   <key>Ugrave</key>
   <string>U_grave.glif</string>
+  <key>Uhungarumlaut</key>
+  <string>U_hungarumlaut.glif</string>
   <key>Umacron</key>
   <string>U_macron.glif</string>
+  <key>Uogonek</key>
+  <string>U_ogonek.glif</string>
   <key>Uring</key>
   <string>U_ring.glif</string>
   <key>Utilde</key>
@@ -300,6 +330,10 @@
   <string>amacron.smcp.glif</string>
   <key>ampersand</key>
   <string>ampersand.glif</string>
+  <key>aogonek</key>
+  <string>aogonek.glif</string>
+  <key>aogonek.smcp</key>
+  <string>aogonek.smcp.glif</string>
   <key>aring</key>
   <string>aring.glif</string>
   <key>aring.smcp</key>
@@ -392,6 +426,8 @@
   <string>colon.glif</string>
   <key>comma</key>
   <string>comma.glif</string>
+  <key>commaaccent</key>
+  <string>commaaccent.glif</string>
   <key>copyright</key>
   <string>copyright.glif</string>
   <key>currency</key>
@@ -406,6 +442,10 @@
   <string>daggerdbl.glif</string>
   <key>dcaron</key>
   <string>dcaron.glif</string>
+  <key>dcaron.smcp</key>
+  <string>dcaron.smcp.glif</string>
+  <key>dcroat</key>
+  <string>dcroat.glif</string>
   <key>dcroat.smcp</key>
   <string>dcroat.smcp.glif</string>
   <key>degree</key>
@@ -480,6 +520,10 @@
   <string>emdash.glif</string>
   <key>endash</key>
   <string>endash.glif</string>
+  <key>eogonek</key>
+  <string>eogonek.glif</string>
+  <key>eogonek.smcp</key>
+  <string>eogonek.smcp.glif</string>
   <key>equal</key>
   <string>equal.glif</string>
   <key>eth</key>
@@ -574,8 +618,20 @@
   <string>h.glif</string>
   <key>h.smcp</key>
   <string>h.smcp.glif</string>
+  <key>hbar</key>
+  <string>hbar.glif</string>
+  <key>hbar.smcp</key>
+  <string>hbar.smcp.glif</string>
+  <key>hcircumflex</key>
+  <string>hcircumflex.glif</string>
+  <key>hcircumflex.smcp</key>
+  <string>hcircumflex.smcp.glif</string>
   <key>horizontalbar</key>
   <string>horizontalbar.glif</string>
+  <key>hungarumlaut</key>
+  <string>hungarumlaut.glif</string>
+  <key>hungarumlaut.smcp</key>
+  <string>hungarumlaut.smcp.glif</string>
   <key>hyphen</key>
   <string>hyphen.glif</string>
   <key>hyphen-gnrl</key>
@@ -604,6 +660,10 @@
   <string>imacron.glif</string>
   <key>imacron.smcp</key>
   <string>imacron.smcp.glif</string>
+  <key>iogonek</key>
+  <string>iogonek.glif</string>
+  <key>iogonek.smcp</key>
+  <string>iogonek.smcp.glif</string>
   <key>itilde</key>
   <string>itilde.glif</string>
   <key>itilde.smcp</key>
@@ -620,10 +680,26 @@
   <string>k.glif</string>
   <key>k.smcp</key>
   <string>k.smcp.glif</string>
+  <key>kgreenlandic</key>
+  <string>kgreenlandic.glif</string>
+  <key>kgreenlandic.smcp</key>
+  <string>kgreenlandic.smcp.glif</string>
   <key>l</key>
   <string>l.glif</string>
   <key>l.smcp</key>
   <string>l.smcp.glif</string>
+  <key>lacute</key>
+  <string>lacute.glif</string>
+  <key>lacute.smcp</key>
+  <string>lacute.smcp.glif</string>
+  <key>lcaron</key>
+  <string>lcaron.glif</string>
+  <key>lcaron.smcp</key>
+  <string>lcaron.smcp.glif</string>
+  <key>ldot</key>
+  <string>ldot.glif</string>
+  <key>ldot.smcp</key>
+  <string>ldot.smcp.glif</string>
   <key>less</key>
   <string>less.glif</string>
   <key>logicalnot</key>
@@ -636,6 +712,10 @@
   <string>lowasterisk.glif</string>
   <key>lozenge</key>
   <string>lozenge.glif</string>
+  <key>lslash</key>
+  <string>lslash.glif</string>
+  <key>lslash.smcp</key>
+  <string>lslash.smcp.glif</string>
   <key>m</key>
   <string>m.glif</string>
   <key>m.smcp</key>
@@ -672,6 +752,10 @@
   <string>nacute.glif</string>
   <key>nacute.smcp</key>
   <string>nacute.smcp.glif</string>
+  <key>napostrophe</key>
+  <string>napostrophe.glif</string>
+  <key>napostrophe.smcp</key>
+  <string>napostrophe.smcp.glif</string>
   <key>ncaron</key>
   <string>ncaron.glif</string>
   <key>ncaron.smcp</key>
@@ -692,6 +776,8 @@
   <string>ntilde.smcp.glif</string>
   <key>numbersign</key>
   <string>numbersign.glif</string>
+  <key>numero</key>
+  <string>numero.glif</string>
   <key>o</key>
   <string>o.glif</string>
   <key>o.smcp</key>
@@ -716,10 +802,16 @@
   <string>oe.glif</string>
   <key>oe.smcp</key>
   <string>oe.smcp.glif</string>
+  <key>ogonek</key>
+  <string>ogonek.glif</string>
   <key>ograve</key>
   <string>ograve.glif</string>
   <key>ograve.smcp</key>
   <string>ograve.smcp.glif</string>
+  <key>ohungarumlaut</key>
+  <string>ohungarumlaut.glif</string>
+  <key>ohungarumlaut.smcp</key>
+  <string>ohungarumlaut.smcp.glif</string>
   <key>omacron</key>
   <string>omacron.glif</string>
   <key>omacron.smcp</key>
@@ -858,6 +950,8 @@
   <string>scaron.glif</string>
   <key>scaron.smcp</key>
   <string>scaron.smcp.glif</string>
+  <key>scedilla</key>
+  <string>scedilla.glif</string>
   <key>scedilla.smcp</key>
   <string>scedilla.smcp.glif</string>
   <key>scircumflex</key>
@@ -884,6 +978,8 @@
   <string>six.romansmall.glif</string>
   <key>slash</key>
   <string>slash.glif</string>
+  <key>soundcopyright</key>
+  <string>soundcopyright.glif</string>
   <key>space</key>
   <string>space.glif</string>
   <key>sterling</key>
@@ -894,10 +990,16 @@
   <string>t.glif</string>
   <key>t.smcp</key>
   <string>t.smcp.glif</string>
+  <key>tbar</key>
+  <string>tbar.glif</string>
+  <key>tbar.smcp</key>
+  <string>tbar.smcp.glif</string>
   <key>tcaron</key>
   <string>tcaron.glif</string>
   <key>tcaron.smcp</key>
   <string>tcaron.smcp.glif</string>
+  <key>tcedilla</key>
+  <string>tcedilla.glif</string>
   <key>ten.roman</key>
   <string>ten.roman.glif</string>
   <key>ten.romansmall</key>
@@ -962,6 +1064,10 @@
   <string>ugrave.glif</string>
   <key>ugrave.smcp</key>
   <string>ugrave.smcp.glif</string>
+  <key>uhungarumlaut</key>
+  <string>uhungarumlaut.glif</string>
+  <key>uhungarumlaut.smcp</key>
+  <string>uhungarumlaut.smcp.glif</string>
   <key>umacron</key>
   <string>umacron.glif</string>
   <key>umacron.smcp</key>
@@ -1024,6 +1130,50 @@
   <string>uni001E_.glif</string>
   <key>uni001F</key>
   <string>uni001F_.glif</string>
+  <key>uni0122</key>
+  <string>uni0122.glif</string>
+  <key>uni0123</key>
+  <string>uni0123.glif</string>
+  <key>uni0123.smcp</key>
+  <string>uni0123.smcp.glif</string>
+  <key>uni0136</key>
+  <string>uni0136.glif</string>
+  <key>uni0137</key>
+  <string>uni0137.glif</string>
+  <key>uni0137.smcp</key>
+  <string>uni0137.smcp.glif</string>
+  <key>uni013B</key>
+  <string>uni013B_.glif</string>
+  <key>uni013C</key>
+  <string>uni013C_.glif</string>
+  <key>uni013C.smcp</key>
+  <string>uni013C_.smcp.glif</string>
+  <key>uni0145</key>
+  <string>uni0145.glif</string>
+  <key>uni0146</key>
+  <string>uni0146.glif</string>
+  <key>uni0146.smcp</key>
+  <string>uni0146.smcp.glif</string>
+  <key>uni0156</key>
+  <string>uni0156.glif</string>
+  <key>uni0157</key>
+  <string>uni0157.glif</string>
+  <key>uni0157.smcp</key>
+  <string>uni0157.smcp.glif</string>
+  <key>uni0163.smcp</key>
+  <string>uni0163.smcp.glif</string>
+  <key>uni0218</key>
+  <string>uni0218.glif</string>
+  <key>uni0219</key>
+  <string>uni0219.glif</string>
+  <key>uni0219.smcp</key>
+  <string>uni0219.smcp.glif</string>
+  <key>uni021A</key>
+  <string>uni021A_.glif</string>
+  <key>uni021B</key>
+  <string>uni021B_.glif</string>
+  <key>uni021B.smcp</key>
+  <string>uni021B_.smcp.glif</string>
   <key>uni0394</key>
   <string>uni0394.glif</string>
   <key>uni2034</key>
@@ -1036,6 +1186,10 @@
   <string>uni2037.glif</string>
   <key>uni2042</key>
   <string>uni2042.glif</string>
+  <key>uogonek</key>
+  <string>uogonek.glif</string>
+  <key>uogonek.smcp</key>
+  <string>uogonek.smcp.glif</string>
   <key>uring</key>
   <string>uring.glif</string>
   <key>uring.smcp</key>

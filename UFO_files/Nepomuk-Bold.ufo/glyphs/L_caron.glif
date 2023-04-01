@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="2">
+  <advance width="607"/>
+  <unicode hex="013D"/>
+  <anchor x="207" y="730" name="t.asciicircum_1"/>
+  <outline>
+    <component base="L"/>
+    <component base="quoteright" xOffset="393" yOffset="-3"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>L+quoteright</string>
+  </dict>
+  </lib>
+</glyph>

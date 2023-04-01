@@ -4,9 +4,6 @@
   <unicode hex="00B7"/>
   <outline>
     <contour>
-      <point x="80" y="280" type="curve" smooth="yes"/>
-      <point x="80" y="236"/>
-      <point x="117" y="199"/>
       <point x="161" y="199" type="curve" smooth="yes"/>
       <point x="205" y="199"/>
       <point x="242" y="236"/>
@@ -16,6 +13,9 @@
       <point x="161" y="361" type="curve" smooth="yes"/>
       <point x="117" y="361"/>
       <point x="80" y="324"/>
+      <point x="80" y="280" type="curve" smooth="yes"/>
+      <point x="80" y="236"/>
+      <point x="117" y="199"/>
     </contour>
   </outline>
   <lib>
@@ -25,7 +25,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w322m80,280c80,236 117,199 161,199c205,199 242,236 242,280c242,324 205,361 161,361c117,361 80,324 80,280</string>
+    <string>w322m161,199c205,199 242,236 242,280c242,324 205,361 161,361c117,361 80,324 80,280c80,236 117,199 161,199</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hcircumflex.smcp" format="2">
+  <advance width="572"/>
+  <outline>
+    <contour>
+      <point x="23" y="0" type="line"/>
+      <point x="269" y="0" type="line"/>
+      <point x="269" y="35" type="line"/>
+      <point x="244" y="35" type="line" smooth="yes"/>
+      <point x="213" y="35"/>
+      <point x="209" y="40"/>
+      <point x="209" y="85" type="curve" smooth="yes"/>
+      <point x="209" y="236" type="line" smooth="yes"/>
+      <point x="209" y="296"/>
+      <point x="244" y="418"/>
+      <point x="313" y="418" type="curve" smooth="yes"/>
+      <point x="351" y="418"/>
+      <point x="375" y="382"/>
+      <point x="375" y="275" type="curve" smooth="yes"/>
+      <point x="375" y="85" type="line" smooth="yes"/>
+      <point x="375" y="40"/>
+      <point x="371" y="35"/>
+      <point x="340" y="35" type="curve" smooth="yes"/>
+      <point x="315" y="35" type="line"/>
+      <point x="315" y="0" type="line"/>
+      <point x="555" y="0" type="line"/>
+      <point x="555" y="35" type="line"/>
+      <point x="530" y="35" type="line" smooth="yes"/>
+      <point x="499" y="35"/>
+      <point x="495" y="40"/>
+      <point x="495" y="85" type="curve" smooth="yes"/>
+      <point x="495" y="279" type="line" smooth="yes"/>
+      <point x="495" y="383"/>
+      <point x="445" y="462"/>
+      <point x="340" y="462" type="curve" smooth="yes"/>
+      <point x="277" y="462"/>
+      <point x="233" y="433"/>
+      <point x="205" y="393" type="curve" name=".hr01"/>
+      <point x="205" y="484"/>
+      <point x="212" y="660"/>
+      <point x="213" y="680" type="curve"/>
+      <point x="13" y="680" type="line"/>
+      <point x="13" y="645" type="line"/>
+      <point x="58" y="645" type="line" smooth="yes"/>
+      <point x="89" y="645"/>
+      <point x="93" y="640"/>
+      <point x="93" y="595" type="curve" smooth="yes"/>
+      <point x="93" y="85" type="line" smooth="yes"/>
+      <point x="93" y="40"/>
+      <point x="89" y="35"/>
+      <point x="58" y="35" type="curve" smooth="yes"/>
+      <point x="23" y="35" type="line"/>
+    </contour>
+    <contour>
+      <point x="83" y="891" type="line"/>
+      <point x="58" y="841"/>
+      <point x="-1" y="767"/>
+      <point x="-39" y="731" type="curve"/>
+      <point x="-28" y="701" type="line"/>
+      <point x="17" y="729"/>
+      <point x="84" y="773"/>
+      <point x="128" y="809" type="curve"/>
+      <point x="171" y="773"/>
+      <point x="238" y="729"/>
+      <point x="283" y="701" type="curve"/>
+      <point x="294" y="731" type="line"/>
+      <point x="256" y="767"/>
+      <point x="197" y="841"/>
+      <point x="172" y="891" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>h+circumflex</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>bb6e49190ed4806bdeb76e21bd25d78e9218fae0022565bb886724a5a68c7410a9f5381fbab0de32152a3c36e09af84b700f3d61cd938dcefaf461d29c570fdf</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 35</string>
+          <string>vstem 93 116</string>
+          <string>hstem 418 44</string>
+          <string>vstem 375 120</string>
+          <string>hstem 645 35</string>
+          <string>hstem 891 -20</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 93 112</string>
+          <string>hstem 645 35</string>
+          <string>hstem 0 35</string>
+          <string>hstem 891 -20</string>
+          <string>hstem 418 44</string>
+          <string>vstem 375 120</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -3,6 +3,7 @@
   <advance width="717"/>
   <unicode hex="0055"/>
   <anchor x="494" y="711" name="accent1"/>
+  <anchor x="496" y="732" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="673" y="595" type="line" smooth="yes"/>

@@ -4,7 +4,8 @@
   <unicode hex="217A"/>
   <outline>
     <component base="x"/>
-    <component base="i" xOffset="520"/>
+    <component base="dotlessi" xOffset="520"/>
+    <component base="dotaccent" xOffset="502"/>
   </outline>
   <lib>
   <dict>

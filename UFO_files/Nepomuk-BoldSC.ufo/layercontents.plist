@@ -6,5 +6,9 @@
     <string>public.default</string>
     <string>glyphs</string>
   </array>
+  <array>
+    <string>Bold SmallCaps</string>
+    <string>glyphs.B_old S_mallC_aps</string>
+  </array>
 </array>
 </plist>

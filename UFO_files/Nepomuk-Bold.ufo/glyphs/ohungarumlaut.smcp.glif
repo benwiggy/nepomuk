@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ohungarumlaut.smcp" format="2">
+  <advance width="556"/>
+  <anchor x="260" y="530" name="t.dieresis"/>
+  <outline>
+    <component base="hungarumlaut" xOffset="85" yOffset="-2"/>
+    <component base="o.smcp"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>ohungarumlaut</string>
+  </dict>
+  </lib>
+</glyph>

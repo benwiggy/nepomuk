@@ -2,7 +2,6 @@
 <glyph name="zcaron" format="2">
   <advance width="522"/>
   <unicode hex="017E"/>
-  <anchor x="269" y="556" name="t.asciicircum_1"/>
   <anchor x="269" y="570" name="t.dieresis"/>
   <outline>
     <component base="z"/>

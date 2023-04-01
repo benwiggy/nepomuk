@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uogonek.smcp" format="2">
+  <advance width="555"/>
+  <anchor x="248" y="510" name="t.asciicircum_1"/>
+  <outline>
+    <component base="ogonek" xOffset="231"/>
+    <component base="u.smcp"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uogonek</string>
+  </dict>
+  </lib>
+</glyph>

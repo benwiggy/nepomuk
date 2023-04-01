@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhungarumlaut.smcp" format="2">
+  <advance width="554"/>
+  <outline>
+    <component base="hungarumlaut" xOffset="123" yOffset="-22"/>
+    <component base="u.smcp"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uhungarumlaut</string>
+  </dict>
+  </lib>
+</glyph>

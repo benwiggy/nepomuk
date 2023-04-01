@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron.smcp" format="2">
+  <advance width="411"/>
+  <outline>
+    <component base="quoteright" xOffset="236" yOffset="-3"/>
+    <contour>
+      <point x="22" y="0" type="line"/>
+      <point x="272" y="0" type="line"/>
+      <point x="272" y="35" type="line"/>
+      <point x="242" y="35" type="line" smooth="yes"/>
+      <point x="197" y="35"/>
+      <point x="192" y="40"/>
+      <point x="192" y="85" type="curve" smooth="yes"/>
+      <point x="192" y="680" type="line"/>
+      <point x="22" y="680" type="line"/>
+      <point x="22" y="645" type="line"/>
+      <point x="52" y="645" type="line" smooth="yes"/>
+      <point x="97" y="645"/>
+      <point x="102" y="640" name=".hr01"/>
+      <point x="102" y="595" type="curve" smooth="yes"/>
+      <point x="102" y="85" type="line" smooth="yes"/>
+      <point x="102" y="40"/>
+      <point x="97" y="35"/>
+      <point x="52" y="35" type="curve" smooth="yes"/>
+      <point x="22" y="35" type="line" name=".hr02"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>l_quoteright</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>cdb9add3faf01210bfc7f5265df64e04c6cebc326219c032b3861166703a53592288c681b1690ee9d305d06b3a3826ca9e760d835d493c73e6ff8e1ae32bf521</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 35</string>
+          <string>vstem 22 170</string>
+          <string>hstem 645 35</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 102 90</string>
+          <string>hstem 0 35</string>
+          <string>hstem 645 35</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 35</string>
+          <string>vstem 22 170</string>
+          <string>hstem 645 35</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr02</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

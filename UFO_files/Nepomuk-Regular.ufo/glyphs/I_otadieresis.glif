@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotadieresis" format="2">
+  <advance width="404"/>
+  <unicode hex="03AA"/>
+  <anchor x="199" y="730" name="t.asciicircum_1"/>
+  <outline>
+    <component base="Iota"/>
+    <component base="dieresis" xOffset="53" yOffset="230"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Iota+dieresis</string>
+  </dict>
+  </lib>
+</glyph>

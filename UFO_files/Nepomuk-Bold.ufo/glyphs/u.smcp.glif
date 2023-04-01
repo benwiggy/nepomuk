@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="u.smcp" format="2">
   <advance width="590"/>
-  <anchor x="323" y="527" name="t.asciicircum_1"/>
   <anchor x="323" y="541" name="t.dieresis"/>
+  <anchor x="323" y="527" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="490.015" y="425.585" type="line" smooth="yes"/>
@@ -59,7 +59,7 @@
         <key>stems</key>
         <array>
           <string>hstem -5.53 30.32</string>
-          <string>hstem 461.59 24.63</string>
+          <string>hstem 461.59 24.64</string>
           <string>vstem 107.22 109.91</string>
           <string>vstem 425.58 61.59</string>
         </array>

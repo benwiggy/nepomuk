@@ -136,7 +136,6 @@
     <string>bracketleft</string>
     <string>backslash</string>
     <string>bracketright</string>
-    <string>asciicircum</string>
     <string>underscore</string>
     <string>grave</string>
     <string>a</string>
@@ -166,7 +165,6 @@
     <string>y</string>
     <string>z</string>
     <string>bar</string>
-    <string>asciitilde</string>
     <string>exclamdown</string>
     <string>dieresis</string>
     <string>copyright</string>
@@ -268,7 +266,6 @@
     <string>fi</string>
     <string>fl</string>
     <string>f_f_i</string>
-    <string>Agrave.1</string>
     <string>musicflat</string>
     <string>musicnatural</string>
     <string>thorn</string>
@@ -327,7 +324,6 @@
     <string>Iacute</string>
     <string>Icircumflex</string>
     <string>Idieresis</string>
-    <string>Igrave</string>
     <string>Oacute</string>
     <string>Ocircumflex</string>
     <string>Ograve</string>
@@ -347,7 +343,6 @@
     <string>agrave</string>
     <string>acircumflex</string>
     <string>adieresis</string>
-    <string>atilde</string>
     <string>aring</string>
     <string>ccedilla</string>
     <string>eacute</string>
@@ -358,19 +353,16 @@
     <string>igrave</string>
     <string>icircumflex</string>
     <string>idieresis</string>
-    <string>ntilde</string>
     <string>oacute</string>
     <string>ograve</string>
     <string>ocircumflex</string>
     <string>odieresis</string>
-    <string>otilde</string>
     <string>uacute</string>
     <string>ugrave</string>
     <string>ucircumflex</string>
     <string>udieresis</string>
     <string>yacute</string>
     <string>macronmod</string>
-    <string>macronmod.1</string>
     <string>Cacute</string>
     <string>cacute</string>
     <string>Ccircumflex</string>
@@ -438,7 +430,6 @@
     <string>response</string>
     <string>versicle</string>
     <string>f_f_l</string>
-    <string>itilde</string>
     <string>Itilde</string>
     <string>Wgrave</string>
     <string>wgrave</string>
@@ -603,6 +594,271 @@
     <string>Tcaron</string>
     <string>tcaron.smcp</string>
     <string>i_j.dlig</string>
+    <string>numero</string>
+    <string>soundcopyright</string>
+    <string>hbar</string>
+    <string>eng</string>
+    <string>aturned</string>
+    <string>alpha-ipa</string>
+    <string>alphaturned</string>
+    <string>bhook</string>
+    <string>oopen</string>
+    <string>ccurl</string>
+    <string>dtail</string>
+    <string>dhook</string>
+    <string>ereversed-ipa</string>
+    <string>schwa</string>
+    <string>schwahook</string>
+    <string>eopen</string>
+    <string>eopenreversed</string>
+    <string>eopenreversedhook</string>
+    <string>eopenreversedclosed</string>
+    <string>dotlessjstroke</string>
+    <string>ghook</string>
+    <string>gscript-ipa</string>
+    <string>Gsmall</string>
+    <string>gamma-ipa</string>
+    <string>ramshorn</string>
+    <string>hturned</string>
+    <string>hhook</string>
+    <string>henghook</string>
+    <string>istroke</string>
+    <string>iota-ipa</string>
+    <string>Ismall</string>
+    <string>lmiddletilde</string>
+    <string>lezh</string>
+    <string>mturned</string>
+    <string>mlonglegturned</string>
+    <string>mhook</string>
+    <string>nhookleft</string>
+    <string>nhookretroflex</string>
+    <string>Nsmall</string>
+    <string>obarred</string>
+    <string>OEsmall</string>
+    <string>omegaclosed</string>
+    <string>phi-ipa</string>
+    <string>rturned</string>
+    <string>rlonglegturned</string>
+    <string>rlongleg</string>
+    <string>rtail-ipa</string>
+    <string>rfishhook</string>
+    <string>rfishhookreversed</string>
+    <string>Rsmall</string>
+    <string>Rinvertedsmall</string>
+    <string>shook</string>
+    <string>esh</string>
+    <string>eshsquatreversed</string>
+    <string>eshcurl</string>
+    <string>tturned</string>
+    <string>tretroflexhook</string>
+    <string>ubar</string>
+    <string>upsilon-ipa</string>
+    <string>vhook</string>
+    <string>vturned</string>
+    <string>wturned</string>
+    <string>yturned</string>
+    <string>Ysmall</string>
+    <string>zretroflexhook</string>
+    <string>zcurl</string>
+    <string>ezh</string>
+    <string>ezhcurl</string>
+    <string>glottalstop</string>
+    <string>pharyngealvoicedfricative</string>
+    <string>glottalstopinverted</string>
+    <string>Cstretched</string>
+    <string>clickbilabial</string>
+    <string>Bsmall</string>
+    <string>eopenclosed</string>
+    <string>Ghooksmall</string>
+    <string>Hsmall</string>
+    <string>jcrossedtail</string>
+    <string>kturned</string>
+    <string>Lsmall</string>
+    <string>qhook</string>
+    <string>glottalstopstroke</string>
+    <string>glottalstopstrokereversed</string>
+    <string>dzed</string>
+    <string>dezh</string>
+    <string>ts</string>
+    <string>tesh</string>
+    <string>percussivebilabial</string>
+    <string>percussivebidental</string>
+    <string>Yogh</string>
+    <string>yogh</string>
+    <string>Alpha</string>
+    <string>Beta</string>
+    <string>Gamma</string>
+    <string>Epsilon</string>
+    <string>Zeta</string>
+    <string>Eta</string>
+    <string>Theta</string>
+    <string>Iota</string>
+    <string>Kappa</string>
+    <string>Lambda</string>
+    <string>Mu</string>
+    <string>Nu</string>
+    <string>Xi</string>
+    <string>Omicron</string>
+    <string>Pi</string>
+    <string>Rho</string>
+    <string>Sigma</string>
+    <string>Tau</string>
+    <string>Upsilon</string>
+    <string>Phi</string>
+    <string>Chi</string>
+    <string>Psi</string>
+    <string>alpha</string>
+    <string>beta</string>
+    <string>gamma</string>
+    <string>delta</string>
+    <string>epsilon</string>
+    <string>zeta</string>
+    <string>eta</string>
+    <string>theta</string>
+    <string>iota</string>
+    <string>kappa</string>
+    <string>lambda</string>
+    <string>nu</string>
+    <string>xi</string>
+    <string>omicron</string>
+    <string>rho</string>
+    <string>sigma1</string>
+    <string>sigma</string>
+    <string>tau</string>
+    <string>upsilon</string>
+    <string>phi</string>
+    <string>chi</string>
+    <string>psi</string>
+    <string>omega</string>
+    <string>Asmall</string>
+    <string>colontriangularmod</string>
+    <string>colontriangularhalfmod</string>
+    <string>clickdental</string>
+    <string>clicklateral</string>
+    <string>clickalveolar</string>
+    <string>clickretroflex</string>
+    <string>verticallinemod</string>
+    <string>apostrophemod</string>
+    <string>vrighthook</string>
+    <string>lbelt</string>
+    <string>verticallinelowmod</string>
+    <string>dotlessjstrokehook</string>
+    <string>a.alt</string>
+    <string>tonos</string>
+    <string>dieresistonos</string>
+    <string>Alphatonos</string>
+    <string>Epsilontonos</string>
+    <string>Etatonos</string>
+    <string>iotadieresis</string>
+    <string>upsilondieresis</string>
+    <string>alphatonos</string>
+    <string>epsilontonos</string>
+    <string>etatonos</string>
+    <string>iotatonos</string>
+    <string>omicrontonos</string>
+    <string>upsilontonos</string>
+    <string>omegatonos</string>
+    <string>Iotatonos</string>
+    <string>Iotadieresis</string>
+    <string>Upsilondieresis</string>
+    <string>iotadieresistonos</string>
+    <string>upsilondieresistonos</string>
+    <string>Omicrontonos</string>
+    <string>Upsilontonos</string>
+    <string>Omegatonos</string>
+    <string>anoteleia</string>
+    <string>Ibreve</string>
+    <string>ibreve</string>
+    <string>hungarumlaut</string>
+    <string>ogonek</string>
+    <string>Uogonek</string>
+    <string>uogonek</string>
+    <string>Ohungarumlaut</string>
+    <string>ohungarumlaut</string>
+    <string>Uhungarumlaut</string>
+    <string>uhungarumlaut</string>
+    <string>Aogonek</string>
+    <string>aogonek</string>
+    <string>Eogonek</string>
+    <string>eogonek</string>
+    <string>Iogonek</string>
+    <string>iogonek</string>
+    <string>Tcedilla</string>
+    <string>tcedilla</string>
+    <string>Lslash</string>
+    <string>lslash</string>
+    <string>Hcircumflex</string>
+    <string>hcircumflex</string>
+    <string>dcaron</string>
+    <string>Lacute</string>
+    <string>lacute</string>
+    <string>napostrophe</string>
+    <string>commaaccentcomb</string>
+    <string>Scommaaccent</string>
+    <string>scommaaccent</string>
+    <string>Tcommaaccent</string>
+    <string>tcommaaccent</string>
+    <string>Kcommaaccent</string>
+    <string>kcommaaccent</string>
+    <string>Ncommaaccent</string>
+    <string>ncommaaccent</string>
+    <string>Gcommaaccent</string>
+    <string>gcommaaccent</string>
+    <string>Lcommaaccent</string>
+    <string>lcommaaccent</string>
+    <string>Rcommaaccent</string>
+    <string>rcommaaccent</string>
+    <string>lcaron</string>
+    <string>Lcaron</string>
+    <string>Hbar</string>
+    <string>kgreenlandic</string>
+    <string>Idotaccent</string>
+    <string>Ldot</string>
+    <string>ldot</string>
+    <string>Tbar</string>
+    <string>tbar</string>
+    <string>hungarumlaut.smcp</string>
+    <string>scedilla.smcp</string>
+    <string>hcircumflex.smcp</string>
+    <string>dcroat.smcp</string>
+    <string>uhungarumlaut.smcp</string>
+    <string>ogonek.smcp</string>
+    <string>aogonek.smcp</string>
+    <string>eogonek.smcp</string>
+    <string>uogonek.smcp</string>
+    <string>tcedilla.smcp</string>
+    <string>commaaccentcomb.smcp</string>
+    <string>tcommaaccent.smcp</string>
+    <string>scommaaccent.smcp</string>
+    <string>kcommaaccent.smcp</string>
+    <string>lcommaaccent.smcp</string>
+    <string>ncommaaccent.smcp</string>
+    <string>gcommaaccent.smcp</string>
+    <string>iogonek.smcp</string>
+    <string>rcommaaccent.smcp</string>
+    <string>tbar.smcp</string>
+    <string>oogonek.smcp</string>
+    <string>lacute.smcp</string>
+    <string>ldot.smcp</string>
+    <string>hbar.smcp</string>
+    <string>lslash.smcp</string>
+    <string>lcaron.smcp</string>
+    <string>napostrophe.smcp</string>
+    <string>ohungarumlaut.smcp</string>
+    <string>kgreenlandic.smcp</string>
+    <string>aeacute</string>
+    <string>gravecomb</string>
+    <string>Igrave</string>
+    <string>acutecomb</string>
+    <string>tildecomb</string>
+    <string>circumflexcomb</string>
+    <string>atilde</string>
+    <string>otilde</string>
+    <string>nbspace</string>
+    <string>itilde</string>
+    <string>ntilde</string>
+    <string>asciitilde</string>
+    <string>asciicircum</string>
   </array>
 </dict>
 </plist>

@@ -3,7 +3,7 @@
   <advance width="250"/>
   <anchor x="125" y="482" name="_t.asciicircum_1"/>
   <outline>
-    <component base="ring"/>
+    <component base="degree" xOffset="17" yOffset="-7"/>
   </outline>
   <lib>
   <dict>

@@ -4,10 +4,6 @@
   <anchor x="154" y="510" name="_t.asciicircum_1"/>
   <outline>
     <contour>
-      <point x="123" y="702" type="line"/>
-      <point x="99" y="655"/>
-      <point x="40" y="582"/>
-      <point x="0" y="545" type="curve"/>
       <point x="8" y="523" type="line"/>
       <point x="43" y="544"/>
       <point x="107" y="589"/>
@@ -19,6 +15,10 @@
       <point x="267" y="582"/>
       <point x="208" y="655"/>
       <point x="184" y="702" type="curve"/>
+      <point x="123" y="702" type="line"/>
+      <point x="99" y="655"/>
+      <point x="40" y="582"/>
+      <point x="0" y="545" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -28,12 +28,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w313m123,702c99,655 40,582 0,545l8,523c43,544 107,589 154,628c200,589 264,544 299,523l307,545c267,582 208,655 184,702</string>
+    <string>w313m9,500c44,521 108,566 155,605c201,566 265,521 300,500l308,522c268,559 209,632 185,679l124,679c100,632 41,559 1,522</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 544 -21</string>
           <string>hstem 702 -20</string>
         </array>
       </dict>

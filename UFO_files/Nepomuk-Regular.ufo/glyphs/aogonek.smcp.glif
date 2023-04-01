@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aogonek.smcp" format="2">
+  <advance width="578"/>
+  <anchor x="245" y="530" name="t.dieresis"/>
+  <anchor x="245" y="524" name="t.asciicircum_1"/>
+  <outline>
+    <component base="ogonek" xOffset="359"/>
+    <component base="a.smcp"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>aogonek</string>
+  </dict>
+  </lib>
+</glyph>

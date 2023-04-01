@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zero" format="2">
-  <advance width="540"/>
+  <advance width="547"/>
   <unicode hex="0030"/>
   <outline>
     <contour>
@@ -47,7 +47,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>db32b86eb1478a5b15ff066159b9ee7746150b7473afce95c61ca151a3ccd2d65406d44e608e5cac0fcd24b38369a3d667036e49c639195f8c9ebeafabd0de49</string>
+    <string>66611c018169256085abd3be12857582ba865e8d7681dccdc816c13e64c4ac5f84080d7e95873ef99ff8689ca40b6c3c59da13f3a61590811aa269a7f0243f3c</string>
     <key>hintSetList</key>
     <array>
       <dict>

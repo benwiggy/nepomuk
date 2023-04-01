@@ -2,7 +2,6 @@
 <glyph name="gdotaccent" format="2">
   <advance width="588"/>
   <unicode hex="0121"/>
-  <anchor x="291" y="545" name="t.asciicircum_1"/>
   <anchor x="291" y="560" name="t.dieresis"/>
   <outline>
     <component base="g"/>

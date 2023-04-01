@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="scedilla.smcp" format="2">
   <advance width="467"/>
-  <unicode hex="015F"/>
   <outline>
     <component base="s.smcp"/>
     <component base="cedilla" xOffset="116"/>

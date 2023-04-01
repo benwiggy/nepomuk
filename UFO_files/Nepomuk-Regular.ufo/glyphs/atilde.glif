@@ -2,18 +2,15 @@
 <glyph name="atilde" format="2">
   <advance width="515"/>
   <unicode hex="00E3"/>
-  <anchor x="245" y="524" name="t.asciicircum_1"/>
   <anchor x="245" y="530" name="t.dieresis"/>
   <outline>
     <component base="a"/>
-    <component base="tilde" xOffset="119" yOffset="-156"/>
+    <component base="tildecomb" xOffset="119" yOffset="-156"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
-  <string>a+tilde</string>
+  <string>a+tildecomb</string>
   </dict>
   </lib>
 </glyph>

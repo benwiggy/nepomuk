@@ -3,6 +3,6 @@
   <advance width="523"/>
   <outline>
     <component base="t.smcp"/>
-    <component base="caroncomb.smcp" xOffset="108"/>
+    <component base="caron" xOffset="108"/>
   </outline>
 </glyph>

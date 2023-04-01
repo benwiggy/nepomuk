@@ -1,29 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quoteright" format="2">
-  <advance width="201"/>
+  <advance width="183"/>
   <unicode hex="2019"/>
   <outline>
     <contour>
-      <point x="202" y="664" type="curve" smooth="yes"/>
-      <point x="167" y="664"/>
-      <point x="139" y="642"/>
-      <point x="139" y="609" type="curve" smooth="yes"/>
-      <point x="139" y="583"/>
-      <point x="160" y="560"/>
-      <point x="185" y="553" type="curve"/>
-      <point x="184" y="553" type="line"/>
-      <point x="191" y="550"/>
-      <point x="196" y="547"/>
-      <point x="196" y="537" type="curve" smooth="yes"/>
-      <point x="196" y="494"/>
-      <point x="127" y="452"/>
-      <point x="75" y="433" type="curve"/>
-      <point x="86" y="407" type="line"/>
-      <point x="184" y="444"/>
-      <point x="274" y="503"/>
-      <point x="274" y="593" type="curve" smooth="yes"/>
-      <point x="274" y="627"/>
-      <point x="249" y="664"/>
+      <point x="208" y="783" type="curve" smooth="yes"/>
+      <point x="177" y="783"/>
+      <point x="146" y="753"/>
+      <point x="146" y="719" type="curve" smooth="yes"/>
+      <point x="146" y="682"/>
+      <point x="178" y="656"/>
+      <point x="220" y="656" type="curve" smooth="yes"/>
+      <point x="227" y="656"/>
+      <point x="231" y="651"/>
+      <point x="231" y="638" type="curve" smooth="yes"/>
+      <point x="231" y="605"/>
+      <point x="198" y="575"/>
+      <point x="153" y="567" type="curve"/>
+      <point x="158" y="537" type="line"/>
+      <point x="238" y="547"/>
+      <point x="292" y="614"/>
+      <point x="292" y="695" type="curve" smooth="yes"/>
+      <point x="292" y="745"/>
+      <point x="256" y="783"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>052a6498f248e5fb854ff7303e436fe75e9c7f64b750287f55f8a96267c7fd8d15db990e3267adf6034dc580baf2daa990fe8e07e7413396701247d6bc131afe</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 656 127</string>
+          <string>vstem 146 146</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 537 246</string>
+          <string>vstem 146 146</string>
+        </array>
+        <key>pointTag</key>
+        <string>._.105553177676208</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

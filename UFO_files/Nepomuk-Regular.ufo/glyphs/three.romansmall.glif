@@ -3,9 +3,12 @@
   <advance width="877"/>
   <unicode hex="2172"/>
   <outline>
-    <component base="i"/>
-    <component base="i" xOffset="282"/>
-    <component base="i" xOffset="564"/>
+    <component base="dotlessi"/>
+    <component base="dotlessi" xOffset="282"/>
+    <component base="dotlessi" xOffset="564"/>
+    <component base="dotaccent" xOffset="-18"/>
+    <component base="dotaccent" xOffset="264"/>
+    <component base="dotaccent" xOffset="546"/>
   </outline>
   <lib>
   <dict>

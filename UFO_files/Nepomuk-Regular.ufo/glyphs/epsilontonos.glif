@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="epsilontonos" format="2">
+  <advance width="479"/>
+  <unicode hex="03AD"/>
+  <outline>
+    <component base="epsilon"/>
+    <component base="acute" xOffset="134"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>epsilon+acute</string>
+  </dict>
+  </lib>
+</glyph>

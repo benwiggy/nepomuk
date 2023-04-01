@@ -41,6 +41,7 @@ feature liga {
   sub dollar b by uni266D;
   sub dollar n by uni266E;
   sub dollar s by uni266F;
+  sub N ordmasculine by numero;
 
 } liga;
 
@@ -328,18 +329,19 @@ feature mark {
   lookup markLTR;
 } mark;
 feature kern {
+#> feature
   @_krA = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde];
   @_krE = [E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron];
   @_krC = [C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent];
-  @_krO = [O Oacute Obreve Ocircumflex Odieresis Ograve Omacron Oslash Otilde];
+  @_krO = [O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde];
   @_kry = [y yacute ycircumflex ydieresis];
   @_krW = [W Wacute Wcircumflex Wdieresis Wgrave];
-  @_kra = [a aacute abreve acircumflex adieresis agrave amacron aring atilde];
-  @_kri = [dotlessi i iacute icircumflex idieresis igrave imacron itilde];
+  @_kra = [a aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde];
+  @_kri = [dotlessi i iacute ibreve icircumflex idieresis igrave imacron iogonek itilde];
   @_krf2 = [f f_f f_f_i f_f_l fi fl];
-  @_kre = [e eacute ebreve ecaron ecircumflex edieresis edotaccent egrave emacron];
-  @_kro = [o oacute obreve ocircumflex odieresis ograve omacron oslash otilde];
-  @_kru = [u uacute ubreve ucircumflex udieresis ugrave umacron uring utilde];
+  @_kre = [e eacute ebreve ecaron ecircumflex edieresis edotaccent egrave emacron eogonek];
+  @_kro = [o oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde];
+  @_kru = [u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring utilde];
 
   lookup KERN_LTR  {
   lookupflag IgnoreMarks;
@@ -439,6 +441,8 @@ feature kern {
     pos M icircumflex -19;
     pos M idieresis -19;
     pos M f_f_l -45;
+    pos M iogonek -19;
+    pos M ibreve -19;
     pos N a -7;
     pos N c -8;
     pos N d -7;
@@ -470,6 +474,8 @@ feature kern {
     pos N adieresis -7;
     pos N aring -7;
     pos N f_f_l -56;
+    pos N aogonek -7;
+    pos N ohungarumlaut -9;
     pos P comma -53;
     pos P A -12;
     pos P i -15;
@@ -498,6 +504,10 @@ feature kern {
     pos P Atilde -12;
     pos P Adieresis -12;
     pos P Aring -12;
+    pos P iogonek -15;
+    pos P uhungarumlaut -34;
+    pos P uogonek -34;
+    pos P ibreve -15;
     pos S f -25;
     pos S j -10;
     pos S fl -25;
@@ -584,6 +594,9 @@ feature kern {
     pos V Adieresis -35;
     pos V Aring -35;
     pos V f_f_l -60;
+    pos V aogonek -17;
+    pos V eogonek -17;
+    pos V ohungarumlaut -14;
     pos W comma -47;
     pos W period -37;
     pos W semicolon -27;
@@ -673,6 +686,9 @@ feature kern {
     pos Y Adieresis -16;
     pos Y Aring -16;
     pos Y f_f_l -56;
+    pos Y aogonek -17;
+    pos Y eogonek -17;
+    pos Y ohungarumlaut -17;
     pos Z f -17;
     pos Z fl -17;
     pos Z fi -17;
@@ -682,6 +698,7 @@ feature kern {
     pos a quotesingle -164;
     pos b quotesingle -69;
     pos f exclam 77;
+    pos f parenright 65;
     pos f comma -38;
     pos f question 112;
     pos f b 105;
@@ -805,6 +822,8 @@ feature kern {
     pos Adieresis V -11;
     pos Aring quotesingle -34;
     pos Aring V -11;
+    pos aogonek quotesingle -164;
+    pos ohungarumlaut quotesingle -171;
   subtable;
     pos @_krA @_kra -18;
     pos @_krA @_krW -66;
@@ -824,4 +843,5 @@ feature kern {
   } KERN_LTR;
 
   lookup KERN_LTR;
+#< feature
 } kern;

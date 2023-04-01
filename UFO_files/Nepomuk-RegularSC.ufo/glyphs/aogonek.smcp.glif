@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aogonek.smcp" format="2">
+  <advance width="515"/>
+  <anchor x="245" y="530" name="t.dieresis"/>
+  <anchor x="245" y="524" name="t.asciicircum_1"/>
+  <outline>
+    <contour>
+      <point x="239" y="270" type="line" smooth="yes"/>
+      <point x="132" y="244"/>
+      <point x="41" y="206"/>
+      <point x="41" y="107" type="curve" smooth="yes"/>
+      <point x="41" y="39"/>
+      <point x="96" y="-12"/>
+      <point x="172" y="-12" type="curve" smooth="yes"/>
+      <point x="251" y="-12"/>
+      <point x="302" y="28"/>
+      <point x="329" y="66" type="curve"/>
+      <point x="340" y="18"/>
+      <point x="367" y="-12"/>
+      <point x="421" y="-12" type="curve" smooth="yes"/>
+      <point x="468" y="-12"/>
+      <point x="512" y="28"/>
+      <point x="522" y="92" type="curve"/>
+      <point x="498" y="98" type="line"/>
+      <point x="489" y="59"/>
+      <point x="473" y="34" name=".hr01"/>
+      <point x="449" y="34" type="curve" smooth="yes"/>
+      <point x="425" y="34"/>
+      <point x="413" y="55"/>
+      <point x="413" y="124" type="curve" smooth="yes"/>
+      <point x="413" y="316" type="line" smooth="yes"/>
+      <point x="413" y="400"/>
+      <point x="349" y="462"/>
+      <point x="241" y="462" type="curve" smooth="yes"/>
+      <point x="118" y="462"/>
+      <point x="67" y="402"/>
+      <point x="67" y="357" type="curve" smooth="yes"/>
+      <point x="67" y="326"/>
+      <point x="83" y="296"/>
+      <point x="122" y="296" type="curve" smooth="yes"/>
+      <point x="148" y="296"/>
+      <point x="168" y="317" name=".hr02"/>
+      <point x="168" y="343" type="curve" smooth="yes"/>
+      <point x="168" y="366"/>
+      <point x="148" y="379" name=".hr03"/>
+      <point x="148" y="394" type="curve" smooth="yes"/>
+      <point x="148" y="417"/>
+      <point x="176" y="431"/>
+      <point x="233" y="431" type="curve" smooth="yes"/>
+      <point x="303" y="431"/>
+      <point x="323" y="377"/>
+      <point x="323" y="301" type="curve" smooth="yes"/>
+      <point x="323" y="290" type="line"/>
+    </contour>
+    <contour>
+      <point x="323" y="132" type="line" smooth="yes"/>
+      <point x="323" y="81"/>
+      <point x="255" y="24"/>
+      <point x="208" y="24" type="curve" smooth="yes"/>
+      <point x="160" y="24"/>
+      <point x="142" y="56" name=".hr04"/>
+      <point x="142" y="118" type="curve" smooth="yes"/>
+      <point x="142" y="185"/>
+      <point x="164" y="222"/>
+      <point x="257" y="245" type="curve" smooth="yes"/>
+      <point x="323" y="261" type="line"/>
+    </contour>
+    <contour>
+      <point x="504" y="-95" type="line"/>
+      <point x="474" y="-117"/>
+      <point x="443" y="-130"/>
+      <point x="420" y="-130" type="curve" smooth="yes"/>
+      <point x="388" y="-130"/>
+      <point x="366" y="-110"/>
+      <point x="366" y="-82" type="curve" smooth="yes"/>
+      <point x="366" y="-55"/>
+      <point x="378" y="-34"/>
+      <point x="415" y="0" type="curve"/>
+      <point x="382" y="0" type="line"/>
+      <point x="336" y="-34"/>
+      <point x="316" y="-65"/>
+      <point x="316" y="-101" type="curve" smooth="yes"/>
+      <point x="316" y="-144"/>
+      <point x="350" y="-175"/>
+      <point x="399" y="-175" type="curve" smooth="yes"/>
+      <point x="441" y="-175"/>
+      <point x="473" y="-161"/>
+      <point x="522" y="-121" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>a+>~ogonek</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>94322ea65c4932db62d7a09af7e93a61391c52a391bd7e0fd434f2fccbf7feb2c970ffae13f157341567197bcbbee9ecb85f74a80f5974995b4bd29dfe2c8dc7</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 41 101</string>
+          <string>hstem -12 36</string>
+          <string>hstem 296 166</string>
+          <string>hstem -175 44</string>
+          <string>vstem 323 90</string>
+          <string>vstem 266.5 49</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -12 46</string>
+          <string>vstem 323 90</string>
+          <string>hstem 296 166</string>
+          <string>vstem 67 81</string>
+          <string>hstem -175 44</string>
+          <string>vstem 266.5 49</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 67 101</string>
+          <string>hstem -12 36</string>
+          <string>hstem 296 166</string>
+          <string>hstem -175 44</string>
+          <string>vstem 323 90</string>
+          <string>vstem 266.5 49</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr02</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 67 81</string>
+          <string>hstem 431 31</string>
+          <string>vstem 323 90</string>
+          <string>hstem -12 36</string>
+          <string>hstem -175 44</string>
+          <string>vstem 266.5 49</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr03</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 41 101</string>
+          <string>vstem 323 90</string>
+          <string>vstem 266.5 49</string>
+          <string>hstem -175 44</string>
+          <string>hstem -12 36</string>
+          <string>hstem 296 166</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr04</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

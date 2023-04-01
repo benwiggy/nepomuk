@@ -2,7 +2,6 @@
 <glyph name="tcaron" format="2">
   <advance width="523"/>
   <unicode hex="0165"/>
-  <anchor x="266" y="556" name="t.asciicircum_1"/>
   <outline>
     <component base="t"/>
     <component base="caron.smcp" xOffset="112" yOffset="56"/>

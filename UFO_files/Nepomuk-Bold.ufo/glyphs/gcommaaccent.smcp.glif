@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gcommaaccent.smcp" format="2">
+  <advance width="588"/>
+  <anchor x="291" y="560" name="t.dieresis"/>
+  <anchor x="291" y="545" name="t.asciicircum_1"/>
+  <outline>
+    <component base="g.smcp"/>
+    <component base="commaaccentcomb.smcp" xOffset="170"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>g.smcp+~uni0327.smcp</string>
+  </dict>
+  </lib>
+</glyph>

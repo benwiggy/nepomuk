@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kgreenlandic.smcp" format="2">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="240" y="450" type="line"/>
+      <point x="13" y="450" type="line"/>
+      <point x="13" y="415" type="line"/>
+      <point x="58" y="415" type="line" smooth="yes"/>
+      <point x="89" y="415"/>
+      <point x="93" y="410"/>
+      <point x="93" y="365" type="curve" smooth="yes"/>
+      <point x="93" y="85" type="line" smooth="yes"/>
+      <point x="93" y="40"/>
+      <point x="89" y="35"/>
+      <point x="58" y="35" type="curve" smooth="yes"/>
+      <point x="23" y="35" type="line"/>
+      <point x="23" y="0" type="line"/>
+      <point x="269" y="0" type="line"/>
+      <point x="269" y="35" type="line"/>
+      <point x="244" y="35" type="line" smooth="yes"/>
+      <point x="213" y="35"/>
+      <point x="209" y="40"/>
+      <point x="209" y="85" type="curve" smooth="yes"/>
+      <point x="209" y="140" type="line"/>
+      <point x="273" y="213" type="line"/>
+      <point x="349" y="85" type="line" smooth="yes"/>
+      <point x="355" y="75"/>
+      <point x="358" y="65"/>
+      <point x="358" y="55" type="curve" smooth="yes"/>
+      <point x="358" y="40"/>
+      <point x="349" y="35"/>
+      <point x="338" y="35" type="curve" smooth="yes"/>
+      <point x="299" y="35" type="line"/>
+      <point x="299" y="0" type="line"/>
+      <point x="557" y="0" type="line"/>
+      <point x="557" y="35" type="line"/>
+      <point x="526" y="35" type="line" smooth="yes"/>
+      <point x="504" y="35"/>
+      <point x="501" y="40"/>
+      <point x="479" y="77" type="curve" smooth="yes"/>
+      <point x="349" y="297" type="line"/>
+      <point x="348" y="297" type="line"/>
+      <point x="414" y="372" type="line" smooth="yes"/>
+      <point x="446" y="408"/>
+      <point x="457" y="415"/>
+      <point x="488" y="415" type="curve" smooth="yes"/>
+      <point x="529" y="415" type="line"/>
+      <point x="529" y="450" type="line"/>
+      <point x="287" y="450" type="line"/>
+      <point x="287" y="415" type="line"/>
+      <point x="330" y="415" type="line" smooth="yes"/>
+      <point x="346" y="415"/>
+      <point x="354" y="411"/>
+      <point x="354" y="400" type="curve" smooth="yes"/>
+      <point x="354" y="389"/>
+      <point x="348" y="378"/>
+      <point x="336" y="365" type="curve" smooth="yes"/>
+      <point x="213" y="228" type="line"/>
+      <point x="213" y="365" type="line"/>
+      <point x="213" y="384"/>
+      <point x="211" y="415"/>
+      <point x="226" y="415" type="curve"/>
+      <point x="240" y="415" type="line" name=".hr01"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>kgreenlandic</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>164464f6942651aedb708d2bd28d131922de38421a9a7febc68d25904808d9685b1c03387993692ed692bd073c20c46bd2f913ab0588c20c6cf40da45117decd</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 415 35</string>
+          <string>vstem 93 116</string>
+          <string>hstem 0 35</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 415 35</string>
+          <string>vstem 93 147</string>
+          <string>hstem 0 35</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

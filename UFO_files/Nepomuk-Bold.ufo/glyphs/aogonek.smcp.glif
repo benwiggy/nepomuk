@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aogonek.smcp" format="2">
+  <advance width="594"/>
+  <anchor x="261" y="530" name="t.dieresis"/>
+  <anchor x="261" y="530" name="t.asciicircum_1"/>
+  <outline>
+    <component base="a.smcp"/>
+    <contour>
+      <point x="551" y="-90" type="line"/>
+      <point x="520" y="-112"/>
+      <point x="489" y="-126"/>
+      <point x="467" y="-126" type="curve" smooth="yes"/>
+      <point x="439" y="-126"/>
+      <point x="419" y="-108"/>
+      <point x="419" y="-84" type="curve" smooth="yes"/>
+      <point x="419" y="-59"/>
+      <point x="433" y="-37"/>
+      <point x="475" y="2" type="curve"/>
+      <point x="428" y="2" type="line"/>
+      <point x="381" y="-34"/>
+      <point x="360" y="-65"/>
+      <point x="360" y="-103" type="curve" smooth="yes"/>
+      <point x="360" y="-148"/>
+      <point x="395" y="-180"/>
+      <point x="447" y="-180" type="curve" smooth="yes"/>
+      <point x="489" y="-180"/>
+      <point x="523" y="-166"/>
+      <point x="575" y="-123" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>aogonek</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>6a3b4d154157b00c5f9fdf00b008f7ceb8f91110c092fe509d0136a5ced084057b34861ccbab313103bdd27c869620753883489cb60674cfb3cceaac07cece07</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -180.07 54.15</string>
+          <string>vstem 295.28 59.15</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

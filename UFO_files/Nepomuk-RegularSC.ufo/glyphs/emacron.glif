@@ -2,7 +2,6 @@
 <glyph name="emacron" format="2">
   <advance width="522"/>
   <unicode hex="0113"/>
-  <anchor x="278" y="537" name="t.asciicircum_1"/>
   <anchor x="278" y="551" name="t.dieresis"/>
   <outline>
     <component base="e"/>

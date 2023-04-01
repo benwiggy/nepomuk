@@ -4,21 +4,42 @@
   <unicode hex="005E"/>
   <outline>
     <contour>
-      <point x="114" y="702" type="line"/>
-      <point x="86" y="660"/>
-      <point x="24" y="585"/>
-      <point x="-9" y="556" type="curve"/>
-      <point x="1" y="529" type="line"/>
-      <point x="41" y="553"/>
-      <point x="100" y="594"/>
-      <point x="145" y="628" type="curve"/>
-      <point x="177" y="590"/>
-      <point x="213" y="555"/>
-      <point x="242" y="526" type="curve"/>
-      <point x="276" y="538" type="line"/>
-      <point x="251" y="576"/>
-      <point x="211" y="656"/>
-      <point x="194" y="702" type="curve"/>
+      <point x="202" y="702" type="line"/>
+      <point x="174" y="660"/>
+      <point x="112" y="585"/>
+      <point x="79" y="556" type="curve"/>
+      <point x="89" y="529" type="line"/>
+      <point x="129" y="553"/>
+      <point x="188" y="594"/>
+      <point x="233" y="628" type="curve"/>
+      <point x="265" y="590"/>
+      <point x="301" y="555"/>
+      <point x="330" y="526" type="curve"/>
+      <point x="364" y="538" type="line"/>
+      <point x="339" y="576"/>
+      <point x="299" y="656"/>
+      <point x="282" y="702" type="curve"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w268m202,702c174,660 112,585 79,556l89,529c129,553 188,594 233,628c265,590 301,555 330,526l364,538c339,576 299,656 282,702</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 547 -21</string>
+          <string>hstem 702 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

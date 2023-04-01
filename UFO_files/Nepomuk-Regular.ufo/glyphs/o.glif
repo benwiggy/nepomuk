@@ -2,27 +2,10 @@
 <glyph name="o" format="2">
   <advance width="488"/>
   <unicode hex="006F"/>
-  <anchor x="244" y="530" name="t.asciicircum_1"/>
   <anchor x="244" y="530" name="t.dieresis"/>
+  <anchor x="244" y="530" name="t.asciicircum_1"/>
   <outline>
     <contour>
-      <point x="140" y="225" type="curve" smooth="yes"/>
-      <point x="140" y="375"/>
-      <point x="181" y="436"/>
-      <point x="244" y="436" type="curve" smooth="yes"/>
-      <point x="307" y="436"/>
-      <point x="348" y="375"/>
-      <point x="348" y="225" type="curve" smooth="yes"/>
-      <point x="348" y="75"/>
-      <point x="307" y="14"/>
-      <point x="244" y="14" type="curve" smooth="yes"/>
-      <point x="181" y="14"/>
-      <point x="140" y="75"/>
-    </contour>
-    <contour>
-      <point x="32" y="225" type="curve" smooth="yes"/>
-      <point x="32" y="95"/>
-      <point x="114" y="-12"/>
       <point x="244" y="-12" type="curve" smooth="yes"/>
       <point x="374" y="-12"/>
       <point x="456" y="95"/>
@@ -32,6 +15,23 @@
       <point x="244" y="462" type="curve" smooth="yes"/>
       <point x="114" y="462"/>
       <point x="32" y="355"/>
+      <point x="32" y="225" type="curve" smooth="yes"/>
+      <point x="32" y="95"/>
+      <point x="114" y="-12"/>
+    </contour>
+    <contour>
+      <point x="244" y="14" type="curve" smooth="yes"/>
+      <point x="181" y="14"/>
+      <point x="140" y="75"/>
+      <point x="140" y="225" type="curve" smooth="yes"/>
+      <point x="140" y="375"/>
+      <point x="181" y="436"/>
+      <point x="244" y="436" type="curve" smooth="yes"/>
+      <point x="307" y="436"/>
+      <point x="348" y="375"/>
+      <point x="348" y="225" type="curve" smooth="yes"/>
+      <point x="348" y="75"/>
+      <point x="307" y="14"/>
     </contour>
   </outline>
   <lib>
@@ -41,7 +41,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>b41c2c6a59c8555b4be200762c3eefa1c0971b9900fd6ad93e525f567e59f734cffbb538a13eb8c80c13f414a1071fff9ff67bb6f783ca40d9961ca6271c0cee</string>
+    <string>96d6f7433fc1988dd57681fc94f6a61902e20630bf5effe3f10d8f612da0a3624f026ddbf68818da1d2477ea82f1d4804c62134610a94acb6351f9e47b96845c</string>
     <key>hintSetList</key>
     <array>
       <dict>

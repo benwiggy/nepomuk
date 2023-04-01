@@ -2,8 +2,8 @@
 <glyph name="aacute" format="2">
   <advance width="621"/>
   <unicode hex="00E1"/>
-  <anchor x="318" y="540" name="t.asciicircum_1"/>
   <anchor x="318" y="563" name="t.dieresis"/>
+  <anchor x="318" y="540" name="t.asciicircum_1"/>
   <outline>
     <component base="a"/>
     <component base="acute.smcp" xOffset="212" yOffset="10"/>

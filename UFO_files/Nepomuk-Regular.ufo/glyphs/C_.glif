@@ -2,11 +2,10 @@
 <glyph name="C" format="2">
   <advance width="611"/>
   <unicode hex="0043"/>
-  <anchor x="330" y="730" name="t.asciicircum_1"/>
   <anchor x="330" y="750" name="t.dieresis"/>
+  <anchor x="330" y="730" name="t.asciicircum_1"/>
   <outline>
     <contour>
-      <point x="564" y="208" type="curve"/>
       <point x="527" y="214" type="line"/>
       <point x="510" y="102"/>
       <point x="435" y="30"/>
@@ -38,6 +37,7 @@
       <point x="330" y="-12" type="curve" smooth="yes"/>
       <point x="445" y="-12"/>
       <point x="544" y="63"/>
+      <point x="564" y="208" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -47,7 +47,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>6ea549965bfb8dd02883f268fc87c156823f6851218e84683beecafd8a782c33c04307ff7a41eea1f68d55d4c115155b7b37b28bdc1f0d08387543071845e00d</string>
+    <string>837d5fc6b7e023ac174d9e5ccae7111664182eb6a9fbb5bd32a9e09c10e8c6c0b5f1dcd505780fa0f3b9c680b6d22be446209c6272c2faf9c30b1eb69f98a4c6</string>
     <key>hintSetList</key>
     <array>
       <dict>

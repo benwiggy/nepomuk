@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="2">
+  <advance width="593"/>
+  <unicode hex="013D"/>
+  <outline>
+    <component base="quoteright" xOffset="371" yOffset="-3"/>
+    <contour>
+      <point x="47" y="35" type="line"/>
+      <point x="47" y="0" type="line"/>
+      <point x="551" y="0" type="line"/>
+      <point x="556" y="270" type="line"/>
+      <point x="526" y="270" type="line"/>
+      <point x="504" y="149"/>
+      <point x="486" y="36"/>
+      <point x="320" y="36" type="curve" smooth="yes"/>
+      <point x="291" y="36" type="line" smooth="yes"/>
+      <point x="263" y="36"/>
+      <point x="232" y="53"/>
+      <point x="232" y="84" type="curve" smooth="yes"/>
+      <point x="232" y="595" type="line" smooth="yes"/>
+      <point x="232" y="640"/>
+      <point x="237" y="645"/>
+      <point x="282" y="645" type="curve" smooth="yes"/>
+      <point x="322" y="645" type="line"/>
+      <point x="322" y="680" type="line"/>
+      <point x="47" y="680" type="line"/>
+      <point x="47" y="645" type="line"/>
+      <point x="87" y="645" type="line" smooth="yes"/>
+      <point x="132" y="645"/>
+      <point x="137" y="640"/>
+      <point x="137" y="595" type="curve" smooth="yes"/>
+      <point x="137" y="85" type="line" smooth="yes"/>
+      <point x="137" y="40"/>
+      <point x="132" y="35"/>
+      <point x="87" y="35" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>L+quoteright</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>ed51d686762c2bb13fef5e0ee0f8dacd1b705df51db855e369694af09500c156a55f5b3873ffb150c7c0100cf2e9f0b1c8cfad5bea55f2b392c0e31e0f9a398c</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 36</string>
+          <string>hstem 645 35</string>
+          <string>vstem 137 95</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

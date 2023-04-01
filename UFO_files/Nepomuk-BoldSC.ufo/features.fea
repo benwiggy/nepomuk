@@ -52,6 +52,10 @@ feature cv00 {
 
 
 
+
+
+
+
 feature smcp {
 # Small Caps
 
@@ -167,6 +171,10 @@ feature smcp {
 
 
 
+
+
+
+
 feature liga {
 # GSUB feature: Standard Ligatures
 # Lookups: 1
@@ -179,8 +187,13 @@ feature liga {
   sub dollar b by uni266D;
   sub dollar n by uni266E;
   sub dollar s by uni266F;
+  sub N ordmasculine by numero;
 
 } liga;
+
+
+
+
 feature mark {
 # GPOS feature: Mark Positioning
 # Lookups: 1
@@ -257,6 +270,10 @@ feature mark {
 
 
 } mark;
+
+
+
+
 
 
 
@@ -1743,3 +1760,7 @@ feature kern {
 
   lookup KERN_LTR;
 } kern;
+
+
+
+

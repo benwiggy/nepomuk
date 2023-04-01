@@ -2,7 +2,6 @@
 <glyph name="itilde" format="2">
   <advance width="330"/>
   <unicode hex="0129"/>
-  <anchor x="150" y="530" name="t.asciicircum_1"/>
   <anchor x="150" y="530" name="t.dieresis"/>
   <outline>
     <component base="dotlessi"/>

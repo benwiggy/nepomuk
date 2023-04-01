@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhungarumlaut" format="2">
+  <advance width="692"/>
+  <unicode hex="0170"/>
+  <anchor x="366" y="750" name="t.dieresis"/>
+  <outline>
+    <component base="U"/>
+    <component base="hungarumlaut" xOffset="191" yOffset="198"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>U+hungarumlaut</string>
+  </dict>
+  </lib>
+</glyph>

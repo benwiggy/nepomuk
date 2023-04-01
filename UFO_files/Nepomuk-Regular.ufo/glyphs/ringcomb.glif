@@ -3,7 +3,7 @@
   <advance width="250"/>
   <unicode hex="030A"/>
   <outline>
-    <component base="ring"/>
+    <component base="degree" xOffset="17" yOffset="-7"/>
   </outline>
   <lib>
   <dict>

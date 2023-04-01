@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="scedilla.smcp" format="2">
+  <advance width="532"/>
+  <anchor x="264" y="560" name="t.dieresis"/>
+  <anchor x="264" y="545" name="t.asciicircum_1"/>
+  <outline>
+    <component base="s.smcp"/>
+    <component base="uni0327.smcp" xOffset="148"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>s.smcp+~uni0327.smcp</string>
+  </dict>
+  </lib>
+</glyph>

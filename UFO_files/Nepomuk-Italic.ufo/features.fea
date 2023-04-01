@@ -41,6 +41,7 @@ feature liga {
   sub dollar b by uni266D;
   sub dollar n by uni266E;
   sub dollar s by uni266F;
+  sub N ordmasculine by numero;
 
 } liga;
 
@@ -52,14 +53,352 @@ feature dlig {
   sub f j by f_j.dlig;
 #< feature
 } dlig;
+feature mark {
+# GPOS feature : Mark Positioning
+    markClass grave <anchor 189 509> @accent1;
+    markClass dieresis <anchor 349 534> @accent1;
+    markClass acute <anchor 189 509> @accent1;
+    markClass macron <anchor 348 492> @accent1;
+    markClass caron <anchor 221 506> @accent1;
+    markClass circumflex <anchor 247 530> @accent1;
+    markClass breve <anchor 203 488> @accent1;
+    markClass dotaccent <anchor 256 490> @accent1;
+    markClass ring <anchor 206 480> @accent1;
+    markClass tilde <anchor 256 680> @accent1;
+    markClass macronmod <anchor 348 492> @accent1;
+
+  lookup markLTR {
+      pos base A
+          <anchor 439 718> mark @accent1;
+      pos base C
+          <anchor 439 725> mark @accent1;
+      pos base E
+          <anchor 439 718> mark @accent1;
+      pos base G
+          <anchor 439 718> mark @accent1;
+      pos base I
+          <anchor 331 718> mark @accent1;
+      pos base J
+          <anchor 441 718> mark @accent1;
+      pos base N
+          <anchor 503 718> mark @accent1;
+      pos base O
+          <anchor 426 718> mark @accent1;
+      pos base R
+          <anchor 439 718> mark @accent1;
+      pos base S
+          <anchor 439 718> mark @accent1;
+      pos base T
+          <anchor 429 718> mark @accent1;
+      pos base U
+          <anchor 494 711> mark @accent1;
+      pos base W
+          <anchor 614 711> mark @accent1;
+      pos base Y
+          <anchor 444 711> mark @accent1;
+      pos base Z
+          <anchor 443 718> mark @accent1;
+      pos base a
+          <anchor 277 515> mark @accent1;
+      pos base c
+          <anchor 277 515> mark @accent1;
+      pos base e
+          <anchor 277 515> mark @accent1;
+      pos base g
+          <anchor 277 515> mark @accent1;
+      pos base n
+          <anchor 299 513> mark @accent1;
+      pos base o
+          <anchor 277 515> mark @accent1;
+      pos base r
+          <anchor 283 515> mark @accent1;
+      pos base s
+          <anchor 277 515> mark @accent1;
+      pos base u
+          <anchor 299 515> mark @accent1;
+      pos base w
+          <anchor 419 515> mark @accent1;
+      pos base y
+          <anchor 277 515> mark @accent1;
+      pos base z
+          <anchor 277 515> mark @accent1;
+      pos base rcaron
+          <anchor 283 515> mark @accent1;
+      pos base Ntilde
+          <anchor 503 718> mark @accent1;
+      pos base aacute
+          <anchor 277 515> mark @accent1;
+      pos base agrave
+          <anchor 277 515> mark @accent1;
+      pos base acircumflex
+          <anchor 277 515> mark @accent1;
+      pos base eacute
+          <anchor 277 515> mark @accent1;
+      pos base egrave
+          <anchor 277 515> mark @accent1;
+      pos base ecircumflex
+          <anchor 277 515> mark @accent1;
+      pos base dotlessi
+          <anchor 187 515> mark @accent1;
+      pos base Agrave
+          <anchor 439 718> mark @accent1;
+      pos base Aacute
+          <anchor 439 718> mark @accent1;
+      pos base Acircumflex
+          <anchor 439 718> mark @accent1;
+      pos base Egrave
+          <anchor 439 718> mark @accent1;
+      pos base Eacute
+          <anchor 439 718> mark @accent1;
+      pos base Ecircumflex
+          <anchor 439 718> mark @accent1;
+      pos base Edieresis
+          <anchor 439 718> mark @accent1;
+      pos base Igrave
+          <anchor 331 718> mark @accent1;
+      pos base Iacute
+          <anchor 331 718> mark @accent1;
+      pos base Icircumflex
+          <anchor 331 718> mark @accent1;
+      pos base Idieresis
+          <anchor 331 718> mark @accent1;
+      pos base Adieresis
+          <anchor 439 718> mark @accent1;
+      pos base Atilde
+          <anchor 439 718> mark @accent1;
+      pos base Ograve
+          <anchor 439 718> mark @accent1;
+      pos base Oacute
+          <anchor 439 718> mark @accent1;
+      pos base Ocircumflex
+          <anchor 439 718> mark @accent1;
+      pos base Otilde
+          <anchor 439 718> mark @accent1;
+      pos base Odieresis
+          <anchor 439 718> mark @accent1;
+      pos base Ugrave
+          <anchor 494 711> mark @accent1;
+      pos base Uacute
+          <anchor 494 711> mark @accent1;
+      pos base Ucircumflex
+          <anchor 494 711> mark @accent1;
+      pos base Udieresis
+          <anchor 494 711> mark @accent1;
+      pos base Ccircumflex
+          <anchor 439 718> mark @accent1;
+      pos base ccircumflex
+          <anchor 277 515> mark @accent1;
+      pos base Gcircumflex
+          <anchor 439 718> mark @accent1;
+      pos base itilde
+          <anchor 187 515> mark @accent1;
+      pos base Itilde
+          <anchor 331 718> mark @accent1;
+      pos base Racute
+          <anchor 439 718> mark @accent1;
+      pos base racute
+          <anchor 277 515> mark @accent1;
+      pos base Sacute
+          <anchor 439 718> mark @accent1;
+      pos base sacute
+          <anchor 277 515> mark @accent1;
+      pos base Utilde
+          <anchor 494 711> mark @accent1;
+      pos base Scedilla
+          <anchor 439 718> mark @accent1;
+      pos base scedilla
+          <anchor 277 515> mark @accent1;
+      pos base Cacute
+          <anchor 439 718> mark @accent1;
+      pos base cacute
+          <anchor 277 515> mark @accent1;
+      pos base ycircumflex
+          <anchor 277 515> mark @accent1;
+      pos base Zacute
+          <anchor 439 718> mark @accent1;
+      pos base atilde
+          <anchor 277 515> mark @accent1;
+      pos base adieresis
+          <anchor 277 515> mark @accent1;
+      pos base edieresis
+          <anchor 277 515> mark @accent1;
+      pos base igrave
+          <anchor 187 515> mark @accent1;
+      pos base iacute
+          <anchor 187 515> mark @accent1;
+      pos base icircumflex
+          <anchor 187 515> mark @accent1;
+      pos base idieresis
+          <anchor 187 515> mark @accent1;
+      pos base ntilde
+          <anchor 299 513> mark @accent1;
+      pos base ograve
+          <anchor 277 515> mark @accent1;
+      pos base oacute
+          <anchor 277 515> mark @accent1;
+      pos base ocircumflex
+          <anchor 277 515> mark @accent1;
+      pos base otilde
+          <anchor 277 515> mark @accent1;
+      pos base odieresis
+          <anchor 277 515> mark @accent1;
+      pos base ugrave
+          <anchor 299 515> mark @accent1;
+      pos base uacute
+          <anchor 299 515> mark @accent1;
+      pos base ucircumflex
+          <anchor 299 515> mark @accent1;
+      pos base udieresis
+          <anchor 299 515> mark @accent1;
+      pos base yacute
+          <anchor 277 515> mark @accent1;
+      pos base ydieresis
+          <anchor 277 515> mark @accent1;
+      pos base Amacron
+          <anchor 439 718> mark @accent1;
+      pos base amacron
+          <anchor 277 515> mark @accent1;
+      pos base Abreve
+          <anchor 439 718> mark @accent1;
+      pos base abreve
+          <anchor 277 515> mark @accent1;
+      pos base Cdotaccent
+          <anchor 439 725> mark @accent1;
+      pos base cdotaccent
+          <anchor 277 515> mark @accent1;
+      pos base Emacron
+          <anchor 439 718> mark @accent1;
+      pos base emacron
+          <anchor 277 515> mark @accent1;
+      pos base Ebreve
+          <anchor 439 718> mark @accent1;
+      pos base ebreve
+          <anchor 277 515> mark @accent1;
+      pos base Edotaccent
+          <anchor 439 718> mark @accent1;
+      pos base edotaccent
+          <anchor 277 515> mark @accent1;
+      pos base Gbreve
+          <anchor 439 718> mark @accent1;
+      pos base gbreve
+          <anchor 277 515> mark @accent1;
+      pos base Gdotaccent
+          <anchor 439 718> mark @accent1;
+      pos base gdotaccent
+          <anchor 277 515> mark @accent1;
+      pos base Imacron
+          <anchor 331 718> mark @accent1;
+      pos base imacron
+          <anchor 187 515> mark @accent1;
+      pos base Idotaccent
+          <anchor 331 718> mark @accent1;
+      pos base ncaron
+          <anchor 299 513> mark @accent1;
+      pos base Ncaron
+          <anchor 503 718> mark @accent1;
+      pos base utilde
+          <anchor 299 515> mark @accent1;
+      pos base Nacute
+          <anchor 503 718> mark @accent1;
+      pos base nacute
+          <anchor 299 513> mark @accent1;
+      pos base zcaron
+          <anchor 277 515> mark @accent1;
+      pos base zacute
+          <anchor 277 515> mark @accent1;
+      pos base Zdotaccent
+          <anchor 439 718> mark @accent1;
+      pos base zdotaccent
+          <anchor 277 515> mark @accent1;
+      pos base Umacron
+          <anchor 494 711> mark @accent1;
+      pos base umacron
+          <anchor 299 515> mark @accent1;
+      pos base Ubreve
+          <anchor 494 711> mark @accent1;
+      pos base ubreve
+          <anchor 299 515> mark @accent1;
+      pos base Omacron
+          <anchor 426 718> mark @accent1;
+      pos base omacron
+          <anchor 277 515> mark @accent1;
+      pos base Obreve
+          <anchor 426 718> mark @accent1;
+      pos base obreve
+          <anchor 277 515> mark @accent1;
+      pos base Uring
+          <anchor 494 711> mark @accent1;
+      pos base uring
+          <anchor 299 515> mark @accent1;
+      pos base Scaron
+          <anchor 439 718> mark @accent1;
+      pos base scaron
+          <anchor 277 515> mark @accent1;
+      pos base Ycircumflex
+          <anchor 444 711> mark @accent1;
+      pos base Wgrave
+          <anchor 614 711> mark @accent1;
+      pos base wgrave
+          <anchor 419 515> mark @accent1;
+      pos base Wacute
+          <anchor 614 711> mark @accent1;
+      pos base wacute
+          <anchor 419 515> mark @accent1;
+      pos base Wdieresis
+          <anchor 614 711> mark @accent1;
+      pos base wdieresis
+          <anchor 419 515> mark @accent1;
+      pos base Wcircumflex
+          <anchor 614 711> mark @accent1;
+      pos base wcircumflex
+          <anchor 419 515> mark @accent1;
+      pos base dotlessj
+          <anchor 227 515> mark @accent1;
+      pos base jcircumflex
+          <anchor 227 515> mark @accent1;
+      pos base Jcircumflex
+          <anchor 441 718> mark @accent1;
+      pos base Tcaron
+          <anchor 429 718> mark @accent1;
+  } markLTR;
+
+  lookup markLTR;
+} mark;
+feature frac {
+# Fractions
+
+#> feature
+lookup frac_precomposed {
+
+  sub one slash four by onequarter;
+  sub one slash two by onehalf;
+  sub three slash four by threequarters;
+} frac_precomposed;
+#< feature
+} frac;
+feature hist {
+# Historical Forms
+
+#> feature
+  sub s by longs;
+#< feature
+} hist;
+feature hlig {
+# Historical Ligatures
+
+  sub longs t by longs_t;
+#> feature
+#< feature
+} hlig;
 feature kern {
+#> feature
   @_krA = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde];
   @_krE = [E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron];
   @_krO = [O Oacute Obreve Ocircumflex Odieresis Ograve Omacron Oslash Otilde];
   @_kry = [y yacute ycircumflex ydieresis];
   @_krW = [W Wacute Wcircumflex Wdieresis Wgrave];
   @_kra = [a aacute abreve acircumflex adieresis agrave amacron aring atilde];
-  @_kri = [dotlessi i iacute icircumflex idieresis igrave imacron itilde];
+  @_kri = [dotlessi i iacute ibreve icircumflex idieresis igrave imacron itilde];
   @_krf2 = [f f_f f_f_i f_f_l fi fl];
   @_krC = [C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent];
 
@@ -209,6 +548,7 @@ feature kern {
     pos M icircumflex -19;
     pos M idieresis -19;
     pos M imacron -19;
+    pos M ibreve -19;
     pos N A -46;
     pos N D -14;
     pos N E -14;
@@ -269,6 +609,7 @@ feature kern {
     pos P umacron -34;
     pos P ubreve -34;
     pos P uring -34;
+    pos P ibreve -15;
     pos R hyphen -17;
     pos R C -26;
     pos R U -23;
@@ -512,6 +853,7 @@ feature kern {
     pos d j -42;
     pos d p -11;
     pos f exclam 96;
+    pos f parenright 60;
     pos f comma -124;
     pos f question 112;
     pos f a -38;
@@ -555,6 +897,7 @@ feature kern {
     pos f obreve -38;
     pos g f 63;
     pos g j 51;
+    pos g r 50;
     pos g fl 63;
     pos g f_f_i 63;
     pos g f_f_l 63;
@@ -885,315 +1228,5 @@ feature kern {
   } KERN_LTR;
 
   lookup KERN_LTR;
+#< feature
 } kern;
-feature mark {
-# GPOS feature : Mark Positioning
-    markClass grave <anchor 189 509> @accent1;
-    markClass dieresis <anchor 349 534> @accent1;
-    markClass acute <anchor 189 509> @accent1;
-    markClass macron <anchor 348 492> @accent1;
-    markClass caron <anchor 221 506> @accent1;
-    markClass circumflex <anchor 247 530> @accent1;
-    markClass breve <anchor 203 488> @accent1;
-    markClass dotaccent <anchor 256 490> @accent1;
-    markClass ring <anchor 206 480> @accent1;
-    markClass tilde <anchor 256 680> @accent1;
-    markClass macronmod <anchor 348 492> @accent1;
-
-  lookup markLTR {
-      pos base A
-          <anchor 439 718> mark @accent1;
-      pos base C
-          <anchor 439 725> mark @accent1;
-      pos base E
-          <anchor 439 718> mark @accent1;
-      pos base G
-          <anchor 439 718> mark @accent1;
-      pos base I
-          <anchor 331 718> mark @accent1;
-      pos base J
-          <anchor 441 718> mark @accent1;
-      pos base N
-          <anchor 503 718> mark @accent1;
-      pos base O
-          <anchor 426 718> mark @accent1;
-      pos base R
-          <anchor 439 718> mark @accent1;
-      pos base S
-          <anchor 439 718> mark @accent1;
-      pos base T
-          <anchor 429 718> mark @accent1;
-      pos base U
-          <anchor 494 711> mark @accent1;
-      pos base W
-          <anchor 614 711> mark @accent1;
-      pos base Y
-          <anchor 444 711> mark @accent1;
-      pos base Z
-          <anchor 443 718> mark @accent1;
-      pos base a
-          <anchor 277 515> mark @accent1;
-      pos base c
-          <anchor 277 515> mark @accent1;
-      pos base e
-          <anchor 277 515> mark @accent1;
-      pos base g
-          <anchor 277 515> mark @accent1;
-      pos base n
-          <anchor 299 513> mark @accent1;
-      pos base o
-          <anchor 277 515> mark @accent1;
-      pos base r
-          <anchor 283 515> mark @accent1;
-      pos base s
-          <anchor 277 515> mark @accent1;
-      pos base u
-          <anchor 299 515> mark @accent1;
-      pos base w
-          <anchor 419 515> mark @accent1;
-      pos base y
-          <anchor 277 515> mark @accent1;
-      pos base z
-          <anchor 277 515> mark @accent1;
-      pos base rcaron
-          <anchor 283 515> mark @accent1;
-      pos base Ntilde
-          <anchor 503 718> mark @accent1;
-      pos base aacute
-          <anchor 277 515> mark @accent1;
-      pos base agrave
-          <anchor 277 515> mark @accent1;
-      pos base acircumflex
-          <anchor 277 515> mark @accent1;
-      pos base eacute
-          <anchor 277 515> mark @accent1;
-      pos base egrave
-          <anchor 277 515> mark @accent1;
-      pos base ecircumflex
-          <anchor 277 515> mark @accent1;
-      pos base dotlessi
-          <anchor 187 515> mark @accent1;
-      pos base Agrave
-          <anchor 439 718> mark @accent1;
-      pos base Aacute
-          <anchor 439 718> mark @accent1;
-      pos base Acircumflex
-          <anchor 439 718> mark @accent1;
-      pos base Egrave
-          <anchor 439 718> mark @accent1;
-      pos base Eacute
-          <anchor 439 718> mark @accent1;
-      pos base Ecircumflex
-          <anchor 439 718> mark @accent1;
-      pos base Edieresis
-          <anchor 439 718> mark @accent1;
-      pos base Igrave
-          <anchor 331 718> mark @accent1;
-      pos base Iacute
-          <anchor 331 718> mark @accent1;
-      pos base Icircumflex
-          <anchor 331 718> mark @accent1;
-      pos base Idieresis
-          <anchor 331 718> mark @accent1;
-      pos base Adieresis
-          <anchor 439 718> mark @accent1;
-      pos base Atilde
-          <anchor 439 718> mark @accent1;
-      pos base Ograve
-          <anchor 439 718> mark @accent1;
-      pos base Oacute
-          <anchor 439 718> mark @accent1;
-      pos base Ocircumflex
-          <anchor 439 718> mark @accent1;
-      pos base Otilde
-          <anchor 439 718> mark @accent1;
-      pos base Odieresis
-          <anchor 439 718> mark @accent1;
-      pos base Ugrave
-          <anchor 494 711> mark @accent1;
-      pos base Uacute
-          <anchor 494 711> mark @accent1;
-      pos base Ucircumflex
-          <anchor 494 711> mark @accent1;
-      pos base Udieresis
-          <anchor 494 711> mark @accent1;
-      pos base Ccircumflex
-          <anchor 439 718> mark @accent1;
-      pos base ccircumflex
-          <anchor 277 515> mark @accent1;
-      pos base Gcircumflex
-          <anchor 439 718> mark @accent1;
-      pos base itilde
-          <anchor 187 515> mark @accent1;
-      pos base Itilde
-          <anchor 331 718> mark @accent1;
-      pos base Racute
-          <anchor 439 718> mark @accent1;
-      pos base racute
-          <anchor 277 515> mark @accent1;
-      pos base Sacute
-          <anchor 439 718> mark @accent1;
-      pos base sacute
-          <anchor 277 515> mark @accent1;
-      pos base Utilde
-          <anchor 494 711> mark @accent1;
-      pos base Scedilla
-          <anchor 439 718> mark @accent1;
-      pos base scedilla
-          <anchor 277 515> mark @accent1;
-      pos base Cacute
-          <anchor 439 718> mark @accent1;
-      pos base cacute
-          <anchor 277 515> mark @accent1;
-      pos base ycircumflex
-          <anchor 277 515> mark @accent1;
-      pos base Zacute
-          <anchor 439 718> mark @accent1;
-      pos base atilde
-          <anchor 277 515> mark @accent1;
-      pos base adieresis
-          <anchor 277 515> mark @accent1;
-      pos base edieresis
-          <anchor 277 515> mark @accent1;
-      pos base igrave
-          <anchor 187 515> mark @accent1;
-      pos base iacute
-          <anchor 187 515> mark @accent1;
-      pos base icircumflex
-          <anchor 187 515> mark @accent1;
-      pos base idieresis
-          <anchor 187 515> mark @accent1;
-      pos base ntilde
-          <anchor 299 513> mark @accent1;
-      pos base ograve
-          <anchor 277 515> mark @accent1;
-      pos base oacute
-          <anchor 277 515> mark @accent1;
-      pos base ocircumflex
-          <anchor 277 515> mark @accent1;
-      pos base otilde
-          <anchor 277 515> mark @accent1;
-      pos base odieresis
-          <anchor 277 515> mark @accent1;
-      pos base ugrave
-          <anchor 299 515> mark @accent1;
-      pos base uacute
-          <anchor 299 515> mark @accent1;
-      pos base ucircumflex
-          <anchor 299 515> mark @accent1;
-      pos base udieresis
-          <anchor 299 515> mark @accent1;
-      pos base yacute
-          <anchor 277 515> mark @accent1;
-      pos base ydieresis
-          <anchor 277 515> mark @accent1;
-      pos base Amacron
-          <anchor 439 718> mark @accent1;
-      pos base amacron
-          <anchor 277 515> mark @accent1;
-      pos base Abreve
-          <anchor 439 718> mark @accent1;
-      pos base abreve
-          <anchor 277 515> mark @accent1;
-      pos base Cdotaccent
-          <anchor 439 725> mark @accent1;
-      pos base cdotaccent
-          <anchor 277 515> mark @accent1;
-      pos base Emacron
-          <anchor 439 718> mark @accent1;
-      pos base emacron
-          <anchor 277 515> mark @accent1;
-      pos base Ebreve
-          <anchor 439 718> mark @accent1;
-      pos base ebreve
-          <anchor 277 515> mark @accent1;
-      pos base Edotaccent
-          <anchor 439 718> mark @accent1;
-      pos base edotaccent
-          <anchor 277 515> mark @accent1;
-      pos base Gbreve
-          <anchor 439 718> mark @accent1;
-      pos base gbreve
-          <anchor 277 515> mark @accent1;
-      pos base Gdotaccent
-          <anchor 439 718> mark @accent1;
-      pos base gdotaccent
-          <anchor 277 515> mark @accent1;
-      pos base Imacron
-          <anchor 331 718> mark @accent1;
-      pos base imacron
-          <anchor 187 515> mark @accent1;
-      pos base Idotaccent
-          <anchor 331 718> mark @accent1;
-      pos base ncaron
-          <anchor 299 513> mark @accent1;
-      pos base Ncaron
-          <anchor 503 718> mark @accent1;
-      pos base utilde
-          <anchor 299 515> mark @accent1;
-      pos base Nacute
-          <anchor 503 718> mark @accent1;
-      pos base nacute
-          <anchor 299 513> mark @accent1;
-      pos base zcaron
-          <anchor 277 515> mark @accent1;
-      pos base zacute
-          <anchor 277 515> mark @accent1;
-      pos base Zdotaccent
-          <anchor 439 718> mark @accent1;
-      pos base zdotaccent
-          <anchor 277 515> mark @accent1;
-      pos base Umacron
-          <anchor 494 711> mark @accent1;
-      pos base umacron
-          <anchor 299 515> mark @accent1;
-      pos base Ubreve
-          <anchor 494 711> mark @accent1;
-      pos base ubreve
-          <anchor 299 515> mark @accent1;
-      pos base Omacron
-          <anchor 426 718> mark @accent1;
-      pos base omacron
-          <anchor 277 515> mark @accent1;
-      pos base Obreve
-          <anchor 426 718> mark @accent1;
-      pos base obreve
-          <anchor 277 515> mark @accent1;
-      pos base Uring
-          <anchor 494 711> mark @accent1;
-      pos base uring
-          <anchor 299 515> mark @accent1;
-      pos base Scaron
-          <anchor 439 718> mark @accent1;
-      pos base scaron
-          <anchor 277 515> mark @accent1;
-      pos base Ycircumflex
-          <anchor 444 711> mark @accent1;
-      pos base Wgrave
-          <anchor 614 711> mark @accent1;
-      pos base wgrave
-          <anchor 419 515> mark @accent1;
-      pos base Wacute
-          <anchor 614 711> mark @accent1;
-      pos base wacute
-          <anchor 419 515> mark @accent1;
-      pos base Wdieresis
-          <anchor 614 711> mark @accent1;
-      pos base wdieresis
-          <anchor 419 515> mark @accent1;
-      pos base Wcircumflex
-          <anchor 614 711> mark @accent1;
-      pos base wcircumflex
-          <anchor 419 515> mark @accent1;
-      pos base dotlessj
-          <anchor 227 515> mark @accent1;
-      pos base jcircumflex
-          <anchor 227 515> mark @accent1;
-      pos base Jcircumflex
-          <anchor 441 718> mark @accent1;
-      pos base Tcaron
-          <anchor 429 718> mark @accent1;
-  } markLTR;
-
-  lookup markLTR;
-} mark;

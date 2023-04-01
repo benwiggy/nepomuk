@@ -9,12 +9,55 @@
   <key>copyright</key>
   <string>Copyright (c) 2022 Florian Kretlow, and Ben Byram-Wigfield, with Reserved Font Name &quot;Nepomuk&quot;.
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is copied below, and is also available with a FAQ at:
-http://scripts.sil.org/OFL
-
-
------------------------------------------------------------
+This Font Software is licensed under the SIL Open Font License, Version 1.1.</string>
+  <key>descender</key>
+  <integer>-264</integer>
+  <key>familyName</key>
+  <string>Nepomuk</string>
+  <key>guidelines</key>
+  <array>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>m</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>256</integer>
+  </dict>
+  </array>
+  <key>italicAngle</key>
+  <integer>0</integer>
+  <key>openTypeGaspRangeRecords</key>
+  <array>
+  <dict>
+    <key>rangeGaspBehavior</key>
+      <array>
+        <integer>0</integer>
+        <integer>1</integer>
+        <integer>2</integer>
+        <integer>3</integer>
+      </array>
+    <key>rangeMaxPPEM</key>
+    <integer>65535</integer>
+  </dict>
+  </array>
+  <key>openTypeHeadCreated</key>
+  <string>2014/09/04 01:23:51</string>
+  <key>openTypeHeadFlags</key>
+  <array>
+  </array>
+  <key>openTypeHheaAscender</key>
+  <integer>932</integer>
+  <key>openTypeHheaCaretOffset</key>
+  <integer>-0</integer>
+  <key>openTypeHheaDescender</key>
+  <integer>-257</integer>
+  <key>openTypeHheaLineGap</key>
+  <integer>92</integer>
+  <key>openTypeNameLicense</key>
+  <string>-----------------------------------------------------------
 SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
 -----------------------------------------------------------
 
@@ -101,61 +144,19 @@ DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.
 </string>
-  <key>descender</key>
-  <integer>-264</integer>
-  <key>familyName</key>
-  <string>Nepomuk</string>
-  <key>guidelines</key>
-  <array>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>m</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>256</integer>
-  </dict>
-  </array>
-  <key>italicAngle</key>
-  <integer>0</integer>
-  <key>openTypeGaspRangeRecords</key>
-  <array>
-  <dict>
-    <key>rangeGaspBehavior</key>
-      <array>
-        <integer>0</integer>
-        <integer>1</integer>
-        <integer>2</integer>
-        <integer>3</integer>
-      </array>
-    <key>rangeMaxPPEM</key>
-    <integer>65535</integer>
-  </dict>
-  </array>
-  <key>openTypeHeadCreated</key>
-  <string>2014/09/04 01:23:51</string>
-  <key>openTypeHeadFlags</key>
-  <array>
-  </array>
-  <key>openTypeHheaAscender</key>
-  <integer>932</integer>
-  <key>openTypeHheaCaretOffset</key>
-  <integer>-0</integer>
-  <key>openTypeHheaDescender</key>
-  <integer>-257</integer>
-  <key>openTypeHheaLineGap</key>
-  <integer>92</integer>
+  <key>openTypeNameLicenseURL</key>
+  <string>http://scripts.sil.org/OFL</string>
   <key>openTypeNamePreferredFamilyName</key>
   <string>Nepomuk</string>
   <key>openTypeNamePreferredSubfamilyName</key>
-  <string>SmallCaps Bold</string>
+  <string>Bold SC</string>
   <key>openTypeNameVersion</key>
-  <string>Version 2.040</string>
+  <string>Version 2.070</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
+    <integer>1</integer>
+    <integer>29</integer>
   </array>
   <key>openTypeOS2Panose</key>
   <array>
@@ -241,11 +242,11 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
     <integer>692</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>Nepomuk-SmallCapsBold</string>
+  <string>Nepomuk-BoldSC</string>
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>Nepomuk SmallCaps Bold</string>
+  <string>Nepomuk Bold SC</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptOtherBlues</key>
@@ -260,17 +261,17 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <key>postscriptWeightName</key>
   <string>Bold</string>
   <key>styleMapFamilyName</key>
-  <string>Nepomuk</string>
+  <string>Nepomuk SC</string>
   <key>styleMapStyleName</key>
   <string>bold</string>
   <key>styleName</key>
-  <string>SmallCaps Bold</string>
+  <string>Bold SC</string>
   <key>unitsPerEm</key>
   <integer>1024</integer>
   <key>versionMajor</key>
   <integer>2</integer>
   <key>versionMinor</key>
-  <integer>40</integer>
+  <integer>70</integer>
   <key>xHeight</key>
   <integer>450</integer>
 </dict>

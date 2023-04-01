@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="napostrophe.smcp" format="2">
+  <advance width="632"/>
+  <anchor x="345" y="520" name="t.asciicircum_1"/>
+  <outline>
+    <component base="quoteright" xOffset="-17" yOffset="-75"/>
+    <contour>
+      <point x="109" y="0" type="line"/>
+      <point x="324" y="0" type="line"/>
+      <point x="324" y="35" type="line"/>
+      <point x="314" y="35" type="line" smooth="yes"/>
+      <point x="269" y="35"/>
+      <point x="264" y="40"/>
+      <point x="264" y="85" type="curve" smooth="yes"/>
+      <point x="264" y="236" type="line" smooth="yes"/>
+      <point x="264" y="296"/>
+      <point x="304" y="418"/>
+      <point x="382" y="418" type="curve" smooth="yes"/>
+      <point x="430" y="418"/>
+      <point x="460" y="382"/>
+      <point x="460" y="275" type="curve" smooth="yes"/>
+      <point x="460" y="85" type="line" smooth="yes"/>
+      <point x="460" y="40"/>
+      <point x="455" y="35"/>
+      <point x="410" y="35" type="curve" smooth="yes"/>
+      <point x="400" y="35" type="line"/>
+      <point x="400" y="0" type="line"/>
+      <point x="610" y="0" type="line"/>
+      <point x="610" y="35" type="line"/>
+      <point x="600" y="35" type="line" smooth="yes"/>
+      <point x="555" y="35"/>
+      <point x="550" y="40"/>
+      <point x="550" y="85" type="curve" smooth="yes"/>
+      <point x="550" y="279" type="line" smooth="yes"/>
+      <point x="550" y="383"/>
+      <point x="506" y="462"/>
+      <point x="411" y="462" type="curve" smooth="yes"/>
+      <point x="341" y="462"/>
+      <point x="295" y="416"/>
+      <point x="269" y="358" type="curve"/>
+      <point x="269" y="358"/>
+      <point x="268" y="355"/>
+      <point x="264" y="355" type="curve" smooth="yes"/>
+      <point x="259" y="355" name=".hr01"/>
+      <point x="259" y="358"/>
+      <point x="259" y="358" type="curve"/>
+      <point x="259" y="450" type="line"/>
+      <point x="99" y="450" type="line"/>
+      <point x="99" y="415" type="line"/>
+      <point x="129" y="415" type="line" smooth="yes"/>
+      <point x="174" y="415"/>
+      <point x="179" y="410"/>
+      <point x="179" y="365" type="curve" smooth="yes"/>
+      <point x="179" y="85" type="line" smooth="yes"/>
+      <point x="179" y="45"/>
+      <point x="169" y="35"/>
+      <point x="129" y="35" type="curve" smooth="yes"/>
+      <point x="109" y="35" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>n+apostrophe</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>6c1cf02b175a8c3a25e72fa2f6061969b7e5c98bbf73c554b126bceae40fd2abadfcf9d8c867bbd64c8fc1cc44feaab12528798a6c5dbe5d5c859a58cd5f555c</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 35</string>
+          <string>vstem 179 85</string>
+          <string>hstem 418 44</string>
+          <string>vstem 460 90</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 179 80</string>
+          <string>hstem 415 35</string>
+          <string>hstem 0 35</string>
+          <string>vstem 460 90</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

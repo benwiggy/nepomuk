@@ -2,10 +2,17 @@
 <glyph name="U" format="2">
   <advance width="692"/>
   <unicode hex="0055"/>
-  <anchor x="366" y="730" name="t.asciicircum_1"/>
   <anchor x="366" y="750" name="t.dieresis"/>
+  <anchor x="366" y="730" name="t.asciicircum_1"/>
   <outline>
     <contour>
+      <point x="118" y="269" type="line" smooth="yes"/>
+      <point x="118" y="69"/>
+      <point x="198" y="-12"/>
+      <point x="338" y="-12" type="curve" smooth="yes"/>
+      <point x="525" y="-12"/>
+      <point x="564" y="118"/>
+      <point x="564" y="257" type="curve"/>
       <point x="565" y="595" type="line"/>
       <point x="565" y="640"/>
       <point x="570" y="645"/>
@@ -37,13 +44,6 @@
       <point x="113" y="645"/>
       <point x="118" y="640"/>
       <point x="118" y="595" type="curve" smooth="yes"/>
-      <point x="118" y="269" type="line" smooth="yes"/>
-      <point x="118" y="69"/>
-      <point x="198" y="-12"/>
-      <point x="338" y="-12" type="curve" smooth="yes"/>
-      <point x="525" y="-12"/>
-      <point x="564" y="118"/>
-      <point x="564" y="257" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -53,7 +53,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>26264e088086a449aa760597040263820672eed452d1ea3d496c07249f5812f2db1ecd05679cb1cac78a3ab3f841de742002e705a5c7dd469591cdc0719b5558</string>
+    <string>45904c132f8631e736749ae18812299d9a067c4ee841143af55fd5a6c0128ca16dcf9ad4ac7acbf59ec4594eb750835f175fdc231795357351f6549df6a42c0c</string>
     <key>hintSetList</key>
     <array>
       <dict>

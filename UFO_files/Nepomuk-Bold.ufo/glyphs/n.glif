@@ -37,7 +37,7 @@
       <point x="350" y="462" type="curve" smooth="yes"/>
       <point x="287" y="462"/>
       <point x="242" y="433"/>
-      <point x="213" y="393" type="curve" name="hr01"/>
+      <point x="213" y="393" type="curve" name=".hr01"/>
       <point x="213" y="450" type="line"/>
       <point x="23" y="450" type="line"/>
       <point x="23" y="415" type="line"/>
@@ -80,7 +80,7 @@
           <string>vstem 384 120</string>
         </array>
         <key>pointTag</key>
-        <string>hr01</string>
+        <string>.hr01</string>
       </dict>
     </array>
   </dict>

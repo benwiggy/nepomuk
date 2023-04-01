@@ -2,7 +2,6 @@
 <glyph name="imacron" format="2">
   <advance width="339"/>
   <unicode hex="012B"/>
-  <anchor x="170" y="542" name="t.asciicircum_1"/>
   <anchor x="170" y="556" name="t.dieresis"/>
   <outline>
     <component base="i"/>

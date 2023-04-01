@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="itilde.smcp" format="2">
   <advance width="330"/>
-  <anchor x="150" y="530" name="t.asciicircum_1"/>
   <anchor x="150" y="530" name="t.dieresis"/>
   <outline>
     <component base="dotlessi.smcp"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="five" format="2">
-  <advance width="518"/>
+  <advance width="524"/>
   <unicode hex="0035"/>
   <outline>
     <contour>
@@ -9,7 +9,7 @@
       <point x="104" y="76"/>
       <point x="120" y="86" type="curve" smooth="yes"/>
       <point x="142" y="100"/>
-      <point x="154" y="125" name="hr01"/>
+      <point x="154" y="125" name=".hr01"/>
       <point x="154" y="149" type="curve" smooth="yes"/>
       <point x="154" y="190"/>
       <point x="124" y="220"/>
@@ -58,7 +58,7 @@
       <point x="362" y="319"/>
       <point x="362" y="248" type="curve" smooth="yes"/>
       <point x="362" y="134"/>
-      <point x="286" y="24" name="hr02"/>
+      <point x="286" y="24" name=".hr02"/>
       <point x="183" y="24" type="curve" smooth="yes"/>
       <point x="151" y="24"/>
       <point x="97" y="32"/>
@@ -71,7 +71,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>c6982e0e8ee9f6a6d920a40cb3f7b57450cd84fdde808359a23ec887390511452a551d58a8fe702c5110b7735afe5d7377cab349537732d8c11d416dc530c375</string>
+    <string>7ee6e62c59d4b9f1e9192f130d8322b5730a734f7e11d572577fb71e41e1c4b5abe236b5ff575a855f088d46a5fb4d7137aba959f02ce2711594ad46f2d510f0</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -94,7 +94,7 @@
           <string>hstem 573 99</string>
         </array>
         <key>pointTag</key>
-        <string>hr01</string>
+        <string>.hr01</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -106,7 +106,7 @@
           <string>vstem 362 104</string>
         </array>
         <key>pointTag</key>
-        <string>hr02</string>
+        <string>.hr02</string>
       </dict>
     </array>
   </dict>

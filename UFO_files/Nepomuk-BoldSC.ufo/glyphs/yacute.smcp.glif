@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yacute.smcp" format="2">
   <advance width="516"/>
-  <anchor x="285" y="530" name="t.asciicircum_1"/>
   <anchor x="285" y="530" name="t.dieresis"/>
   <outline>
     <component base="y.smcp"/>

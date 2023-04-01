@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldot.smcp" format="2">
+  <advance width="500"/>
+  <outline>
+    <component base="l.smcp"/>
+    <contour>
+      <point x="263" y="298" type="curve" smooth="yes"/>
+      <point x="263" y="266"/>
+      <point x="290" y="239"/>
+      <point x="322" y="239" type="curve" smooth="yes"/>
+      <point x="353" y="239"/>
+      <point x="380" y="266"/>
+      <point x="380" y="298" type="curve" smooth="yes"/>
+      <point x="380" y="329"/>
+      <point x="353" y="356"/>
+      <point x="322" y="356" type="curve" smooth="yes"/>
+      <point x="290" y="356"/>
+      <point x="263" y="329"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>ldot</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w500m146,181c146,149 173,122 205,122c236,122 263,149 263,181c263,212 236,239 205,239c173,239 146,212 146,181</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 32</string>
+          <string>hstem 0 198</string>
+          <string>hstem 239 117</string>
+          <string>hstem 458 31</string>
+          <string>vstem 105 107</string>
+          <string>vstem 263 117</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

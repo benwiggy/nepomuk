@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lacute.smcp" format="2">
+  <advance width="475"/>
+  <outline>
+    <component base="l.smcp"/>
+    <component base="acute.smcp" xOffset="132"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>l.smcp+~acute.smcp</string>
+  </dict>
+  </lib>
+</glyph>

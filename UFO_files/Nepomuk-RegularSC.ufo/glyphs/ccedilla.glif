@@ -2,8 +2,8 @@
 <glyph name="ccedilla" format="2">
   <advance width="490"/>
   <unicode hex="00E7"/>
-  <anchor x="265" y="537" name="t.asciicircum_1"/>
   <anchor x="265" y="551" name="t.dieresis"/>
+  <anchor x="265" y="537" name="t.asciicircum_1"/>
   <outline>
     <component base="c"/>
     <component base="cedillacomb.smcp" xOffset="129"/>

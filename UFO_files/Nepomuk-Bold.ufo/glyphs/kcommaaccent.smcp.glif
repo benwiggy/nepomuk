@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kcommaaccent.smcp" format="2">
+  <advance width="621"/>
+  <outline>
+    <component base="k.smcp"/>
+    <component base="commaaccentcomb.smcp" xOffset="187"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>k.smcp+~uni0326.smcp</string>
+  </dict>
+  </lib>
+</glyph>

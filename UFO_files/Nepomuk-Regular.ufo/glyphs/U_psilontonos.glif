@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilontonos" format="2">
+  <advance width="860"/>
+  <unicode hex="038E"/>
+  <anchor x="540" y="750" name="t.dieresis"/>
+  <outline>
+    <component base="Upsilon" xOffset="168"/>
+    <component base="tonos" xOffset="-8" yOffset="206"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Upsilon+acute</string>
+  </dict>
+  </lib>
+</glyph>

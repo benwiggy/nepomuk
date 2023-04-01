@@ -2,6 +2,7 @@
 <glyph name="J" format="2">
   <advance width="511"/>
   <unicode hex="004A"/>
+  <anchor x="328" y="716" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="392" y="595" type="line" smooth="yes"/>
@@ -29,7 +30,7 @@
       <point x="160" y="23" type="line"/>
       <point x="159" y="23" type="line"/>
       <point x="173" y="36"/>
-      <point x="188" y="50" name="hr01"/>
+      <point x="188" y="50" name=".hr01"/>
       <point x="188" y="72" type="curve" smooth="yes"/>
       <point x="188" y="104"/>
       <point x="155" y="126"/>
@@ -73,7 +74,7 @@
           <string>hstem 645 35</string>
         </array>
         <key>pointTag</key>
-        <string>hr01</string>
+        <string>.hr01</string>
       </dict>
     </array>
   </dict>

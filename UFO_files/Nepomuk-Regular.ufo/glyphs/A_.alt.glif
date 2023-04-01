@@ -2,10 +2,12 @@
 <glyph name="A.alt" format="2">
   <advance width="681"/>
   <unicode hex="E868"/>
-  <anchor x="360" y="720" name="t.asciicircum_1"/>
   <anchor x="360" y="750" name="t.dieresis"/>
+  <anchor x="360" y="720" name="t.asciicircum_1"/>
   <outline>
     <contour>
+      <point x="-10" y="0" type="line"/>
+      <point x="240" y="0" type="line"/>
       <point x="240" y="35" type="line"/>
       <point x="199" y="35" type="line" smooth="yes"/>
       <point x="146" y="35"/>
@@ -32,13 +34,11 @@
       <point x="70" y="35"/>
       <point x="22" y="35" type="curve" smooth="yes"/>
       <point x="-10" y="35" type="line"/>
-      <point x="-10" y="0" type="line"/>
-      <point x="240" y="0" type="line"/>
     </contour>
     <contour>
+      <point x="419" y="252" type="line"/>
       <point x="209" y="252" type="line"/>
       <point x="319" y="541" type="line"/>
-      <point x="419" y="252" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -48,7 +48,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>8819eaad4d6f4a84cb241e1951cd2b1ab02ef09015f6d6664557f2d58736c054b09a81806d1c58a50d6e9b2dce8d75fa7ba033f0aaff445f6302ad9849c9b5c2</string>
+    <string>2d01d2eb0ffe45e3e9055d28c85f3a91af65e034706284629a072eff525874bf8cbfea747ea1f4b74aefd9bcbefbe2dafa630b19655c490e503f08be02da2955</string>
     <key>hintSetList</key>
     <array>
       <dict>

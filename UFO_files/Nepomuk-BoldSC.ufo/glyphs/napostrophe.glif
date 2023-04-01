@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="napostrophe" format="2">
+  <advance width="713"/>
+  <unicode hex="0149"/>
+  <anchor x="377" y="530" name="t.asciicircum_1"/>
+  <outline>
+    <component base="quoteright" xOffset="-9" yOffset="-87"/>
+    <contour>
+      <point x="619.02" y="425.585" type="line" smooth="yes"/>
+      <point x="619.02" y="454.957"/>
+      <point x="622.81" y="458.747"/>
+      <point x="645.55" y="458.747" type="curve" smooth="yes"/>
+      <point x="691.977" y="458.747" type="line"/>
+      <point x="691.977" y="489.067" type="line"/>
+      <point x="481.632" y="489.067" type="line"/>
+      <point x="481.632" y="458.747" type="line"/>
+      <point x="528.06" y="458.747" type="line" smooth="yes"/>
+      <point x="552.695" y="458.747"/>
+      <point x="556.485" y="454.957"/>
+      <point x="556.485" y="425.585" type="curve" smooth="yes"/>
+      <point x="556.485" y="167.865" type="line"/>
+      <point x="308.24" y="489.067" type="line"/>
+      <point x="140.532" y="489.067" type="line"/>
+      <point x="140.532" y="458.747" type="line"/>
+      <point x="175.59" y="458.747" type="line" smooth="yes"/>
+      <point x="204.015" y="458.747"/>
+      <point x="213.49" y="448.325"/>
+      <point x="213.49" y="406.635" type="curve" smooth="yes"/>
+      <point x="213.49" y="63.64" type="line" smooth="yes"/>
+      <point x="213.49" y="34.2675"/>
+      <point x="209.7" y="30.4775"/>
+      <point x="187.907" y="30.4775" type="curve" smooth="yes"/>
+      <point x="132.005" y="30.4775" type="line"/>
+      <point x="132.005" y="0.1575" type="line"/>
+      <point x="357.51" y="0.1575" type="line"/>
+      <point x="357.51" y="30.4775" type="line"/>
+      <point x="302.555" y="30.4775" type="line" smooth="yes"/>
+      <point x="278.867" y="30.4775"/>
+      <point x="276.025" y="34.2675"/>
+      <point x="276.025" y="63.64" type="curve" smooth="yes"/>
+      <point x="276.025" y="393.37" type="line"/>
+      <point x="270.34" y="384.842" type="line"/>
+      <point x="270.34" y="382.947"/>
+      <point x="273.182" y="375.367"/>
+      <point x="282.657" y="363.997" type="curve" smooth="yes"/>
+      <point x="570.697" y="-8.37" type="line"/>
+      <point x="619.02" y="-8.37" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>napostrophe</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>67f87e92c75d4ce9c51734c233104ce8650155e92a8078288c5e1fc2108b72abc3b0b59cadd97591c3297dce6c4b5b885096cbbd2d3f135bb316fd5d74db8901</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -5.53 15.2</string>
+          <string>hstem 3 24.63</string>
+          <string>hstem 461.59 24.63</string>
+          <string>vstem 216.33 56.85</string>
+          <string>vstem 559.33 56.85</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

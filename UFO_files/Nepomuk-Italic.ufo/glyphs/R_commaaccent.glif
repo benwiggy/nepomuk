@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rcommaaccent" format="2">
+  <advance width="708"/>
+  <unicode hex="0156"/>
+  <anchor x="439" y="718" name="accent1"/>
+  <outline>
+    <component base="R"/>
+    <component base="commaaccentcomb" xOffset="270"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>R+uni0326</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gcommaaccent" format="2">
+  <advance width="655"/>
+  <unicode hex="0122"/>
+  <anchor x="436" y="714" name="t.asciicircum_1"/>
+  <outline>
+    <component base="G"/>
+    <component base="commaaccentcomb" xOffset="242"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>G+uni0326</string>
+  </dict>
+  </lib>
+</glyph>

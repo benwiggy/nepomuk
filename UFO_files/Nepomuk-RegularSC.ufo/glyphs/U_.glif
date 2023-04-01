@@ -2,8 +2,8 @@
 <glyph name="U" format="2">
   <advance width="692"/>
   <unicode hex="0055"/>
-  <anchor x="366" y="730" name="t.asciicircum_1"/>
   <anchor x="366" y="750" name="t.dieresis"/>
+  <anchor x="366" y="730" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="565" y="595" type="line"/>

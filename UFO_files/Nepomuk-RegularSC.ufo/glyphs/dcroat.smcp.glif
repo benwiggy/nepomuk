@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcroat.smcp" format="2">
   <advance width="510"/>
-  <unicode hex="0111"/>
   <outline>
     <component base="d.smcp"/>
     <component base="macron" xOffset="225"/>

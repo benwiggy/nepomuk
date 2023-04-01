@@ -2,8 +2,8 @@
 <glyph name="amacron" format="2">
   <advance width="515"/>
   <unicode hex="0101"/>
-  <anchor x="245" y="524" name="t.asciicircum_1"/>
   <anchor x="245" y="530" name="t.dieresis"/>
+  <anchor x="245" y="524" name="t.asciicircum_1"/>
   <outline>
     <component base="a"/>
     <component base="macron" xOffset="87"/>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idotaccent" format="2">
+  <advance width="404"/>
+  <unicode hex="0130"/>
+  <anchor x="199" y="730" name="t.asciicircum_1"/>
+  <outline>
+    <component base="I"/>
+    <component base="dotaccent" xOffset="38" yOffset="230"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>I+dotaccent</string>
+  </dict>
+  </lib>
+</glyph>

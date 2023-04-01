@@ -2,7 +2,6 @@
 <glyph name="ntilde" format="2">
   <advance width="620"/>
   <unicode hex="00F1"/>
-  <anchor x="321" y="545" name="t.asciicircum_1"/>
   <outline>
     <component base="n"/>
     <component base="tilde.smcp" xOffset="161" yOffset="15"/>

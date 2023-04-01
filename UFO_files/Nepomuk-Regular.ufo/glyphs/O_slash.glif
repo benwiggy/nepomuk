@@ -2,14 +2,10 @@
 <glyph name="Oslash" format="2">
   <advance width="645"/>
   <unicode hex="00D8"/>
-  <anchor x="323" y="730" name="t.asciicircum_1"/>
   <anchor x="323" y="750" name="t.dieresis"/>
+  <anchor x="323" y="730" name="t.asciicircum_1"/>
   <outline>
     <contour>
-      <point x="40" y="340" type="curve" smooth="yes"/>
-      <point x="40" y="227"/>
-      <point x="75" y="126"/>
-      <point x="140" y="62" type="curve"/>
       <point x="80" y="-41" type="line"/>
       <point x="114" y="-61" type="line"/>
       <point x="170" y="36" type="line"/>
@@ -30,9 +26,24 @@
       <point x="323" y="692" type="curve" smooth="yes"/>
       <point x="143" y="692"/>
       <point x="40" y="535"/>
+      <point x="40" y="340" type="curve" smooth="yes"/>
+      <point x="40" y="227"/>
+      <point x="75" y="126"/>
+      <point x="140" y="62" type="curve"/>
     </contour>
     <contour>
-      <point x="207" y="100" type="curve"/>
+      <point x="172" y="340" type="curve" smooth="yes"/>
+      <point x="172" y="590"/>
+      <point x="233" y="660"/>
+      <point x="323" y="660" type="curve" smooth="yes"/>
+      <point x="372" y="660"/>
+      <point x="412" y="639"/>
+      <point x="439" y="580" type="curve"/>
+      <point x="190" y="150" type="line"/>
+      <point x="178" y="197"/>
+      <point x="172" y="259"/>
+    </contour>
+    <contour>
       <point x="455" y="529" type="line"/>
       <point x="467" y="483"/>
       <point x="473" y="421"/>
@@ -42,18 +53,7 @@
       <point x="323" y="20" type="curve" smooth="yes"/>
       <point x="274" y="20"/>
       <point x="234" y="41"/>
-    </contour>
-    <contour>
-      <point x="190" y="150" type="line"/>
-      <point x="178" y="197"/>
-      <point x="172" y="259"/>
-      <point x="172" y="340" type="curve" smooth="yes"/>
-      <point x="172" y="590"/>
-      <point x="233" y="660"/>
-      <point x="323" y="660" type="curve" smooth="yes"/>
-      <point x="372" y="660"/>
-      <point x="412" y="639"/>
-      <point x="439" y="580" type="curve"/>
+      <point x="207" y="100" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -63,7 +63,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>dfa8eea84b21b7c0d7b8512b2a488ec6de8d764a2c2f209e0719fda276e9af1844a0bf08fa615f70672a3e70e547f40dc780b2cf112d0eb06363e20926946c2a</string>
+    <string>8b22b67dff166b6583c5ef43efb2acfe4ecac0dc9577b29c6c9340cb3f4997ad21c29b66a1484b7885c7739bacd468be385c1f09f44c240ab7e4d125cca45838</string>
     <key>hintSetList</key>
     <array>
       <dict>

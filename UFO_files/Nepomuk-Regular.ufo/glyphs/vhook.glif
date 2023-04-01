@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vhook" format="2">
+  <advance width="509"/>
+  <unicode hex="028B"/>
+  <outline>
+    <contour>
+      <point x="169" y="161" type="line" smooth="yes"/>
+      <point x="169" y="95"/>
+      <point x="196" y="38"/>
+      <point x="274" y="39" type="curve" smooth="yes"/>
+      <point x="356" y="40"/>
+      <point x="417" y="134"/>
+      <point x="417" y="227" type="curve" smooth="yes"/>
+      <point x="417" y="343"/>
+      <point x="343" y="376"/>
+      <point x="343" y="420" type="curve" smooth="yes"/>
+      <point x="343" y="437"/>
+      <point x="354" y="449"/>
+      <point x="371" y="449" type="curve" smooth="yes"/>
+      <point x="448" y="449"/>
+      <point x="468" y="286"/>
+      <point x="468" y="230" type="curve" smooth="yes"/>
+      <point x="468" y="106"/>
+      <point x="388" y="-12"/>
+      <point x="255" y="-12" type="curve" smooth="yes"/>
+      <point x="6" y="-12"/>
+      <point x="139" y="351"/>
+      <point x="82" y="396" type="curve"/>
+      <point x="68" y="406"/>
+      <point x="43" y="405"/>
+      <point x="26" y="405" type="curve"/>
+      <point x="26" y="450" type="line"/>
+      <point x="169" y="450" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>fd20af24b0f4da223a3bcdb3a5d091358290ab6449958b9af660048c1cb45999d3d35e8e5062ba60c9a9ba1d1a71d0acfc6bf1c80b55721795ec311bb3e3d4a0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -12 51</string>
+          <string>vstem 417 51</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

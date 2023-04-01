@@ -66,10 +66,44 @@
       <point x="175" y="442"/>
       <point x="223" y="442" type="curve" smooth="yes"/>
       <point x="270" y="442"/>
-      <point x="304" y="474"/>
+      <point x="304" y="474" name=".hr01"/>
       <point x="304" y="515" type="curve" smooth="yes"/>
       <point x="304" y="543"/>
       <point x="284" y="573"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>b5c3124eb76975c5af2972cd33769888bbd7ab5623c977808324ee1d7ccd47039e44995590e1c24887f7425c9a2dfce2fc6d72e2e9f09d6649fa0e29fcff88e8</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 137 101</string>
+          <string>hstem 655 37</string>
+          <string>vstem 441 121</string>
+          <string>hstem -12 94</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 137 167</string>
+          <string>hstem -12 94</string>
+          <string>hstem 655 37</string>
+          <string>vstem 441 121</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

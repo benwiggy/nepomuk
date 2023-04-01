@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oslash" format="2">
-  <advance width="454"/>
+  <advance width="467"/>
   <unicode hex="00F8"/>
   <outline>
-    <component base="o"/>
+    <component base="o" xOffset="12"/>
     <contour>
-      <point x="446" y="466" type="line"/>
-      <point x="-56" y="0" type="line"/>
-      <point x="-9" y="0" type="line"/>
-      <point x="493" y="466" type="line"/>
+      <point x="458" y="466" type="line"/>
+      <point x="-44" y="0" type="line"/>
+      <point x="3" y="0" type="line"/>
+      <point x="505" y="466" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -18,7 +18,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w454m446,466l-56,0l-9,0l493,466</string>
+    <string>w467m458,466l-44,0l3,0l505,466</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -37,7 +37,7 @@
           <string>hstem 466 -20</string>
         </array>
         <key>pointTag</key>
-        <string>._.105553415752752</string>
+        <string>._.105553178605712</string>
       </dict>
     </array>
   </dict>

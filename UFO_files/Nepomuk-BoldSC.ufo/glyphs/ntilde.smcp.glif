@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ntilde.smcp" format="2">
   <advance width="577"/>
-  <anchor x="284" y="530" name="t.asciicircum_1"/>
   <outline>
     <component base="n.smcp"/>
     <component base="tilde" xOffset="124"/>

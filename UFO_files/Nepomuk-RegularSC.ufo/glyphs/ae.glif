@@ -2,8 +2,8 @@
 <glyph name="ae" format="2">
   <advance width="822"/>
   <unicode hex="00E6"/>
-  <anchor x="536" y="527" name="t.asciicircum_1"/>
   <anchor x="536" y="541" name="t.dieresis"/>
+  <anchor x="536" y="527" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="351" y="0" type="line"/>
@@ -104,7 +104,7 @@
           <string>hstem 464 26</string>
         </array>
         <key>pointTag</key>
-        <string>._.105553415708480</string>
+        <string>._.105553179455200</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -116,7 +116,7 @@
           <string>hstem 156 25</string>
         </array>
         <key>pointTag</key>
-        <string>._.105553415707840</string>
+        <string>._.105553179453920</string>
       </dict>
     </array>
   </dict>

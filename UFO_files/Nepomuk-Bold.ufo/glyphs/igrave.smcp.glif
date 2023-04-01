@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="igrave.smcp" format="2">
   <advance width="350"/>
-  <anchor x="177" y="555" name="t.asciicircum_1"/>
   <anchor x="177" y="569" name="t.dieresis"/>
   <outline>
     <component base="i.smcp"/>

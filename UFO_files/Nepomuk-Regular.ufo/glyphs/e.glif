@@ -2,10 +2,17 @@
 <glyph name="e" format="2">
   <advance width="467"/>
   <unicode hex="0065"/>
-  <anchor x="244" y="527" name="t.asciicircum_1"/>
   <anchor x="244" y="519" name="t.dieresis"/>
+  <anchor x="244" y="527" name="t.asciicircum_1"/>
   <outline>
     <contour>
+      <point x="396" y="144" type="line"/>
+      <point x="370" y="64"/>
+      <point x="306" y="25"/>
+      <point x="256" y="25" type="curve" smooth="yes"/>
+      <point x="193" y="25"/>
+      <point x="140" y="75"/>
+      <point x="140" y="224" type="curve" smooth="yes"/>
       <point x="140" y="237" type="line"/>
       <point x="432" y="237" type="line"/>
       <point x="432" y="251" type="line" smooth="yes"/>
@@ -21,25 +28,18 @@
       <point x="320" y="-12"/>
       <point x="399" y="44"/>
       <point x="428" y="133" type="curve"/>
-      <point x="396" y="144" type="line"/>
-      <point x="370" y="64"/>
-      <point x="306" y="25"/>
-      <point x="256" y="25" type="curve" smooth="yes"/>
-      <point x="193" y="25"/>
-      <point x="140" y="75"/>
-      <point x="140" y="224" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="328" y="312" type="curve" smooth="yes"/>
-      <point x="328" y="275"/>
-      <point x="313" y="267"/>
-      <point x="280" y="267" type="curve" smooth="yes"/>
       <point x="140" y="267" type="line"/>
       <point x="148" y="386"/>
       <point x="187" y="436"/>
       <point x="244" y="436" type="curve" smooth="yes"/>
       <point x="295" y="436"/>
       <point x="328" y="380"/>
+      <point x="328" y="312" type="curve" smooth="yes"/>
+      <point x="328" y="275"/>
+      <point x="313" y="267"/>
+      <point x="280" y="267" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -49,7 +49,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>7ddc10e0a02097117d2cece81596eecfa6a7e6d015a1f80dee0b303863c5edffd59584f3ac904580389261aa72af5f5278482ee7eb10e75de37ecc425a42ae8b</string>
+    <string>be144a77de30b5ea41addb8013031b0e07c8d542a6cc63fcd2be87a7f52341c916ccb13b4c072b30fe1ceb0893da17edfc9135ca133cfda5e1975ecf4544e087</string>
     <key>hintSetList</key>
     <array>
       <dict>

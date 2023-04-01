@@ -2,7 +2,6 @@
 <glyph name="wdieresis.smcp" format="2">
   <advance width="720"/>
   <anchor x="365" y="546" name="t.asciicircum_1"/>
-  <anchor x="365" y="560" name="t.dieresis"/>
   <outline>
     <component base="w.smcp"/>
     <component base="dieresis.smcp" xOffset="216" yOffset="30"/>

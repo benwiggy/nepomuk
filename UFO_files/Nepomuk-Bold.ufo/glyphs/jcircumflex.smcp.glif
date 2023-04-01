@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="jcircumflex.smcp" format="2">
   <advance width="418"/>
-  <anchor x="272" y="555" name="t.asciicircum_1"/>
   <anchor x="272" y="569" name="t.dieresis"/>
   <outline>
     <component base="j.smcp"/>

@@ -358,6 +358,8 @@
     <integer>152</integer>
     <key>k</key>
     <integer>134</integer>
+    <key>parenright</key>
+    <integer>60</integer>
     <key>question</key>
     <integer>112</integer>
     <key>quotedblleft</key>
@@ -379,6 +381,8 @@
   <dict>
     <key>j</key>
     <integer>51</integer>
+    <key>r</key>
+    <integer>50</integer>
     <key>public.kern2.krf2</key>
     <integer>63</integer>
   </dict>

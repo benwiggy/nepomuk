@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oslash.smcp" format="2">
   <advance width="560"/>
-  <anchor x="280" y="527" name="t.asciicircum_1"/>
   <anchor x="280" y="541" name="t.dieresis"/>
+  <anchor x="280" y="527" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="37" y="247" type="curve" smooth="yes"/>

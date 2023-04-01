@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omicrontonos" format="2">
+  <advance width="732"/>
+  <unicode hex="038C"/>
+  <anchor x="404" y="750" name="t.dieresis"/>
+  <outline>
+    <component base="Omicron" xOffset="74"/>
+    <component base="tonos" xOffset="-4" yOffset="207"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Omicron+acute</string>
+  </dict>
+  </lib>
+</glyph>

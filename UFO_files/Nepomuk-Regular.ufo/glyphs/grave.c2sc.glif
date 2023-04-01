@@ -3,17 +3,7 @@
   <advance width="212"/>
   <anchor x="106" y="530" name="_t.asciicircum_1"/>
   <outline>
-    <contour>
-      <point x="118" y="706" type="curve"/>
-      <point x="7" y="706" type="line"/>
-      <point x="0" y="686" type="line"/>
-      <point x="42" y="646"/>
-      <point x="148" y="564"/>
-      <point x="204" y="532" type="curve"/>
-      <point x="212" y="554" type="line"/>
-      <point x="178" y="594"/>
-      <point x="136" y="662"/>
-    </contour>
+    <component base="grave" xOffset="-14"/>
   </outline>
   <lib>
   <dict>
@@ -22,7 +12,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w212m118,706l7,706l0,686c42,646 148,564 204,532l212,554c178,594 136,662 118,706</string>
+    <string>w212</string>
     <key>hintSetList</key>
     <array>
       <dict>

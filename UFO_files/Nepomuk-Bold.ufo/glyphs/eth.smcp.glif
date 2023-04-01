@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eth.smcp" format="2">
+  <advance width="560"/>
+  <outline>
+    <component base="d.smcp"/>
+    <component base="macron.smcp" xOffset="8" yOffset="-323"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dcroat</string>
+  </dict>
+  </lib>
+</glyph>

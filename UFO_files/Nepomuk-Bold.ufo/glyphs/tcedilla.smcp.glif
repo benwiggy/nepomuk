@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcedilla.smcp" format="2">
+  <advance width="548"/>
+  <outline>
+    <component base="t.smcp"/>
+    <component base="uni0327.smcp" xOffset="156"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>t.smcp+~uni0326.smcp</string>
+  </dict>
+  </lib>
+</glyph>

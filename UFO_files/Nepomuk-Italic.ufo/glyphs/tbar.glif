@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tbar" format="2">
+  <advance width="329"/>
+  <unicode hex="0167"/>
+  <anchor x="342" y="492" name="_accent1"/>
+  <outline>
+    <component base="t"/>
+    <contour>
+      <point x="2" y="284" type="line"/>
+      <point x="15" y="325" type="line"/>
+      <point x="308" y="325" type="line"/>
+      <point x="295" y="284" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>t+macron</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w329m2,284l15,325l308,325l295,284</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 559 41</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

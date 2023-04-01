@@ -43,6 +43,7 @@
     <string>Ocircumflex</string>
     <string>Odieresis</string>
     <string>Ograve</string>
+    <string>Ohungarumlaut</string>
     <string>Omacron</string>
     <string>Oslash</string>
     <string>Otilde</string>
@@ -64,6 +65,7 @@
     <string>adieresis</string>
     <string>agrave</string>
     <string>amacron</string>
+    <string>aogonek</string>
     <string>aring</string>
     <string>atilde</string>
   </array>
@@ -75,6 +77,7 @@
     <string>ocircumflex</string>
     <string>odieresis</string>
     <string>ograve</string>
+    <string>ohungarumlaut</string>
     <string>omacron</string>
     <string>oslash</string>
     <string>otilde</string>
@@ -115,6 +118,7 @@
     <string>adieresis</string>
     <string>agrave</string>
     <string>amacron</string>
+    <string>aogonek</string>
     <string>aring</string>
     <string>atilde</string>
   </array>
@@ -129,6 +133,7 @@
     <string>edotaccent</string>
     <string>egrave</string>
     <string>emacron</string>
+    <string>eogonek</string>
   </array>
   <key>public.kern2.krf2</key>
   <array>
@@ -144,10 +149,12 @@
     <string>dotlessi</string>
     <string>i</string>
     <string>iacute</string>
+    <string>ibreve</string>
     <string>icircumflex</string>
     <string>idieresis</string>
     <string>igrave</string>
     <string>imacron</string>
+    <string>iogonek</string>
     <string>itilde</string>
   </array>
   <key>public.kern2.kro</key>
@@ -158,6 +165,7 @@
     <string>ocircumflex</string>
     <string>odieresis</string>
     <string>ograve</string>
+    <string>ohungarumlaut</string>
     <string>omacron</string>
     <string>oslash</string>
     <string>otilde</string>
@@ -170,7 +178,9 @@
     <string>ucircumflex</string>
     <string>udieresis</string>
     <string>ugrave</string>
+    <string>uhungarumlaut</string>
     <string>umacron</string>
+    <string>uogonek</string>
     <string>uring</string>
     <string>utilde</string>
   </array>

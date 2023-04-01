@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="2">
+  <advance width="392"/>
+  <unicode hex="02DD"/>
+  <anchor x="277" y="533" name="_t.asciicircum_1"/>
+  <outline>
+    <contour>
+      <point x="335" y="580" type="line"/>
+      <point x="424" y="633" type="line" smooth="yes"/>
+      <point x="480" y="666"/>
+      <point x="487" y="675"/>
+      <point x="487" y="699" type="curve" smooth="yes"/>
+      <point x="487" y="720"/>
+      <point x="469" y="740"/>
+      <point x="448" y="740" type="curve" smooth="yes"/>
+      <point x="424" y="740"/>
+      <point x="409" y="729"/>
+      <point x="375" y="683" type="curve" smooth="yes"/>
+      <point x="313" y="599" type="line"/>
+    </contour>
+    <contour>
+      <point x="164" y="580" type="line"/>
+      <point x="254" y="633" type="line" smooth="yes"/>
+      <point x="309" y="666"/>
+      <point x="316" y="675"/>
+      <point x="316" y="699" type="curve" smooth="yes"/>
+      <point x="316" y="720"/>
+      <point x="298" y="740"/>
+      <point x="277" y="740" type="curve" smooth="yes"/>
+      <point x="253" y="740"/>
+      <point x="240" y="729"/>
+      <point x="205" y="683" type="curve" smooth="yes"/>
+      <point x="142" y="599" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>eaa5b8f78f6a8442bc9a4ef8f71553fc9c54ffcaa0a880720e3a7a4ed6b85e5be5186c52559762faa2404c94fac253ac3c922f7205df7654018df89c6de8a2d8</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 601 -21</string>
+          <string>hstem 740 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

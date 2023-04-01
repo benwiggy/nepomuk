@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oslash.smcp" format="2">
   <advance width="527"/>
-  <anchor x="264" y="527" name="t.asciicircum_1"/>
   <anchor x="264" y="541" name="t.dieresis"/>
+  <anchor x="264" y="527" name="t.asciicircum_1"/>
   <outline>
     <contour>
-      <point x="33" y="245" type="curve" smooth="yes"/>
-      <point x="33" y="163"/>
-      <point x="61" y="91"/>
-      <point x="114" y="46" type="curve"/>
       <point x="65" y="-30" type="line"/>
       <point x="93" y="-45" type="line"/>
       <point x="140" y="26" type="line"/>
@@ -29,9 +25,24 @@
       <point x="264" y="498" type="curve" smooth="yes"/>
       <point x="117" y="498"/>
       <point x="33" y="385"/>
+      <point x="33" y="245" type="curve" smooth="yes"/>
+      <point x="33" y="163"/>
+      <point x="61" y="91"/>
+      <point x="114" y="46" type="curve"/>
     </contour>
     <contour>
-      <point x="169" y="72" type="curve"/>
+      <point x="141" y="245" type="curve" smooth="yes"/>
+      <point x="141" y="426"/>
+      <point x="190" y="475"/>
+      <point x="264" y="475" type="curve" smooth="yes"/>
+      <point x="304" y="475"/>
+      <point x="337" y="460"/>
+      <point x="358" y="418" type="curve"/>
+      <point x="155" y="109" type="line"/>
+      <point x="145" y="143"/>
+      <point x="141" y="186"/>
+    </contour>
+    <contour>
       <point x="371" y="381" type="line"/>
       <point x="381" y="347"/>
       <point x="386" y="304"/>
@@ -41,18 +52,7 @@
       <point x="264" y="15" type="curve" smooth="yes"/>
       <point x="224" y="15"/>
       <point x="191" y="30"/>
-    </contour>
-    <contour>
-      <point x="155" y="109" type="line"/>
-      <point x="145" y="143"/>
-      <point x="141" y="186"/>
-      <point x="141" y="245" type="curve" smooth="yes"/>
-      <point x="141" y="426"/>
-      <point x="190" y="475"/>
-      <point x="264" y="475" type="curve" smooth="yes"/>
-      <point x="304" y="475"/>
-      <point x="337" y="460"/>
-      <point x="358" y="418" type="curve"/>
+      <point x="169" y="72" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -62,7 +62,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>193959b0044b2903d8b49f6ce516c54c2aeba15456c60d1957b7c9b79573060cf9806e292aef1258df16d11bd455782ef6beaa073eef975328d71aca34b2afe9</string>
+    <string>49f394a92b1b5fb578960a6091671d3fcf89fb8408cf83add50cb7d597288e9140304b4b8c272503f9fe90f4fc0a187e939efe34471a0a6540f7e5ba682e88ac</string>
     <key>hintSetList</key>
     <array>
       <dict>

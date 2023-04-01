@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rcommaaccent" format="2">
+  <advance width="599"/>
+  <unicode hex="0157"/>
+  <anchor x="284" y="536" name="t.asciicircum_1"/>
+  <anchor x="284" y="550" name="t.dieresis"/>
+  <outline>
+    <component base="r"/>
+    <component base="commaaccentcomb" xOffset="179"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>r+uni0326</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tbar.smcp" format="2">
+  <advance width="548"/>
+  <outline>
+    <component base="t.smcp"/>
+    <contour>
+      <point x="126" y="212" type="line"/>
+      <point x="433" y="212" type="line"/>
+      <point x="433" y="250" type="line"/>
+      <point x="126" y="250" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>tbar</string>
+  </dict>
+  </lib>
+</glyph>

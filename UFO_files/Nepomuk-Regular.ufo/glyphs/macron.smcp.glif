@@ -3,12 +3,7 @@
   <advance width="341"/>
   <anchor x="171" y="474" name="_t.asciicircum_1"/>
   <outline>
-    <contour>
-      <point x="324" y="568" type="line"/>
-      <point x="17" y="568" type="line"/>
-      <point x="17" y="530" type="line"/>
-      <point x="324" y="530" type="line"/>
-    </contour>
+    <component base="macron" yOffset="-22"/>
   </outline>
   <lib>
   <dict>
@@ -17,7 +12,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w341m324,568l17,568l17,530l324,530</string>
+    <string>w341</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash.smcp" format="2">
+  <advance width="496"/>
+  <outline>
+    <component base="l.smcp"/>
+    <contour>
+      <point x="30" y="165" type="line"/>
+      <point x="291" y="323" type="line"/>
+      <point x="291" y="388" type="line"/>
+      <point x="30" y="230" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>lslash</string>
+  </dict>
+  </lib>
+</glyph>

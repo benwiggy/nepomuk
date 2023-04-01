@@ -2,11 +2,10 @@
 <glyph name="igrave" format="2">
   <advance width="302"/>
   <unicode hex="00EC"/>
-  <anchor x="155" y="507" name="t.asciicircum_1"/>
   <anchor x="155" y="513" name="t.dieresis"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="grave" xOffset="49" yOffset="-23"/>
+    <component base="grave" xOffset="26" yOffset="-23"/>
   </outline>
   <lib>
   <dict>

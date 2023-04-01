@@ -3,7 +3,6 @@
   <advance width="664"/>
   <unicode hex="00CB"/>
   <anchor x="356" y="730" name="t.asciicircum_1"/>
-  <anchor x="356" y="750" name="t.dieresis"/>
   <outline>
     <component base="E"/>
     <component base="dieresis" xOffset="207" yOffset="220"/>

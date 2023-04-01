@@ -3,7 +3,7 @@
   <advance width="212"/>
   <anchor x="106" y="530" name="_t.asciicircum_1"/>
   <outline>
-    <component base="grave"/>
+    <component base="grave" xOffset="-14"/>
   </outline>
   <lib>
   <dict>

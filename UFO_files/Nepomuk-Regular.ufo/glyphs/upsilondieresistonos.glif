@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilondieresistonos" format="2">
+  <advance width="594"/>
+  <unicode hex="03B0"/>
+  <outline>
+    <component base="upsilondieresis"/>
+    <component base="acute" xOffset="278" yOffset="85"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>upsilondieresis+acute</string>
+  </dict>
+  </lib>
+</glyph>

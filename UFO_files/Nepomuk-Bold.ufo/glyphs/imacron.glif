@@ -2,11 +2,11 @@
 <glyph name="imacron" format="2">
   <advance width="330"/>
   <unicode hex="012B"/>
-  <anchor x="150" y="530" name="t.asciicircum_1"/>
   <anchor x="150" y="530" name="t.dieresis"/>
+  <anchor x="150" y="530" name="t.asciicircum_1"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="macron" xOffset="-70.5"/>
+    <component base="macron" xOffset="-71"/>
   </outline>
   <lib>
   <dict>

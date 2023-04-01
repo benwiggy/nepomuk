@@ -2,7 +2,6 @@
 <glyph name="Uring" format="2">
   <advance width="726"/>
   <unicode hex="016E"/>
-  <anchor x="395" y="730" name="t.asciicircum_1"/>
   <anchor x="395" y="750" name="t.dieresis"/>
   <outline>
     <component base="U"/>

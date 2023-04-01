@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omicron" format="2">
+  <advance width="496"/>
+  <unicode hex="03BF"/>
+  <anchor x="244" y="530" name="t.dieresis"/>
+  <anchor x="244" y="530" name="t.asciicircum_1"/>
+  <outline>
+    <contour>
+      <point x="244" y="-8" type="qcurve" smooth="yes"/>
+      <point x="160" y="-8"/>
+      <point x="39" y="123"/>
+      <point x="39" y="227" type="qcurve" smooth="yes"/>
+      <point x="39" y="331"/>
+      <point x="160" y="462"/>
+      <point x="246" y="462" type="qcurve" smooth="yes"/>
+      <point x="336" y="462"/>
+      <point x="459" y="332"/>
+      <point x="459" y="227" type="qcurve" smooth="yes"/>
+      <point x="459" y="153"/>
+      <point x="404" y="51"/>
+      <point x="304" y="-8"/>
+    </contour>
+    <contour>
+      <point x="246" y="26" type="qcurve" smooth="yes"/>
+      <point x="303" y="26"/>
+      <point x="360" y="124"/>
+      <point x="360" y="234" type="qcurve" smooth="yes"/>
+      <point x="360" y="336"/>
+      <point x="304" y="428"/>
+      <point x="246" y="428" type="qcurve" smooth="yes"/>
+      <point x="194" y="428"/>
+      <point x="138" y="332"/>
+      <point x="138" y="229" type="qcurve" smooth="yes"/>
+      <point x="138" y="124"/>
+      <point x="193" y="26"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>989624c69fa8e74c99e90b37eb5af7b0e5586dd4408831a7500717111f682375b24db3c516fd04b774f7a697fa98559a7dddb498fec8a317cab1d105a8ad1e62</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -8 34</string>
+          <string>hstem 428 34</string>
+          <string>vstem 39 99</string>
+          <string>vstem 360 99</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

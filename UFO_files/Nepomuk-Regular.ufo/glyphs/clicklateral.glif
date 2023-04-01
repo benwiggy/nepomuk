@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="clicklateral" format="2">
+  <advance width="363"/>
+  <unicode hex="01C1"/>
+  <outline>
+    <component base="clickdental" xOffset="-80"/>
+    <component base="clickdental" xOffset="70"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w363</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 680 -20</string>
+          <string>vstem 80 43</string>
+          <string>vstem 230 43</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

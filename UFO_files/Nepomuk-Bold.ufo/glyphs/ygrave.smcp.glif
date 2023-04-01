@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ygrave.smcp" format="2">
   <advance width="594"/>
-  <anchor x="316" y="558" name="t.asciicircum_1"/>
   <anchor x="316" y="573" name="t.dieresis"/>
+  <anchor x="316" y="558" name="t.asciicircum_1"/>
   <outline>
     <component base="y.smcp"/>
     <component base="grave.smcp" xOffset="210" yOffset="28"/>

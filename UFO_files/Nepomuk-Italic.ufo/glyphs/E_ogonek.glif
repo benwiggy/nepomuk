@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eogonek" format="2">
+  <advance width="675"/>
+  <unicode hex="0118"/>
+  <anchor x="439" y="718" name="accent1"/>
+  <outline>
+    <component base="E"/>
+    <contour>
+      <point x="473" y="-95" type="line"/>
+      <point x="443" y="-117"/>
+      <point x="412" y="-130"/>
+      <point x="389" y="-130" type="curve" smooth="yes"/>
+      <point x="357" y="-130"/>
+      <point x="335" y="-110"/>
+      <point x="335" y="-82" type="curve" smooth="yes"/>
+      <point x="335" y="-55"/>
+      <point x="347" y="-34"/>
+      <point x="384" y="0" type="curve"/>
+      <point x="351" y="0" type="line"/>
+      <point x="305" y="-34"/>
+      <point x="285" y="-65"/>
+      <point x="285" y="-101" type="curve" smooth="yes"/>
+      <point x="285" y="-144"/>
+      <point x="319" y="-175"/>
+      <point x="368" y="-175" type="curve" smooth="yes"/>
+      <point x="410" y="-175"/>
+      <point x="442" y="-161"/>
+      <point x="491" y="-121" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>E+uni0328</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>163717a4a39eef7a27c5539ab543082562248854da71cb3103748a01e5e703028e5e93e25398e94fd28d626ea5ada0e68046f3dbcba02da64b3ca0d4b0d9c390</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -175 44</string>
+          <string>vstem 295.5 49</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

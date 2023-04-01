@@ -2,7 +2,6 @@
 <glyph name="rcaron" format="2">
   <advance width="599"/>
   <unicode hex="0159"/>
-  <anchor x="284" y="536" name="t.asciicircum_1"/>
   <anchor x="284" y="550" name="t.dieresis"/>
   <outline>
     <component base="r"/>

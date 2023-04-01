@@ -2,11 +2,11 @@
 <glyph name="Amacron" format="2">
   <advance width="730"/>
   <unicode hex="0100"/>
-  <anchor x="374" y="720" name="t.asciicircum_1"/>
   <anchor x="374" y="750" name="t.dieresis"/>
+  <anchor x="374" y="720" name="t.asciicircum_1"/>
   <outline>
     <component base="A"/>
-    <component base="macron" xOffset="129.5" yOffset="230"/>
+    <component base="macron" xOffset="130" yOffset="230"/>
   </outline>
   <lib>
   <dict>

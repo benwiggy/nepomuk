@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hbar" format="2">
+  <advance width="537"/>
+  <unicode hex="0127"/>
+  <outline>
+    <component base="h"/>
+    <contour>
+      <point x="89" y="517" type="line"/>
+      <point x="103" y="558" type="line"/>
+      <point x="424" y="558" type="line"/>
+      <point x="410" y="517" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>h+macron</string>
+  </dict>
+  </lib>
+</glyph>

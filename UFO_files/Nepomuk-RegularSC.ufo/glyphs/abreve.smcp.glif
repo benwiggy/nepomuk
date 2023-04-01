@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="abreve.smcp" format="2">
   <advance width="515"/>
-  <anchor x="245" y="524" name="t.asciicircum_1"/>
   <anchor x="245" y="530" name="t.dieresis"/>
   <outline>
     <component base="a.smcp"/>

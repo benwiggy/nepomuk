@@ -4,7 +4,6 @@
   <unicode hex="0040"/>
   <outline>
     <contour>
-      <point x="451" y="79" type="curve"/>
       <point x="458" y="79" type="line"/>
       <point x="458" y="29"/>
       <point x="472" y="-8"/>
@@ -54,7 +53,7 @@
       <point x="547" y="384" type="line"/>
       <point x="539" y="384" type="line"/>
       <point x="530" y="432"/>
-      <point x="506" y="462" name="hr01"/>
+      <point x="506" y="462" name=".hr01"/>
       <point x="456" y="462" type="curve" smooth="yes"/>
       <point x="366" y="462"/>
       <point x="263" y="369"/>
@@ -67,15 +66,9 @@
       <point x="313" y="-12" type="curve" smooth="yes"/>
       <point x="361" y="-12"/>
       <point x="413" y="26"/>
+      <point x="451" y="79" type="curve"/>
     </contour>
     <contour>
-      <point x="468" y="424" type="curve" smooth="yes"/>
-      <point x="505" y="424"/>
-      <point x="517" y="391"/>
-      <point x="517" y="348" type="curve" smooth="yes"/>
-      <point x="517" y="315"/>
-      <point x="510" y="276"/>
-      <point x="500" y="242" type="curve"/>
       <point x="489" y="208" type="line"/>
       <point x="460" y="127"/>
       <point x="399" y="33"/>
@@ -88,6 +81,13 @@
       <point x="325" y="240" type="curve"/>
       <point x="350" y="313"/>
       <point x="399" y="424"/>
+      <point x="468" y="424" type="curve" smooth="yes"/>
+      <point x="505" y="424"/>
+      <point x="517" y="391"/>
+      <point x="517" y="348" type="curve" smooth="yes"/>
+      <point x="517" y="315"/>
+      <point x="510" y="276"/>
+      <point x="500" y="242" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -97,7 +97,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>4da720525e637e230ff03a91da0d8b3c6cada70de935d70ba3a3f70b65045fb6fbffd4b29f83efb195441d337358b1ff9f0ed15a46a2c2e3fadf30eb52a2ae61</string>
+    <string>d64947be87f392c8b8563dec7cf64448eb58fa2a0f928f55c962cb6024dd02132a2e65c44222777af3a17dd7f371335858029fecc8d15cd0b7eab4dfaece3a8d</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -124,7 +124,7 @@
           <string>vstem 813 29</string>
         </array>
         <key>pointTag</key>
-        <string>hr01</string>
+        <string>.hr01</string>
       </dict>
     </array>
   </dict>

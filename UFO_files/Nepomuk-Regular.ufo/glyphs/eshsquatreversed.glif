@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eshsquatreversed" format="2">
+  <advance width="388"/>
+  <unicode hex="0285"/>
+  <outline>
+    <contour>
+      <point x="104" y="418" type="curve" smooth="yes"/>
+      <point x="76" y="419"/>
+      <point x="86" y="369"/>
+      <point x="52" y="370" type="curve" smooth="yes"/>
+      <point x="28" y="370"/>
+      <point x="3" y="383"/>
+      <point x="3" y="411" type="curve" smooth="yes"/>
+      <point x="4" y="447"/>
+      <point x="42" y="459"/>
+      <point x="73" y="459" type="curve" smooth="yes"/>
+      <point x="230" y="456"/>
+      <point x="234" y="202"/>
+      <point x="237" y="97" type="curve" smooth="yes"/>
+      <point x="241" y="-24" type="line" smooth="yes"/>
+      <point x="242" y="-51"/>
+      <point x="245" y="-168"/>
+      <point x="287" y="-169" type="curve" smooth="yes"/>
+      <point x="307" y="-169"/>
+      <point x="307" y="-116"/>
+      <point x="333" y="-117" type="curve" smooth="yes"/>
+      <point x="359" y="-117"/>
+      <point x="388" y="-131"/>
+      <point x="388" y="-161" type="curve" smooth="yes"/>
+      <point x="387" y="-197"/>
+      <point x="351" y="-209"/>
+      <point x="320" y="-209" type="curve" smooth="yes"/>
+      <point x="159" y="-206"/>
+      <point x="155" y="36"/>
+      <point x="150" y="142" type="curve" smooth="yes"/>
+      <point x="144" y="272" type="line" smooth="yes"/>
+      <point x="143" y="294"/>
+      <point x="143" y="417"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>e65babbf0a9a2e7a3c48ffb1006e4fa00eea9d9f18968446e964e5dad60c41d14f8f1c6513ff7291719866da7988dd3dc7e101023a18afd176c0fe4e3beb659a</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 418 41</string>
+          <string>hstem -209 40</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 370 89</string>
+          <string>hstem -209 40</string>
+        </array>
+        <key>pointTag</key>
+        <string>._.105553180499216</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -209 92</string>
+          <string>hstem 418 41</string>
+        </array>
+        <key>pointTag</key>
+        <string>._.105553180500496</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

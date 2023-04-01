@@ -3,18 +3,8 @@
   <advance width="576"/>
   <unicode hex="003D"/>
   <outline>
-    <contour>
-      <point x="63" y="190" type="line"/>
-      <point x="63" y="140" type="line"/>
-      <point x="513" y="140" type="line"/>
-      <point x="513" y="190" type="line"/>
-    </contour>
-    <contour>
-      <point x="63" y="360" type="line"/>
-      <point x="63" y="310" type="line"/>
-      <point x="513" y="310" type="line"/>
-      <point x="513" y="360" type="line"/>
-    </contour>
+    <component base="minus" xOffset="23" yOffset="-85"/>
+    <component base="minus" xOffset="23" yOffset="85"/>
   </outline>
   <lib>
   <dict>
@@ -23,7 +13,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w576m63,190l63,140l513,140l513,190m63,360l63,310l513,310l513,360</string>
+    <string>w576</string>
     <key>hintSetList</key>
     <array>
       <dict>

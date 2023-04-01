@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kgreenlandic" format="2">
+  <advance width="488"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="75" y="0" type="line"/>
+      <point x="152" y="239" type="line"/>
+      <point x="155" y="239" type="line" smooth="yes"/>
+      <point x="259" y="239"/>
+      <point x="157" y="-12" name=".hr01"/>
+      <point x="295" y="-12" type="curve" smooth="yes"/>
+      <point x="365" y="-12"/>
+      <point x="423" y="55"/>
+      <point x="449" y="138" type="curve"/>
+      <point x="417" y="146" type="line"/>
+      <point x="395" y="79"/>
+      <point x="364" y="40"/>
+      <point x="335" y="40" type="curve" smooth="yes"/>
+      <point x="303" y="40"/>
+      <point x="295" y="69"/>
+      <point x="287" y="136" type="curve" smooth="yes"/>
+      <point x="280" y="203"/>
+      <point x="256" y="238"/>
+      <point x="223" y="254" type="curve"/>
+      <point x="280" y="286"/>
+      <point x="311" y="386"/>
+      <point x="350" y="417" type="curve" smooth="yes"/>
+      <point x="361" y="426"/>
+      <point x="384" y="430"/>
+      <point x="376" y="402" type="curve" smooth="yes"/>
+      <point x="374" y="395"/>
+      <point x="373" y="388"/>
+      <point x="373" y="381" type="curve" smooth="yes"/>
+      <point x="373" y="354"/>
+      <point x="391" y="324"/>
+      <point x="425" y="324" type="curve" smooth="yes"/>
+      <point x="456" y="324"/>
+      <point x="483" y="348"/>
+      <point x="483" y="386" type="curve" smooth="yes"/>
+      <point x="483" y="429"/>
+      <point x="448" y="462"/>
+      <point x="398" y="462" type="curve" smooth="yes"/>
+      <point x="275" y="462"/>
+      <point x="275" y="266"/>
+      <point x="161" y="265" type="curve"/>
+      <point x="234" y="474" type="line"/>
+      <point x="53" y="462" type="line" name=".hr03"/>
+      <point x="44" y="433" type="line"/>
+      <point x="102" y="433"/>
+      <point x="141" y="432"/>
+      <point x="122" y="376" type="curve" smooth="yes"/>
+      <point x="-5" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>k%</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>21818a3513e5f8d08445923262dde5622455ee50c83f59d5bd59b9917a0b3b91167a0a63310f64fbde867f3289537ad8cb05c22e371cf9063fdc7062c23f8ad9</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 239 26</string>
+          <string>hstem 324 138</string>
+          <string>vstem 373 110</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -12 52</string>
+          <string>vstem 373 110</string>
+          <string>hstem 324 138</string>
+          <string>hstem 239 26</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 433 41</string>
+          <string>hstem -12 52</string>
+          <string>hstem 239 26</string>
+          <string>vstem 373 110</string>
+        </array>
+        <key>pointTag</key>
+        <string>._.105553181194784</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 324 138</string>
+          <string>hstem -12 52</string>
+          <string>hstem 239 26</string>
+          <string>vstem 373 110</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr03</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 433 41</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 239 26</string>
+          <string>vstem 373 110</string>
+        </array>
+        <key>pointTag</key>
+        <string>._.105553181194464</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

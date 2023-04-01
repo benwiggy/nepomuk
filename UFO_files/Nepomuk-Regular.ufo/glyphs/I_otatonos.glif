@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotatonos" format="2">
+  <advance width="565"/>
+  <unicode hex="038A"/>
+  <outline>
+    <component base="Iota" xOffset="161"/>
+    <component base="tonos" xOffset="-6" yOffset="186"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Iota+acute</string>
+  </dict>
+  </lib>
+</glyph>

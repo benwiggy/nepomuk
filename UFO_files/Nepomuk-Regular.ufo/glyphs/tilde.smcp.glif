@@ -4,6 +4,9 @@
   <anchor x="126" y="680" name="_t.asciicircum_1"/>
   <outline>
     <contour>
+      <point x="-13" y="750" type="line"/>
+      <point x="-1" y="775"/>
+      <point x="17" y="798"/>
       <point x="43" y="798" type="curve" smooth="yes"/>
       <point x="80" y="798"/>
       <point x="135" y="736"/>
@@ -21,9 +24,49 @@
       <point x="16" y="856"/>
       <point x="-19" y="800"/>
       <point x="-35" y="758" type="curve"/>
+    </contour>
+    <contour>
       <point x="-13" y="750" type="line"/>
       <point x="-1" y="775"/>
       <point x="17" y="798"/>
+      <point x="43" y="798" type="curve" smooth="yes"/>
+      <point x="80" y="798"/>
+      <point x="135" y="736"/>
+      <point x="185" y="736" type="curve" smooth="yes"/>
+      <point x="235" y="736"/>
+      <point x="270" y="792"/>
+      <point x="286" y="834" type="curve"/>
+      <point x="264" y="842" type="line"/>
+      <point x="252" y="817"/>
+      <point x="234" y="794"/>
+      <point x="208" y="794" type="curve" smooth="yes"/>
+      <point x="171" y="794"/>
+      <point x="116" y="856"/>
+      <point x="66" y="856" type="curve" smooth="yes"/>
+      <point x="16" y="856"/>
+      <point x="-19" y="800"/>
+      <point x="-35" y="758" type="curve"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>b9516f7fa162d07d4198b11a1cf23f0ea4d0f4e889b40fdd1648150fb28bf150e94ec2f0ce9b5af1c97e3c5840315bf88f390848b5b92308ce778a322ad7397d</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 736 58</string>
+          <string>hstem 798 58</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

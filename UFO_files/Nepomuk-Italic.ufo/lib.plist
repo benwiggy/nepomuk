@@ -558,6 +558,63 @@
     <string>f_j.dlig</string>
     <string>tcaron</string>
     <string>Tcaron</string>
+    <string>numero</string>
+    <string>soundcopyright</string>
+    <string>longs_t</string>
+    <string>quotesinglbase</string>
+    <string>quotedblbase</string>
+    <string>ogonek</string>
+    <string>hungarumlaut</string>
+    <string>Aogonek</string>
+    <string>aogonek</string>
+    <string>eogonek</string>
+    <string>Eogonek</string>
+    <string>Iogonek</string>
+    <string>iogonek</string>
+    <string>Ohungarumlaut</string>
+    <string>ohungarumlaut</string>
+    <string>uhungarumlaut</string>
+    <string>commaaccentcomb</string>
+    <string>Uhungarumlaut</string>
+    <string>Uogonek</string>
+    <string>uogonek</string>
+    <string>Hcircumflex</string>
+    <string>hcircumflex</string>
+    <string>Dcaron</string>
+    <string>dcaron</string>
+    <string>Gcommaaccent</string>
+    <string>gcommaaccent</string>
+    <string>Kcommaaccent</string>
+    <string>kcommaaccent</string>
+    <string>Lcommaaccent</string>
+    <string>lcommaaccent</string>
+    <string>Ncommaaccent</string>
+    <string>ncommaaccent</string>
+    <string>Rcommaaccent</string>
+    <string>rcommaaccent</string>
+    <string>Scommaaccent</string>
+    <string>scommaaccent</string>
+    <string>Tcommaaccent</string>
+    <string>tcommaaccent</string>
+    <string>Ldot</string>
+    <string>ldot</string>
+    <string>napostrophe</string>
+    <string>Lcaron</string>
+    <string>lcaron</string>
+    <string>kgreenlandic</string>
+    <string>Lacute</string>
+    <string>lacute</string>
+    <string>Hbar</string>
+    <string>hbar</string>
+    <string>Lslash</string>
+    <string>lslash</string>
+    <string>Tbar</string>
+    <string>tbar</string>
+    <string>Tcedilla</string>
+    <string>tcedilla</string>
+    <string>Ibreve</string>
+    <string>ibreve</string>
+    <string>aeacute</string>
   </array>
 </dict>
 </plist>

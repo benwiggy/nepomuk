@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="percussivebidental" format="2">
+  <advance width="537"/>
+  <unicode hex="02AD"/>
+  <anchor x="274" y="630" name="m.tonos"/>
+  <anchor x="274" y="-50" name="m.uni1DCA"/>
+  <outline>
+    <contour>
+      <point x="144" y="21" type="line"/>
+      <point x="132" y="9"/>
+      <point x="115" y="-6"/>
+      <point x="98" y="-15" type="curve"/>
+      <point x="80" y="1" type="line"/>
+      <point x="80" y="165" type="line"/>
+      <point x="93" y="178"/>
+      <point x="106" y="190"/>
+      <point x="125" y="201" type="curve"/>
+      <point x="442" y="201" type="line"/>
+      <point x="457" y="184" type="line"/>
+      <point x="457" y="21" type="line"/>
+      <point x="445" y="8"/>
+      <point x="431" y="-10"/>
+      <point x="411" y="-15" type="curve"/>
+      <point x="393" y="1" type="line"/>
+      <point x="393" y="137" type="line"/>
+      <point x="144" y="137" type="line"/>
+    </contour>
+    <contour>
+      <point x="144" y="391" type="line"/>
+      <point x="132" y="379"/>
+      <point x="115" y="364"/>
+      <point x="98" y="355" type="curve"/>
+      <point x="80" y="370" type="line"/>
+      <point x="80" y="535" type="line"/>
+      <point x="93" y="547"/>
+      <point x="106" y="561"/>
+      <point x="125" y="570" type="curve"/>
+      <point x="442" y="570" type="line"/>
+      <point x="457" y="553" type="line"/>
+      <point x="457" y="391" type="line"/>
+      <point x="445" y="376"/>
+      <point x="431" y="360"/>
+      <point x="411" y="355" type="curve"/>
+      <point x="393" y="370" type="line"/>
+      <point x="393" y="506" type="line"/>
+      <point x="144" y="506" type="line"/>
+    </contour>
+  </outline>
+</glyph>

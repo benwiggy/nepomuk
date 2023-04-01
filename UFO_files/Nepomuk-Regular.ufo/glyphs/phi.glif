@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="phi" format="2">
+  <advance width="638"/>
+  <unicode hex="03C6"/>
+  <outline>
+    <component base="phi-ipa"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w638</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -159 -21</string>
+          <string>hstem -11 35</string>
+          <string>hstem 428 34</string>
+          <string>vstem 49 88</string>
+          <string>vstem 274 80</string>
+          <string>vstem 501 89</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

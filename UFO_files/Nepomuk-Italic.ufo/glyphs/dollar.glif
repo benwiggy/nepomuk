@@ -55,7 +55,7 @@
       <point x="358" y="387"/>
       <point x="408" y="348"/>
       <point x="449" y="299"/>
-      <point x="475" y="239" name="hr01"/>
+      <point x="475" y="239" name=".hr01"/>
       <point x="475" y="200" type="qcurve" smooth="yes"/>
       <point x="475" y="155"/>
       <point x="436" y="76"/>
@@ -117,7 +117,7 @@
           <string>vstem 42 77</string>
         </array>
         <key>pointTag</key>
-        <string>hr01</string>
+        <string>.hr01</string>
       </dict>
     </array>
   </dict>

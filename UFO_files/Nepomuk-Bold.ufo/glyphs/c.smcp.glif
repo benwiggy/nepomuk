@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="c.smcp" format="2">
   <advance width="519"/>
-  <anchor x="285" y="527" name="t.asciicircum_1"/>
   <anchor x="285" y="541" name="t.dieresis"/>
+  <anchor x="285" y="527" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="478.645" y="153.652" type="line"/>

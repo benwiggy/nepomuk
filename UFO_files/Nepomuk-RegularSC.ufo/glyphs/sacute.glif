@@ -2,7 +2,6 @@
 <glyph name="sacute" format="2">
   <advance width="514"/>
   <unicode hex="015B"/>
-  <anchor x="231" y="556" name="t.asciicircum_1"/>
   <anchor x="231" y="570" name="t.dieresis"/>
   <outline>
     <component base="s"/>

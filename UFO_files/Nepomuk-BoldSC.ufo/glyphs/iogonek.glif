@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iogonek" format="2">
+  <advance width="350"/>
+  <unicode hex="012F"/>
+  <anchor x="177" y="555" name="t.asciicircum_1"/>
+  <anchor x="177" y="569" name="t.dieresis"/>
+  <outline>
+    <contour>
+      <point x="276" y="-90" type="line"/>
+      <point x="245" y="-112"/>
+      <point x="214" y="-126"/>
+      <point x="192" y="-126" type="curve" smooth="yes"/>
+      <point x="164" y="-126"/>
+      <point x="144" y="-108"/>
+      <point x="144" y="-84" type="curve" smooth="yes"/>
+      <point x="144" y="-59"/>
+      <point x="158" y="-37"/>
+      <point x="200" y="2" type="curve"/>
+      <point x="153" y="2" type="line"/>
+      <point x="106" y="-34"/>
+      <point x="85" y="-65"/>
+      <point x="85" y="-103" type="curve" smooth="yes"/>
+      <point x="85" y="-148"/>
+      <point x="120" y="-180"/>
+      <point x="172" y="-180" type="curve" smooth="yes"/>
+      <point x="214" y="-180"/>
+      <point x="248" y="-166"/>
+      <point x="300" y="-123" type="curve"/>
+    </contour>
+    <contour>
+      <point x="230" y="426" type="line" smooth="yes"/>
+      <point x="230" y="455"/>
+      <point x="232" y="459"/>
+      <point x="254" y="459" type="curve" smooth="yes"/>
+      <point x="294" y="459" type="line"/>
+      <point x="294" y="489" type="line"/>
+      <point x="57" y="489" type="line"/>
+      <point x="57" y="459" type="line"/>
+      <point x="96" y="459" type="line" smooth="yes"/>
+      <point x="118" y="459"/>
+      <point x="121" y="455"/>
+      <point x="121" y="426" type="curve" smooth="yes"/>
+      <point x="121" y="64" type="line" smooth="yes"/>
+      <point x="121" y="34"/>
+      <point x="118" y="30"/>
+      <point x="96" y="30" type="curve" smooth="yes"/>
+      <point x="49" y="30" type="line"/>
+      <point x="49" y="0" type="line"/>
+      <point x="302" y="0" type="line"/>
+      <point x="302" y="30" type="line"/>
+      <point x="254" y="30" type="line" smooth="yes"/>
+      <point x="232" y="30"/>
+      <point x="230" y="40"/>
+      <point x="230" y="64" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>iogonek</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>92e75f92160f6e30299767d4a4d3f0b02c98270054718b6975ccf8826cc325746c55d406c73d538dafbc49615257e1c99279161425b58d389aeffae422d15f4d</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -180.07 54.15</string>
+          <string>hstem 3 24.63</string>
+          <string>hstem 461.59 24.63</string>
+          <string>vstem 20.28 59.15</string>
+          <string>vstem 124.33 102.33</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

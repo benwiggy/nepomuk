@@ -2,7 +2,6 @@
 <glyph name="wcircumflex" format="2">
   <advance width="793"/>
   <unicode hex="0175"/>
-  <anchor x="384" y="538" name="t.asciicircum_1"/>
   <anchor x="384" y="560" name="t.dieresis"/>
   <outline>
     <component base="w"/>

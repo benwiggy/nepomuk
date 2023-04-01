@@ -2,7 +2,6 @@
 <glyph name="ecaron" format="2">
   <advance width="499"/>
   <unicode hex="011B"/>
-  <anchor x="260" y="530" name="t.asciicircum_1"/>
   <anchor x="260" y="530" name="t.dieresis"/>
   <outline>
     <component base="e"/>

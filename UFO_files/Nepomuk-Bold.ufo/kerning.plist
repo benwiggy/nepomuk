@@ -475,17 +475,17 @@
     <key>public.kern2.kr_uSC</key>
     <integer>-84</integer>
     <key>public.kern2.kra</key>
-    <integer>-86</integer>
+    <integer>-109</integer>
     <key>public.kern2.kre</key>
-    <integer>-89</integer>
+    <integer>-104</integer>
     <key>public.kern2.kri</key>
     <integer>-13</integer>
     <key>public.kern2.kro</key>
-    <integer>-104</integer>
+    <integer>-131</integer>
     <key>public.kern2.krpunct1</key>
     <integer>-138</integer>
     <key>public.kern2.kru</key>
-    <integer>-22</integer>
+    <integer>-52</integer>
     <key>public.kern2.kry</key>
     <integer>-28</integer>
   </dict>
@@ -555,7 +555,7 @@
     <key>z</key>
     <integer>-35</integer>
     <key>public.kern2.krA</key>
-    <integer>-46</integer>
+    <integer>-103</integer>
     <key>public.kern2.krC</key>
     <integer>-10</integer>
     <key>public.kern2.krO</key>
@@ -569,13 +569,13 @@
     <key>public.kern2.kr_uSC</key>
     <integer>-69</integer>
     <key>public.kern2.kra</key>
-    <integer>-59</integer>
+    <integer>-107</integer>
     <key>public.kern2.kre</key>
-    <integer>-58</integer>
+    <integer>-92</integer>
     <key>public.kern2.kri</key>
     <integer>-12</integer>
     <key>public.kern2.kro</key>
-    <integer>-66</integer>
+    <integer>-109</integer>
     <key>public.kern2.krpunct1</key>
     <integer>-105</integer>
     <key>public.kern2.kru</key>
@@ -855,7 +855,7 @@
   <key>r</key>
   <dict>
     <key>b</key>
-    <integer>-40</integer>
+    <integer>-17</integer>
     <key>t</key>
     <integer>24</integer>
     <key>public.kern2.krpunct1</key>
@@ -946,6 +946,8 @@
     <integer>-127</integer>
     <key>Y</key>
     <integer>-58</integer>
+    <key>b</key>
+    <integer>-27</integer>
     <key>eth</key>
     <integer>-9</integer>
     <key>hyphen</key>
@@ -963,7 +965,7 @@
     <key>w.smcp</key>
     <integer>-102</integer>
     <key>public.kern2.krC</key>
-    <integer>-14</integer>
+    <integer>-38</integer>
     <key>public.kern2.krO</key>
     <integer>-15</integer>
     <key>public.kern2.krW</key>

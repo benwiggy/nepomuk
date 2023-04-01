@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eth.smcp" format="2">
   <advance width="522"/>
-  <unicode hex="00F0"/>
   <outline>
     <contour>
       <point x="264" y="-12" type="curve" smooth="yes"/>
@@ -24,7 +23,7 @@
       <point x="181" y="659"/>
       <point x="154" y="689"/>
       <point x="130" y="712" type="curve"/>
-      <point x="130" y="729" type="line" name="hr01"/>
+      <point x="130" y="729" type="line" name=".hr01"/>
       <point x="253" y="729" type="line"/>
       <point x="301" y="676" type="line"/>
       <point x="399" y="733" type="line"/>
@@ -79,7 +78,7 @@
           <string>vstem 49 131</string>
         </array>
         <key>pointTag</key>
-        <string>hr01</string>
+        <string>.hr01</string>
       </dict>
     </array>
   </dict>

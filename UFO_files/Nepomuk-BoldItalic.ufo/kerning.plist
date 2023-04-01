@@ -261,6 +261,8 @@
     <integer>105</integer>
     <key>k</key>
     <integer>98</integer>
+    <key>parenright</key>
+    <integer>65</integer>
     <key>question</key>
     <integer>112</integer>
     <key>quotedblleft</key>

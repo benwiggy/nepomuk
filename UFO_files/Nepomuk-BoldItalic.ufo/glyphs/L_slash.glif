@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash" format="2">
+  <advance width="607"/>
+  <unicode hex="0141"/>
+  <anchor x="326" y="714" name="t.asciicircum_1"/>
+  <outline>
+    <component base="L"/>
+    <contour>
+      <point x="50" y="302" type="line"/>
+      <point x="29" y="237" type="line"/>
+      <point x="420" y="369" type="line"/>
+      <point x="441" y="434" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>L+~endash</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w607m50,302l29,237l420,369l441,434</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 229 65</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

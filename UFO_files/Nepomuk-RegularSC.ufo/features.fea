@@ -1,9 +1,16 @@
-#> classes
+#/> classes
 #/> otclasses
 @ss01 = [A B C D E F G H I J K L M N O P Q R S T U V W X Y Z];
 @ss012 = [A.alt B.alt C.alt D.alt E.alt F.alt G.alt H.alt I.alt J.alt K.alt L.alt M.alt N.alt O.alt P.alt Q.alt R.alt S.alt T.alt U.alt V.alt W.alt X.alt Y.alt Z.alt];
 #/< otclasses
-#< classes
+#/< classes
+
+#/> classes
+#/> otclasses
+@ss01 = [A B C D E F G H I J K L M N O P Q R S T U V W X Y Z];
+@ss012 = [A.alt B.alt C.alt D.alt E.alt F.alt G.alt H.alt I.alt J.alt K.alt L.alt M.alt N.alt O.alt P.alt Q.alt R.alt S.alt T.alt U.alt V.alt W.alt X.alt Y.alt Z.alt];
+#/< otclasses
+#/< classes
 
 ###
 # OpenType Layout feature definitions
@@ -163,6 +170,7 @@ feature smcp {
   sub obreve by obreve.smcp;
   sub ocircumflex by ocircumflex.smcp;
   sub odieresis by odieresis.smcp;
+  sub oe by oe.smcp;
   sub ograve by ograve.smcp;
   sub omacron by omacron.smcp;
   sub oslash by oslash.smcp;
@@ -179,6 +187,7 @@ feature smcp {
   sub scaron by scaron.smcp;
   sub scircumflex by scircumflex.smcp;
   sub t by t.smcp;
+  sub tcaron by tcaron.smcp;
   sub thorn by thorn.smcp;
   sub tilde by tilde.smcp;
   sub u by u.smcp;
@@ -223,6 +232,7 @@ feature liga {
   sub dollar s.smcp by uni266F;
   sub dollar v.smcp by uni2123;
   sub dollar r.smcp by uni211F;
+  sub N ordmasculine by numero;
 
 } liga;
 
@@ -397,22 +407,23 @@ feature mark {
 
 
 feature kern {
-  @_krA = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde];
+#> feature
+  @_krA = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde];
   @_krC = [C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent];
-  @_kra = [a.smcp aacute.smcp abreve.smcp acircumflex.smcp adieresis.smcp agrave.smcp amacron.smcp aring.smcp atilde.smcp];
-  @_krO = [O Oacute Obreve Ocircumflex Odieresis Ograve Omacron Oslash Otilde];
+  @_kra = [a.smcp aacute.smcp abreve.smcp acircumflex.smcp adieresis.smcp agrave.smcp amacron.smcp aogonek.smcp aring.smcp atilde.smcp];
+  @_krO = [O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde];
   @_kry = [y.smcp yacute.smcp ycircumflex.smcp ydieresis.smcp ygrave.smcp];
   @_krpunct1 = [comma period];
-  @_kr_aSC = [a aacute acircumflex adieresis agrave aring atilde];
-  @_kr_oSC = [o oacute obreve ocircumflex odieresis ograve omacron oslash otilde];
-  @_kr_uSC = [u uacute ubreve ucircumflex udieresis ugrave umacron uring utilde];
+  @_kr_aSC = [a aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde];
+  @_kr_oSC = [o oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde];
+  @_kr_uSC = [u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uring utilde];
   @_krW = [W Wacute Wcircumflex Wdieresis Wgrave];
-  @_kri = [dotlessi.smcp i.smcp iacute.smcp icircumflex.smcp idieresis.smcp igrave.smcp imacron.smcp itilde.smcp];
-  @_kr_iSC = [i iacute icircumflex idieresis igrave imacron itilde];
-  @_kro = [o.smcp oacute.smcp obreve.smcp ocircumflex.smcp odieresis.smcp ograve.smcp omacron.smcp oslash.smcp otilde.smcp];
+  @_kri = [dotlessi.smcp i.smcp iacute.smcp icircumflex.smcp idieresis.smcp igrave.smcp imacron.smcp iogonek.smcp itilde.smcp];
+  @_kr_iSC = [i iacute icircumflex idieresis igrave imacron iogonek itilde];
+  @_kro = [o.smcp oacute.smcp obreve.smcp ocircumflex.smcp odieresis.smcp ograve.smcp ohungarumlaut.smcp omacron.smcp oslash.smcp otilde.smcp];
   @_kr_ySC = [y yacute ycircumflex ydieresis];
-  @_kre = [e.smcp eacute.smcp ebreve.smcp ecaron.smcp ecircumflex.smcp edieresis.smcp edotaccent.smcp egrave.smcp emacron.smcp];
-  @_kr_eSC = [e eacute ebreve ecaron ecircumflex edieresis edotaccent egrave emacron];
+  @_kre = [e.smcp eacute.smcp ebreve.smcp ecaron.smcp ecircumflex.smcp edieresis.smcp edotaccent.smcp egrave.smcp emacron.smcp eogonek.smcp];
+  @_kr_eSC = [e eacute ebreve ecaron ecircumflex edieresis edotaccent egrave emacron eogonek];
 
   lookup KERN_LTR  {
   lookupflag IgnoreMarks;
@@ -425,6 +436,7 @@ feature kern {
     pos quotesingle Adieresis -117;
     pos quotesingle Amacron -117;
     pos quotesingle Abreve -117;
+    pos quotesingle Aogonek -117;
     pos comma T -61;
     pos comma V -132;
     pos comma Y -117;
@@ -447,6 +459,7 @@ feature kern {
     pos hyphen Wgrave -66;
     pos hyphen Wacute -66;
     pos hyphen Wdieresis -66;
+    pos hyphen Aogonek -34;
     pos period T -61;
     pos period V -132;
     pos period Y -117;
@@ -499,7 +512,13 @@ feature kern {
     pos B agrave -40;
     pos B acircumflex -40;
     pos B atilde -40;
+    pos B amacron -40;
+    pos B abreve -40;
     pos B aring -40;
+    pos B aogonek -40;
+    pos B uhungarumlaut.smcp -31;
+    pos B aogonek.smcp -17;
+    pos B eogonek.smcp -11;
     pos D comma -11;
     pos D period -11;
     pos D A -13;
@@ -520,8 +539,12 @@ feature kern {
     pos D agrave -82;
     pos D acircumflex -82;
     pos D atilde -82;
+    pos D amacron -82;
+    pos D abreve -82;
     pos D ae -131;
     pos D aring -82;
+    pos D Aogonek -13;
+    pos D aogonek -82;
     pos F comma -111;
     pos F hyphen -39;
     pos F period -111;
@@ -577,6 +600,8 @@ feature kern {
     pos F agrave -119;
     pos F acircumflex -119;
     pos F atilde -119;
+    pos F amacron -119;
+    pos F abreve -119;
     pos F igrave -36;
     pos F iacute -36;
     pos F icircumflex -36;
@@ -593,6 +618,13 @@ feature kern {
     pos F ae -147;
     pos F oslash -54;
     pos F aring -119;
+    pos F Aogonek -87;
+    pos F aogonek -119;
+    pos F iogonek -36;
+    pos F ohungarumlaut -54;
+    pos F ohungarumlaut.smcp -42;
+    pos F aogonek.smcp -12;
+    pos F eogonek.smcp -18;
     pos G A -8;
     pos G Aring -8;
     pos G AE -19;
@@ -609,7 +641,11 @@ feature kern {
     pos G agrave -44;
     pos G acircumflex -44;
     pos G atilde -44;
+    pos G amacron -44;
+    pos G abreve -44;
     pos G aring -44;
+    pos G Aogonek -8;
+    pos G aogonek -44;
     pos H t.smcp -7;
     pos H u.smcp -9;
     pos H v.smcp -51;
@@ -645,6 +681,9 @@ feature kern {
     pos H oslash -33;
     pos H uring -56;
     pos H ygrave.smcp -52;
+    pos H ohungarumlaut -33;
+    pos H uhungarumlaut -56;
+    pos H uhungarumlaut.smcp -9;
     pos I o -18;
     pos I u -26;
     pos I ograve -18;
@@ -664,6 +703,8 @@ feature kern {
     pos I ae -12;
     pos I oslash -18;
     pos I uring -26;
+    pos I ohungarumlaut -18;
+    pos I uhungarumlaut -26;
     pos J comma -20;
     pos J period -20;
     pos J a.smcp -6;
@@ -683,6 +724,8 @@ feature kern {
     pos J agrave -74;
     pos J acircumflex -74;
     pos J atilde -74;
+    pos J amacron -74;
+    pos J abreve -74;
     pos J ograve -20;
     pos J oacute -20;
     pos J ocircumflex -20;
@@ -692,6 +735,9 @@ feature kern {
     pos J obreve -20;
     pos J oslash -20;
     pos J aring -74;
+    pos J aogonek -74;
+    pos J ohungarumlaut -20;
+    pos J aogonek.smcp -6;
     pos K hyphen -56;
     pos K C -12;
     pos K G -12;
@@ -725,6 +771,8 @@ feature kern {
     pos K obreve -18;
     pos K oslash -18;
     pos K ygrave.smcp -47;
+    pos K Ohungarumlaut -12;
+    pos K ohungarumlaut -18;
     pos L quotesingle -46;
     pos L T -12;
     pos L V -60;
@@ -752,6 +800,8 @@ feature kern {
     pos M omacron -48;
     pos M obreve -48;
     pos M oslash -48;
+    pos M ohungarumlaut -48;
+    pos M iogonek.smcp -10;
     pos N a.smcp -45;
     pos N c.smcp -33;
     pos N d.smcp -38;
@@ -827,6 +877,8 @@ feature kern {
     pos N agrave -84;
     pos N acircumflex -84;
     pos N atilde -84;
+    pos N amacron -84;
+    pos N abreve -84;
     pos N igrave -46;
     pos N iacute -46;
     pos N icircumflex -46;
@@ -851,6 +903,15 @@ feature kern {
     pos N aring -84;
     pos N uring -43;
     pos N ygrave.smcp -7;
+    pos N aogonek -84;
+    pos N iogonek -46;
+    pos N ohungarumlaut -46;
+    pos N uhungarumlaut -43;
+    pos N iogonek.smcp -7;
+    pos N ohungarumlaut.smcp -33;
+    pos N uhungarumlaut.smcp -8;
+    pos N aogonek.smcp -45;
+    pos N eogonek.smcp -33;
     pos O V -9;
     pos O X -15;
     pos O Y -9;
@@ -904,6 +965,8 @@ feature kern {
     pos P agrave -143;
     pos P acircumflex -143;
     pos P atilde -143;
+    pos P amacron -143;
+    pos P abreve -143;
     pos P ograve -61;
     pos P oacute -61;
     pos P ocircumflex -61;
@@ -913,6 +976,12 @@ feature kern {
     pos P obreve -61;
     pos P oslash -61;
     pos P aring -143;
+    pos P Aogonek -76;
+    pos P aogonek -143;
+    pos P ohungarumlaut -61;
+    pos P ohungarumlaut.smcp -56;
+    pos P aogonek.smcp -10;
+    pos P eogonek.smcp -16;
     pos Q comma -39;
     pos Q period -39;
     pos Q A -11;
@@ -924,6 +993,7 @@ feature kern {
     pos Q Adieresis -11;
     pos Q Amacron -11;
     pos Q Abreve -11;
+    pos Q Aogonek -11;
     pos R hyphen -21;
     pos R T -23;
     pos R V -33;
@@ -948,8 +1018,11 @@ feature kern {
     pos S agrave -63;
     pos S acircumflex -63;
     pos S atilde -63;
+    pos S amacron -63;
+    pos S abreve -63;
     pos S ae -106;
     pos S aring -63;
+    pos S aogonek -63;
     pos T comma -60;
     pos T hyphen -14;
     pos T period -60;
@@ -979,7 +1052,12 @@ feature kern {
     pos T agrave -76;
     pos T acircumflex -76;
     pos T atilde -76;
+    pos T amacron -76;
+    pos T abreve -76;
     pos T aring -76;
+    pos T Aogonek -22;
+    pos T aogonek -76;
+    pos T ohungarumlaut.smcp -16;
     pos U comma -34;
     pos U period -34;
     pos U A -28;
@@ -1034,6 +1112,8 @@ feature kern {
     pos U agrave -108;
     pos U acircumflex -108;
     pos U atilde -108;
+    pos U amacron -108;
+    pos U abreve -108;
     pos U ograve -54;
     pos U oacute -54;
     pos U ocircumflex -54;
@@ -1043,6 +1123,12 @@ feature kern {
     pos U obreve -54;
     pos U oslash -54;
     pos U aring -108;
+    pos U Aogonek -28;
+    pos U aogonek -108;
+    pos U ohungarumlaut -54;
+    pos U ohungarumlaut.smcp -15;
+    pos U aogonek.smcp -19;
+    pos U eogonek.smcp -14;
     pos V comma -140;
     pos V hyphen -86;
     pos V period -140;
@@ -1143,6 +1229,8 @@ feature kern {
     pos V agrave -224;
     pos V acircumflex -224;
     pos V atilde -224;
+    pos V amacron -224;
+    pos V abreve -224;
     pos V eacute -69;
     pos V ecircumflex -69;
     pos V edieresis -69;
@@ -1175,6 +1263,17 @@ feature kern {
     pos V uring -84;
     pos V ecaron -69;
     pos V ygrave.smcp -19;
+    pos V Aogonek -182;
+    pos V aogonek -224;
+    pos V eogonek -69;
+    pos V iogonek -89;
+    pos V Ohungarumlaut -40;
+    pos V ohungarumlaut -104;
+    pos V uhungarumlaut -84;
+    pos V ohungarumlaut.smcp -95;
+    pos V uhungarumlaut.smcp -7;
+    pos V aogonek.smcp -72;
+    pos V eogonek.smcp -79;
     pos W hyphen -70;
     pos W colon -44;
     pos W semicolon -67;
@@ -1230,6 +1329,9 @@ feature kern {
     pos X oslash -33;
     pos X uring -41;
     pos X ygrave.smcp -51;
+    pos X Ohungarumlaut -15;
+    pos X ohungarumlaut -33;
+    pos X uhungarumlaut -41;
     pos Y comma -94;
     pos Y hyphen -57;
     pos Y period -94;
@@ -1327,6 +1429,8 @@ feature kern {
     pos Y agrave -114;
     pos Y acircumflex -114;
     pos Y atilde -114;
+    pos Y amacron -114;
+    pos Y abreve -114;
     pos Y eacute -59;
     pos Y ecircumflex -59;
     pos Y edieresis -59;
@@ -1353,6 +1457,17 @@ feature kern {
     pos Y uring -69;
     pos Y ecaron -59;
     pos Y ygrave.smcp -19;
+    pos Y Aogonek -35;
+    pos Y aogonek -114;
+    pos Y eogonek -59;
+    pos Y Ohungarumlaut -18;
+    pos Y ohungarumlaut -89;
+    pos Y uhungarumlaut -69;
+    pos Y iogonek.smcp -7;
+    pos Y ohungarumlaut.smcp -57;
+    pos Y uhungarumlaut.smcp -7;
+    pos Y aogonek.smcp -49;
+    pos Y eogonek.smcp -48;
     pos a.smcp quotesingle -37;
     pos a.smcp v.smcp -19;
     pos a.smcp w.smcp -23;
@@ -1398,6 +1513,9 @@ feature kern {
     pos f.smcp ebreve.smcp -19;
     pos f.smcp obreve.smcp -19;
     pos f.smcp edotaccent.smcp -19;
+    pos f.smcp ohungarumlaut.smcp -19;
+    pos f.smcp aogonek.smcp -8;
+    pos f.smcp eogonek.smcp -19;
     pos g.smcp comma -44;
     pos g.smcp period -44;
     pos g.smcp o.smcp -28;
@@ -1409,6 +1527,7 @@ feature kern {
     pos g.smcp otilde.smcp -28;
     pos g.smcp omacron.smcp -28;
     pos g.smcp obreve.smcp -28;
+    pos g.smcp ohungarumlaut.smcp -28;
     pos h.smcp quotesingle -26;
     pos h.smcp t.smcp -7;
     pos h.smcp u.smcp -9;
@@ -1427,6 +1546,7 @@ feature kern {
     pos h.smcp ubreve.smcp -9;
     pos h.smcp uring.smcp -9;
     pos h.smcp ygrave.smcp -8;
+    pos h.smcp uhungarumlaut.smcp -9;
     pos j.smcp a.smcp -23;
     pos j.smcp s.smcp -9;
     pos j.smcp z.smcp -11;
@@ -1439,6 +1559,7 @@ feature kern {
     pos j.smcp aring.smcp -23;
     pos j.smcp amacron.smcp -23;
     pos j.smcp abreve.smcp -23;
+    pos j.smcp aogonek.smcp -23;
     pos k.smcp hyphen -39;
     pos m.smcp quotesingle -29;
     pos m.smcp t.smcp -9;
@@ -1459,6 +1580,7 @@ feature kern {
     pos m.smcp ubreve.smcp -11;
     pos m.smcp uring.smcp -11;
     pos m.smcp ygrave.smcp -10;
+    pos m.smcp uhungarumlaut.smcp -11;
     pos n.smcp quotesingle -29;
     pos n.smcp u.smcp -11;
     pos n.smcp v.smcp -10;
@@ -1477,6 +1599,7 @@ feature kern {
     pos n.smcp ubreve.smcp -11;
     pos n.smcp uring.smcp -11;
     pos n.smcp ygrave.smcp -10;
+    pos n.smcp uhungarumlaut.smcp -11;
     pos o.smcp quotesingle -20;
     pos o.smcp j.smcp -8;
     pos o.smcp w.smcp -8;
@@ -1508,6 +1631,8 @@ feature kern {
     pos v.smcp ebreve.smcp -8;
     pos v.smcp obreve.smcp -29;
     pos v.smcp edotaccent.smcp -8;
+    pos v.smcp ohungarumlaut.smcp -29;
+    pos v.smcp eogonek.smcp -8;
     pos w.smcp comma -40;
     pos w.smcp hyphen -6;
     pos w.smcp period -40;
@@ -1531,6 +1656,8 @@ feature kern {
     pos w.smcp ebreve.smcp -8;
     pos w.smcp obreve.smcp -22;
     pos w.smcp edotaccent.smcp -8;
+    pos w.smcp ohungarumlaut.smcp -22;
+    pos w.smcp eogonek.smcp -8;
     pos x.smcp hyphen -48;
     pos y.smcp hyphen -15;
     pos y.smcp g.smcp -17;
@@ -1611,6 +1738,11 @@ feature kern {
     pos quoteleft Obreve -28;
     pos quoteleft obreve.smcp -95;
     pos quoteleft edotaccent.smcp -26;
+    pos quoteleft Aogonek -130;
+    pos quoteleft Ohungarumlaut -28;
+    pos quoteleft ohungarumlaut.smcp -95;
+    pos quoteleft aogonek.smcp -17;
+    pos quoteleft eogonek.smcp -26;
     pos quotesinglbase T -46;
     pos quotesinglbase U -23;
     pos quotesinglbase V -128;
@@ -1641,6 +1773,7 @@ feature kern {
     pos Eth Adieresis -8;
     pos Eth Amacron -8;
     pos Eth Abreve -8;
+    pos Eth Aogonek -8;
     pos eth.smcp a.smcp -14;
     pos eth.smcp j.smcp -8;
     pos eth.smcp aacute.smcp -14;
@@ -1651,6 +1784,7 @@ feature kern {
     pos eth.smcp aring.smcp -14;
     pos eth.smcp amacron.smcp -14;
     pos eth.smcp abreve.smcp -14;
+    pos eth.smcp aogonek.smcp -14;
     pos Aacute quotesingle -93;
     pos Aacute hyphen -19;
     pos Aacute G -8;
@@ -1802,6 +1936,10 @@ feature kern {
     pos longs ubreve.smcp -20;
     pos longs edotaccent.smcp -50;
     pos longs uring.smcp -20;
+    pos longs ohungarumlaut.smcp -62;
+    pos longs uhungarumlaut.smcp -20;
+    pos longs aogonek.smcp -76;
+    pos longs eogonek.smcp -50;
     pos Amacron quotesingle -93;
     pos Amacron hyphen -19;
     pos Amacron G -8;
@@ -1915,23 +2053,32 @@ feature kern {
     pos d agrave -56;
     pos d acircumflex -56;
     pos d atilde -56;
+    pos d amacron -56;
+    pos d abreve -56;
     pos d ae -106;
     pos d aring -56;
+    pos d aogonek -56;
     pos f a -58;
     pos f adieresis -58;
     pos f aacute -58;
     pos f agrave -58;
     pos f acircumflex -58;
     pos f atilde -58;
+    pos f amacron -58;
+    pos f abreve -58;
     pos f ae -133;
     pos f aring -58;
+    pos f aogonek -58;
     pos g a -24;
     pos g adieresis -24;
     pos g aacute -24;
     pos g agrave -24;
     pos g acircumflex -24;
     pos g atilde -24;
+    pos g amacron -24;
+    pos g abreve -24;
     pos g aring -24;
+    pos g aogonek -24;
     pos i v -20;
     pos n a -51;
     pos n adieresis -51;
@@ -1939,8 +2086,11 @@ feature kern {
     pos n agrave -51;
     pos n acircumflex -51;
     pos n atilde -51;
+    pos n amacron -51;
+    pos n abreve -51;
     pos n ae -82;
     pos n aring -51;
+    pos n aogonek -51;
     pos o v -59;
     pos p a -70;
     pos p adieresis -70;
@@ -1948,40 +2098,55 @@ feature kern {
     pos p agrave -70;
     pos p acircumflex -70;
     pos p atilde -70;
+    pos p amacron -70;
+    pos p abreve -70;
     pos p ae -171;
     pos p aring -70;
+    pos p aogonek -70;
     pos s a -44;
     pos s adieresis -44;
     pos s aacute -44;
     pos s agrave -44;
     pos s acircumflex -44;
     pos s atilde -44;
+    pos s amacron -44;
+    pos s abreve -44;
     pos s ae -86;
     pos s aring -44;
+    pos s aogonek -44;
     pos t a -64;
     pos t adieresis -64;
     pos t aacute -64;
     pos t agrave -64;
     pos t acircumflex -64;
     pos t atilde -64;
+    pos t amacron -64;
+    pos t abreve -64;
     pos t ae -116;
     pos t aring -64;
+    pos t aogonek -64;
     pos v a -164;
     pos v adieresis -164;
     pos v aacute -164;
     pos v agrave -164;
     pos v acircumflex -164;
     pos v atilde -164;
+    pos v amacron -164;
+    pos v abreve -164;
     pos v ae -227;
     pos v aring -164;
+    pos v aogonek -164;
     pos w a -160;
     pos w adieresis -160;
     pos w aacute -160;
     pos w agrave -160;
     pos w acircumflex -160;
     pos w atilde -160;
+    pos w amacron -160;
+    pos w abreve -160;
     pos w ae -173;
     pos w aring -160;
+    pos w aogonek -160;
     pos y ae -123;
     pos adieresis c -30;
     pos adieresis g -42;
@@ -2008,6 +2173,16 @@ feature kern {
     pos atilde t -46;
     pos atilde v -136;
     pos atilde w -104;
+    pos amacron c -30;
+    pos amacron g -42;
+    pos amacron t -46;
+    pos amacron v -136;
+    pos amacron w -104;
+    pos abreve c -30;
+    pos abreve g -42;
+    pos abreve t -46;
+    pos abreve v -136;
+    pos abreve w -104;
     pos igrave v -20;
     pos iacute v -20;
     pos icircumflex v -20;
@@ -2032,6 +2207,35 @@ feature kern {
     pos aring w -104;
     pos ygrave.smcp hyphen -15;
     pos ygrave.smcp g.smcp -17;
+    pos Aogonek quotesingle -93;
+    pos Aogonek hyphen -19;
+    pos Aogonek G -8;
+    pos Aogonek T -27;
+    pos Aogonek U -24;
+    pos Aogonek V -155;
+    pos Aogonek Y -105;
+    pos Aogonek v.smcp -52;
+    pos Aogonek w.smcp -53;
+    pos Aogonek quoteright -70;
+    pos Aogonek v -86;
+    pos Aogonek w -102;
+    pos aogonek c -30;
+    pos aogonek g -42;
+    pos aogonek t -46;
+    pos aogonek v -136;
+    pos aogonek w -104;
+    pos iogonek v -20;
+    pos Ohungarumlaut V -9;
+    pos Ohungarumlaut X -15;
+    pos Ohungarumlaut Y -9;
+    pos ohungarumlaut v -59;
+    pos ohungarumlaut.smcp quotesingle -20;
+    pos ohungarumlaut.smcp j.smcp -8;
+    pos ohungarumlaut.smcp w.smcp -8;
+    pos aogonek.smcp quotesingle -37;
+    pos aogonek.smcp v.smcp -19;
+    pos aogonek.smcp w.smcp -23;
+    pos aogonek.smcp quoteright -18;
   subtable;
     pos @_krA @_krC -8;
     pos @_krA @_krO -8;
@@ -2071,4 +2275,5 @@ feature kern {
   } KERN_LTR;
 
   lookup KERN_LTR;
+#< feature
 } kern;

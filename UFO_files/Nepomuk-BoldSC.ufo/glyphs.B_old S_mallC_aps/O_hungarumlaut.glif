@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohungarumlaut" format="2">
+  <advance width="683"/>
+  <anchor x="349" y="750" name="t.dieresis"/>
+  <outline>
+    <component base="O"/>
+    <component base="hungarumlaut" xOffset="174" yOffset="198"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>O+hungarumlaut</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w683</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -12 32</string>
+          <string>hstem 660 32</string>
+          <string>hstem 799 -21</string>
+          <string>hstem 918 -20</string>
+          <string>vstem 48.48 148.47</string>
+          <string>vstem 500.96 148.47</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nacute.smcp" format="2">
   <advance width="555"/>
-  <anchor x="268" y="520" name="t.asciicircum_1"/>
   <outline>
     <component base="n.smcp"/>
     <component base="acute" xOffset="162" yOffset="-10"/>

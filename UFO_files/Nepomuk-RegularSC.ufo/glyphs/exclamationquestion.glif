@@ -19,7 +19,7 @@
     </contour>
     <contour>
       <point x="184" y="216" type="line"/>
-      <point x="184" y="378" name="hr01"/>
+      <point x="184" y="378" name=".hr01"/>
       <point x="206" y="479"/>
       <point x="227" y="580" type="curve" smooth="yes"/>
       <point x="230" y="594"/>
@@ -71,7 +71,7 @@
     <contour>
       <point x="394" y="55" type="curve" smooth="yes"/>
       <point x="394" y="21"/>
-      <point x="422" y="-7" name="hr06"/>
+      <point x="422" y="-7" name=".hr06"/>
       <point x="456" y="-7" type="curve" smooth="yes"/>
       <point x="490" y="-7"/>
       <point x="518" y="21"/>
@@ -111,7 +111,7 @@
           <string>vstem 355 189</string>
         </array>
         <key>pointTag</key>
-        <string>hr01</string>
+        <string>.hr01</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -122,7 +122,7 @@
           <string>vstem 355 189</string>
         </array>
         <key>pointTag</key>
-        <string>._.105553214356320</string>
+        <string>._.105553248640992</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -133,7 +133,7 @@
           <string>hstem 692 -20</string>
         </array>
         <key>pointTag</key>
-        <string>._.105553214355280</string>
+        <string>._.105553248641952</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -145,7 +145,7 @@
           <string>vstem 282 73</string>
         </array>
         <key>pointTag</key>
-        <string>._.105553214353760</string>
+        <string>._.105553248643952</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -157,7 +157,7 @@
           <string>vstem 100 132</string>
         </array>
         <key>pointTag</key>
-        <string>._.105553214347600</string>
+        <string>._.105553248644432</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -170,7 +170,7 @@
           <string>vstem 282 73</string>
         </array>
         <key>pointTag</key>
-        <string>hr06</string>
+        <string>.hr06</string>
       </dict>
     </array>
   </dict>

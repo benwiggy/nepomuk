@@ -2,7 +2,6 @@
 <glyph name="obreve" format="2">
   <advance width="488"/>
   <unicode hex="014F"/>
-  <anchor x="244" y="530" name="t.asciicircum_1"/>
   <anchor x="244" y="530" name="t.dieresis"/>
   <outline>
     <component base="o"/>

@@ -2,8 +2,8 @@
 <glyph name="E" format="2">
   <advance width="664"/>
   <unicode hex="0045"/>
-  <anchor x="356" y="730" name="t.asciicircum_1"/>
   <anchor x="356" y="750" name="t.dieresis"/>
+  <anchor x="356" y="730" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="48.48" y="680" type="line"/>
@@ -47,7 +47,7 @@
       <point x="369.66" y="644" type="line" smooth="yes"/>
       <point x="488.84" y="644"/>
       <point x="525.2" y="576"/>
-      <point x="542.37" y="449" type="curve" name="hr01"/>
+      <point x="542.37" y="449" type="curve" name=".hr01"/>
       <point x="600.95" y="449" type="line"/>
       <point x="600.95" y="680" type="line"/>
     </contour>
@@ -80,7 +80,7 @@
           <string>hstem 326 36</string>
         </array>
         <key>pointTag</key>
-        <string>hr01</string>
+        <string>.hr01</string>
       </dict>
     </array>
   </dict>

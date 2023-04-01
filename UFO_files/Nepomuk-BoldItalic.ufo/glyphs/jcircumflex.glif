@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jcircumflex" format="2">
+  <advance width="389"/>
+  <unicode hex="0135"/>
+  <outline>
+    <component base="dotlessj"/>
+    <component base="circumflex" xOffset="12" yOffset="-22"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessj+circumflex</string>
+  </dict>
+  </lib>
+</glyph>

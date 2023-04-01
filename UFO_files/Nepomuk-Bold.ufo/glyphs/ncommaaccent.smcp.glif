@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ncommaaccent.smcp" format="2">
+  <advance width="620"/>
+  <anchor x="321" y="545" name="t.asciicircum_1"/>
+  <outline>
+    <component base="n.smcp"/>
+    <component base="commaaccentcomb.smcp" xOffset="186"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>n.smcp+~uni0326.smcp</string>
+  </dict>
+  </lib>
+</glyph>

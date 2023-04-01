@@ -2,8 +2,8 @@
 <glyph name="Oslash" format="2">
   <advance width="645"/>
   <unicode hex="00D8"/>
-  <anchor x="323" y="730" name="t.asciicircum_1"/>
   <anchor x="323" y="750" name="t.dieresis"/>
+  <anchor x="323" y="730" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="40" y="340" type="curve" smooth="yes"/>
