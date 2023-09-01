@@ -5,7 +5,7 @@
   <anchor x="395" y="750" name="t.dieresis"/>
   <anchor x="395" y="730" name="t.asciicircum_1"/>
   <outline>
-    <component base="U"/>
+    <component base="U" xOffset="664"/>
     <component base="ogonek" xOffset="320"/>
   </outline>
   <lib>

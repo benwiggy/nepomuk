@@ -42,7 +42,7 @@
       <point x="244" y="404"/>
       <point x="228" y="364"/>
       <point x="203" y="364" type="curve" smooth="yes"/>
-      <point x="178" y="364" name=".hr01"/>
+      <point x="178" y="364"/>
       <point x="162" y="404"/>
     </contour>
     <contour>
@@ -79,42 +79,17 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 435 117</string>
-          <string>hstem 317 26</string>
-          <string>vstem 634 117</string>
           <string>hstem -12 26</string>
-          <string>vstem 45 117</string>
-          <string>hstem 667 26</string>
-          <string>vstem 244 117</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 338 26</string>
-          <string>vstem 45 117</string>
-          <string>vstem 244 117</string>
-          <string>hstem 667 26</string>
-          <string>hstem -12 26</string>
-          <string>vstem 435 117</string>
-          <string>vstem 634 117</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 680 -20</string>
           <string>hstem 21 -21</string>
           <string>hstem 317 26</string>
+          <string>hstem 338 26</string>
+          <string>hstem 667 26</string>
+          <string>hstem 680 -20</string>
           <string>vstem 45 117</string>
           <string>vstem 244 117</string>
           <string>vstem 435 117</string>
           <string>vstem 634 117</string>
         </array>
-        <key>pointTag</key>
-        <string>lsb</string>
       </dict>
     </array>
   </dict>

@@ -4,4 +4,28 @@
   <outline>
     <component base="cedilla"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w233</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -239 27</string>
+          <string>hstem -239 251</string>
+          <string>hstem -239 169</string>
+          <string>vstem 72 62</string>
+          <string>vstem 146 102</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

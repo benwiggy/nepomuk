@@ -4,48 +4,46 @@
   <unicode hex="0066"/>
   <outline>
     <contour>
-      <point x="302" y="458" type="line" smooth="yes"/>
-      <point x="396" y="458"/>
-      <point x="423" y="410"/>
-      <point x="437" y="320" type="curve"/>
-      <point x="490" y="320" type="line"/>
-      <point x="490" y="489" type="line"/>
-      <point x="40" y="489" type="line"/>
-      <point x="40" y="458" type="line"/>
-      <point x="79" y="458" type="line" smooth="yes"/>
-      <point x="101" y="458"/>
-      <point x="105" y="455"/>
-      <point x="105" y="426" type="curve" smooth="yes"/>
-      <point x="105" y="63" type="line" smooth="yes"/>
-      <point x="105" y="35"/>
-      <point x="101" y="31"/>
-      <point x="79" y="31" type="curve" smooth="yes"/>
-      <point x="40" y="31" type="line"/>
-      <point x="40" y="0" type="line"/>
-      <point x="302" y="0" type="line"/>
-      <point x="302" y="31" type="line"/>
-      <point x="238" y="31" type="line" smooth="yes"/>
-      <point x="215" y="31"/>
-      <point x="212" y="35"/>
-      <point x="212" y="63" type="curve" smooth="yes"/>
-      <point x="212" y="239" type="line"/>
-      <point x="196" y="239" type="line"/>
-      <point x="196" y="233" type="line"/>
-      <point x="256" y="233" type="line" smooth="yes"/>
-      <point x="292" y="233"/>
-      <point x="315" y="192"/>
-      <point x="322" y="128" type="curve"/>
-      <point x="372" y="128" type="line"/>
-      <point x="372" y="366" type="line"/>
-      <point x="322" y="366" type="line"/>
-      <point x="315" y="303"/>
-      <point x="294" y="263"/>
-      <point x="256" y="263" type="curve" smooth="yes"/>
-      <point x="212" y="263" type="line"/>
-      <point x="212" y="432" type="line" smooth="yes"/>
-      <point x="212" y="447"/>
-      <point x="233" y="458"/>
-      <point x="249" y="458" type="curve" smooth="yes"/>
+      <point x="298" y="434" type="line"/>
+      <point x="373" y="432"/>
+      <point x="402" y="387"/>
+      <point x="416" y="303" type="curve"/>
+      <point x="487" y="303" type="line"/>
+      <point x="487" y="486" type="line"/>
+      <point x="38" y="486" type="line"/>
+      <point x="38" y="434" type="line"/>
+      <point x="87" y="434" type="line" smooth="yes"/>
+      <point x="97" y="434"/>
+      <point x="99" y="432"/>
+      <point x="99" y="416" type="curve" smooth="yes"/>
+      <point x="99" y="72" type="line" smooth="yes"/>
+      <point x="99" y="56"/>
+      <point x="97" y="53"/>
+      <point x="87" y="53" type="curve" smooth="yes"/>
+      <point x="38" y="53" type="line"/>
+      <point x="38" y="0" type="line"/>
+      <point x="310" y="0" type="line"/>
+      <point x="310" y="53" type="line"/>
+      <point x="237" y="53" type="line" smooth="yes"/>
+      <point x="226" y="53"/>
+      <point x="225" y="56"/>
+      <point x="225" y="72" type="curve" smooth="yes"/>
+      <point x="225" y="221" type="line"/>
+      <point x="254" y="221" type="line" smooth="yes"/>
+      <point x="281" y="221"/>
+      <point x="299" y="181"/>
+      <point x="306" y="122" type="curve"/>
+      <point x="376" y="122" type="line"/>
+      <point x="376" y="371" type="line"/>
+      <point x="306" y="371" type="line"/>
+      <point x="299" y="311"/>
+      <point x="283" y="273"/>
+      <point x="254" y="273" type="curve" smooth="yes"/>
+      <point x="225" y="273" type="line"/>
+      <point x="225" y="422" type="line" smooth="yes"/>
+      <point x="225" y="429"/>
+      <point x="238" y="434"/>
+      <point x="247" y="434" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -55,16 +53,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>ad57b6016bcacf58d19d2650772d62aa20e10085303f9b28c5e7b8e4270e5865a4b734fc974f99ac7a5974acdb6dfcabf18636efeff0bba06570d08b2c25f9bd</string>
+    <string>933a4086e89074056b9691126dc7af703539d2aabc91de7b0bf2aafd13d9a2e7feeff9af315699220a6830ea996dcd67a6c0b211d6be876eddbcbc8e71bc2679</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -7.5 497.5</string>
           <string>hstem 0 25</string>
           <string>hstem 236 25</string>
           <string>hstem 324 166</string>
-          <string>hstem 464 26</string>
           <string>vstem 106 103</string>
         </array>
       </dict>

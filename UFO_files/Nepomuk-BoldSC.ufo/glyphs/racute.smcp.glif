@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="racute.smcp" format="2">
-  <advance width="416"/>
+  <advance width="418"/>
   <outline>
     <component base="r.smcp"/>
-    <component base="acute" xOffset="102"/>
+    <component base="acute" xOffset="103"/>
   </outline>
   <lib>
   <dict>

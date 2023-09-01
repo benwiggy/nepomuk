@@ -39,20 +39,12 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -92 224</string>
           <string>hstem 7 125</string>
-          <string>hstem 286.92 137.16</string>
-          <string>vstem 134.88 137.16</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>hstem 286.92 137.16</string>
           <string>vstem 98 73</string>
-          <string>hstem 7 125</string>
+          <string>vstem 134.88 137.16</string>
         </array>
-        <key>pointTag</key>
-        <string>._.105553177317280</string>
       </dict>
     </array>
   </dict>

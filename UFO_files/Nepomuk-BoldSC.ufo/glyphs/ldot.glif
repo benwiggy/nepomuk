@@ -64,8 +64,8 @@
         <key>stems</key>
         <array>
           <string>hstem 0 26</string>
-          <string>hstem 0 198</string>
           <string>hstem 0 32</string>
+          <string>hstem 0 198</string>
           <string>hstem 239 117</string>
           <string>hstem 458 31</string>
           <string>hstem 464 26</string>

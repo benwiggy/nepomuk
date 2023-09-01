@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Obreve" format="2">
-  <advance width="683"/>
+  <advance width="684"/>
   <unicode hex="014E"/>
-  <anchor x="349" y="750" name="t.dieresis"/>
-  <anchor x="349" y="730" name="t.asciicircum_1"/>
+  <anchor x="350" y="750" name="t.dieresis"/>
+  <anchor x="350" y="730" name="t.asciicircum_1"/>
   <outline>
     <component base="O"/>
     <component base="breve" xOffset="217" yOffset="230"/>

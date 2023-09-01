@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zacute.smcp" format="2">
-  <advance width="468"/>
+  <advance width="470"/>
   <outline>
     <component base="z.smcp"/>
-    <component base="acute" xOffset="128"/>
+    <component base="acute" xOffset="129"/>
   </outline>
   <lib>
   <dict>

@@ -3,11 +3,11 @@
   <advance width="607"/>
   <unicode hex="0141"/>
   <outline>
-    <component base="L"/>
+    <component base="L" xOffset="418"/>
     <contour>
-      <point x="39" y="294" type="line" name=".hr02"/>
+      <point x="39" y="294" type="line"/>
       <point x="39" y="229" type="line"/>
-      <point x="385" y="385" type="line" name=".hr01"/>
+      <point x="385" y="385" type="line"/>
       <point x="385" y="450" type="line"/>
     </contour>
   </outline>
@@ -27,32 +27,12 @@
         <key>stems</key>
         <array>
           <string>hstem 0 36</string>
-          <string>hstem 645 35</string>
-          <string>vstem 39 217</string>
           <string>hstem 450 -20</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 36</string>
           <string>hstem 645 35</string>
-          <string>vstem 129 256</string>
-          <string>hstem 450 -20</string>
+          <string>vstem 39 635</string>
+          <string>vstem 385 162</string>
+          <string>vstem 547 127</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 36</string>
-          <string>hstem 645 35</string>
-          <string>vstem 39 217</string>
-          <string>hstem 450 -20</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
       </dict>
     </array>
   </dict>

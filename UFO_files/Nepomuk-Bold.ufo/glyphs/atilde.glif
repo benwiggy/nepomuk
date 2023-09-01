@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="atilde" format="2">
-  <advance width="547"/>
+  <advance width="548"/>
   <unicode hex="00E3"/>
-  <anchor x="261" y="530" name="t.dieresis"/>
+  <anchor x="262" y="530" name="t.dieresis"/>
   <outline>
     <component base="a"/>
-    <component base="tilde" xOffset="101"/>
+    <component base="tilde" xOffset="102"/>
   </outline>
   <lib>
   <dict>

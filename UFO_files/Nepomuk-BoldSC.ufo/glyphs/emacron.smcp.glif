@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="emacron.smcp" format="2">
-  <advance width="499"/>
-  <anchor x="260" y="530" name="t.dieresis"/>
-  <anchor x="260" y="530" name="t.asciicircum_1"/>
+  <advance width="500"/>
+  <anchor x="261" y="530" name="t.dieresis"/>
+  <anchor x="261" y="530" name="t.asciicircum_1"/>
   <outline>
     <component base="e.smcp"/>
-    <component base="macron" xOffset="14"/>
+    <component base="macron" xOffset="15"/>
   </outline>
   <lib>
   <dict>

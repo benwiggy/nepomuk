@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ohungarumlaut" format="2">
-  <advance width="518"/>
+  <advance width="519"/>
   <unicode hex="0151"/>
-  <anchor x="260" y="530" name="t.dieresis"/>
+  <anchor x="261" y="530" name="t.dieresis"/>
   <outline>
     <component base="o"/>
-    <component base="hungarumlaut" xOffset="85" yOffset="-2"/>
+    <component base="hungarumlaut" xOffset="86" yOffset="-2"/>
   </outline>
   <lib>
   <dict>

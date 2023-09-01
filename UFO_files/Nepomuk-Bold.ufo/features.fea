@@ -28,7 +28,6 @@ languagesystem latn dflt; # Latin default
 #
 # Feature definitions
 #
-
 feature cv00 {
 # GSUB
 # Lookups: 1
@@ -36,18 +35,6 @@ feature cv00 {
   sub f by f.short;
 
 } cv00;
-
-
-
-
-
-
-
-
-
-
-
-
 feature smcp {
 # Small Caps
 
@@ -194,8 +181,6 @@ feature smcp {
   sub zdotaccent by zdotaccent.smcp;
 #< feature
 } smcp;
-
-
 feature liga {
 # GSUB feature: Standard Ligatures
 # Lookups: 1
@@ -211,18 +196,6 @@ feature liga {
   sub N ordmasculine by numero;
 
 } liga;
-
-
-
-
-
-
-
-
-
-
-
-
 feature mark {
 # GPOS feature: Mark Positioning
 # Lookups: 1
@@ -299,20 +272,7 @@ feature mark {
 
 
 } mark;
-
-
-
-
-
-
-
-
-
-
-
-
 feature kern {
-#> feature
   @_krA = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde];
   @_krC = [C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent];
   @_kra = [a aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde];
@@ -1648,6 +1608,7 @@ feature kern {
     pos v ohungarumlaut -26;
     pos w comma -52;
     pos w period -52;
+    pos w a -31;
     pos w b -38;
     pos w o -17;
     pos w ograve -17;
@@ -1656,8 +1617,17 @@ feature kern {
     pos w otilde -17;
     pos w odieresis -17;
     pos w oslash -17;
+    pos w amacron -31;
+    pos w abreve -31;
     pos w omacron -17;
     pos w obreve -17;
+    pos w agrave -31;
+    pos w aacute -31;
+    pos w acircumflex -31;
+    pos w atilde -31;
+    pos w adieresis -31;
+    pos w aring -31;
+    pos w aogonek -31;
     pos w ohungarumlaut -17;
     pos x hyphen -48;
     pos y hyphen -15;
@@ -2316,5 +2286,4 @@ feature kern {
   } KERN_LTR;
 
   lookup KERN_LTR;
-#< feature
 } kern;

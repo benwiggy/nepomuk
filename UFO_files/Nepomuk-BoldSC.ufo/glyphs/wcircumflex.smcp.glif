@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wcircumflex.smcp" format="2">
-  <advance width="675"/>
+  <advance width="672"/>
   <outline>
     <component base="w.smcp"/>
-    <component base="circumflex" xOffset="184"/>
+    <component base="circumflex" xOffset="183"/>
   </outline>
   <lib>
   <dict>

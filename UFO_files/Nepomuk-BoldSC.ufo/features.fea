@@ -28,7 +28,6 @@ languagesystem latn dflt; # Latin default
 #
 # Feature definitions
 #
-
 feature cv00 {
 # GSUB
 # Lookups: 1
@@ -36,26 +35,6 @@ feature cv00 {
   sub f.smcp by f.short;
 
 } cv00;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature smcp {
 # Small Caps
 
@@ -166,15 +145,6 @@ feature smcp {
   sub zdotaccent by zdotaccent.smcp;
 #< feature
 } smcp;
-
-
-
-
-
-
-
-
-
 feature liga {
 # GSUB feature: Standard Ligatures
 # Lookups: 1
@@ -190,10 +160,6 @@ feature liga {
   sub N ordmasculine by numero;
 
 } liga;
-
-
-
-
 feature mark {
 # GPOS feature: Mark Positioning
 # Lookups: 1
@@ -270,26 +236,6 @@ feature mark {
 
 
 } mark;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature kern {
   @_krA = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde];
   @_krC = [C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent];
@@ -1760,7 +1706,3 @@ feature kern {
 
   lookup KERN_LTR;
 } kern;
-
-
-
-

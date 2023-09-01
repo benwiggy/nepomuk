@@ -151,7 +151,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Bold SC</string>
   <key>openTypeNameVersion</key>
-  <string>Version 2.070</string>
+  <string>Version 2.076</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -271,7 +271,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <key>versionMajor</key>
   <integer>2</integer>
   <key>versionMinor</key>
-  <integer>70</integer>
+  <integer>76</integer>
   <key>xHeight</key>
   <integer>450</integer>
 </dict>

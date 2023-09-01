@@ -28,7 +28,6 @@ languagesystem latn dflt; # Latin default
 #
 # Feature definitions
 #
-
 feature liga {
 # GSUB feature: Standard Ligatures
 # Lookups: 1
@@ -44,8 +43,6 @@ feature liga {
   sub N ordmasculine by numero;
 
 } liga;
-
-
 feature dlig {
 # Discretionary Ligatures
 

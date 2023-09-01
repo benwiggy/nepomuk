@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ncaron.smcp" format="2">
-  <advance width="577"/>
+  <advance width="576"/>
   <outline>
     <component base="n.smcp"/>
-    <component base="caron" xOffset="130" yOffset="10"/>
+    <component base="caron" xOffset="131" yOffset="10"/>
   </outline>
   <lib>
   <dict>

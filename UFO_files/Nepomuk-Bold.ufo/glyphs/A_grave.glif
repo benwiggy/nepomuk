@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Agrave" format="2">
-  <advance width="730"/>
+  <advance width="732"/>
   <unicode hex="00C0"/>
-  <anchor x="374" y="750" name="t.dieresis"/>
+  <anchor x="367" y="750" name="t.dieresis"/>
   <outline>
     <component base="A"/>
-    <component base="grave" xOffset="268" yOffset="190"/>
+    <component base="grave" xOffset="261" yOffset="190"/>
   </outline>
   <lib>
   <dict>

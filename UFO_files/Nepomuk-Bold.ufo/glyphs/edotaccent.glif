@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="edotaccent" format="2">
-  <advance width="499"/>
+  <advance width="500"/>
   <unicode hex="0117"/>
-  <anchor x="260" y="530" name="t.dieresis"/>
+  <anchor x="261" y="530" name="t.dieresis"/>
   <outline>
     <component base="e"/>
-    <component base="dotaccent" xOffset="95"/>
+    <component base="dotaccent" xOffset="96"/>
   </outline>
   <lib>
   <dict>

@@ -5,35 +5,35 @@
   <anchor x="426" y="714" name="t.asciicircum_1"/>
   <outline>
     <contour>
-      <point x="503" y="0" type="line"/>
-      <point x="570" y="263" type="line"/>
-      <point x="521" y="263" type="line"/>
-      <point x="457" y="142"/>
-      <point x="397" y="36"/>
-      <point x="269" y="36" type="curve" smooth="yes"/>
-      <point x="173" y="36" type="line" smooth="yes"/>
-      <point x="165" y="36"/>
-      <point x="160" y="40"/>
-      <point x="160" y="49" type="curve" smooth="yes"/>
-      <point x="160" y="56"/>
-      <point x="162" y="63"/>
-      <point x="167" y="70" type="curve" smooth="yes"/>
-      <point x="646" y="663" type="line"/>
+      <point x="505" y="0" type="line"/>
+      <point x="574" y="269" type="line"/>
+      <point x="515" y="269" type="line"/>
+      <point x="462" y="169"/>
+      <point x="400" y="45"/>
+      <point x="270" y="45" type="curve" smooth="yes"/>
+      <point x="175" y="45" type="line" smooth="yes"/>
+      <point x="170" y="45"/>
+      <point x="168" y="49"/>
+      <point x="168" y="53" type="curve" smooth="yes"/>
+      <point x="168" y="57"/>
+      <point x="170" y="68"/>
+      <point x="173" y="71" type="curve" smooth="yes"/>
+      <point x="646" y="656" type="line"/>
       <point x="646" y="680" type="line"/>
-      <point x="168" y="680" type="line"/>
-      <point x="104" y="432" type="line"/>
-      <point x="153" y="432" type="line"/>
-      <point x="231" y="573"/>
-      <point x="276" y="644"/>
-      <point x="387" y="644" type="curve" smooth="yes"/>
-      <point x="455" y="644" type="line" smooth="yes"/>
-      <point x="463" y="644"/>
-      <point x="472" y="641"/>
-      <point x="472" y="630" type="curve" smooth="yes"/>
-      <point x="472" y="623"/>
-      <point x="469" y="617"/>
-      <point x="464" y="610" type="curve" smooth="yes"/>
-      <point x="-17" y="17" type="line"/>
+      <point x="167" y="680" type="line"/>
+      <point x="101" y="426" type="line"/>
+      <point x="159" y="426" type="line"/>
+      <point x="211" y="519"/>
+      <point x="263" y="635"/>
+      <point x="386" y="635" type="curve" smooth="yes"/>
+      <point x="453" y="635" type="line" smooth="yes"/>
+      <point x="459" y="635"/>
+      <point x="465" y="633"/>
+      <point x="465" y="626" type="curve" smooth="yes"/>
+      <point x="465" y="620"/>
+      <point x="461" y="613"/>
+      <point x="458" y="609" type="curve" smooth="yes"/>
+      <point x="-17" y="24" type="line"/>
       <point x="-17" y="0" type="line"/>
     </contour>
   </outline>
@@ -44,14 +44,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>8e06c1c034171dde7c3c1ca2dadecbc1c2cd74e496896ee8a41f2da6c0a468a35e062e87764b0536501751c4d07a1ac8ac62d625ed5756ea4d280d499d978f5d</string>
+    <string>6e835463329bb1b542602bb63ea023c21963998e7460a0af24644df03a1060c7e659301d9f1cc3e7e53cc5012315b33c03063fd73d29993472ffb231a9f429e0</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 36</string>
-          <string>hstem 644 36</string>
+          <string>hstem -5.07 46.15</string>
+          <string>hstem 638.93 46.15</string>
         </array>
       </dict>
     </array>

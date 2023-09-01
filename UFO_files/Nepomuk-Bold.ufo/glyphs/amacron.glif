@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="amacron" format="2">
-  <advance width="547"/>
+  <advance width="548"/>
   <unicode hex="0101"/>
-  <anchor x="261" y="530" name="t.dieresis"/>
-  <anchor x="261" y="530" name="t.asciicircum_1"/>
+  <anchor x="262" y="530" name="t.dieresis"/>
+  <anchor x="262" y="530" name="t.asciicircum_1"/>
   <outline>
     <component base="a"/>
-    <component base="macron" xOffset="38"/>
+    <component base="macron" xOffset="39"/>
   </outline>
   <lib>
   <dict>

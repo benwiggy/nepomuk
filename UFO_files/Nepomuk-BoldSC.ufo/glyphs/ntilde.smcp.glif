@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ntilde.smcp" format="2">
-  <advance width="577"/>
+  <advance width="576"/>
   <outline>
     <component base="n.smcp"/>
-    <component base="tilde" xOffset="124"/>
+    <component base="tilde" xOffset="125"/>
   </outline>
   <lib>
   <dict>

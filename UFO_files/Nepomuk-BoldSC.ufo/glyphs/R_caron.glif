@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Rcaron" format="2">
-  <advance width="736"/>
+  <advance width="737"/>
   <unicode hex="0158"/>
   <outline>
     <component base="R"/>

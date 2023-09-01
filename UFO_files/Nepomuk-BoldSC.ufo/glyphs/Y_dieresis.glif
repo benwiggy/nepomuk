@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ydieresis" format="2">
-  <advance width="699"/>
+  <advance width="700"/>
   <unicode hex="0178"/>
-  <anchor x="384" y="730" name="t.asciicircum_1"/>
+  <anchor x="385" y="730" name="t.asciicircum_1"/>
   <outline>
     <component base="Y"/>
-    <component base="dieresis" xOffset="235" yOffset="220"/>
+    <component base="dieresis" xOffset="236" yOffset="220"/>
   </outline>
   <lib>
   <dict>

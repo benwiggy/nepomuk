@@ -910,6 +910,8 @@
   <dict>
     <key>b</key>
     <integer>-38</integer>
+    <key>public.kern2.kra</key>
+    <integer>-31</integer>
     <key>public.kern2.kro</key>
     <integer>-17</integer>
     <key>public.kern2.krpunct1</key>

@@ -1,61 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="2">
-  <advance width="752"/>
+  <advance width="753"/>
   <unicode hex="0048"/>
   <outline>
     <contour>
-      <point x="632" y="595" type="line" smooth="yes"/>
-      <point x="632" y="640"/>
-      <point x="636" y="645"/>
-      <point x="668" y="645" type="curve" smooth="yes"/>
-      <point x="713" y="645" type="line"/>
-      <point x="713" y="680" type="line"/>
-      <point x="414" y="680" type="line"/>
-      <point x="414" y="645" type="line"/>
-      <point x="470" y="645" type="line" smooth="yes"/>
-      <point x="501" y="645"/>
-      <point x="505" y="640"/>
-      <point x="505" y="595" type="curve" smooth="yes"/>
-      <point x="505" y="361" type="line"/>
-      <point x="256" y="361" type="line"/>
-      <point x="256" y="595" type="line" smooth="yes"/>
-      <point x="256" y="640"/>
-      <point x="260" y="645"/>
-      <point x="291" y="645" type="curve" smooth="yes"/>
-      <point x="346" y="645" type="line"/>
-      <point x="346" y="680" type="line"/>
-      <point x="48" y="680" type="line"/>
-      <point x="48" y="645" type="line"/>
-      <point x="94" y="645" type="line" smooth="yes"/>
-      <point x="125" y="645"/>
-      <point x="129" y="640"/>
-      <point x="129" y="595" type="curve" smooth="yes"/>
-      <point x="129" y="85" type="line" smooth="yes"/>
-      <point x="129" y="40"/>
-      <point x="125" y="35"/>
-      <point x="94" y="35" type="curve" smooth="yes"/>
-      <point x="48" y="35" type="line"/>
-      <point x="48" y="0" type="line"/>
-      <point x="346" y="0" type="line"/>
-      <point x="346" y="35" type="line"/>
-      <point x="291" y="35" type="line" smooth="yes"/>
-      <point x="260" y="35"/>
-      <point x="256" y="40"/>
-      <point x="256" y="85" type="curve" smooth="yes"/>
-      <point x="256" y="325" type="line"/>
-      <point x="505" y="325" type="line"/>
-      <point x="505" y="85" type="line" smooth="yes"/>
-      <point x="505" y="40"/>
-      <point x="501" y="35"/>
-      <point x="470" y="35" type="curve" smooth="yes"/>
-      <point x="414" y="35" type="line"/>
-      <point x="414" y="0" type="line"/>
-      <point x="713" y="0" type="line"/>
-      <point x="713" y="35" type="line"/>
-      <point x="668" y="35" type="line" smooth="yes"/>
-      <point x="636" y="35"/>
-      <point x="632" y="40"/>
-      <point x="632" y="85" type="curve" smooth="yes"/>
+      <point x="633.636" y="581.401" type="line" smooth="yes"/>
+      <point x="633.636" y="620.813"/>
+      <point x="637.577" y="625.739"/>
+      <point x="664.18" y="625.739" type="curve" smooth="yes"/>
+      <point x="713.445" y="625.739" type="line"/>
+      <point x="713.445" y="679.931" type="line"/>
+      <point x="413.914" y="679.931" type="line"/>
+      <point x="413.914" y="625.739" type="line"/>
+      <point x="459.238" y="625.739" type="line" smooth="yes"/>
+      <point x="485.841" y="625.739"/>
+      <point x="488.797" y="620.813"/>
+      <point x="488.797" y="581.401" type="curve" smooth="yes"/>
+      <point x="488.797" y="372.517" type="line"/>
+      <point x="273.016" y="372.517" type="line"/>
+      <point x="273.016" y="581.401" type="line" smooth="yes"/>
+      <point x="273.016" y="620.813"/>
+      <point x="275.972" y="625.739"/>
+      <point x="302.575" y="625.739" type="curve" smooth="yes"/>
+      <point x="346.914" y="625.739" type="line"/>
+      <point x="346.914" y="679.931" type="line"/>
+      <point x="48.3679" y="679.931" type="line"/>
+      <point x="48.3679" y="625.739" type="line"/>
+      <point x="98.6182" y="625.739" type="line" smooth="yes"/>
+      <point x="125.221" y="625.739"/>
+      <point x="128.177" y="620.813"/>
+      <point x="128.177" y="581.401" type="curve" smooth="yes"/>
+      <point x="128.177" y="98.6035" type="line" smooth="yes"/>
+      <point x="128.177" y="59.1915"/>
+      <point x="125.221" y="54.265"/>
+      <point x="98.6182" y="54.265" type="curve" smooth="yes"/>
+      <point x="48.3679" y="54.265" type="line"/>
+      <point x="48.3679" y="0.0735" type="line"/>
+      <point x="346.914" y="0.0735" type="line"/>
+      <point x="346.914" y="54.265" type="line"/>
+      <point x="302.575" y="54.265" type="line" smooth="yes"/>
+      <point x="275.972" y="54.265"/>
+      <point x="273.016" y="59.1915"/>
+      <point x="273.016" y="98.6035" type="curve" smooth="yes"/>
+      <point x="273.016" y="314.384" type="line"/>
+      <point x="488.797" y="314.384" type="line"/>
+      <point x="488.797" y="98.6035" type="line" smooth="yes"/>
+      <point x="488.797" y="59.1915"/>
+      <point x="485.841" y="54.265"/>
+      <point x="459.238" y="54.265" type="curve" smooth="yes"/>
+      <point x="413.914" y="54.265" type="line"/>
+      <point x="413.914" y="0.0735" type="line"/>
+      <point x="713.445" y="0.0735" type="line"/>
+      <point x="713.445" y="54.265" type="line"/>
+      <point x="664.18" y="54.265" type="line" smooth="yes"/>
+      <point x="637.577" y="54.265"/>
+      <point x="633.636" y="59.1915"/>
+      <point x="633.636" y="98.6035" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -65,17 +65,17 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>d91d0ce671dbc647ee3ed316c2cdf468a1e462f0c9571c6f85a48634b2ae0999b8cb7276a01ad8a0b758e554c2475dc82fb85b5f74e3e74d1a3a8e82d2409422</string>
+    <string>76c27f41a38e362a9380601b7612c525a845419124f7cdc66ef03916b3b676336e283ce3adb14877e3dc8bbf224fc3debe03b13d2d3795cf21b1cf910956f041</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 35</string>
-          <string>hstem 325 36</string>
-          <string>hstem 645 35</string>
-          <string>vstem 129 127</string>
-          <string>vstem 505 127</string>
+          <string>hstem 5 44.34</string>
+          <string>hstem 319.31 48.28</string>
+          <string>hstem 630.66 44.34</string>
+          <string>vstem 133.1 134.99</string>
+          <string>vstem 493.72 134.99</string>
         </array>
       </dict>
     </array>
