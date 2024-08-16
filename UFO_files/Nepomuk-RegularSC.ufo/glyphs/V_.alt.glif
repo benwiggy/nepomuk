@@ -2,8 +2,6 @@
 <glyph name="V.alt" format="2">
   <advance width="651"/>
   <unicode hex="E87D"/>
-  <anchor x="380" y="750" name="t.dieresis"/>
-  <anchor x="380" y="720" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="342" y="139" type="line"/>
@@ -35,25 +33,4 @@
       <point x="504" y="564" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>2bd8390ef494443cd852a8ce0e94d31970451c5e3e5dd01679ef94a9b9ea29fc1c7964dcf0b9ad6bc6c6f3e8febb2193520363d7de94ebb494d59e906aaa7946</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 9 -21</string>
-          <string>hstem 645 35</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

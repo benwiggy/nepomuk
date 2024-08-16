@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucaron" format="2">
+  <advance width="550"/>
+  <unicode hex="01D4"/>
+  <outline>
+    <component base="u"/>
+    <component base="caron" xOffset="94" yOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>u+caron</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -678,6 +678,10 @@
     <string>Tbar</string>
     <string>uni0218</string>
     <string>uni021A</string>
+    <string>acaron</string>
+    <string>icaron</string>
+    <string>ocaron</string>
+    <string>ucaron</string>
   </array>
 </dict>
 </plist>

@@ -2,12 +2,11 @@
 <glyph name="hungarumlaut" format="2">
   <advance width="392"/>
   <unicode hex="02DD"/>
-  <anchor x="295" y="532" name="_t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="333" y="580" type="line"/>
       <point x="422" y="633" type="line" smooth="yes"/>
-      <point x="478" y="666"/>
+      <point x="477.847" y="666.257"/>
       <point x="485" y="675"/>
       <point x="485" y="699" type="curve" smooth="yes"/>
       <point x="485" y="720"/>
@@ -33,25 +32,4 @@
       <point x="140" y="599" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>bf28a3533519f44f39218c39b46c95d57d0836e015e33bda3281b9d3dc98525e40de8f411bae7ae39bbbe3281a9a1fc6eb4ef0489e485c0c91c953820e6ccc9f</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 601 -21</string>
-          <string>hstem 740 -20</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

@@ -6,7 +6,7 @@
   <anchor x="265" y="537" name="t.asciicircum_1"/>
   <outline>
     <component base="c"/>
-    <component base="cedillacomb.smcp" xOffset="129"/>
+    <component base="cedillacomb.smcp" xOffset="128.5"/>
   </outline>
   <lib>
   <dict>

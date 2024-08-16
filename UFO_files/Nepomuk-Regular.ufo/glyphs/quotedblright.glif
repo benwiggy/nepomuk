@@ -12,7 +12,7 @@
       <point x="53" y="656"/>
       <point x="87" y="656" type="curve" smooth="yes"/>
       <point x="102" y="656"/>
-      <point x="106" y="651" name=".hr01"/>
+      <point x="106" y="651"/>
       <point x="106" y="639" type="curve" smooth="yes"/>
       <point x="106" y="605"/>
       <point x="73" y="575"/>
@@ -31,7 +31,7 @@
       <point x="215" y="718" type="curve" smooth="yes"/>
       <point x="215" y="682"/>
       <point x="247" y="656"/>
-      <point x="281" y="656" type="curve" smooth="yes" name=".hr02"/>
+      <point x="281" y="656" type="curve" smooth="yes"/>
       <point x="296" y="656"/>
       <point x="300" y="651"/>
       <point x="300" y="638" type="curve" smooth="yes"/>
@@ -39,63 +39,11 @@
       <point x="268" y="575"/>
       <point x="223" y="567" type="curve"/>
       <point x="228" y="537" type="line"/>
-      <point x="307" y="547" name=".hr03"/>
+      <point x="307" y="547"/>
       <point x="362" y="614"/>
       <point x="362" y="686" type="curve" smooth="yes"/>
       <point x="362" y="745"/>
       <point x="326" y="783"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>6ea284232d702d88819b6fe2fdc3e76ffa3c40f530b4d64e90b9f7afe8a40a81d3c6aeba08477adb477935cc3ea4eb3edec25d8b0a56d62d81269d6b0ceb7bc5</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 656 127</string>
-          <string>vstem 21 147</string>
-          <string>vstem 215 147</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 106 62</string>
-          <string>hstem 537 246</string>
-          <string>vstem 215 147</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 656 127</string>
-          <string>vstem 300 62</string>
-          <string>vstem 21 147</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 537 246</string>
-          <string>vstem 215 147</string>
-          <string>vstem 21 147</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr03</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

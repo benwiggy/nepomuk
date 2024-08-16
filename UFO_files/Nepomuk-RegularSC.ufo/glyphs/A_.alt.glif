@@ -2,8 +2,6 @@
 <glyph name="A.alt" format="2">
   <advance width="681"/>
   <unicode hex="E868"/>
-  <anchor x="360" y="750" name="t.dieresis"/>
-  <anchor x="360" y="720" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="240" y="35" type="line"/>
@@ -41,26 +39,4 @@
       <point x="419" y="252" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>8819eaad4d6f4a84cb241e1951cd2b1ab02ef09015f6d6664557f2d58736c054b09a81806d1c58a50d6e9b2dce8d75fa7ba033f0aaff445f6302ad9849c9b5c2</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 35</string>
-          <string>hstem 217 35</string>
-          <string>hstem 692 -20</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

@@ -5,4 +5,31 @@
   <outline>
     <component base="numbersign"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w443</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -24 -21</string>
+          <string>hstem 9 -21</string>
+          <string>hstem 692 -20</string>
+          <string>hstem 725 -20</string>
+          <string>vstem 60 100</string>
+          <string>vstem 120 40</string>
+          <string>vstem 283 100</string>
+          <string>vstem 283 40</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

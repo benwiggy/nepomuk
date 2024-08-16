@@ -5,11 +5,11 @@
   <outline>
     <contour>
       <point x="30" y="165" type="line"/>
-      <point x="421" y="402" type="line" name=".hr01"/>
-      <point x="421" y="467" type="line"/>
-      <point x="30" y="230" type="line" name=".hr02"/>
-    </contour>
-    <contour>
+      <point x="167" y="248" type="line"/>
+      <point x="167" y="85" type="line" smooth="yes"/>
+      <point x="167" y="40"/>
+      <point x="162" y="35"/>
+      <point x="117" y="35" type="curve" smooth="yes"/>
       <point x="77" y="35" type="line"/>
       <point x="77" y="0" type="line"/>
       <point x="581" y="0" type="line"/>
@@ -22,6 +22,10 @@
       <point x="293" y="36"/>
       <point x="262" y="53"/>
       <point x="262" y="84" type="curve" smooth="yes"/>
+      <point x="262" y="306" type="line"/>
+      <point x="421" y="402" type="line"/>
+      <point x="421" y="467" type="line"/>
+      <point x="262" y="371" type="line"/>
       <point x="262" y="595" type="line" smooth="yes"/>
       <point x="262" y="640"/>
       <point x="267" y="645"/>
@@ -32,12 +36,10 @@
       <point x="77" y="645" type="line"/>
       <point x="117" y="645" type="line" smooth="yes"/>
       <point x="162" y="645"/>
-      <point x="167" y="640" name=".hr03"/>
+      <point x="167" y="640"/>
       <point x="167" y="595" type="curve" smooth="yes"/>
-      <point x="167" y="85" type="line" smooth="yes"/>
-      <point x="167" y="40"/>
-      <point x="162" y="35"/>
-      <point x="117" y="35" type="curve" smooth="yes"/>
+      <point x="167" y="313" type="line"/>
+      <point x="30" y="230" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -49,46 +51,18 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>9c459e027e9db3b2c6ece7cb05bc6ffaaf2a5bab3915ec967a2c84a35fe07bc107b272daae7d206b7e50792cb04dd4a63f461663d772d4fb918737d3a4438ed6</string>
+    <string>e40f573e61e7733b146052aedd07564b5ebc8a6c46cb2c2e9d91e17b7c5b43d89c23485a85db9bc0b456c48565f7ad1ce8cfc6d74b0e180f3dc6edd9a84f800d</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 0 36</string>
+          <string>hstem 645 35</string>
           <string>vstem 30 232</string>
-          <string>hstem 0 36</string>
-          <string>hstem 645 35</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 167 254</string>
-          <string>hstem 0 36</string>
-          <string>hstem 645 35</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 30 232</string>
-          <string>hstem 0 36</string>
-          <string>hstem 645 35</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>vstem 167 95</string>
-          <string>hstem 0 36</string>
-          <string>hstem 645 35</string>
+          <string>vstem 167 254</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr03</string>
       </dict>
     </array>
   </dict>

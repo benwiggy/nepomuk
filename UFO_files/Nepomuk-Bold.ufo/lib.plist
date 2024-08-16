@@ -595,6 +595,10 @@
     <string>Ibreve</string>
     <string>ibreve</string>
     <string>nbspace</string>
+    <string>acaron</string>
+    <string>icaron</string>
+    <string>ocaron</string>
+    <string>ucaron</string>
   </array>
 </dict>
 </plist>

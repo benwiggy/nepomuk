@@ -2,9 +2,14 @@
 <glyph name="igrave" format="2">
   <advance width="362"/>
   <unicode hex="00EC"/>
-  <anchor x="225" y="488" name="t.asciicircum_1"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="grave" xOffset="99" yOffset="-2"/>
+    <component base="grave" xOffset="-33" yOffset="-2"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+grave</string>
+  </dict>
+  </lib>
 </glyph>

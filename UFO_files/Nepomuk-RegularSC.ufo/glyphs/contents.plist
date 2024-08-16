@@ -304,6 +304,8 @@
   <string>abreve.glif</string>
   <key>abreve.smcp</key>
   <string>abreve.smcp.glif</string>
+  <key>acaron</key>
+  <string>acaron.glif</string>
   <key>acircumflex</key>
   <string>acircumflex.glif</string>
   <key>acircumflex.smcp</key>
@@ -644,6 +646,8 @@
   <string>iacute.glif</string>
   <key>iacute.smcp</key>
   <string>iacute.smcp.glif</string>
+  <key>icaron</key>
+  <string>icaron.glif</string>
   <key>icircumflex</key>
   <string>icircumflex.glif</string>
   <key>icircumflex.smcp</key>
@@ -790,6 +794,8 @@
   <string>obreve.glif</string>
   <key>obreve.smcp</key>
   <string>obreve.smcp.glif</string>
+  <key>ocaron</key>
+  <string>ocaron.glif</string>
   <key>ocircumflex</key>
   <string>ocircumflex.glif</string>
   <key>ocircumflex.smcp</key>
@@ -1052,6 +1058,8 @@
   <string>ubreve.glif</string>
   <key>ubreve.smcp</key>
   <string>ubreve.smcp.glif</string>
+  <key>ucaron</key>
+  <string>ucaron.glif</string>
   <key>ucircumflex</key>
   <string>ucircumflex.glif</string>
   <key>ucircumflex.smcp</key>

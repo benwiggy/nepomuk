@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acaron" format="2">
+  <advance width="578"/>
+  <unicode hex="01CE"/>
+  <anchor x="310" y="537" name="t.dieresis"/>
+  <outline>
+    <component base="a"/>
+    <component base="caron" xOffset="156" yOffset="-14"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>a+caron</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

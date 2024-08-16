@@ -2,9 +2,14 @@
 <glyph name="ugrave" format="2">
   <advance width="594"/>
   <unicode hex="00F9"/>
-  <anchor x="345" y="488" name="t.asciicircum_1"/>
   <outline>
     <component base="u"/>
-    <component base="grave" xOffset="219" yOffset="-2"/>
+    <component base="grave" xOffset="87" yOffset="5"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>u+grave</string>
+  </dict>
+  </lib>
 </glyph>

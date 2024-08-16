@@ -859,6 +859,10 @@
     <string>ntilde</string>
     <string>asciitilde</string>
     <string>asciicircum</string>
+    <string>acaron</string>
+    <string>icaron</string>
+    <string>ocaron</string>
+    <string>ucaron</string>
   </array>
 </dict>
 </plist>

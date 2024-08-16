@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="b.smcp" format="2">
   <advance width="491"/>
-  <anchor x="246" y="530" name="t.dieresis"/>
-  <anchor x="246" y="530" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="139" y="85" type="line"/>
@@ -46,7 +44,7 @@
       <point x="309" y="19"/>
       <point x="262" y="19" type="curve" smooth="yes"/>
       <point x="209" y="19"/>
-      <point x="154" y="79" name=".hr01"/>
+      <point x="154" y="79"/>
       <point x="154" y="225" type="curve" smooth="yes"/>
       <point x="154" y="329"/>
       <point x="203" y="429"/>
@@ -55,40 +53,4 @@
       <point x="348" y="360"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>dc861809f17a110e3de05121fb8f77ad5caadce4ce803c8a3a36447fd498a152fde3664265ba95c0927a50046635621465d979b0e694b3f6fc442177dba8e8eb</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -12 31</string>
-          <string>vstem 348 103</string>
-          <string>hstem 429 33</string>
-          <string>vstem 64 85</string>
-          <string>hstem 645 35</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 64 90</string>
-          <string>hstem 429 33</string>
-          <string>vstem 348 103</string>
-          <string>hstem -12 31</string>
-          <string>hstem 645 35</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

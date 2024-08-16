@@ -149,8 +149,6 @@ languagesystem latn dflt; # Latin default
 #
 # Feature definitions
 #
-
-
 feature aalt {
 # Access All Alternates
 
@@ -197,8 +195,6 @@ feature ss01 {
   sub Z by Z.alt;
 
 } ss01;
-
-
 feature smcp {
 # Small Caps
 
@@ -359,8 +355,6 @@ feature liga {
   sub f l by fl;
 
 } liga;
-
-
 feature dlig {
 # GSUB feature: Discretionary Ligatures
 # Lookups: 1
@@ -369,8 +363,6 @@ feature dlig {
   sub i j by i_j.dlig;
 
 } dlig;
-
-
 feature hist {
 # GSUB feature: Historical Forms
 # Lookups: 1
@@ -378,8 +370,6 @@ feature hist {
   sub s by longs;
 
 } hist;
-
-
 feature frac {
 # GSUB feature: Fractions
 # Lookups: 1
@@ -392,8 +382,6 @@ feature frac {
   sub three fraction four by threequarters;
 
 } frac;
-
-
 feature salt {
 # GSUB feature: Stylistic Alternates
 # Lookups: 1
@@ -430,8 +418,6 @@ feature salt {
   sub fl from [fl.1];
 
 } salt;
-
-
 feature hlig {
 # GSUB feature: Historical Ligatures
 # Lookups: 1
@@ -439,8 +425,6 @@ feature hlig {
   sub longs t by longs_t;
 
 } hlig;
-
-
 feature mark {
 # GPOS feature: Mark Positioning
 # Lookups: 1
@@ -540,8 +524,6 @@ feature mark {
 
 
 } mark;
-
-
 feature kern {
   @_krA = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde];
   @_krC = [C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent];
@@ -2304,7 +2286,6 @@ feature kern {
 
   lookup KERN_LTR;
 } kern;
-
 feature locl {
 # Localized Forms
 

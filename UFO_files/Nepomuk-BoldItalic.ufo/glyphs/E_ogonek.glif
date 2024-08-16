@@ -5,50 +5,12 @@
   <anchor x="436" y="714" name="t.asciicircum_1"/>
   <outline>
     <component base="E"/>
-    <contour>
-      <point x="427" y="-90" type="line"/>
-      <point x="396" y="-112"/>
-      <point x="365" y="-126"/>
-      <point x="343" y="-126" type="curve" smooth="yes"/>
-      <point x="315" y="-126"/>
-      <point x="295" y="-108"/>
-      <point x="295" y="-84" type="curve" smooth="yes"/>
-      <point x="295" y="-59"/>
-      <point x="309" y="-37"/>
-      <point x="351" y="2" type="curve"/>
-      <point x="304" y="2" type="line"/>
-      <point x="257" y="-34"/>
-      <point x="236" y="-65"/>
-      <point x="236" y="-103" type="curve" smooth="yes"/>
-      <point x="236" y="-148"/>
-      <point x="271" y="-180"/>
-      <point x="323" y="-180" type="curve" smooth="yes"/>
-      <point x="365" y="-180"/>
-      <point x="399" y="-166"/>
-      <point x="451" y="-123" type="curve"/>
-    </contour>
+    <component base="ogonek" xOffset="229"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
   <string>E+uni0328</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>e37d05ba0753d8c478ff84f36a9be155d959b225a7eba612e6a703ae2b182b8eef953bb8ebce2c39ffc12c4918a8a6b5e2a8fd7e278f44aa28e3a140e503268c</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -180.07 54.15</string>
-          <string>vstem 171.28 59.15</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

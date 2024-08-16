@@ -4,7 +4,7 @@
   <anchor x="248" y="510" name="t.asciicircum_1"/>
   <outline>
     <component base="u.smcp"/>
-    <component base="macron" xOffset="105"/>
+    <component base="macron" xOffset="104.5"/>
   </outline>
   <lib>
   <dict>

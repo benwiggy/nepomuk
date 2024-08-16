@@ -6,4 +6,29 @@
     <component base="dotlessi"/>
     <component base="dotaccent" xOffset="-18"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w302</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 35</string>
+          <string>hstem 415 35</string>
+          <string>hstem 558 116</string>
+          <string>vstem 32 170</string>
+          <string>vstem 88 114</string>
+          <string>vstem 112 90</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

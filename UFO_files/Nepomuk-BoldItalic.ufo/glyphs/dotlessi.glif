@@ -2,7 +2,6 @@
 <glyph name="dotlessi" format="2">
   <advance width="362"/>
   <unicode hex="0131"/>
-  <anchor x="225" y="488" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="93" y="138" type="line" smooth="yes"/>
@@ -49,10 +48,4 @@
       <point x="159" y="312" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.604,0.6,1,1</string>
-  </dict>
-  </lib>
 </glyph>

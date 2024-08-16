@@ -126,34 +126,18 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 567 25</string>
-          <string>vstem 399 38</string>
-          <string>hstem 348 41</string>
-          <string>vstem 126 84</string>
-          <string>hstem 692 25</string>
           <string>hstem -16 41</string>
-          <string>vstem 477 84</string>
-          <string>vstem 749 39</string>
-          <string>vstem 834 84</string>
-          <string>vstem 1106 39</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>hstem 328 24</string>
-          <string>vstem 749 39</string>
-          <string>hstem -16 41</string>
-          <string>vstem 477 84</string>
-          <string>vstem 834 84</string>
-          <string>vstem 1106 39</string>
+          <string>hstem 348 41</string>
           <string>hstem 567 25</string>
           <string>hstem 692 25</string>
           <string>vstem 126 84</string>
           <string>vstem 399 38</string>
+          <string>vstem 477 84</string>
+          <string>vstem 749 39</string>
+          <string>vstem 834 84</string>
+          <string>vstem 1106 39</string>
         </array>
-        <key>pointTag</key>
-        <string>._.105553178266512</string>
       </dict>
     </array>
   </dict>

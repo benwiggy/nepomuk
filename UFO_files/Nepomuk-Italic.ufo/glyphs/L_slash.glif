@@ -4,12 +4,43 @@
   <unicode hex="0141"/>
   <anchor x="341" y="728" name="accent1"/>
   <outline>
-    <component base="L"/>
     <contour>
       <point x="50" y="302" type="line"/>
       <point x="29" y="237" type="line"/>
+      <point x="150" y="278" type="line"/>
+      <point x="94" y="85" type="line" smooth="yes"/>
+      <point x="84" y="50"/>
+      <point x="65" y="35"/>
+      <point x="30" y="35" type="curve" smooth="yes"/>
+      <point x="0" y="35" type="line"/>
+      <point x="-10" y="0" type="line"/>
+      <point x="489" y="0" type="line"/>
+      <point x="587" y="280" type="line"/>
+      <point x="557" y="280" type="line"/>
+      <point x="489" y="158"/>
+      <point x="434" y="36"/>
+      <point x="268" y="36" type="curve" smooth="yes"/>
+      <point x="240" y="36" type="line" smooth="yes"/>
+      <point x="212" y="36"/>
+      <point x="186" y="53"/>
+      <point x="195" y="84" type="curve" smooth="yes"/>
+      <point x="261" y="315" type="line"/>
       <point x="420" y="369" type="line"/>
       <point x="441" y="434" type="line"/>
+      <point x="279" y="379" type="line"/>
+      <point x="341" y="595" type="line" smooth="yes"/>
+      <point x="351" y="630"/>
+      <point x="371" y="645"/>
+      <point x="406" y="645" type="curve" smooth="yes"/>
+      <point x="446" y="645" type="line"/>
+      <point x="456" y="680" type="line"/>
+      <point x="165" y="680" type="line"/>
+      <point x="155" y="645" type="line"/>
+      <point x="205" y="645" type="line" smooth="yes"/>
+      <point x="240" y="645"/>
+      <point x="251" y="630"/>
+      <point x="241" y="595" type="curve" smooth="yes"/>
+      <point x="168" y="342" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -21,13 +52,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w607m50,302l29,237l420,369l441,434</string>
+    <string>18e1ccb7a3b0bd4d5d5b17fcdf806c87f439fe224803dce9a1c463bbaf244347a0a534f485d158afe8e2985a133533f7c3355aeb8eecf04da636b69fee790ccf</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 0 36</string>
           <string>hstem 229 65</string>
+          <string>hstem 645 35</string>
         </array>
       </dict>
     </array>

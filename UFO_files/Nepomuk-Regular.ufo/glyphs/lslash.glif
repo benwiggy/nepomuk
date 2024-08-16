@@ -6,9 +6,9 @@
     <component base="l" xOffset="33"/>
     <contour>
       <point x="33" y="216" type="line"/>
-      <point x="340" y="369" type="line" name=".hr01"/>
+      <point x="340" y="369" type="line"/>
       <point x="340" y="434" type="line"/>
-      <point x="33" y="281" type="line" name=".hr02"/>
+      <point x="33" y="281" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,27 +29,10 @@
           <string>hstem 0 35</string>
           <string>hstem 645 35</string>
           <string>vstem 33 192</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 35</string>
-          <string>hstem 645 35</string>
+          <string>vstem 55 170</string>
+          <string>vstem 135 90</string>
           <string>vstem 135 205</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 35</string>
-          <string>hstem 645 35</string>
-          <string>vstem 33 192</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
       </dict>
     </array>
   </dict>

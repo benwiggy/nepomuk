@@ -12,7 +12,7 @@
       <point x="184" y="-22"/>
       <point x="172" y="26" type="curve" smooth="yes"/>
       <point x="160" y="73"/>
-      <point x="154" y="98" name=".hr01"/>
+      <point x="154" y="98"/>
       <point x="154" y="131" type="curve" smooth="yes"/>
       <point x="154" y="205"/>
       <point x="186" y="252"/>
@@ -25,7 +25,7 @@
       <point x="160" y="477"/>
       <point x="172" y="521" type="curve" smooth="yes"/>
       <point x="184" y="569"/>
-      <point x="190" y="594" name=".hr02"/>
+      <point x="190" y="594"/>
       <point x="190" y="627" type="curve" smooth="yes"/>
       <point x="190" y="679"/>
       <point x="155" y="699"/>
@@ -38,92 +38,24 @@
       <point x="247" y="518"/>
       <point x="232" y="463" type="curve" smooth="yes"/>
       <point x="221" y="419"/>
-      <point x="215" y="385" name=".hr03"/>
+      <point x="215" y="385"/>
       <point x="215" y="362" type="curve" smooth="yes"/>
       <point x="215" y="292"/>
-      <point x="252" y="283" name=".hr04"/>
+      <point x="252" y="283"/>
       <point x="324" y="283" type="curve"/>
       <point x="324" y="264" type="line"/>
       <point x="252" y="264"/>
-      <point x="215" y="255" name=".hr05"/>
+      <point x="215" y="255"/>
       <point x="215" y="184" type="curve" smooth="yes"/>
       <point x="215" y="161"/>
       <point x="221" y="128"/>
       <point x="232" y="84" type="curve" smooth="yes"/>
       <point x="247" y="29"/>
-      <point x="252" y="4" name=".hr06"/>
+      <point x="252" y="4"/>
       <point x="252" y="-29" type="curve" smooth="yes"/>
       <point x="252" y="-110"/>
       <point x="201" y="-168"/>
       <point x="98" y="-201" type="curve"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>4000ca23f0d3d70a0b0d1ab909e332a62995fa019c3ecac82d60d5734f1e85a395ad96f21b146f717cb2480af606be7fe865031450eacc7e96fad61dd21687f8</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 190 62</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 154 61</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 190 62</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 154 61</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr03</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 190 62</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr04</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 154 61</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr05</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 190 62</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr06</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

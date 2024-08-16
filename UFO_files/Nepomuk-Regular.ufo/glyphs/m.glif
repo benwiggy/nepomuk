@@ -71,7 +71,7 @@
       <point x="191" y="360"/>
       <point x="190" y="357"/>
       <point x="186" y="357" type="curve" smooth="yes"/>
-      <point x="182" y="357" name=".hr01"/>
+      <point x="182" y="357"/>
       <point x="182" y="360"/>
       <point x="182" y="360" type="curve"/>
       <point x="182" y="450" type="line"/>
@@ -88,40 +88,4 @@
       <point x="32" y="35" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>24d5c8bdd28e8ba10eb44b75b3d5498248da250d2bd4901ff95bb708311e8bd6a38c7febd841d09804872f3aab43d98994778140d122ae535129785aa6518106</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 35</string>
-          <string>vstem 102 85</string>
-          <string>hstem 418 44</string>
-          <string>vstem 373 90</string>
-          <string>vstem 649 90</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 102 80</string>
-          <string>hstem 415 35</string>
-          <string>hstem 0 35</string>
-          <string>vstem 373 90</string>
-          <string>vstem 649 90</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

@@ -42,22 +42,6 @@ languagesystem latn dflt; # Latin default
 #
 # Feature definitions
 #
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature ss01 {
 # GSUB feature: Stylistic Set 1
 # Lookups: 1
@@ -65,42 +49,6 @@ feature ss01 {
   sub @ss01 by @ss012;
 
 } ss01;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature smcp {
 # Small Caps
 
@@ -216,8 +164,6 @@ feature smcp {
   sub zdotaccent by zdotaccent.smcp;
 #< feature
 } smcp;
-
-
 feature liga {
 # GSUB feature: Standard Ligatures
 # Lookups: 1
@@ -235,42 +181,6 @@ feature liga {
   sub N ordmasculine by numero;
 
 } liga;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature mark {
 # GPOS feature: Mark Positioning
 # Lookups: 1
@@ -370,42 +280,6 @@ feature mark {
 
 
 } mark;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature kern {
 #> feature
   @_krA = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde];

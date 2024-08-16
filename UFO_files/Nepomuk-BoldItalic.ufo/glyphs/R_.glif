@@ -2,7 +2,6 @@
 <glyph name="R" format="2">
   <advance width="708"/>
   <unicode hex="0052"/>
-  <anchor x="436" y="704" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="285" y="343" type="curve"/>
@@ -73,31 +72,4 @@
       <point x="455" y="388"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>d024133ca981c3189bdec34124575105e2d94efabc337a3b19a40aba3fffa16ea0bdad6338c37fc96848e96378919df6868993ff1c5bdaae12bfe534d28420e8</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -12 63</string>
-          <string>hstem 0 35</string>
-          <string>hstem 348 36</string>
-          <string>hstem 644 36</string>
-          <string>vstem 201 201</string>
-          <string>vstem 402 124</string>
-          <string>vstem 425 116</string>
-          <string>vstem 527 128</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

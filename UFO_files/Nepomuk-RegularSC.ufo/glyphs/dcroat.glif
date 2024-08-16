@@ -4,68 +4,12 @@
   <unicode hex="0111"/>
   <outline>
     <component base="macron" xOffset="8" yOffset="-323"/>
-    <contour>
-      <point x="24.7925" y="498.542" type="line"/>
-      <point x="24.7925" y="467.275" type="line"/>
-      <point x="59.85" y="467.275" type="line" smooth="yes"/>
-      <point x="93.0125" y="467.275"/>
-      <point x="97.75" y="464.432"/>
-      <point x="97.75" y="434.112" type="curve" smooth="yes"/>
-      <point x="97.75" y="64.5875" type="line" smooth="yes"/>
-      <point x="97.75" y="35.215"/>
-      <point x="93.0125" y="31.425"/>
-      <point x="59.85" y="31.425" type="curve" smooth="yes"/>
-      <point x="24.7925" y="31.425" type="line"/>
-      <point x="24.7925" y="0.1575" type="line"/>
-      <point x="255.035" y="0.1575" type="line" smooth="yes"/>
-      <point x="435.06" y="0.1575"/>
-      <point x="516.545" y="116.7"/>
-      <point x="516.545" y="249.35" type="curve" smooth="yes"/>
-      <point x="516.545" y="382"/>
-      <point x="435.06" y="498.542"/>
-      <point x="255.035" y="498.542" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="246.507" y="32.3725" type="curve" smooth="yes"/>
-      <point x="240.822" y="32.3725" type="line" smooth="yes"/>
-      <point x="224.715" y="32.3725"/>
-      <point x="188.71" y="37.11"/>
-      <point x="188.71" y="58.9025" type="curve" smooth="yes"/>
-      <point x="188.71" y="440.745" type="line" smooth="yes"/>
-      <point x="188.71" y="461.59"/>
-      <point x="225.662" y="466.327"/>
-      <point x="240.822" y="466.327" type="curve" smooth="yes"/>
-      <point x="246.507" y="466.327" type="line" smooth="yes"/>
-      <point x="358.312" y="466.327"/>
-      <point x="405.687" y="406.635"/>
-      <point x="405.687" y="249.35" type="curve" smooth="yes"/>
-      <point x="405.687" y="92.065"/>
-      <point x="358.312" y="32.3725"/>
-    </contour>
+    <component base="d"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
   <string>dcroat</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>fdded0e7513df74880a848b713629d53a0581cc0043460df4e9daf817eee844511aa02cdeb87c013236570284d7c1595c511b3fbfa9c05a6ea634badd42832a3</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 3 26.53</string>
-          <string>hstem 469.17 26.53</string>
-          <string>vstem 100.59 85.27</string>
-          <string>vstem 408.53 105.17</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

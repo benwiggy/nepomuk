@@ -581,6 +581,10 @@
     <string>tbar.smcp</string>
     <string>uhungarumlaut.smcp</string>
     <string>uogonek.smcp</string>
+    <string>acaron</string>
+    <string>icaron</string>
+    <string>ocaron</string>
+    <string>ucaron</string>
   </array>
 </dict>
 </plist>

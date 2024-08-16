@@ -104,7 +104,7 @@
     <contour>
       <point x="60" y="516" type="curve" smooth="yes"/>
       <point x="60" y="421"/>
-      <point x="122" y="338" name=".hr01"/>
+      <point x="122" y="338"/>
       <point x="203" y="338" type="curve" smooth="yes"/>
       <point x="284" y="338"/>
       <point x="346" y="421"/>
@@ -122,68 +122,4 @@
       <point x="190" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>dfc381c0a00fd7156b654a2fa56c8f9a900ecee41cd61148d4d904df41a9a11d353ef522e51b56d4cb9e0274cd4e97aace4168172752382ec06fc5e82a79bd48</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 1150 87</string>
-          <string>hstem 317 26</string>
-          <string>vstem 1349 87</string>
-          <string>hstem -12 26</string>
-          <string>vstem 800 87</string>
-          <string>vstem 999 87</string>
-          <string>vstem 450 87</string>
-          <string>vstem 649 87</string>
-          <string>vstem 60 87</string>
-          <string>hstem 667 26</string>
-          <string>vstem 259 87</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 338 26</string>
-          <string>vstem 60 87</string>
-          <string>vstem 259 87</string>
-          <string>hstem 667 26</string>
-          <string>hstem -12 26</string>
-          <string>vstem 450 87</string>
-          <string>vstem 649 87</string>
-          <string>vstem 800 87</string>
-          <string>vstem 999 87</string>
-          <string>vstem 1150 87</string>
-          <string>vstem 1349 87</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 680 -20</string>
-          <string>hstem 21 -21</string>
-          <string>hstem 317 26</string>
-          <string>vstem 60 87</string>
-          <string>vstem 259 87</string>
-          <string>vstem 450 87</string>
-          <string>vstem 649 87</string>
-          <string>vstem 800 87</string>
-          <string>vstem 999 87</string>
-          <string>vstem 1150 87</string>
-          <string>vstem 1349 87</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

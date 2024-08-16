@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wdieresis.smcp" format="2">
-  <advance width="675"/>
+  <advance width="672"/>
   <outline>
     <component base="w.smcp"/>
-    <component base="dieresis" xOffset="189"/>
+    <component base="dieresis" xOffset="187"/>
   </outline>
   <lib>
   <dict>

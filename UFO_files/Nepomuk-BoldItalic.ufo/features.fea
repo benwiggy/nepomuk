@@ -836,9 +836,7 @@ feature kern {
     pos @_krW @_kru -33;
     pos @_krW @_kry -10;
     pos @_krW @_krf2 -56;
-  lookupflag 0;
   } KERN_LTR;
 
-  lookup KERN_LTR;
 #< feature
 } kern;

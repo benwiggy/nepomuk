@@ -103,36 +103,13 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 303 22</string>
-          <string>hstem 437 24</string>
-          <string>vstem 760 65</string>
-          <string>hstem 60 48</string>
-          <string>vstem 566 94</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>hstem 11 60</string>
-          <string>hstem 303 22</string>
-          <string>hstem 437 24</string>
-          <string>vstem 566 94</string>
-          <string>vstem 760 65</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.105553178210416</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>hstem 60 48</string>
-          <string>vstem 760 65</string>
+          <string>hstem 303 22</string>
           <string>hstem 437 24</string>
           <string>vstem 566 94</string>
-          <string>hstem 303 22</string>
+          <string>vstem 760 65</string>
         </array>
-        <key>pointTag</key>
-        <string>._.105553178211216</string>
       </dict>
     </array>
   </dict>

@@ -2,8 +2,6 @@
 <glyph name="ae" format="2">
   <advance width="822"/>
   <unicode hex="00E6"/>
-  <anchor x="536" y="541" name="t.dieresis"/>
-  <anchor x="536" y="527" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="351" y="0" type="line"/>
@@ -74,52 +72,4 @@
       <point x="252" y="181" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>aec8400de402f7cec3607bc0e1dbfe43ce9b1040dc8e0b3414d6547cdb1a779bca3548af9548dbd7462a333f4a8902b3ea557cd9c057e3547b9ee91262dce6a6</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 26</string>
-          <string>vstem 425 86</string>
-          <string>hstem 236 25</string>
-          <string>hstem 156 25</string>
-          <string>hstem 464 26</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 425 231</string>
-          <string>hstem 236 25</string>
-          <string>hstem 0 26</string>
-          <string>hstem 156 25</string>
-          <string>hstem 464 26</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.105553179455200</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 236 25</string>
-          <string>vstem 425 86</string>
-          <string>hstem 464 26</string>
-          <string>hstem 0 26</string>
-          <string>hstem 156 25</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.105553179453920</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

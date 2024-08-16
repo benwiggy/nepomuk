@@ -6,7 +6,7 @@
   <anchor x="261" y="530" name="t.asciicircum_1"/>
   <outline>
     <component base="o"/>
-    <component base="breve" xOffset="135"/>
+    <component base="breve" xOffset="134.5"/>
   </outline>
   <lib>
   <dict>

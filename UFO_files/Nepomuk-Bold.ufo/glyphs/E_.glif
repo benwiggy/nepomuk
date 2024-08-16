@@ -68,8 +68,8 @@
           <string>hstem 5 42.37</string>
           <string>hstem 321.28 45.32</string>
           <string>hstem 447.4 227.6</string>
-          <string>hstem 632.63 42.37</string>
-          <string>vstem 133.38 134.34</string>
+          <string>hstem 632.64 42.37</string>
+          <string>vstem 133.37 134.34</string>
         </array>
       </dict>
     </array>

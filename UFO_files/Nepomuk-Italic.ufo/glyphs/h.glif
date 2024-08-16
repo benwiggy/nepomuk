@@ -9,7 +9,7 @@
       <point x="104" y="662" type="line"/>
       <point x="94" y="632" type="line"/>
       <point x="152" y="632"/>
-      <point x="190" y="632"/>
+      <point x="190.163" y="631.947"/>
       <point x="172" y="576" type="curve" smooth="yes"/>
       <point x="-15" y="0" type="line"/>
       <point x="75" y="0" type="line"/>
@@ -22,7 +22,7 @@
       <point x="311" y="269" type="curve" smooth="yes"/>
       <point x="262" y="138" type="line" smooth="yes"/>
       <point x="230" y="55"/>
-      <point x="249" y="-12" name=".hr01"/>
+      <point x="249" y="-12"/>
       <point x="319" y="-12" type="curve" smooth="yes"/>
       <point x="387" y="-12"/>
       <point x="436" y="58"/>
@@ -49,26 +49,17 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>4837b05f20d5cacf9d397c543e73131ca05e035e1125a2e615177ca885b0a5f827d4e4e86229a5920e57debd97ba6619d1db5f3499b3826413a0beacd1b70177</string>
+    <string>40b6e2ea747aaee7eac5ad552b2fecabc982cfd072cf50f635961fd39f415021dd9817a7b7b3167424299b2d9b404e2fcd0b364d00eabf2c31706fc70b701664</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 632 36</string>
+          <string>hstem -12 44</string>
           <string>hstem 21 -21</string>
           <string>hstem 424 38</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -12 44</string>
-          <string>hstem 424 38</string>
           <string>hstem 632 36</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
       </dict>
     </array>
   </dict>

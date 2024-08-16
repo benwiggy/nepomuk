@@ -256,6 +256,8 @@
   <string>aacute.glif</string>
   <key>abreve</key>
   <string>abreve.glif</string>
+  <key>acaron</key>
+  <string>acaron.glif</string>
   <key>acircumflex</key>
   <string>acircumflex.glif</string>
   <key>acute</key>
@@ -490,6 +492,8 @@
   <string>iacute.glif</string>
   <key>ibreve</key>
   <string>ibreve.glif</string>
+  <key>icaron</key>
+  <string>icaron.glif</string>
   <key>icircumflex</key>
   <string>icircumflex.glif</string>
   <key>idieresis</key>
@@ -580,6 +584,8 @@
   <string>oacute.glif</string>
   <key>obreve</key>
   <string>obreve.glif</string>
+  <key>ocaron</key>
+  <string>ocaron.glif</string>
   <key>ocircumflex</key>
   <string>ocircumflex.glif</string>
   <key>odieresis</key>
@@ -766,6 +772,8 @@
   <string>uacute.glif</string>
   <key>ubreve</key>
   <string>ubreve.glif</string>
+  <key>ucaron</key>
+  <string>ucaron.glif</string>
   <key>ucircumflex</key>
   <string>ucircumflex.glif</string>
   <key>udieresis</key>
