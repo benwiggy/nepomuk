@@ -8,8 +8,8 @@ The text is deliberately 'quite tight', so that it can be used for lyrics withou
 
 The accidentals can be accessed using the ligatures $b, $n, and $s, or directly using their Unicode values U+266D - U+266F).
 
-v2.08: Fix to grave accent in Bold Italic; addition of vowel carons.
-v2.07: Fixes to Windows naming; addition of most European diacritics and other characters.
+v2.08: Fix to grave accent in Bold Italic; addition of vowel carons.  
+v2.07: Fixes to Windows naming; addition of most European diacritics and other characters.  
 v2.01: More improvements to kerning; Small Caps have been added to Regular and Bold styles.  
 v2.02: More kerning revisions! Also Unicode Roman Numerals to Regular and Italic styles.
 
