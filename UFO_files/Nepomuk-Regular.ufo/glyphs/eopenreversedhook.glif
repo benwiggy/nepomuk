@@ -104,6 +104,29 @@
   <dict>
   <key>public.markColor</key>
   <string>0.6,0.602,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>b9b3b2776784ad2936ba08ef215d3955fd2e2b65b4309ac5b791d0f5bb5d763702d677283b60646fd752ed2a4af9e93c5f67338cd3fc97057dc0a11786231ff9</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -15 54</string>
+          <string>hstem 226 124</string>
+          <string>hstem 226 37</string>
+          <string>hstem 231 52</string>
+          <string>hstem 452 48</string>
+          <string>vstem 30 106</string>
+          <string>vstem 279 85</string>
+          <string>vstem 290 84</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

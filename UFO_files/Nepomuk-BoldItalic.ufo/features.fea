@@ -326,7 +326,6 @@ feature mark {
   lookup markLTR;
 } mark;
 feature kern {
-#> feature
   @_krA = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde];
   @_krE = [E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron];
   @_krC = [C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent];
@@ -351,6 +350,13 @@ feature kern {
     pos quotesingle Atilde -38;
     pos quotesingle Adieresis -38;
     pos quotesingle Aring -38;
+    pos parenleft f 86;
+    pos parenleft j 28;
+    pos parenleft fl 86;
+    pos parenleft fi 86;
+    pos parenleft f_f 86;
+    pos parenleft f_f_i 86;
+    pos parenleft f_f_l 86;
     pos hyphen W -95;
     pos hyphen Y -30;
     pos hyphen Wcircumflex -95;
@@ -695,7 +701,7 @@ feature kern {
     pos a quotesingle -164;
     pos b quotesingle -69;
     pos f exclam 77;
-    pos f parenright 65;
+    pos f parenright 83;
     pos f comma -38;
     pos f question 112;
     pos f b 105;
@@ -713,6 +719,7 @@ feature kern {
     pos g f_f_i 57;
     pos g f_f_l 57;
     pos h quotesingle -78;
+    pos j parenright -26;
     pos j f 60;
     pos j fl 60;
     pos j fi 60;
@@ -723,6 +730,7 @@ feature kern {
     pos n quotesingle -167;
     pos o quotesingle -171;
     pos p quotesingle -166;
+    pos p parenright -34;
     pos p f 39;
     pos p fl 39;
     pos p fi 39;
@@ -838,5 +846,4 @@ feature kern {
     pos @_krW @_krf2 -56;
   } KERN_LTR;
 
-#< feature
 } kern;

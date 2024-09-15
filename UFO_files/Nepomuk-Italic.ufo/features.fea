@@ -388,7 +388,6 @@ feature hlig {
 #< feature
 } hlig;
 feature kern {
-#> feature
   @_krA = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde];
   @_krE = [E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron];
   @_krO = [O Oacute Obreve Ocircumflex Odieresis Ograve Omacron Oslash Otilde];
@@ -411,7 +410,14 @@ feature kern {
     pos quotesingle Amacron -78;
     pos quotesingle Abreve -78;
     pos parenleft J -72;
-    pos parenleft j -26;
+    pos parenleft f 90;
+    pos parenleft j 37;
+    pos parenleft q -38;
+    pos parenleft fl 90;
+    pos parenleft f_f_i 90;
+    pos parenleft f_f_l 90;
+    pos parenleft f_f 90;
+    pos parenleft fi 90;
     pos hyphen A -57;
     pos hyphen T -15;
     pos hyphen V -87;
@@ -841,6 +847,13 @@ feature kern {
     pos Y Cdotaccent -12;
     pos Y Omacron -12;
     pos Y Obreve -12;
+    pos bracketleft f 133;
+    pos bracketleft j 80;
+    pos bracketleft fl 133;
+    pos bracketleft f_f_i 133;
+    pos bracketleft f_f_l 133;
+    pos bracketleft f_f 133;
+    pos bracketleft fi 133;
     pos a quotesingle -87;
     pos a quoteright -10;
     pos b quotesingle -94;
@@ -853,6 +866,7 @@ feature kern {
     pos f parenright 60;
     pos f comma -124;
     pos f question 112;
+    pos f bracketright 90;
     pos f a -38;
     pos f b 140;
     pos f c -38;
@@ -912,6 +926,7 @@ feature kern {
     pos j f_f 60;
     pos j fi 60;
     pos k hyphen -42;
+    pos k braceright -37;
     pos m quotesingle -87;
     pos m f -38;
     pos m j -38;
@@ -960,6 +975,13 @@ feature kern {
     pos y period -21;
     pos y g -14;
     pos y j -18;
+    pos braceleft f 60;
+    pos braceleft j 47;
+    pos braceleft fl 60;
+    pos braceleft f_f_i 60;
+    pos braceleft f_f_l 60;
+    pos braceleft f_f 60;
+    pos braceleft fi 60;
     pos Aring quotesingle -87;
     pos Aring U -19;
     pos Aring V -87;
@@ -1221,9 +1243,6 @@ feature kern {
     pos @_krW @_krA -128;
     pos @_krW @_krC -8;
     pos @_krW @_krO -9;
-  lookupflag 0;
   } KERN_LTR;
 
-  lookup KERN_LTR;
-#< feature
 } kern;

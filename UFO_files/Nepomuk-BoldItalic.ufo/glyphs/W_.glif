@@ -2,6 +2,7 @@
 <glyph name="W" format="2">
   <advance width="969"/>
   <unicode hex="0057"/>
+  <anchor x="626" y="724" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="130" y="636" type="line"/>

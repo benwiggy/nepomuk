@@ -324,6 +324,20 @@
     <key>quotesingle</key>
     <integer>-94</integer>
   </dict>
+  <key>braceleft</key>
+  <dict>
+    <key>j</key>
+    <integer>47</integer>
+    <key>public.kern2.krf2</key>
+    <integer>60</integer>
+  </dict>
+  <key>bracketleft</key>
+  <dict>
+    <key>j</key>
+    <integer>80</integer>
+    <key>public.kern2.krf2</key>
+    <integer>133</integer>
+  </dict>
   <key>d</key>
   <dict>
     <key>j</key>
@@ -342,6 +356,8 @@
     <integer>-49</integer>
     <key>b</key>
     <integer>140</integer>
+    <key>bracketright</key>
+    <integer>90</integer>
     <key>c</key>
     <integer>-38</integer>
     <key>comma</key>
@@ -432,6 +448,8 @@
   </dict>
   <key>k</key>
   <dict>
+    <key>braceright</key>
+    <integer>-37</integer>
     <key>hyphen</key>
     <integer>-42</integer>
   </dict>
@@ -469,7 +487,11 @@
     <key>J</key>
     <integer>-72</integer>
     <key>j</key>
-    <integer>-26</integer>
+    <integer>37</integer>
+    <key>q</key>
+    <integer>-38</integer>
+    <key>public.kern2.krf2</key>
+    <integer>90</integer>
   </dict>
   <key>period</key>
   <dict>

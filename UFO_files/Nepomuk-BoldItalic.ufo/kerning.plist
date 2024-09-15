@@ -262,7 +262,7 @@
     <key>k</key>
     <integer>98</integer>
     <key>parenright</key>
-    <integer>65</integer>
+    <integer>83</integer>
     <key>question</key>
     <integer>112</integer>
     <key>quotedblleft</key>
@@ -293,6 +293,8 @@
   </dict>
   <key>j</key>
   <dict>
+    <key>parenright</key>
+    <integer>-26</integer>
     <key>public.kern2.krf2</key>
     <integer>60</integer>
   </dict>
@@ -308,10 +310,19 @@
   </dict>
   <key>p</key>
   <dict>
+    <key>parenright</key>
+    <integer>-34</integer>
     <key>quotesingle</key>
     <integer>-166</integer>
     <key>public.kern2.krf2</key>
     <integer>39</integer>
+  </dict>
+  <key>parenleft</key>
+  <dict>
+    <key>j</key>
+    <integer>28</integer>
+    <key>public.kern2.krf2</key>
+    <integer>86</integer>
   </dict>
   <key>period</key>
   <dict>

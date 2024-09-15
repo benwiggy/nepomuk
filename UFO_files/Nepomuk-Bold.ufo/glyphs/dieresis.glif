@@ -2,6 +2,7 @@
 <glyph name="dieresis" format="2">
   <advance width="298"/>
   <unicode hex="00A8"/>
+  <anchor x="149" y="530" name="_t.dieresis"/>
   <outline>
     <contour>
       <point x="191" y="588" type="curve" smooth="yes"/>
@@ -32,4 +33,26 @@
       <point x="-3" y="617"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>fcd87568ae5756e24891856f5c887d7d0c328bc55750387f171bc37a30e58a63ceb24c153921330836a56df239a2bbeacde6085f1187580769cd596985e5c90e</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 536 104</string>
+          <string>vstem -3 110</string>
+          <string>vstem 191 110</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

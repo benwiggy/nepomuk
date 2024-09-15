@@ -8,10 +8,10 @@
       <point x="-80" y="-137" type="line"/>
       <point x="-90" y="-179" type="line"/>
       <point x="118" y="-179" type="line"/>
-      <point x="345" y="740" type="line"/>
-      <point x="117" y="740" type="line"/>
-      <point x="107" y="698" type="line"/>
-      <point x="261" y="698" type="line"/>
+      <point x="371.498" y="760" type="line"/>
+      <point x="143.498" y="760" type="line"/>
+      <point x="133.498" y="718" type="line"/>
+      <point x="287.498" y="718" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -21,14 +21,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w292m54,-137l-80,-137l-90,-179l118,-179l345,740l117,740l107,698l261,698</string>
+    <string>w292m54,-137l-80,-137l-90,-179l118,-179l371.5,760l143.5,760l133.5,718l287.5,718</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem -179 42</string>
-          <string>hstem 698 42</string>
+          <string>hstem 718 42</string>
         </array>
       </dict>
     </array>

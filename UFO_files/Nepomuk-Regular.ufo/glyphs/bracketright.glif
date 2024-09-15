@@ -6,13 +6,13 @@
     <contour>
       <point x="40" y="-179" type="line"/>
       <point x="253" y="-179" type="line"/>
-      <point x="253" y="740" type="line"/>
-      <point x="40" y="740" type="line"/>
-      <point x="40" y="705" type="line"/>
-      <point x="133" y="705" type="line" smooth="yes"/>
-      <point x="168" y="705"/>
-      <point x="183" y="691"/>
-      <point x="183" y="656" type="curve" smooth="yes"/>
+      <point x="253" y="760" type="line"/>
+      <point x="40" y="760" type="line"/>
+      <point x="40" y="725" type="line"/>
+      <point x="133" y="725" type="line" smooth="yes"/>
+      <point x="168" y="725"/>
+      <point x="183" y="711"/>
+      <point x="183" y="676" type="curve" smooth="yes"/>
       <point x="183" y="-95" type="line" smooth="yes"/>
       <point x="183" y="-130"/>
       <point x="168" y="-144"/>
@@ -27,7 +27,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w288m40,-179l253,-179l253,740l40,740l40,705l133,705c168,705 183,691 183,656l183,-95c183,-130 168,-144 133,-144l40,-144</string>
+    <string>w288m40,-179l253,-179l253,760l40,760l40,725l133,725c168,725 183,711 183,676l183,-95c183,-130 168,-144 133,-144l40,-144</string>
     <key>hintSetList</key>
     <array>
       <dict>

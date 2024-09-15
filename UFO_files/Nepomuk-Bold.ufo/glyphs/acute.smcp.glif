@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acute.smcp" format="2">
   <advance width="212"/>
+  <anchor x="106" y="530" name="_t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="79" y="706" type="line"/>
@@ -14,4 +15,24 @@
       <point x="220" y="706" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w212m79,706c61,659 19,590 -13,551l-2,522c67,561 185,649 226,689l220,706</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 706 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

@@ -1,3 +1,10 @@
+#> classes
+#/> otclasses
+@ss01 = [A B C D E F G H I J K L M N O P Q R S T U V W X Y Z];
+@ss012 = [A.alt B.alt C.alt D.alt E.alt F.alt G.alt H.alt I.alt J.alt K.alt L.alt M.alt N.alt O.alt P.alt Q.alt R.alt S.alt T.alt U.alt V.alt W.alt X.alt Y.alt Z.alt];
+#/< otclasses
+#< classes
+
 #/> classes
 #/> otclasses
 @ss01 = [A B C D E F G H I J K L M N O P Q R S T U V W X Y Z];
@@ -263,6 +270,7 @@ feature smcp {
   sub jcircumflex by jcircumflex.smcp;
   sub k by k.smcp;
   sub kcommaaccent by kcommaaccent.smcp;
+  sub kgreenlandic by kgreenlandic.smcp;
   sub l by l.smcp;
   sub lacute by lacute.smcp;
   sub lcaron by lcaron.smcp;
@@ -524,12 +532,55 @@ feature mark {
 
 
 } mark;
+feature locl {
+# Localized Forms
+
+#> feature
+  script latn; # Latin
+  language MOL; # Moldavian
+  sub Scedilla by Scommaaccent;
+  sub Tcedilla by Tcommaaccent;
+  sub scedilla by scommaaccent;
+  sub tcedilla by tcommaaccent;
+
+  language ROM; # Romanian
+  sub Scedilla by Scommaaccent;
+  sub Tcedilla by Tcommaaccent;
+  sub scedilla by scommaaccent;
+  sub tcedilla by tcommaaccent;
+#< feature
+} locl;
+feature sups {
+# Superscript
+
+#> feature
+  sub one by onesuperior;
+  sub three by threesuperior;
+  sub two by twosuperior;
+#< feature
+} sups;
+feature ordn {
+# Ordinals
+
+#> feature
+  sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+  sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+  sub N o period by numero;
+#< feature
+} ordn;
+feature c2sc {
+# Capitals to Small Caps
+
+#> feature
+  sub grave by grave.c2sc;
+#< feature
+} c2sc;
 feature kern {
   @_krA = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde];
   @_krC = [C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent];
   @_kra = [a aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde];
   @_krO = [O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde];
-  @_kro = [o oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde];
+  @_kro = [o oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron oslash];
   @_kry = [y yacute ycircumflex ydieresis ygrave];
   @_krpunct1 = [comma period];
   @_kr_aSC = [a.smcp aacute.smcp acircumflex.smcp adieresis.smcp agrave.smcp aring.smcp atilde.smcp];
@@ -558,6 +609,10 @@ feature kern {
     pos quotesingle Amacron -117;
     pos quotesingle Abreve -117;
     pos quotesingle Aogonek -117;
+    pos parenleft b 29;
+    pos parenleft f -25;
+    pos parenleft j 29;
+    pos parenleft p 19;
     pos comma V -132;
     pos comma Y -117;
     pos hyphen A -34;
@@ -609,7 +664,6 @@ feature kern {
     pos B agrave -17;
     pos B acircumflex -17;
     pos B adieresis -17;
-    pos B atilde -17;
     pos B aring -17;
     pos B eacute -11;
     pos B egrave -11;
@@ -641,6 +695,7 @@ feature kern {
     pos B aogonek -17;
     pos B eogonek -11;
     pos B rcommaaccent -20;
+    pos B atilde -17;
     pos D V -105;
     pos D Y -18;
     pos D AE -36;
@@ -671,7 +726,6 @@ feature kern {
     pos F agrave -12;
     pos F acircumflex -12;
     pos F adieresis -12;
-    pos F atilde -12;
     pos F aring -12;
     pos F eacute -18;
     pos F egrave -18;
@@ -681,7 +735,6 @@ feature kern {
     pos F ograve -42;
     pos F ocircumflex -42;
     pos F odieresis -42;
-    pos F otilde -42;
     pos F Adieresis -87;
     pos F Amacron -87;
     pos F amacron -12;
@@ -720,6 +773,7 @@ feature kern {
     pos F Aogonek -87;
     pos F aogonek -12;
     pos F eogonek -18;
+    pos F atilde -12;
     pos G A -8;
     pos G Aring -8;
     pos G AE -19;
@@ -803,7 +857,6 @@ feature kern {
     pos J agrave -6;
     pos J acircumflex -6;
     pos J adieresis -6;
-    pos J atilde -6;
     pos J aring -6;
     pos J amacron -6;
     pos J abreve -6;
@@ -824,6 +877,7 @@ feature kern {
     pos J oslash.smcp -20;
     pos J aring.smcp -74;
     pos J aogonek -6;
+    pos J atilde -6;
     pos K hyphen -56;
     pos K C -12;
     pos K G -12;
@@ -884,7 +938,6 @@ feature kern {
     pos M icircumflex -10;
     pos M idieresis -10;
     pos M imacron -10;
-    pos M itilde -10;
     pos M o.smcp -48;
     pos M ograve.smcp -48;
     pos M oacute.smcp -48;
@@ -895,6 +948,7 @@ feature kern {
     pos M obreve.smcp -48;
     pos M oslash.smcp -48;
     pos M iogonek -10;
+    pos M itilde -10;
     pos N a -45;
     pos N c -33;
     pos N d -38;
@@ -928,7 +982,6 @@ feature kern {
     pos N agrave -45;
     pos N acircumflex -45;
     pos N adieresis -45;
-    pos N atilde -45;
     pos N aring -45;
     pos N eacute -33;
     pos N egrave -33;
@@ -942,7 +995,6 @@ feature kern {
     pos N ograve -33;
     pos N ocircumflex -33;
     pos N odieresis -33;
-    pos N otilde -33;
     pos N uacute -8;
     pos N ugrave -8;
     pos N ucircumflex -8;
@@ -963,7 +1015,6 @@ feature kern {
     pos N edotaccent -33;
     pos N uring -8;
     pos N wcircumflex -11;
-    pos N itilde -7;
     pos N a.smcp -84;
     pos N i.smcp -46;
     pos N o.smcp -46;
@@ -1004,6 +1055,8 @@ feature kern {
     pos N eogonek -33;
     pos N iogonek -7;
     pos N rcommaaccent -12;
+    pos N atilde -45;
+    pos N itilde -7;
     pos O V -9;
     pos O X -15;
     pos O Y -18;
@@ -1029,7 +1082,6 @@ feature kern {
     pos P agrave -10;
     pos P acircumflex -10;
     pos P adieresis -10;
-    pos P atilde -10;
     pos P aring -10;
     pos P eacute -16;
     pos P egrave -16;
@@ -1039,7 +1091,6 @@ feature kern {
     pos P ograve -56;
     pos P ocircumflex -56;
     pos P odieresis -56;
-    pos P otilde -56;
     pos P Adieresis -76;
     pos P Amacron -76;
     pos P amacron -10;
@@ -1070,6 +1121,7 @@ feature kern {
     pos P Aogonek -76;
     pos P aogonek -10;
     pos P eogonek -16;
+    pos P atilde -10;
     pos Q comma -39;
     pos Q period -39;
     pos Q A -11;
@@ -1140,7 +1192,6 @@ feature kern {
     pos U agrave -19;
     pos U acircumflex -19;
     pos U adieresis -19;
-    pos U atilde -19;
     pos U aring -19;
     pos U eacute -14;
     pos U egrave -14;
@@ -1150,7 +1201,6 @@ feature kern {
     pos U ograve -15;
     pos U ocircumflex -15;
     pos U odieresis -15;
-    pos U otilde -15;
     pos U Adieresis -110;
     pos U Amacron -110;
     pos U amacron -19;
@@ -1182,6 +1232,7 @@ feature kern {
     pos U Aogonek -110;
     pos U aogonek -19;
     pos U eogonek -14;
+    pos U atilde -19;
     pos V comma -140;
     pos V hyphen -86;
     pos V period -140;
@@ -1236,7 +1287,6 @@ feature kern {
     pos V agrave -72;
     pos V acircumflex -72;
     pos V adieresis -72;
-    pos V atilde -72;
     pos V aring -72;
     pos V eacute -79;
     pos V egrave -79;
@@ -1246,7 +1296,6 @@ feature kern {
     pos V ograve -95;
     pos V ocircumflex -95;
     pos V odieresis -95;
-    pos V otilde -95;
     pos V uacute -7;
     pos V ugrave -7;
     pos V ucircumflex -7;
@@ -1325,6 +1374,7 @@ feature kern {
     pos V aogonek -72;
     pos V eogonek -79;
     pos V rcommaaccent -17;
+    pos V atilde -72;
     pos W hyphen -70;
     pos W colon -44;
     pos W semicolon -67;
@@ -1431,7 +1481,6 @@ feature kern {
     pos Y agrave -49;
     pos Y acircumflex -49;
     pos Y adieresis -49;
-    pos Y atilde -49;
     pos Y aring -49;
     pos Y eacute -48;
     pos Y egrave -48;
@@ -1445,7 +1494,6 @@ feature kern {
     pos Y ograve -57;
     pos Y ocircumflex -57;
     pos Y odieresis -57;
-    pos Y otilde -57;
     pos Y uacute -7;
     pos Y ugrave -7;
     pos Y ucircumflex -7;
@@ -1471,7 +1519,6 @@ feature kern {
     pos Y edotaccent -48;
     pos Y uring -7;
     pos Y wcircumflex -7;
-    pos Y itilde -7;
     pos Y a.smcp -114;
     pos Y e.smcp -59;
     pos Y o.smcp -89;
@@ -1517,6 +1564,9 @@ feature kern {
     pos Y eogonek -48;
     pos Y iogonek -7;
     pos Y rcommaaccent -7;
+    pos Y atilde -49;
+    pos Y itilde -7;
+    pos bracketleft j 40;
     pos a quotesingle -37;
     pos a v -19;
     pos a quoteright -18;
@@ -1524,7 +1574,9 @@ feature kern {
     pos b j -8;
     pos e v -26;
     pos f exclam 55;
+    pos f parenright 32;
     pos f question 98;
+    pos f bracketright 20;
     pos f a -8;
     pos f b 101;
     pos f c 9;
@@ -1545,7 +1597,6 @@ feature kern {
     pos f agrave -8;
     pos f acircumflex -8;
     pos f adieresis -8;
-    pos f atilde -8;
     pos f aring -8;
     pos f eacute -19;
     pos f egrave -19;
@@ -1555,7 +1606,6 @@ feature kern {
     pos f ograve -19;
     pos f ocircumflex -19;
     pos f odieresis -19;
-    pos f otilde -19;
     pos f amacron -8;
     pos f emacron -19;
     pos f omacron -19;
@@ -1566,6 +1616,7 @@ feature kern {
     pos f ohungarumlaut -19;
     pos f aogonek -8;
     pos f eogonek -19;
+    pos f atilde -8;
     pos g comma -44;
     pos g period -44;
     pos g o -28;
@@ -1574,7 +1625,6 @@ feature kern {
     pos g ograve -28;
     pos g ocircumflex -28;
     pos g odieresis -28;
-    pos g otilde -28;
     pos g omacron -28;
     pos g obreve -28;
     pos g ohungarumlaut -28;
@@ -1599,6 +1649,7 @@ feature kern {
     pos h ygrave -8;
     pos h uogonek -9;
     pos h uhungarumlaut -9;
+    pos j parenright 32;
     pos j a -23;
     pos j s -9;
     pos j z -11;
@@ -1607,11 +1658,11 @@ feature kern {
     pos j agrave -23;
     pos j acircumflex -23;
     pos j adieresis -23;
-    pos j atilde -23;
     pos j aring -23;
     pos j amacron -23;
     pos j abreve -23;
     pos j aogonek -23;
+    pos j atilde -23;
     pos k hyphen -39;
     pos m quotesingle -29;
     pos m t -9;
@@ -1659,6 +1710,7 @@ feature kern {
     pos o quotesingle -20;
     pos o j -8;
     pos p quotesingle -19;
+    pos q parenright 42;
     pos r t 24;
     pos v comma -55;
     pos v hyphen -11;
@@ -1678,7 +1730,6 @@ feature kern {
     pos v ograve -29;
     pos v ocircumflex -29;
     pos v odieresis -29;
-    pos v otilde -29;
     pos v emacron -8;
     pos v omacron -29;
     pos v ebreve -8;
@@ -1747,7 +1798,6 @@ feature kern {
     pos quoteleft agrave -17;
     pos quoteleft acircumflex -17;
     pos quoteleft adieresis -17;
-    pos quoteleft atilde -17;
     pos quoteleft aring -17;
     pos quoteleft eacute -26;
     pos quoteleft egrave -26;
@@ -1757,7 +1807,6 @@ feature kern {
     pos quoteleft ograve -95;
     pos quoteleft ocircumflex -95;
     pos quoteleft odieresis -95;
-    pos quoteleft otilde -95;
     pos quoteleft Adieresis -130;
     pos quoteleft Amacron -130;
     pos quoteleft amacron -17;
@@ -1775,6 +1824,7 @@ feature kern {
     pos quoteleft Aogonek -130;
     pos quoteleft aogonek -17;
     pos quoteleft eogonek -26;
+    pos quoteleft atilde -17;
     pos quotesinglbase T -46;
     pos quotesinglbase U -23;
     pos quotesinglbase V -128;
@@ -1809,11 +1859,11 @@ feature kern {
     pos eth agrave -14;
     pos eth acircumflex -14;
     pos eth adieresis -14;
-    pos eth atilde -14;
     pos eth aring -14;
     pos eth amacron -14;
     pos eth abreve -14;
     pos eth aogonek -14;
+    pos eth atilde -14;
     pos rcaron t 24;
     pos ecaron v -26;
     pos Aacute quotesingle -93;
@@ -1884,9 +1934,6 @@ feature kern {
     pos adieresis quotesingle -37;
     pos adieresis v -19;
     pos adieresis quoteright -18;
-    pos atilde quotesingle -37;
-    pos atilde v -19;
-    pos atilde quoteright -18;
     pos aring quotesingle -37;
     pos aring v -19;
     pos aring quoteright -18;
@@ -1902,8 +1949,6 @@ feature kern {
     pos ocircumflex j -8;
     pos odieresis quotesingle -20;
     pos odieresis j -8;
-    pos otilde quotesingle -20;
-    pos otilde j -8;
     pos yacute hyphen -15;
     pos yacute g -17;
     pos Adieresis quotesingle -93;
@@ -1930,7 +1975,6 @@ feature kern {
     pos longs agrave -76;
     pos longs acircumflex -76;
     pos longs adieresis -76;
-    pos longs atilde -76;
     pos longs aring -76;
     pos longs eacute -50;
     pos longs egrave -50;
@@ -1940,7 +1984,6 @@ feature kern {
     pos longs ograve -62;
     pos longs ocircumflex -62;
     pos longs odieresis -62;
-    pos longs otilde -62;
     pos longs uacute -20;
     pos longs ugrave -20;
     pos longs ucircumflex -20;
@@ -1961,6 +2004,7 @@ feature kern {
     pos longs uhungarumlaut -20;
     pos longs aogonek -76;
     pos longs eogonek -50;
+    pos longs atilde -76;
     pos Amacron quotesingle -93;
     pos Amacron hyphen -19;
     pos Amacron G -8;
@@ -2229,6 +2273,9 @@ feature kern {
     pos Tcommaaccent semicolon -11;
     pos Tcommaaccent AE -34;
     pos rcommaaccent t 24;
+    pos atilde quotesingle -37;
+    pos atilde v -19;
+    pos atilde quoteright -18;
   subtable;
     pos @_krA @_krC -60;
     pos @_krA @_krO -31;
@@ -2281,51 +2328,6 @@ feature kern {
     pos @_krw @_kre -8;
     pos @_krw @_kro -22;
     pos @_krw @_krpunct1 -40;
-  lookupflag 0;
   } KERN_LTR;
 
-  lookup KERN_LTR;
 } kern;
-feature locl {
-# Localized Forms
-
-#> feature
-  script latn; # Latin
-  language MOL; # Moldavian
-  sub Scedilla by Scommaaccent;
-  sub Tcedilla by Tcommaaccent;
-  sub scedilla by scommaaccent;
-  sub tcedilla by tcommaaccent;
-
-  language ROM; # Romanian
-  sub Scedilla by Scommaaccent;
-  sub Tcedilla by Tcommaaccent;
-  sub scedilla by scommaaccent;
-  sub tcedilla by tcommaaccent;
-#< feature
-} locl;
-feature sups {
-# Superscript
-
-#> feature
-  sub one by onesuperior;
-  sub three by threesuperior;
-  sub two by twosuperior;
-#< feature
-} sups;
-feature ordn {
-# Ordinals
-
-#> feature
-  sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
-  sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
-  sub N o period by numero;
-#< feature
-} ordn;
-feature c2sc {
-# Capitals to Small Caps
-
-#> feature
-  sub grave by grave.c2sc;
-#< feature
-} c2sc;
