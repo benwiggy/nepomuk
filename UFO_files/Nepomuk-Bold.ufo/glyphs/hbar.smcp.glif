@@ -2,12 +2,12 @@
 <glyph name="hbar.smcp" format="2">
   <advance width="572"/>
   <outline>
-    <component base="h.smcp"/>
+    <component base="h.smcp" xOffset="-11"/>
     <contour>
-      <point x="58" y="353" type="line"/>
-      <point x="58" y="393" type="line"/>
-      <point x="517" y="393" type="line"/>
-      <point x="562" y="393" type="line"/>
+      <point x="28" y="353" type="line"/>
+      <point x="28" y="383" type="line"/>
+      <point x="517" y="383" type="line"/>
+      <point x="562" y="383" type="line"/>
       <point x="562" y="353" type="line"/>
     </contour>
   </outline>
@@ -20,7 +20,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w572m58,353l58,393l517,393l562,393l562,353</string>
+    <string>w572m28,353l28,383l517,383l562,383l562,353</string>
     <key>hintSetList</key>
     <array>
       <dict>

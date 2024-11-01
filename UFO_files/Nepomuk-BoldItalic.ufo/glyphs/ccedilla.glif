@@ -91,7 +91,13 @@
         <key>stems</key>
         <array>
           <string>hstem -225 31</string>
-          <string>vstem 109.5 82</string>
+          <string>hstem -86 28</string>
+          <string>hstem -12 38</string>
+          <string>hstem 268 194</string>
+          <string>hstem 433 29</string>
+          <string>vstem 40 113</string>
+          <string>vstem 192 81</string>
+          <string>vstem 291 134</string>
         </array>
       </dict>
     </array>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="backslash" format="2">
-  <advance width="316"/>
+  <advance width="445"/>
   <unicode hex="005C"/>
   <outline>
     <contour>
-      <point x="75" y="754" type="line"/>
-      <point x="169" y="-123" type="line"/>
-      <point x="216" y="-123" type="line"/>
-      <point x="122" y="754" type="line"/>
+      <point x="132" y="692" type="line"/>
+      <point x="85" y="692" type="line"/>
+      <point x="358" y="0" type="line"/>
+      <point x="405" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -17,14 +17,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w316m75,754l169,-123l216,-123l122,754</string>
+    <string>w445m132,692l85,692l358,0l405,0</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -102 -21</string>
-          <string>hstem 754 -20</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 692 -20</string>
         </array>
       </dict>
     </array>

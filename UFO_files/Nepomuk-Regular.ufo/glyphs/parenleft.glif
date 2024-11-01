@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="parenleft" format="2">
-  <advance width="337"/>
+  <advance width="347"/>
   <unicode hex="0028"/>
   <outline>
     <contour>
@@ -27,7 +27,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w337m337,-211c240,-118 156,20 156,260c156,500 240,638 337,731l314,755c208,672 60,500 60,260c60,20 208,-152 314,-235</string>
+    <string>w347m337,-211c240,-118 156,20 156,260c156,500 240,638 337,731l314,755c208,672 60,500 60,260c60,20 208,-152 314,-235</string>
     <key>hintSetList</key>
     <array>
       <dict>

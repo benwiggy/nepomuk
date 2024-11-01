@@ -2,7 +2,7 @@
 <glyph name="dcaron.smcp" format="2">
   <advance width="560"/>
   <outline>
-    <component base="d.smcp"/>
+    <component base="d.smcp" xOffset="-11"/>
     <component base="caroncomb.smcp" xOffset="127"/>
   </outline>
   <lib>

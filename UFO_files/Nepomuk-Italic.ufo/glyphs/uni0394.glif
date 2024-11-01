@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0394" format="2">
+  <advance width="598"/>
+  <unicode hex="0394"/>
+  <unicode hex="2206"/>
+  <outline>
+    <contour>
+      <point x="564" y="0" type="line"/>
+      <point x="564" y="27" type="line"/>
+      <point x="314" y="713" type="line"/>
+      <point x="274" y="701" type="line"/>
+      <point x="32" y="27" type="line"/>
+      <point x="32" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="452" y="50" type="line"/>
+      <point x="87" y="50" type="line"/>
+      <point x="267" y="565" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w598m564,0l564,27l314,713l274,701l32,27l32,0m452,50l87,50l267,565</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 50.18</string>
+          <string>hstem 712.7 -20</string>
+          <string>vstem 31.74 532.48</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -4,7 +4,7 @@
   <anchor x="260" y="530" name="t.dieresis"/>
   <outline>
     <component base="hungarumlaut" xOffset="85" yOffset="-2"/>
-    <component base="o.smcp"/>
+    <component base="o.smcp" xOffset="-11"/>
   </outline>
   <lib>
   <dict>

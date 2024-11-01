@@ -863,6 +863,14 @@
     <string>icaron</string>
     <string>ocaron</string>
     <string>ucaron</string>
+    <string>partialdiff</string>
+    <string>product</string>
+    <string>radical</string>
+    <string>infinity</string>
+    <string>integral</string>
+    <string>approxequal</string>
+    <string>lessequal</string>
+    <string>greaterequal</string>
   </array>
 </dict>
 </plist>

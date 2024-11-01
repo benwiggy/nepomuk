@@ -5,10 +5,10 @@
   <outline>
     <component base="O"/>
     <contour>
-      <point x="730" y="680" type="line"/>
-      <point x="-90" y="0" type="line"/>
-      <point x="-43" y="0" type="line"/>
-      <point x="777" y="680" type="line"/>
+      <point x="632" y="615" type="line"/>
+      <point x="-28" y="68" type="line"/>
+      <point x="40" y="68" type="line"/>
+      <point x="700" y="615" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -18,16 +18,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w646m730,680l-90,0l-43,0l777,680</string>
+    <string>w646m632,615l-28,68l40,68l700,615</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem -12 38</string>
-          <string>hstem 21 -21</string>
+          <string>hstem 89 -21</string>
+          <string>hstem 615 -20</string>
           <string>hstem 658 34</string>
-          <string>hstem 680 -20</string>
         </array>
       </dict>
     </array>

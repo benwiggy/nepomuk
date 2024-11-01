@@ -7,21 +7,21 @@
     <contour>
       <point x="337" y="367" type="curve" smooth="yes"/>
       <point x="337" y="316"/>
-      <point x="316" y="260"/>
-      <point x="300" y="212" type="curve" smooth="yes"/>
-      <point x="283" y="161"/>
-      <point x="245" y="18"/>
-      <point x="177" y="18" type="curve" smooth="yes"/>
-      <point x="139" y="18"/>
+      <point x="320" y="260"/>
+      <point x="304" y="212" type="curve" smooth="yes"/>
+      <point x="287" y="161"/>
+      <point x="245" y="16"/>
+      <point x="177" y="16" type="curve" smooth="yes"/>
+      <point x="139" y="16"/>
       <point x="128" y="52"/>
       <point x="128" y="84" type="curve" smooth="yes"/>
       <point x="128" y="133"/>
-      <point x="149" y="191"/>
-      <point x="164" y="237" type="curve" smooth="yes"/>
-      <point x="181" y="287"/>
-      <point x="221" y="435"/>
-      <point x="288" y="435" type="curve" smooth="yes"/>
-      <point x="326" y="435"/>
+      <point x="145" y="191"/>
+      <point x="160" y="237" type="curve" smooth="yes"/>
+      <point x="177" y="287"/>
+      <point x="221" y="437"/>
+      <point x="288" y="437" type="curve" smooth="yes"/>
+      <point x="326" y="437"/>
       <point x="337" y="399"/>
     </contour>
     <contour>
@@ -39,4 +39,27 @@
       <point x="385" y="462"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>7611be72dc9339b1584ffe451e28b43e312347cbb4436297c777f9b5f38c7a6ea98bdc69b0e626d2dd857060755a7780fbfdcbed273578c0f78455e7d0a74e20</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -12 28</string>
+          <string>hstem 437 25</string>
+          <string>vstem 25 103</string>
+          <string>vstem 337 102</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="jcircumflex" format="2">
-  <advance width="418"/>
+  <advance width="403"/>
   <unicode hex="0135"/>
-  <anchor x="272" y="569" name="t.dieresis"/>
+  <anchor x="256" y="570" name="t.dieresis"/>
   <outline>
     <component base="j"/>
-    <component base="circumflex.smcp" xOffset="118" yOffset="45"/>
+    <component base="circumflex.smcp" xOffset="102" yOffset="46"/>
   </outline>
   <lib>
   <dict>

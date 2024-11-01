@@ -59,7 +59,7 @@
       <point x="187" y="29"/>
       <point x="187" y="46" type="curve" smooth="yes"/>
       <point x="187" y="54"/>
-      <point x="193" y="66"/>
+      <point x="192.884" y="66.073"/>
       <point x="203" y="82" type="curve" smooth="yes"/>
       <point x="250" y="156" type="line"/>
       <point x="241" y="156" type="line"/>
@@ -76,4 +76,31 @@
       <point x="267" y="181" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d28614570949e01b0118432b2985d4ed01dd16505fafc761f12bd561969efd3ddf05aea6d7c04e43b06cdbd376741c434def998161abd99030d40a70201e54c5</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 202</string>
+          <string>hstem 0 26</string>
+          <string>hstem 156 25</string>
+          <string>hstem 236 25</string>
+          <string>hstem 321 169</string>
+          <string>hstem 464 26</string>
+          <string>vstem 187 229</string>
+          <string>vstem 416 112</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

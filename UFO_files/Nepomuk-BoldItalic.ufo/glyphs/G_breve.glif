@@ -4,7 +4,7 @@
   <unicode hex="011E"/>
   <anchor x="436" y="714" name="t.asciicircum_1"/>
   <outline>
-    <component base="G"/>
+    <component base="G" xOffset="-10"/>
     <component base="breve" xOffset="195" yOffset="220"/>
   </outline>
 </glyph>

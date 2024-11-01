@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ugrave" format="2">
-  <advance width="590"/>
+  <advance width="577"/>
   <unicode hex="00F9"/>
-  <anchor x="323" y="541" name="t.dieresis"/>
+  <anchor x="305" y="551" name="t.dieresis"/>
   <outline>
     <component base="u"/>
-    <component base="grave.smcp" xOffset="217" yOffset="-3"/>
+    <component base="grave.smcp" xOffset="199" yOffset="7"/>
   </outline>
   <lib>
   <dict>

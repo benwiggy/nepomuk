@@ -4,7 +4,7 @@
   <unicode hex="0155"/>
   <anchor x="277" y="515" name="accent1"/>
   <outline>
-    <component base="r" xOffset="-6"/>
+    <component base="r" xOffset="-11"/>
     <component base="acute" xOffset="88" yOffset="6"/>
   </outline>
 </glyph>

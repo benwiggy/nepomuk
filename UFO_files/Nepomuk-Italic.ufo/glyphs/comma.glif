@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="comma" format="2">
-  <advance width="252"/>
+  <advance width="298"/>
   <unicode hex="002C"/>
   <outline>
     <contour>
-      <point x="59" y="115" type="curve" smooth="yes"/>
-      <point x="26.8741" y="123.54"/>
-      <point x="-9.37527" y="102.103"/>
-      <point x="-18" y="70" type="curve" smooth="yes"/>
-      <point x="-27.3764" y="35.099"/>
-      <point x="-5.9565" y="1.16867"/>
-      <point x="37" y="-10" type="curve" smooth="yes"/>
-      <point x="44.0458" y="-11.8319"/>
-      <point x="45.8887" y="-18.9702"/>
-      <point x="43" y="-30" type="curve" smooth="yes"/>
-      <point x="34.8885" y="-60.971"/>
-      <point x="-4" y="-82"/>
-      <point x="-51" y="-79" type="curve"/>
-      <point x="-54" y="-109" type="line"/>
-      <point x="25" y="-121"/>
-      <point x="95.5261" y="-67.8737"/>
-      <point x="116" y="8" type="curve" smooth="yes"/>
-      <point x="129.527" y="58.13"/>
-      <point x="105.88" y="102.538"/>
+      <point x="105" y="115" type="curve" smooth="yes"/>
+      <point x="73" y="124"/>
+      <point x="37" y="102"/>
+      <point x="28" y="70" type="curve" smooth="yes"/>
+      <point x="19" y="35"/>
+      <point x="40" y="1"/>
+      <point x="83" y="-10" type="curve" smooth="yes"/>
+      <point x="90" y="-12"/>
+      <point x="92" y="-19"/>
+      <point x="89" y="-30" type="curve" smooth="yes"/>
+      <point x="81" y="-61"/>
+      <point x="42" y="-82"/>
+      <point x="-5" y="-79" type="curve"/>
+      <point x="-8" y="-109" type="line"/>
+      <point x="71" y="-121"/>
+      <point x="142" y="-68"/>
+      <point x="162" y="8" type="curve" smooth="yes"/>
+      <point x="176" y="58"/>
+      <point x="152" y="103"/>
     </contour>
   </outline>
   <lib>
@@ -32,7 +32,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>e41622368a688d7571a5d8f8d66503c7fb10c0ddc5e6a00f699e0fa679c9a65da0b3f78dcc2cef93bb05a77af8b888ab08989b0a4fb8d3e6d34d18d06e3a0c28</string>
+    <string>fd070f916b4e9b216f9b03c505bbdf6af77d03983d5cb9cb530bb3db6d1e52c4b4a28f4c6b991ee7ac08232f4447ea37535f2ea72833db3b77ba02b3b05a601f</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -40,8 +40,8 @@
         <array>
           <string>hstem -109 224</string>
           <string>hstem -10 125</string>
-          <string>vstem -18 134</string>
-          <string>vstem 43 73</string>
+          <string>vstem 28 134</string>
+          <string>vstem 89 73</string>
         </array>
       </dict>
     </array>

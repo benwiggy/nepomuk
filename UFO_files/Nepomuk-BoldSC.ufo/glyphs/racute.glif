@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="racute" format="2">
-  <advance width="599"/>
+  <advance width="580"/>
   <unicode hex="0155"/>
-  <anchor x="284" y="550" name="t.dieresis"/>
+  <anchor x="270" y="551" name="t.dieresis"/>
   <outline>
     <component base="r"/>
-    <component base="acute.smcp" xOffset="178" yOffset="6"/>
+    <component base="acute.smcp" xOffset="164" yOffset="7"/>
   </outline>
   <lib>
   <dict>

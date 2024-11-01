@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="itilde.smcp" format="2">
-  <advance width="350"/>
-  <anchor x="177" y="569" name="t.dieresis"/>
+  <advance width="361"/>
+  <anchor x="181" y="556" name="t.dieresis"/>
   <outline>
     <component base="i.smcp"/>
-    <component base="tilde.smcp" xOffset="17" yOffset="25"/>
+    <component base="tilde.smcp" xOffset="21" yOffset="12"/>
   </outline>
   <lib>
   <dict>

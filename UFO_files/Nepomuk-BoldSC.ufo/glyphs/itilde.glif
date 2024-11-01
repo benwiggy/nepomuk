@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="itilde" format="2">
-  <advance width="350"/>
+  <advance width="361"/>
   <unicode hex="0129"/>
-  <anchor x="177" y="569" name="t.dieresis"/>
+  <anchor x="181" y="556" name="t.dieresis"/>
   <outline>
     <component base="i"/>
-    <component base="tilde.smcp" xOffset="17" yOffset="25"/>
+    <component base="tilde.smcp" xOffset="21" yOffset="12"/>
   </outline>
   <lib>
   <dict>

@@ -4,7 +4,7 @@
   <unicode hex="0171"/>
   <anchor x="323" y="541" name="t.dieresis"/>
   <outline>
-    <component base="u"/>
+    <component base="u" xOffset="28"/>
     <component base="hungarumlaut" xOffset="148" yOffset="-5"/>
   </outline>
   <lib>

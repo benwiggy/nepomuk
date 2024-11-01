@@ -4,7 +4,7 @@
   <anchor x="264" y="560" name="t.dieresis"/>
   <anchor x="264" y="545" name="t.asciicircum_1"/>
   <outline>
-    <component base="s.smcp"/>
+    <component base="s.smcp" xOffset="-11"/>
     <component base="uni0327.smcp" xOffset="148"/>
   </outline>
   <lib>

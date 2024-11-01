@@ -4,7 +4,7 @@
   <unicode hex="0157"/>
   <anchor x="283" y="515" name="accent1"/>
   <outline>
-    <component base="r"/>
+    <component base="r" xOffset="-5"/>
     <component base="commaaccentcomb" xOffset="133"/>
   </outline>
   <lib>

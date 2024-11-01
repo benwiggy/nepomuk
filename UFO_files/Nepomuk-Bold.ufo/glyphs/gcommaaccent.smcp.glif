@@ -4,7 +4,7 @@
   <anchor x="291" y="560" name="t.dieresis"/>
   <anchor x="291" y="545" name="t.asciicircum_1"/>
   <outline>
-    <component base="g.smcp"/>
+    <component base="g.smcp" xOffset="-11"/>
     <component base="commaaccentcomb.smcp" xOffset="170"/>
   </outline>
   <lib>

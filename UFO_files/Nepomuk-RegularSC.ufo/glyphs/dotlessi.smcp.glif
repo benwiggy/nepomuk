@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessi.smcp" format="2">
   <advance width="302"/>
+  <anchor x="155" y="513" name="t.dieresis"/>
+  <anchor x="155" y="507" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="252" y="35" type="line" smooth="yes"/>
@@ -24,4 +26,29 @@
       <point x="282" y="35" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>c0c110b79d47f0d90a1f85dc6f31a1572961c72910b5b9026006e59b6de6dc36b5fda74334d5d6dc2a4200c55a5914166fc74166ff5b01d4800b4f0757559972</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 35</string>
+          <string>hstem 415 35</string>
+          <string>hstem 558 116</string>
+          <string>vstem 32 170</string>
+          <string>vstem 88 114</string>
+          <string>vstem 112 90</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

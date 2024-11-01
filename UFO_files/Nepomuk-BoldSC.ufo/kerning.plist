@@ -658,6 +658,11 @@
     <key>quotesingle</key>
     <integer>-17</integer>
   </dict>
+  <key>parenleft</key>
+  <dict>
+    <key>j.smcp</key>
+    <integer>84</integer>
+  </dict>
   <key>questiondown</key>
   <dict>
     <key>T</key>

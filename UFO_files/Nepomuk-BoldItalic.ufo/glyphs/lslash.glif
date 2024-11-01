@@ -7,9 +7,9 @@
     <contour>
       <point x="12" y="302" type="line"/>
       <point x="-9" y="237" type="line"/>
-      <point x="89.81" y="270.36" type="line"/>
-      <point x="62.19" y="184.78"/>
-      <point x="40" y="109.28"/>
+      <point x="90" y="270" type="line"/>
+      <point x="62" y="184"/>
+      <point x="40" y="109"/>
       <point x="40" y="84" type="curve" smooth="yes"/>
       <point x="40" y="24"/>
       <point x="79" y="-8"/>
@@ -27,10 +27,10 @@
       <point x="141" y="84"/>
       <point x="153" y="121"/>
       <point x="160" y="142" type="curve" smooth="yes"/>
-      <point x="215.43" y="312.77" type="line"/>
+      <point x="215" y="313" type="line"/>
       <point x="382" y="369" type="line"/>
       <point x="403" y="434" type="line"/>
-      <point x="236.54" y="377.8" type="line"/>
+      <point x="237" y="378" type="line"/>
       <point x="333" y="675" type="line"/>
       <point x="122" y="661" type="line"/>
       <point x="113" y="631" type="line"/>
@@ -40,15 +40,33 @@
       <point x="193" y="587"/>
       <point x="192" y="581"/>
       <point x="191" y="576" type="curve"/>
-      <point x="178.68" y="533.82"/>
-      <point x="144.13" y="434.6"/>
-      <point x="111.18" y="335.48" type="curve"/>
+      <point x="179" y="534"/>
+      <point x="144" y="434"/>
+      <point x="111" y="335" type="curve"/>
     </contour>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
   <string>l+endash</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>a459815c0c2e7cd168e65d4c8a9022c1482ec4a0486dc856e533a76e1cd5da1a72f9d8ac39481ba5e29971689f44737718af2fda99dc2f07c1a7c12071095327</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -8 44</string>
+          <string>hstem 675 -20</string>
+          <string>vstem 40 101</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

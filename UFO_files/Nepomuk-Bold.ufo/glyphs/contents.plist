@@ -602,6 +602,8 @@
   <string>imacron.glif</string>
   <key>imacron.smcp</key>
   <string>imacron.smcp.glif</string>
+  <key>infinity</key>
+  <string>infinity.glif</string>
   <key>integral</key>
   <string>integral.glif</string>
   <key>iogonek</key>
@@ -814,6 +816,8 @@
   <string>plus.glif</string>
   <key>plusminus</key>
   <string>plusminus.glif</string>
+  <key>product</key>
+  <string>product.glif</string>
   <key>q</key>
   <string>q.glif</string>
   <key>q.smcp</key>
@@ -848,6 +852,8 @@
   <string>racute.glif</string>
   <key>racute.smcp</key>
   <string>racute.smcp.glif</string>
+  <key>radical</key>
+  <string>radical.glif</string>
   <key>rcaron</key>
   <string>rcaron.glif</string>
   <key>rcaron.smcp</key>
@@ -910,6 +916,8 @@
   <string>space.glif</string>
   <key>sterling</key>
   <string>sterling.glif</string>
+  <key>summation</key>
+  <string>summation.glif</string>
   <key>t</key>
   <string>t.glif</string>
   <key>t.smcp</key>
@@ -996,6 +1004,10 @@
   <string>uni0237.glif</string>
   <key>uni0327.smcp</key>
   <string>uni0327.smcp.glif</string>
+  <key>uni0394</key>
+  <string>uni0394.glif</string>
+  <key>uni03A9</key>
+  <string>uni03A_9.glif</string>
   <key>uni2010</key>
   <string>uni2010.glif</string>
   <key>uni2011</key>
@@ -1026,6 +1038,10 @@
   <string>uni204E_.glif</string>
   <key>uni2051</key>
   <string>uni2051.glif</string>
+  <key>uni2215</key>
+  <string>uni2215.glif</string>
+  <key>uni2219</key>
+  <string>uni2219.glif</string>
   <key>uogonek</key>
   <string>uogonek.glif</string>
   <key>uogonek.smcp</key>

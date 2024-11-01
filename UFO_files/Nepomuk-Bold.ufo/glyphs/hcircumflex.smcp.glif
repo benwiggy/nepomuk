@@ -2,7 +2,7 @@
 <glyph name="hcircumflex.smcp" format="2">
   <advance width="612"/>
   <outline>
-    <component base="h.smcp"/>
+    <component base="h.smcp" xOffset="-11"/>
     <component base="circumflex.smcp" xOffset="153"/>
   </outline>
   <lib>

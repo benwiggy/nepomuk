@@ -4,15 +4,36 @@
   <unicode hex="005B"/>
   <outline>
     <contour>
-      <point x="418.498" y="760" type="line"/>
-      <point x="190.498" y="760" type="line"/>
+      <point x="418" y="760" type="line"/>
+      <point x="190" y="760" type="line"/>
       <point x="-63" y="-179" type="line"/>
       <point x="185" y="-179" type="line"/>
       <point x="195" y="-137" type="line"/>
       <point x="41" y="-137" type="line"/>
-      <point x="274.498" y="718" type="line"/>
-      <point x="264.498" y="718" type="line"/>
-      <point x="408.498" y="718" type="line"/>
+      <point x="274" y="718" type="line"/>
+      <point x="264" y="718" type="line"/>
+      <point x="408" y="718" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w292m418,760l190,760l-63,-179l185,-179l195,-137l41,-137l274,718l264,718l408,718</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -179 42</string>
+          <string>hstem 718 42</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

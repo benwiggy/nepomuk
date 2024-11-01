@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ograve.smcp" format="2">
-  <advance width="556"/>
-  <anchor x="285" y="541" name="t.dieresis"/>
+  <advance width="551"/>
+  <anchor x="276" y="551" name="t.dieresis"/>
   <outline>
     <component base="o.smcp"/>
-    <component base="grave.smcp" xOffset="179" yOffset="-3"/>
+    <component base="grave.smcp" xOffset="170" yOffset="7"/>
   </outline>
   <lib>
   <dict>

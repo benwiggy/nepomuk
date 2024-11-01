@@ -13,5 +13,7 @@ v2.02: More kerning revisions! Also Unicode Roman Numerals to Regular and Italic
 v2.07: Bold and Bold Italic styles have been improved. Windows naming issues are fixed.
 v2.08: Fix and additions to diacritics.
 
+v2.50: Major revision to the Bold and Bold Italic styles; further improvements to kerning throughout.
+
 
 The fonts in this archive are free to use for everybody. They're licensed under the [SIL Open Font License](http://scripts.sil.org/ofl).

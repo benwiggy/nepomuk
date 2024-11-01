@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="u" format="2">
-  <advance width="544"/>
+  <advance width="554"/>
   <unicode hex="0075"/>
   <anchor x="299" y="515" name="accent1"/>
   <anchor x="331" y="500" name="t.asciicircum_1"/>
@@ -58,7 +58,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>4d1334410eac07c5ab7ed78c6443ba1cfe93478db7af054b7517071ad3c835ebf6df708f6535cceee8dc6b85a118a8f47939584da4e15bf5bea9070705357493</string>
+    <string>a57e7114f7efe472fe5b9ce4b49e6025aaa7e982a4197bd374d5ecd6f6cae4a99a6def0de76603c0cddd8ee6163e60b199011a7f249f06bb23609956ac90ee8a</string>
     <key>hintSetList</key>
     <array>
       <dict>

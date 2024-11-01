@@ -3,7 +3,7 @@
   <advance width="590"/>
   <outline>
     <component base="hungarumlaut" xOffset="99"/>
-    <component base="u.smcp"/>
+    <component base="u.smcp" xOffset="-11"/>
   </outline>
   <lib>
   <dict>

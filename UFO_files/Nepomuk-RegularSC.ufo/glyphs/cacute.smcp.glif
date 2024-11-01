@@ -3,7 +3,7 @@
   <advance width="431"/>
   <outline>
     <component base="c.smcp"/>
-    <component base="acute" xOffset="109.5"/>
+    <component base="acute" xOffset="110"/>
   </outline>
   <lib>
   <dict>

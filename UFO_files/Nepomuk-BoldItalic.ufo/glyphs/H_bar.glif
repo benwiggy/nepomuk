@@ -3,7 +3,7 @@
   <advance width="761"/>
   <unicode hex="0126"/>
   <outline>
-    <component base="H"/>
+    <component base="H" xOffset="8"/>
     <contour>
       <point x="142" y="482" type="line"/>
       <point x="152" y="523" type="line"/>
@@ -15,6 +15,25 @@
   <dict>
   <key>com.fontlab.recipe</key>
   <string>H+macron</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w761m142,482l152,523l764,523l754,482</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 38</string>
+          <string>hstem 321 45</string>
+          <string>hstem 482 41</string>
+          <string>hstem 642 38</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

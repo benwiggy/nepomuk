@@ -9,10 +9,31 @@
       <point x="-90" y="-137" type="line"/>
       <point x="-100" y="-179" type="line"/>
       <point x="128" y="-179" type="line"/>
-      <point x="381.498" y="760" type="line"/>
-      <point x="133.498" y="760" type="line"/>
-      <point x="123.498" y="718" type="line"/>
-      <point x="277.498" y="718" type="line"/>
+      <point x="381" y="760" type="line"/>
+      <point x="133" y="760" type="line"/>
+      <point x="123" y="718" type="line"/>
+      <point x="277" y="718" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w292m44,-137l54,-137l-90,-137l-100,-179l128,-179l381,760l133,760l123,718l277,718</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -179 42</string>
+          <string>hstem 718 42</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

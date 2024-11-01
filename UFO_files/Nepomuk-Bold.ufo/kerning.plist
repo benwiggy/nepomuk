@@ -611,6 +611,13 @@
     <key>ae.smcp</key>
     <integer>-66</integer>
   </dict>
+  <key>bracketleft</key>
+  <dict>
+    <key>j</key>
+    <integer>65</integer>
+    <key>public.kern2.kry</key>
+    <integer>58</integer>
+  </dict>
   <key>c</key>
   <dict>
     <key>b</key>
@@ -807,7 +814,7 @@
     <key>f</key>
     <integer>-30</integer>
     <key>j</key>
-    <integer>40</integer>
+    <integer>52</integer>
     <key>p</key>
     <integer>40</integer>
   </dict>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fl" format="2">
-  <advance width="673"/>
+  <advance width="664"/>
   <unicode hex="FB02"/>
   <outline>
     <contour>
@@ -79,7 +79,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>95ca6dcf37e96d665e023c155d598fbdff9318983d68a7935481b9017aed0e98efee0cf9a4a428dbd16b2d8bbfe035caabae0524e41c34946a37579634634414</string>
+    <string>53ad35f1a8cebaa2e6d3feb122854884729c4ab21333c0d5f88971de0b05b158d0769ac9509895ad74f040137f035bc734f345b591e2357d88afa8234f10256b</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -90,6 +90,7 @@
           <string>hstem 418 32</string>
           <string>hstem 682 31</string>
           <string>vstem -223 87</string>
+          <string>vstem -223 120</string>
         </array>
       </dict>
     </array>

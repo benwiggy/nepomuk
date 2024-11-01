@@ -20,8 +20,29 @@
       <point x="61" y="630"/>
       <point x="63" y="621" type="curve" smooth="yes"/>
       <point x="76" y="570"/>
-      <point x="109" y="483"/>
+      <point x="109.183" y="483.055"/>
       <point x="129" y="417" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d2cabf04f8c84f89f11ea2392690393e180cb79cda8a36bb0985adae185982610e2a0f271ca8ecf440e4d08e073d55b67755c424c035cf0b0e947cc51f2a0fb5</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 408 -21</string>
+          <string>hstem 692 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

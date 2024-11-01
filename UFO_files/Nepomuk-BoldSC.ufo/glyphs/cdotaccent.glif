@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cdotaccent" format="2">
-  <advance width="519"/>
+  <advance width="512"/>
   <unicode hex="010B"/>
-  <anchor x="285" y="541" name="t.dieresis"/>
+  <anchor x="276" y="551" name="t.dieresis"/>
   <outline>
     <component base="c"/>
-    <component base="dotaccent.smcp" xOffset="120" yOffset="-3"/>
+    <component base="dotaccent.smcp" xOffset="111" yOffset="7"/>
   </outline>
   <lib>
   <dict>

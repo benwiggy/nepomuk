@@ -3,7 +3,7 @@
   <advance width="603"/>
   <unicode hex="0166"/>
   <outline>
-    <component base="T"/>
+    <component base="T" xOffset="-11"/>
     <contour>
       <point x="146" y="332" type="line"/>
       <point x="159" y="373" type="line"/>
@@ -15,6 +15,25 @@
   <dict>
   <key>com.fontlab.recipe</key>
   <string>T+macron</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w603m146,332l159,373l500,373l487,332</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 38</string>
+          <string>hstem 332 41</string>
+          <string>hstem 424 256</string>
+          <string>hstem 640 40</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

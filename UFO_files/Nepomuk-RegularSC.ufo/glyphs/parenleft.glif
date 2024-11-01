@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="parenleft" format="2">
-  <advance width="317"/>
+  <advance width="337"/>
   <unicode hex="0028"/>
   <outline>
     <contour>
@@ -20,4 +20,24 @@
       <point x="60" y="500"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w337m60,260c60,20 208,-152 314,-235l337,-211c240,-118 156,20 156,260c156,500 240,638 337,731l314,755c208,672 60,500 60,260</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 60 96</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

@@ -5,10 +5,10 @@
   <outline>
     <component base="h"/>
     <contour>
-      <point x="23" y="526" type="line"/>
-      <point x="23" y="574" type="line"/>
-      <point x="300" y="574" type="line"/>
-      <point x="300" y="526" type="line"/>
+      <point x="13" y="526" type="line"/>
+      <point x="13" y="574" type="line"/>
+      <point x="320" y="574" type="line"/>
+      <point x="320" y="526" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -20,7 +20,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w572m23,526l23,574l300,574l300,526</string>
+    <string>w572m13,526l13,574l320,574l320,526</string>
     <key>hintSetList</key>
     <array>
       <dict>

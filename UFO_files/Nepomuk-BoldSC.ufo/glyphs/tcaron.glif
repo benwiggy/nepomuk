@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcaron" format="2">
-  <advance width="548"/>
+  <advance width="545"/>
   <unicode hex="0165"/>
   <outline>
     <component base="t"/>
-    <component base="caroncomb" xOffset="121"/>
+    <component base="caroncomb" xOffset="119"/>
   </outline>
   <lib>
   <dict>

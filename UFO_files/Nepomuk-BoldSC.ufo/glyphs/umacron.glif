@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="umacron" format="2">
-  <advance width="590"/>
+  <advance width="577"/>
   <unicode hex="016B"/>
-  <anchor x="323" y="541" name="t.dieresis"/>
+  <anchor x="305" y="551" name="t.dieresis"/>
   <outline>
     <component base="u"/>
-    <component base="macron.smcp" xOffset="152" yOffset="33"/>
+    <component base="macron.smcp" xOffset="134" yOffset="43"/>
   </outline>
   <lib>
   <dict>

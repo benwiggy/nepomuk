@@ -717,6 +717,11 @@
     <key>quotesingle</key>
     <integer>-19</integer>
   </dict>
+  <key>parenleft</key>
+  <dict>
+    <key>j.smcp</key>
+    <integer>54</integer>
+  </dict>
   <key>questiondown</key>
   <dict>
     <key>T</key>

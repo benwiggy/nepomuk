@@ -2,7 +2,7 @@
 <glyph name="tcedilla.smcp" format="2">
   <advance width="548"/>
   <outline>
-    <component base="t.smcp"/>
+    <component base="t.smcp" xOffset="-11"/>
     <component base="uni0327.smcp" xOffset="156"/>
   </outline>
   <lib>

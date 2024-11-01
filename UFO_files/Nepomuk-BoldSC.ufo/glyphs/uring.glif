@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uring" format="2">
-  <advance width="590"/>
+  <advance width="577"/>
   <unicode hex="016F"/>
-  <anchor x="323" y="541" name="t.dieresis"/>
+  <anchor x="305" y="551" name="t.dieresis"/>
   <outline>
     <component base="u"/>
-    <component base="ringcomb.smcp" xOffset="198" yOffset="37"/>
+    <component base="ringcomb.smcp" xOffset="180" yOffset="47"/>
   </outline>
   <lib>
   <dict>

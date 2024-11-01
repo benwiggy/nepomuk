@@ -15,6 +15,26 @@
   <dict>
   <key>com.fontlab.recipe</key>
   <string>t+macron</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w379m32,284l45,325l338,325l325,284</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -8 40</string>
+          <string>hstem 284 41</string>
+          <string>hstem 415 35</string>
+          <string>hstem 649 -20</string>
+          <string>vstem 50 90</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

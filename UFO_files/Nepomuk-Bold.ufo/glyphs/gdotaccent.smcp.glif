@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gdotaccent.smcp" format="2">
-  <advance width="588"/>
-  <anchor x="291" y="560" name="t.dieresis"/>
+  <advance width="573"/>
+  <anchor x="276" y="555" name="t.dieresis"/>
   <outline>
     <component base="g.smcp"/>
-    <component base="dotaccent.smcp" xOffset="126" yOffset="15"/>
+    <component base="dotaccent.smcp" xOffset="111" yOffset="11"/>
   </outline>
   <lib>
   <dict>

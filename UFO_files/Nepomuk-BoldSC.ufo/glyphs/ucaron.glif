@@ -4,7 +4,7 @@
   <unicode hex="01D4"/>
   <anchor x="323" y="541" name="t.dieresis"/>
   <outline>
-    <component base="u"/>
+    <component base="u" xOffset="28"/>
     <component base="caron" xOffset="169" yOffset="7"/>
   </outline>
   <lib>

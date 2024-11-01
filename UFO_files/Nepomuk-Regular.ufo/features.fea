@@ -124,6 +124,13 @@
 #/< otclasses
 #/< classes
 
+#/> classes
+#/> otclasses
+@ss01 = [A B C D E F G H I J K L M N O P Q R S T U V W X Y Z];
+@ss012 = [A.alt B.alt C.alt D.alt E.alt F.alt G.alt H.alt I.alt J.alt K.alt L.alt M.alt N.alt O.alt P.alt Q.alt R.alt S.alt T.alt U.alt V.alt W.alt X.alt Y.alt Z.alt];
+#/< otclasses
+#/< classes
+
 ###
 # OpenType Layout feature definitions
 # Format: Adobe FDK for OpenType (AFDKO) version 2.5
@@ -611,7 +618,7 @@ feature kern {
     pos quotesingle Aogonek -117;
     pos parenleft b 29;
     pos parenleft f -25;
-    pos parenleft j 29;
+    pos parenleft j 66;
     pos parenleft p 19;
     pos comma V -132;
     pos comma Y -117;
@@ -774,16 +781,16 @@ feature kern {
     pos F aogonek -12;
     pos F eogonek -18;
     pos F atilde -12;
-    pos G A -8;
-    pos G Aring -8;
-    pos G AE -19;
-    pos G Aacute -8;
-    pos G Agrave -8;
-    pos G Acircumflex -8;
-    pos G Atilde -8;
-    pos G Adieresis -8;
-    pos G Amacron -8;
-    pos G Abreve -8;
+    pos G A -56;
+    pos G Aring -56;
+    pos G AE -77;
+    pos G Aacute -56;
+    pos G Agrave -56;
+    pos G Acircumflex -56;
+    pos G Atilde -56;
+    pos G Adieresis -56;
+    pos G Amacron -56;
+    pos G Abreve -56;
     pos G a.smcp -44;
     pos G adieresis.smcp -44;
     pos G aacute.smcp -44;
@@ -791,7 +798,7 @@ feature kern {
     pos G acircumflex.smcp -44;
     pos G atilde.smcp -44;
     pos G aring.smcp -44;
-    pos G Aogonek -8;
+    pos G Aogonek -56;
     pos H t -7;
     pos H u -9;
     pos H v -51;
@@ -1576,6 +1583,7 @@ feature kern {
     pos f exclam 55;
     pos f parenright 32;
     pos f question 98;
+    pos f backslash 108;
     pos f bracketright 20;
     pos f a -8;
     pos f b 101;
@@ -1650,19 +1658,9 @@ feature kern {
     pos h uogonek -9;
     pos h uhungarumlaut -9;
     pos j parenright 32;
-    pos j a -23;
     pos j s -9;
     pos j z -11;
     pos j ae -11;
-    pos j aacute -23;
-    pos j agrave -23;
-    pos j acircumflex -23;
-    pos j adieresis -23;
-    pos j aring -23;
-    pos j amacron -23;
-    pos j abreve -23;
-    pos j aogonek -23;
-    pos j atilde -23;
     pos k hyphen -39;
     pos m quotesingle -29;
     pos m t -9;
@@ -2277,12 +2275,12 @@ feature kern {
     pos atilde v -19;
     pos atilde quoteright -18;
   subtable;
-    pos @_krA @_krC -60;
+    pos @_krA @_krC -38;
     pos @_krA @_krO -31;
     pos @_krA @_kry -37;
     pos @_krA @_kr_uSC -54;
     pos @_krA @_krW -130;
-    pos @_krA @_krT -27;
+    pos @_krA @_krT -71;
     pos @_krA @_krw -53;
     pos @_krC @_kri 20;
     pos @_krC @_kr_iSC 10;
@@ -2319,7 +2317,7 @@ feature kern {
     pos @_krD @_krA -85;
     pos @_krD @_krpunct1 -11;
     pos @_krD @_kr_aSC -82;
-    pos @_krT @_krA -22;
+    pos @_krT @_krA -73;
     pos @_krT @_kro -16;
     pos @_krT @_krpunct1 -60;
     pos @_krT @_kr_aSC -76;

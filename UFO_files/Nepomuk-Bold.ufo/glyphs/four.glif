@@ -17,7 +17,6 @@
       <point x="358" y="501" type="curve" smooth="yes"/>
       <point x="270" y="372" type="line"/>
       <point x="270" y="206" type="line"/>
-      <point x="285" y="206" type="line"/>
       <point x="84" y="206" type="line"/>
       <point x="124" y="271"/>
       <point x="165" y="329"/>
@@ -52,7 +51,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>9e58f132c17c7a1502fbc1959ab7aeb9aa6324789e0e70de38684df581da88f8c1f34aefa4446783ffcd48197abd5a02449f6c5347d9f6c39623d5ab0b10ceec</string>
+    <string>84c3d65d39192992eee712f45c99d7da69735797c6e52edc262f2fe260df87865f5c21ea0926a182021364e68f9ca05c48715bb622160a2b42eac4eed67a9a31</string>
     <key>hintSetList</key>
     <array>
       <dict>

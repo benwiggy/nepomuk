@@ -6,7 +6,7 @@
   <anchor x="357" y="730" name="t.asciicircum_1"/>
   <outline>
     <component base="E"/>
-    <component base="macron" xOffset="97.5" yOffset="230"/>
+    <component base="macron" xOffset="98" yOffset="230"/>
   </outline>
   <lib>
   <dict>

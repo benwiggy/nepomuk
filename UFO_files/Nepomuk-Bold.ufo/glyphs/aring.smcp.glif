@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aring.smcp" format="2">
-  <advance width="594"/>
-  <anchor x="305" y="541" name="t.dieresis"/>
+  <advance width="600"/>
+  <anchor x="321" y="537" name="t.dieresis"/>
   <outline>
     <component base="a.smcp"/>
-    <component base="ringcomb.smcp" xOffset="180" yOffset="29"/>
+    <component base="ringcomb.smcp" xOffset="196" yOffset="26"/>
   </outline>
   <lib>
   <dict>

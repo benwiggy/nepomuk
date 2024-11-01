@@ -577,6 +577,24 @@
     <string>icaron</string>
     <string>ocaron</string>
     <string>ucaron</string>
+    <string>uni0394</string>
+    <string>uni03A9</string>
+    <string>partialdiff</string>
+    <string>product</string>
+    <string>summation</string>
+    <string>minus</string>
+    <string>uni2215</string>
+    <string>uni2219</string>
+    <string>radical</string>
+    <string>infinity</string>
+    <string>integral</string>
+    <string>approxequal</string>
+    <string>notequal</string>
+    <string>lessequal</string>
+    <string>greaterequal</string>
+    <string>lozenge</string>
+    <string>florin</string>
+    <string>onehundred.roman</string>
   </array>
 </dict>
 </plist>

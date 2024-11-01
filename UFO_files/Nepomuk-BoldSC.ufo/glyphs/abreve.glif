@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="abreve" format="2">
-  <advance width="594"/>
+  <advance width="600"/>
   <unicode hex="0103"/>
-  <anchor x="305" y="541" name="t.dieresis"/>
+  <anchor x="321" y="537" name="t.dieresis"/>
   <outline>
     <component base="a"/>
-    <component base="breve.smcp" xOffset="180" yOffset="22"/>
+    <component base="breve.smcp" xOffset="196" yOffset="19"/>
   </outline>
   <lib>
   <dict>

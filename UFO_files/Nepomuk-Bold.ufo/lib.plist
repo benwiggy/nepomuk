@@ -599,6 +599,14 @@
     <string>icaron</string>
     <string>ocaron</string>
     <string>ucaron</string>
+    <string>uni0394</string>
+    <string>uni03A9</string>
+    <string>uni2215</string>
+    <string>uni2219</string>
+    <string>radical</string>
+    <string>infinity</string>
+    <string>product</string>
+    <string>summation</string>
   </array>
 </dict>
 </plist>

@@ -45,10 +45,10 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 525 47</string>
-          <string>hstem 704 47</string>
-          <string>vstem -5 47</string>
-          <string>vstem 174 47</string>
+          <string>hstem 522 47</string>
+          <string>hstem 699 46</string>
+          <string>vstem 0 46</string>
+          <string>vstem 176 47</string>
         </array>
       </dict>
     </array>

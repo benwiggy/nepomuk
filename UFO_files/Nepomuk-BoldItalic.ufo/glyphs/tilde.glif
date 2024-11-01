@@ -50,8 +50,8 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 608 58</string>
-          <string>hstem 620 5</string>
+          <string>hstem 567 -21</string>
+          <string>hstem 666 -20</string>
         </array>
       </dict>
     </array>

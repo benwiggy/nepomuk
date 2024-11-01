@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grave.c2sc" format="2">
   <advance width="212"/>
+  <anchor x="106" y="530" name="_t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="118" y="706" type="curve"/>
@@ -14,4 +15,24 @@
       <point x="136" y="662"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w212m118,706l7,706l0,686c42,646 148,564 204,532l212,554c178,594 136,662 118,706</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 706 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

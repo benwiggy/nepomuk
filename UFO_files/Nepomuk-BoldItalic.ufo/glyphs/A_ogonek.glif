@@ -4,7 +4,7 @@
   <unicode hex="0104"/>
   <anchor x="436" y="694" name="t.asciicircum_1"/>
   <outline>
-    <component base="A"/>
+    <component base="A" xOffset="-12"/>
     <component base="ogonek" xOffset="392"/>
   </outline>
   <lib>

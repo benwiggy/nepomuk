@@ -70,12 +70,11 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -12 24</string>
-          <string>hstem 442 25</string>
-          <string>hstem 719 -20</string>
-          <string>vstem 53 74</string>
-          <string>vstem 362 101</string>
-          <string>vstem 389 74</string>
+          <string>hstem -12 34</string>
+          <string>hstem 433 34</string>
+          <string>hstem 713 -20</string>
+          <string>vstem 53 82</string>
+          <string>vstem 355 109</string>
         </array>
       </dict>
     </array>

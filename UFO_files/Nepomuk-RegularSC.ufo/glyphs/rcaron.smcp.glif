@@ -3,7 +3,7 @@
   <advance width="384"/>
   <outline>
     <component base="r.smcp"/>
-    <component base="caron" xOffset="38.5"/>
+    <component base="caron" xOffset="39"/>
   </outline>
   <lib>
   <dict>

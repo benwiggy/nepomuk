@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ibreve.smcp" format="2">
-  <advance width="350"/>
-  <anchor x="177" y="569" name="t.dieresis"/>
+  <advance width="361"/>
+  <anchor x="181" y="556" name="t.dieresis"/>
   <outline>
     <component base="i.smcp"/>
-    <component base="breve.smcp" xOffset="52" yOffset="58"/>
+    <component base="breve.smcp" xOffset="56" yOffset="45"/>
   </outline>
   <lib>
   <dict>

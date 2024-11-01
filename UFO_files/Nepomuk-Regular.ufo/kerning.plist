@@ -63,9 +63,9 @@
   <key>G</key>
   <dict>
     <key>AE</key>
-    <integer>-19</integer>
+    <integer>-77</integer>
     <key>public.kern2.krA</key>
-    <integer>-8</integer>
+    <integer>-56</integer>
     <key>public.kern2.kr_aSC</key>
     <integer>-44</integer>
   </dict>
@@ -518,6 +518,8 @@
     <integer>-8</integer>
     <key>b</key>
     <integer>101</integer>
+    <key>backslash</key>
+    <integer>108</integer>
     <key>bracketright</key>
     <integer>20</integer>
     <key>c</key>
@@ -621,8 +623,6 @@
     <integer>-9</integer>
     <key>z</key>
     <integer>-11</integer>
-    <key>public.kern2.kra</key>
-    <integer>-23</integer>
   </dict>
   <key>k</key>
   <dict>
@@ -698,7 +698,7 @@
     <key>f</key>
     <integer>-25</integer>
     <key>j</key>
-    <integer>29</integer>
+    <integer>66</integer>
     <key>p</key>
     <integer>19</integer>
   </dict>
@@ -845,11 +845,11 @@
     <key>w.smcp</key>
     <integer>-102</integer>
     <key>public.kern2.krC</key>
-    <integer>-60</integer>
+    <integer>-38</integer>
     <key>public.kern2.krO</key>
     <integer>-31</integer>
     <key>public.kern2.krT</key>
-    <integer>-27</integer>
+    <integer>-71</integer>
     <key>public.kern2.krW</key>
     <integer>-130</integer>
     <key>public.kern2.kr_uSC</key>
@@ -907,7 +907,7 @@
     <key>semicolon</key>
     <integer>-11</integer>
     <key>public.kern2.krA</key>
-    <integer>-22</integer>
+    <integer>-73</integer>
     <key>public.kern2.kr_aSC</key>
     <integer>-76</integer>
     <key>public.kern2.kro</key>

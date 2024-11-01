@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thorn.smcp" format="2">
-  <advance width="582"/>
+  <advance width="496"/>
   <outline>
     <contour>
       <point x="193" y="120" type="line"/>
-      <point x="184" y="120" type="line"/>
       <point x="245" y="120" type="line" smooth="yes"/>
       <point x="373" y="120"/>
       <point x="448" y="164"/>
@@ -59,7 +58,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>5bd87c15876a6d901bced9a9c24cc7c3950c98525ea41b11de947f1deea65d17fab771646d7cecf60d3a845ffe3049c73be1183cc53a08be79b6c5fe125715e2</string>
+    <string>15e202e13e4c9028e2e419f9102b66a72a94b71ed2dd29ef9634bc1ebd98e992e5fc20909b276e7624fd6bcc6254c554c3898d09b54441499fb12bb91b7f53e2</string>
     <key>hintSetList</key>
     <array>
       <dict>

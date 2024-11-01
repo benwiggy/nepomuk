@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="period" format="2">
-  <advance width="262"/>
+  <advance width="290"/>
   <unicode hex="002E"/>
   <outline>
     <contour>
-      <point x="40" y="59" type="curve" smooth="yes"/>
-      <point x="40" y="20"/>
-      <point x="72" y="-12"/>
-      <point x="111" y="-12" type="curve" smooth="yes"/>
-      <point x="150" y="-12"/>
-      <point x="182" y="20"/>
-      <point x="182" y="59" type="curve" smooth="yes"/>
-      <point x="182" y="98"/>
-      <point x="150" y="130"/>
-      <point x="111" y="130" type="curve" smooth="yes"/>
-      <point x="72" y="130"/>
-      <point x="40" y="98"/>
+      <point x="28" y="59" type="curve" smooth="yes"/>
+      <point x="28" y="20"/>
+      <point x="60" y="-12"/>
+      <point x="99" y="-12" type="curve" smooth="yes"/>
+      <point x="138" y="-12"/>
+      <point x="170" y="20"/>
+      <point x="170" y="59" type="curve" smooth="yes"/>
+      <point x="170" y="98"/>
+      <point x="138" y="130"/>
+      <point x="99" y="130" type="curve" smooth="yes"/>
+      <point x="60" y="130"/>
+      <point x="28" y="98"/>
     </contour>
   </outline>
   <lib>
@@ -25,14 +25,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w262m40,59c40,20 72,-12 111,-12c150,-12 182,20 182,59c182,98 150,130 111,130c72,130 40,98 40,59</string>
+    <string>w290m40,59c40,20 72,-12 111,-12c150,-12 182,20 182,59c182,98 150,130 111,130c72,130 40,98 40,59</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem -12 142</string>
-          <string>vstem 40 142</string>
+          <string>vstem 28 142</string>
         </array>
       </dict>
     </array>

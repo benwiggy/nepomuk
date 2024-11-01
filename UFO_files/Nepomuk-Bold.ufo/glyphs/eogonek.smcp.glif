@@ -5,7 +5,7 @@
   <anchor x="260" y="530" name="t.asciicircum_1"/>
   <outline>
     <component base="ogonek" xOffset="261"/>
-    <component base="e.smcp"/>
+    <component base="e.smcp" xOffset="-11"/>
   </outline>
   <lib>
   <dict>

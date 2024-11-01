@@ -6,7 +6,7 @@
     <contour>
       <point x="213" y="520" type="line"/>
       <point x="302" y="573" type="line" smooth="yes"/>
-      <point x="357.847" y="606.257"/>
+      <point x="358" y="606"/>
       <point x="365" y="615"/>
       <point x="365" y="639" type="curve" smooth="yes"/>
       <point x="365" y="660"/>
@@ -39,7 +39,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>e9f527245b4e6cc3807d6ded3e8465152d2ae859c95024e5a4650fcd68279eecc7eaec94513e48b72695933d87c8d1d4ef9f2a21908a720f676c39ca395abc35</string>
+    <string>46f92f560df0526f9c97b5e789154ef06a1f25de5d293f095b3a1a2727d20668d3ff5e4bcb21fb5e62fd1b268c3e78a92433ce386f13bfbd82ee47439c4798c4</string>
     <key>hintSetList</key>
     <array>
       <dict>

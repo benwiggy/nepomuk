@@ -110,6 +110,7 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 9 -21</string>
           <string>hstem 645 35</string>
         </array>
       </dict>

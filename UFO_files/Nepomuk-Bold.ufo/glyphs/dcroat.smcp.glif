@@ -1,14 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcroat.smcp" format="2">
   <advance width="560"/>
+  <anchor x="179" y="171" name="_t.asciicircum_1"/>
   <outline>
-    <component base="d.smcp"/>
-    <component base="macron.smcp" xOffset="8" yOffset="-323"/>
+    <component base="d.smcp" xOffset="-11"/>
+    <contour>
+      <point x="292" y="255" type="line"/>
+      <point x="25" y="255" type="line"/>
+      <point x="25" y="207" type="line"/>
+      <point x="292" y="207" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
   <string>dcroat</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w560m292,255l25,255l25,207l292,207</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 207 48</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

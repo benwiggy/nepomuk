@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macron.smcp" format="2">
   <advance width="341"/>
+  <anchor x="171" y="494" name="_t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="324" y="578" type="line"/>
@@ -9,4 +10,24 @@
       <point x="324" y="530" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w341m324,578l17,578l17,530l324,530</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 530 48</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

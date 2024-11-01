@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ucircumflex.smcp" format="2">
-  <advance width="590"/>
-  <anchor x="323" y="541" name="t.dieresis"/>
+  <advance width="577"/>
+  <anchor x="305" y="551" name="t.dieresis"/>
   <outline>
     <component base="u.smcp"/>
-    <component base="circumflex.smcp" xOffset="169" yOffset="17"/>
+    <component base="circumflex.smcp" xOffset="151" yOffset="27"/>
   </outline>
   <lib>
   <dict>

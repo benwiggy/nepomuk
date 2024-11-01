@@ -2,7 +2,7 @@
 <glyph name="ldot.smcp" format="2">
   <advance width="500"/>
   <outline>
-    <component base="l.smcp"/>
+    <component base="l.smcp" xOffset="-11"/>
     <contour>
       <point x="263" y="298" type="curve" smooth="yes"/>
       <point x="263" y="266"/>
@@ -38,7 +38,7 @@
           <string>hstem 239 117</string>
           <string>hstem 458 31</string>
           <string>vstem 0 380</string>
-          <string>vstem 105 107</string>
+          <string>vstem 94 107</string>
         </array>
       </dict>
     </array>

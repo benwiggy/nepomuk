@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quoteleft" format="2">
-  <advance width="217"/>
+  <advance width="231"/>
   <unicode hex="2018"/>
   <outline>
     <contour>
@@ -32,7 +32,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>93ff530e77899a2caca1d988a3c65ca84167e89967bc5a3be8ab5b1a51086afc4870fd38c93a6bb1d7f515ee8abbb6315473f58b767f8778ef1804de0a6f53dd</string>
+    <string>ee193b17113ad4b5d6541cc72d4b425dca99724ae597af816e639382e00293384276e58df720ccaa9fa2c1fd623fc96613def20aa014c64e095a67eed3e8d879</string>
     <key>hintSetList</key>
     <array>
       <dict>
