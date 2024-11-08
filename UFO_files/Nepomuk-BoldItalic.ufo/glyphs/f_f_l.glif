@@ -3,7 +3,7 @@
   <advance width="1093"/>
   <unicode hex="FB04"/>
   <outline>
-    <component base="f"/>
+    <component base="f" xOffset="8"/>
     <contour>
       <point x="406" y="415" type="line"/>
       <point x="563" y="415" type="line"/>
@@ -113,11 +113,11 @@
           <string>hstem 682 28</string>
           <string>hstem 682 31</string>
           <string>hstem 683 -20</string>
-          <string>vstem -207 140</string>
-          <string>vstem -207 104</string>
+          <string>vstem -199 140</string>
+          <string>vstem -199 104</string>
           <string>vstem 162 140</string>
-          <string>vstem 444 129</string>
-          <string>vstem 475 98</string>
+          <string>vstem 452 129</string>
+          <string>vstem 483 98</string>
           <string>vstem 770 100</string>
         </array>
       </dict>

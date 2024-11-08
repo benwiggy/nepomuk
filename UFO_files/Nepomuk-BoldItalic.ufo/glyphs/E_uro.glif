@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Euro" format="2">
-  <advance width="606"/>
+  <advance width="625"/>
   <unicode hex="20AC"/>
   <outline>
     <contour>
@@ -71,7 +71,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>4c4a9d6aee571371e0592903c600e7a6488717d685e4e2d4ddb61300c9161db8f6c9e87b3dbcfb8e7914439b99bd6d339571f3de263c926e46f1b4d35d3e7d05</string>
+    <string>fd021eb5121e51db56a7442274246dba24b1dba0b6f3869caab09370129d26563ff1cdb36a65b697569b6bda455fd6a6fb6868688907cb967c1d677a875684c1</string>
     <key>hintSetList</key>
     <array>
       <dict>

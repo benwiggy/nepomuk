@@ -3,7 +3,7 @@
   <advance width="538"/>
   <unicode hex="0137"/>
   <outline>
-    <component base="k"/>
+    <component base="k" xOffset="8"/>
     <component base="commaaccentcomb" xOffset="183"/>
   </outline>
   <lib>

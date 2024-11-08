@@ -6,6 +6,8 @@
   <dict>
     <key>J</key>
     <integer>50</integer>
+    <key>x</key>
+    <integer>25</integer>
     <key>public.kern2.LLowerSerif</key>
     <integer>-40</integer>
     <key>public.kern2.LUpperRound</key>
@@ -121,12 +123,18 @@
     <integer>132</integer>
     <key>question</key>
     <integer>138</integer>
+    <key>questiondown</key>
+    <integer>115</integer>
+    <key>quotedbl</key>
+    <integer>77</integer>
+    <key>quoteleft</key>
+    <integer>108</integer>
     <key>quotesingle</key>
     <integer>117</integer>
     <key>slash</key>
     <integer>97</integer>
     <key>public.kern2.LLowerStraight</key>
-    <integer>104</integer>
+    <integer>128</integer>
     <key>public.kern2.comma</key>
     <integer>118</integer>
     <key>public.kern2.quoteright</key>
@@ -216,6 +224,8 @@
     <integer>7</integer>
     <key>x</key>
     <integer>-35</integer>
+    <key>public.kern2.LLowerRound</key>
+    <integer>-24</integer>
     <key>public.kern2.LUpperStraight</key>
     <integer>-38</integer>
     <key>public.kern2.UpperV-W</key>

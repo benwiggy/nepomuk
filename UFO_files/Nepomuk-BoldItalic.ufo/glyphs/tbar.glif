@@ -3,7 +3,7 @@
   <advance width="379"/>
   <unicode hex="0167"/>
   <outline>
-    <component base="t"/>
+    <component base="t" xOffset="8"/>
     <contour>
       <point x="32" y="284" type="line"/>
       <point x="45" y="325" type="line"/>
@@ -30,7 +30,7 @@
           <string>hstem 284 41</string>
           <string>hstem 415 35</string>
           <string>hstem 649 -20</string>
-          <string>vstem 50 90</string>
+          <string>vstem 58 90</string>
         </array>
       </dict>
     </array>
