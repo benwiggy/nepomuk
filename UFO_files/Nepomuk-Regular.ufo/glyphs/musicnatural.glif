@@ -32,29 +32,4 @@
       <point x="264" y="265" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>46148823781efdc83307dba1f68cc067fa0c942d7054f833be676c9123e32478f0c76b112c736555ca74ad79b396568f288d6853eb08c2c459cbb222ed9d738c</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -36 -21</string>
-          <string>hstem 720 -20</string>
-          <string>vstem 60 34</string>
-          <string>vstem 60 44</string>
-          <string>vstem 254 44</string>
-          <string>vstem 264 34</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

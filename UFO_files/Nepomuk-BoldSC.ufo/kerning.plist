@@ -567,6 +567,8 @@
     <integer>80</integer>
     <key>k.smcp</key>
     <integer>77</integer>
+    <key>parenright</key>
+    <integer>44</integer>
     <key>question</key>
     <integer>97</integer>
     <key>quotedblleft</key>
@@ -662,6 +664,8 @@
   <dict>
     <key>j.smcp</key>
     <integer>84</integer>
+    <key>public.kern2.kry</key>
+    <integer>48</integer>
   </dict>
   <key>questiondown</key>
   <dict>

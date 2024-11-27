@@ -2,7 +2,6 @@
 <glyph name="circumflex" format="2">
   <advance width="313"/>
   <unicode hex="02C6"/>
-  <anchor x="154" y="530" name="_t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="8" y="523" type="line"/>
@@ -22,25 +21,4 @@
       <point x="0" y="545" type="curve"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w313m9,500c44,521 108,566 155,605c201,566 265,521 300,500l308,522c268,559 209,632 185,679l124,679c100,632 41,559 1,522</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 523 21</string>
-          <string>hstem 702 -20</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

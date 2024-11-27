@@ -4,7 +4,7 @@
   <unicode hex="013D"/>
   <anchor x="207" y="730" name="t.asciicircum_1"/>
   <outline>
-    <component base="quoteright" xOffset="393" yOffset="-3"/>
+    <component base="quoteright" xOffset="372" yOffset="-3"/>
     <contour>
       <point x="48" y="0" type="line"/>
       <point x="581" y="0" type="line"/>

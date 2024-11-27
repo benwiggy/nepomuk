@@ -79,25 +79,6 @@
   <dict>
   <key>com.fontlab.recipe</key>
   <string>k+uni0326</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>e96e332df15887572bd522aae25778cb958d486a2f392b509e154555afaad096fa53f6c37da47a980204e5443161df2b1b1e5d28afbbddf44538ac58644bc026</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 35</string>
-          <string>hstem 415 35</string>
-          <string>hstem 645 35</string>
-          <string>vstem 92 90</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

@@ -63,25 +63,6 @@
   <dict>
   <key>com.fontlab.recipe</key>
   <string>T+uni0326</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>3cfab206d6558b9dcc2caa802d760b6377ebc93836574f41b53ae562c0d73ee9fb1b5b9c0de039e7bfeca4e5d96b70c66b693af58674fd7218c20dcdbebe899f</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 35</string>
-          <string>hstem 430 250</string>
-          <string>hstem 644 36</string>
-          <string>vstem 278 95</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

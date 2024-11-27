@@ -39,26 +39,6 @@
   <dict>
   <key>com.fontlab.recipe</key>
   <string>l+acute</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>a1ecc86feb3aad13d363b5ee274aec37ef7de0ffb883ef60b5738b4d4b41002bafd13b6e827a940cb2241f9c3c47fea54310c51b7707bb6d877d2393d3d2aa10</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 35</string>
-          <string>hstem 645 35</string>
-          <string>hstem 876 -20</string>
-          <string>vstem 22 170</string>
-          <string>vstem 102 90</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

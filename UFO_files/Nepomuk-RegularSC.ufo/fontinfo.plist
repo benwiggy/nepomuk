@@ -63,7 +63,7 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1.</st
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>SC</string>
   <key>openTypeNameVersion</key>
-  <string>Version 2.500</string>
+  <string>Version 2.510</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -75,8 +75,8 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1.</st
   <key>openTypeOS2Panose</key>
   <array>
     <integer>2</integer>
-    <integer>0</integer>
-    <integer>5</integer>
+    <integer>2</integer>
+    <integer>6</integer>
     <integer>3</integer>
     <integer>0</integer>
     <integer>0</integer>
@@ -185,7 +185,7 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1.</st
   <key>versionMajor</key>
   <integer>2</integer>
   <key>versionMinor</key>
-  <integer>500</integer>
+  <integer>510</integer>
   <key>xHeight</key>
   <integer>450</integer>
 </dict>

@@ -61,25 +61,6 @@
   <dict>
   <key>com.fontlab.recipe</key>
   <string>t.smcp+~uni0326.smcp</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>3e80030de3959494d4f437c11826ba6b91cfd5e65cb0cd88bef09911b667054782accdf16dd9d81bdf0bcfd1e550cb90500ecd727ddcd7571da1ad5fedbf35f0</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 26</string>
-          <string>hstem 316 183</string>
-          <string>hstem 472 27</string>
-          <string>vstem 217 90</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

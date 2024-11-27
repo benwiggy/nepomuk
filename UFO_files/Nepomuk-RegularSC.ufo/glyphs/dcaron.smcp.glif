@@ -2,7 +2,7 @@
 <glyph name="dcaron.smcp" format="2">
   <advance width="613"/>
   <outline>
-    <component base="quoteright" xOffset="469"/>
+    <component base="quoteright" xOffset="448"/>
     <contour>
       <point x="348" y="0" type="line"/>
       <point x="498" y="0" type="line"/>

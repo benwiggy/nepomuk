@@ -61,26 +61,6 @@
   <dict>
   <key>com.fontlab.recipe</key>
   <string>t+cedillacomb</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>65387083e4800ab7a22f322572a53db540e4092ce973c1e18144afe542d79d8013586e61a931e80684f835e33e5c2030c924ab963123cc01369ad140003ed9ef</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -12 50</string>
-          <string>hstem 415 35</string>
-          <string>hstem 666 -20</string>
-          <string>vstem 90 85</string>
-          <string>vstem 286 30</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

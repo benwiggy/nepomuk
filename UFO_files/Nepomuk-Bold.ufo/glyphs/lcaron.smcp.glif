@@ -2,7 +2,7 @@
 <glyph name="lcaron.smcp" format="2">
   <advance width="496"/>
   <outline>
-    <component base="quoteright" xOffset="296" yOffset="-140"/>
+    <component base="quoteright" xOffset="275" yOffset="-140"/>
     <component base="l.smcp" xOffset="-11"/>
   </outline>
   <lib>

@@ -5,7 +5,7 @@
   <anchor x="369" y="513" name="accent1"/>
   <outline>
     <component base="n" xOffset="70"/>
-    <component base="quoteright" xOffset="-112" yOffset="-125"/>
+    <component base="quoteright" xOffset="-158" yOffset="-125"/>
   </outline>
   <lib>
   <dict>

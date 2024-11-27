@@ -2,7 +2,6 @@
 <glyph name="s" format="2">
   <advance width="418"/>
   <unicode hex="0073"/>
-  <anchor x="277" y="515" name="accent1"/>
   <outline>
     <contour>
       <point x="91" y="54" type="curve" smooth="yes"/>
@@ -61,33 +60,4 @@
       <point x="91" y="35"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>3cf64b6235dc61a2fbe9f00c55d10d7040eedb5af4876f89d16cb27c413e2e0fcd4cbf465f404cc9a4f51638b4eec56c7ff3967f7299dec00720b34a1b693e48</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -12 172</string>
-          <string>hstem -12 30</string>
-          <string>hstem 314 148</string>
-          <string>hstem 434 28</string>
-          <string>vstem 5 86</string>
-          <string>vstem 5 108</string>
-          <string>vstem 79 86</string>
-          <string>vstem 263 90</string>
-          <string>vstem 289 104</string>
-          <string>vstem 314 79</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

@@ -717,8 +717,69 @@ feature mark {
   lookup markLTR;
 #< feature
 } mark;
-feature kern {
+feature locl {
+# Localized Forms
+
 #> feature
+  script latn; # Latin
+  language MOL; # Moldavian
+  sub Scedilla by Scommaaccent;
+  sub Tcedilla by Tcommaaccent;
+  sub scedilla by scommaaccent;
+  sub tcedilla by tcommaaccent;
+
+  language ROM; # Romanian
+  sub Scedilla by Scommaaccent;
+  sub Tcedilla by Tcommaaccent;
+  sub scedilla by scommaaccent;
+  sub tcedilla by tcommaaccent;
+#< feature
+} locl;
+feature sups {
+# Superscript
+
+#> feature
+  sub one by onesuperior;
+  sub three by threesuperior;
+  sub two by twosuperior;
+#< feature
+} sups;
+feature frac {
+# Fractions
+
+#> feature
+lookup frac_precomposed {
+
+  sub one slash four by onequarter;
+  sub one slash two by onehalf;
+  sub three slash four by threequarters;
+} frac_precomposed;
+#< feature
+} frac;
+feature ordn {
+# Ordinals
+
+#> feature
+  sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+  sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+  sub N o period by numero;
+#< feature
+} ordn;
+feature salt {
+# Stylistic Alternates
+
+#> feature
+  sub one from [one.alt];
+#< feature
+} salt;
+feature hist {
+# Historical Forms
+
+#> feature
+  sub s by longs;
+#< feature
+} hist;
+feature kern {
   @_krA = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde];
   @_krC = [C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent];
   @_kra = [a aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde];
@@ -750,6 +811,11 @@ feature kern {
     pos parenleft f -30;
     pos parenleft j 52;
     pos parenleft p 40;
+    pos parenleft y 40;
+    pos parenleft ydieresis 40;
+    pos parenleft ycircumflex 40;
+    pos parenleft yacute 40;
+    pos parenleft ygrave 40;
     pos comma T -63;
     pos comma V -130;
     pos comma Y -110;
@@ -2742,67 +2808,4 @@ feature kern {
     pos @_krW @_kr_iSC -67;
   } KERN_LTR;
 
-#< feature
 } kern;
-feature locl {
-# Localized Forms
-
-#> feature
-  script latn; # Latin
-  language MOL; # Moldavian
-  sub Scedilla by Scommaaccent;
-  sub Tcedilla by Tcommaaccent;
-  sub scedilla by scommaaccent;
-  sub tcedilla by tcommaaccent;
-
-  language ROM; # Romanian
-  sub Scedilla by Scommaaccent;
-  sub Tcedilla by Tcommaaccent;
-  sub scedilla by scommaaccent;
-  sub tcedilla by tcommaaccent;
-#< feature
-} locl;
-feature sups {
-# Superscript
-
-#> feature
-  sub one by onesuperior;
-  sub three by threesuperior;
-  sub two by twosuperior;
-#< feature
-} sups;
-feature frac {
-# Fractions
-
-#> feature
-lookup frac_precomposed {
-
-  sub one slash four by onequarter;
-  sub one slash two by onehalf;
-  sub three slash four by threequarters;
-} frac_precomposed;
-#< feature
-} frac;
-feature ordn {
-# Ordinals
-
-#> feature
-  sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
-  sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
-  sub N o period by numero;
-#< feature
-} ordn;
-feature salt {
-# Stylistic Alternates
-
-#> feature
-  sub one from [one.alt];
-#< feature
-} salt;
-feature hist {
-# Historical Forms
-
-#> feature
-  sub s by longs;
-#< feature
-} hist;

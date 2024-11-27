@@ -2,8 +2,6 @@
 <glyph name="dotlessi" format="2">
   <advance width="330"/>
   <unicode hex="0131"/>
-  <anchor x="150" y="530" name="t.dieresis"/>
-  <anchor x="150" y="530" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="270" y="35" type="line" smooth="yes"/>
@@ -27,27 +25,4 @@
       <point x="315" y="35" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>958c79fe1788d4b4faae36ce89193838f22889b0adc98d2b1645aa17e00298e13e388cec9ecbf583a93be93d4217247102f688866c1732e197eb9e07cbb69cb6</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 35</string>
-          <string>hstem 415 35</string>
-          <string>vstem 35 200</string>
-          <string>vstem 115 120</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

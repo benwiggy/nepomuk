@@ -2,8 +2,6 @@
 <glyph name="obarred" format="2">
   <advance width="504"/>
   <unicode hex="0275"/>
-  <anchor x="250" y="530" name="t.dieresis"/>
-  <anchor x="250" y="530" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="250" y="-12" type="curve" smooth="yes"/>
@@ -42,26 +40,6 @@
   <dict>
   <key>public.markColor</key>
   <string>0.604,0.6,1,1</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>2861f08f70d294670882cf9eefea637278d3575add9ecf913d811896652f7091aaa6e176b6ea485fe73b889c1ce6cb453b6108b45eae7a66de5d70b6fc8d6bc6</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -12 26</string>
-          <string>hstem 209 48</string>
-          <string>hstem 436 26</string>
-          <string>vstem 33 103.2</string>
-          <string>vstem 363.8 103.2</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

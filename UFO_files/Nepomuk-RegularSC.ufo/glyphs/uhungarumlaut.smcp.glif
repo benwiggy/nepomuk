@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uhungarumlaut.smcp" format="2">
   <advance width="550"/>
-  <anchor x="248" y="510" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="82" y="171" type="line" smooth="yes"/>
@@ -79,29 +78,6 @@
   <dict>
   <key>com.fontlab.recipe</key>
   <string>u+hungarumlaut</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>43d462b34ca91119b6956d67d9f60cfe0ec0373c6fd3baf42623cfcd81f3e951fc284fb4f202df3a65b1cb9535bf6875043f04d548091b2680212ba2f85228f4</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -12 44</string>
-          <string>hstem 0 35</string>
-          <string>hstem 415 35</string>
-          <string>hstem 558 -20</string>
-          <string>hstem 718 -20</string>
-          <string>vstem 82 90</string>
-          <string>vstem 368 86</string>
-          <string>vstem 374 80</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

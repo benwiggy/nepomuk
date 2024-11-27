@@ -151,7 +151,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameVersion</key>
-  <string>Version 2.500</string>
+  <string>Version 2.510</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -283,7 +283,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <key>versionMajor</key>
   <integer>2</integer>
   <key>versionMinor</key>
-  <integer>500</integer>
+  <integer>510</integer>
   <key>xHeight</key>
   <integer>450</integer>
 </dict>

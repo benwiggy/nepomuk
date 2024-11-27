@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aogonek.smcp" format="2">
   <advance width="515"/>
-  <anchor x="245" y="530" name="t.dieresis"/>
-  <anchor x="245" y="524" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="239" y="270" type="line" smooth="yes"/>
@@ -92,31 +90,6 @@
   <dict>
   <key>com.fontlab.recipe</key>
   <string>a+>~ogonek</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>94322ea65c4932db62d7a09af7e93a61391c52a391bd7e0fd434f2fccbf7feb2c970ffae13f157341567197bcbbee9ecb85f74a80f5974995b4bd29dfe2c8dc7</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -175 44</string>
-          <string>hstem -12 46</string>
-          <string>hstem -12 36</string>
-          <string>hstem 296 166</string>
-          <string>hstem 431 31</string>
-          <string>vstem 41 101</string>
-          <string>vstem 67 101</string>
-          <string>vstem 67 81</string>
-          <string>vstem 266.5 49</string>
-          <string>vstem 323 90</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

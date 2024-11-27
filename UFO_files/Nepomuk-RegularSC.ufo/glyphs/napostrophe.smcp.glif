@@ -3,7 +3,7 @@
   <advance width="632"/>
   <anchor x="345" y="520" name="t.asciicircum_1"/>
   <outline>
-    <component base="quoteright" xOffset="-17" yOffset="-75"/>
+    <component base="quoteright" xOffset="-38" yOffset="-75"/>
     <contour>
       <point x="109" y="0" type="line"/>
       <point x="324" y="0" type="line"/>

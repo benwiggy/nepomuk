@@ -2,7 +2,6 @@
 <glyph name="Y" format="2">
   <advance width="657"/>
   <unicode hex="0059"/>
-  <anchor x="455" y="714" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="141" y="38" type="curve"/>
@@ -47,25 +46,4 @@
       <point x="192" y="38"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>6849576237d2a21413633d71ba28d405c43b10cd1511bbd0ac9bf63f368afab0d4911332f8713905df47cb2ad4781b918bdb3c2b147d6277467f36763f6b0875</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 38</string>
-          <string>hstem 642 38</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

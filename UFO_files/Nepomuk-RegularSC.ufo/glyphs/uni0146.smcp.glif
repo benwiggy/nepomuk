@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0146.smcp" format="2">
   <advance width="555"/>
-  <anchor x="268" y="520" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="32" y="0" type="line"/>
@@ -82,27 +81,6 @@
   <dict>
   <key>com.fontlab.recipe</key>
   <string>n+uni0326</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>d7bed734570db0e808731ad7918341a2ddc8bee34b0aa81a51ff34c91f4f52cfd6fd64dfd54e11e86bb886f93197ea08ae1af6da299a71fe85aedbbec57ba64f</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 35</string>
-          <string>hstem 415 35</string>
-          <string>hstem 418 44</string>
-          <string>vstem 102 80</string>
-          <string>vstem 102 85</string>
-          <string>vstem 383 90</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

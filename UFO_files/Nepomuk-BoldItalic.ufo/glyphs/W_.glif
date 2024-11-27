@@ -2,7 +2,6 @@
 <glyph name="W" format="2">
   <advance width="964"/>
   <unicode hex="0057"/>
-  <anchor x="625" y="724" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="139" y="642" type="line"/>
@@ -56,25 +55,4 @@
       <point x="152" y="680" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>b8a5064bef232e8cd0ef78107a146e119ef11af74fefa577aea257d4195c7816c99166f208a0022cf65a88bb95d7895cd88a5fb541058f6bef0513fabf923649</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 642 38</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

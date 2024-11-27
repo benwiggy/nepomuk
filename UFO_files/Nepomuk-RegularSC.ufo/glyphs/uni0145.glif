@@ -2,7 +2,6 @@
 <glyph name="uni0145" format="2">
   <advance width="734"/>
   <unicode hex="0145"/>
-  <anchor x="371" y="730" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="45" y="0" type="line"/>
@@ -70,26 +69,6 @@
   <dict>
   <key>com.fontlab.recipe</key>
   <string>N+uni0326</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>06e7b4db4a4227c16652d8d1c5ee647cf34aff2da650eb7d2a92d3a27eb6853674a6e1bbfbf7038fbf21f04a160f76a73be4cbe9d1b171e056f43c63876dcc8b</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 35</string>
-          <string>hstem 9 -21</string>
-          <string>hstem 645 35</string>
-          <string>vstem 145 40</string>
-          <string>vstem 567 40</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

@@ -58,28 +58,4 @@
       <point x="406" y="532"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>67a225d4faf4149d97ae9a193b32e7104b81c166f9186cbd9eed4722130099b260fdce41e1e88cf5cc8c1683d7b904bf2f4e6be0a47f2c62828f54d71e92fe9f</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 462 0</string>
-          <string>hstem 462 52</string>
-          <string>hstem 514 70</string>
-          <string>hstem 629 -21</string>
-          <string>vstem 35 0</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

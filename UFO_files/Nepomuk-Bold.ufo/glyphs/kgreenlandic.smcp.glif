@@ -68,25 +68,6 @@
   <dict>
   <key>com.fontlab.recipe</key>
   <string>kgreenlandic</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>164464f6942651aedb708d2bd28d131922de38421a9a7febc68d25904808d9685b1c03387993692ed692bd073c20c46bd2f913ab0588c20c6cf40da45117decd</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 35</string>
-          <string>hstem 415 35</string>
-          <string>vstem 93 116</string>
-          <string>vstem 93 147</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

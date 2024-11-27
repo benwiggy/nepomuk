@@ -46,11 +46,6 @@
     <key>public.kern2.t</key>
     <integer>-27</integer>
   </dict>
-  <key>L</key>
-  <dict>
-    <key>public.kern2.Y</key>
-    <integer>-50</integer>
-  </dict>
   <key>Oslash</key>
   <dict>
     <key>public.kern2.UpperV-W</key>
@@ -95,12 +90,12 @@
   </dict>
   <key>bracketleft</key>
   <dict>
-    <key>j</key>
-    <integer>122</integer>
     <key>public.kern2.LLowerSerif</key>
     <integer>14</integer>
     <key>public.kern2.f</key>
     <integer>182</integer>
+    <key>public.kern2.j</key>
+    <integer>122</integer>
   </dict>
   <key>f</key>
   <dict>
@@ -152,21 +147,23 @@
     <key>public.kern2.f</key>
     <integer>101</integer>
   </dict>
-  <key>n</key>
-  <dict>
-    <key>quotesingle</key>
-    <integer>-111</integer>
-    <key>public.kern2.quoteright</key>
-    <integer>-90</integer>
-  </dict>
   <key>parenleft</key>
   <dict>
+    <key>public.kern2.LLowerRound</key>
+    <integer>-43</integer>
     <key>public.kern2.LLowerSerif</key>
-    <integer>74</integer>
+    <integer>-74</integer>
     <key>public.kern2.f</key>
     <integer>128</integer>
     <key>public.kern2.j</key>
     <integer>88</integer>
+  </dict>
+  <key>parenright</key>
+  <dict>
+    <key>public.kern2.LLowerStraight</key>
+    <integer>49</integer>
+    <key>public.kern2.f</key>
+    <integer>95</integer>
   </dict>
   <key>period</key>
   <dict>
@@ -189,6 +186,11 @@
   <dict>
     <key>public.kern2.A</key>
     <integer>-14</integer>
+  </dict>
+  <key>y</key>
+  <dict>
+    <key>public.kern2.f</key>
+    <integer>95</integer>
   </dict>
   <key>public.kern1.A</key>
   <dict>
@@ -215,16 +217,31 @@
     <integer>-41</integer>
     <key>public.kern2.UpperV-W</key>
     <integer>-115</integer>
+    <key>public.kern2.Y</key>
+    <integer>-50</integer>
   </dict>
   <key>public.kern1.Numbers</key>
   <dict>
     <key>public.kern2.f</key>
     <integer>54</integer>
   </dict>
+  <key>public.kern1.RLowerRound</key>
+  <dict>
+    <key>parenleft</key>
+    <integer>24</integer>
+    <key>parenright</key>
+    <integer>-22</integer>
+  </dict>
   <key>public.kern1.RLowerSerif</key>
   <dict>
+    <key>parenright</key>
+    <integer>-31</integer>
+    <key>quotesingle</key>
+    <integer>-111</integer>
     <key>public.kern2.comma</key>
     <integer>60</integer>
+    <key>public.kern2.quoteright</key>
+    <integer>-90</integer>
   </dict>
   <key>public.kern1.RUpperRound</key>
   <dict>

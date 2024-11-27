@@ -14,6 +14,8 @@ v2.07: Bold and Bold Italic styles have been improved. Windows naming issues are
 v2.08: Fix and additions to diacritics.
 
 v2.50: Major revision to the Bold and Bold Italic styles; further improvements to kerning throughout.
-
+v2.51: Snagging from 2.50; kerning and fixes to punctation (brackets, quotes).
 
 The fonts in this archive are free to use for everybody. They're licensed under the [SIL Open Font License](http://scripts.sil.org/ofl).
+
+Derivatives must use a different name.

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="u.smcp" format="2">
   <advance width="577"/>
-  <anchor x="305" y="551" name="t.dieresis"/>
-  <anchor x="305" y="537" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="86" y="199" type="line" smooth="yes"/>
@@ -45,27 +43,4 @@
       <point x="86" y="434" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>720e591a05e6698ee03186ff6a823a73c0152a71e0f26aee618b8711d16a6f4056ba75272819119093835d80f0b8a3226411efc5181f936129c3fd22e753e7aa</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -5.53 30.32</string>
-          <string>hstem 470.12 25.58</string>
-          <string>vstem 93.01 91.91</string>
-          <string>vstem 420.85 33.16</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

@@ -2,7 +2,6 @@
 <glyph name="acute" format="2">
   <advance width="212"/>
   <unicode hex="00B4"/>
-  <anchor x="106" y="530" name="_t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="94" y="706" type="line"/>
@@ -16,24 +15,4 @@
       <point x="205" y="706" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w212m94,706c76,662 34,594 0,554l8,532c64,564 170,646 212,686l205,706</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 706 -20</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

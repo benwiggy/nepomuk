@@ -2,8 +2,6 @@
 <glyph name="Rinvertedsmall" format="2">
   <advance width="496"/>
   <unicode hex="0281"/>
-  <anchor x="230" y="-41" name="t.asciicircum_1"/>
-  <anchor x="230" y="-54" name="t.dieresis"/>
   <outline>
     <contour>
       <point x="22" y="-8" type="line"/>
@@ -71,30 +69,4 @@
       <point x="218" y="20" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>81c268c709d304d1120abb2dd1cc30759c61401a02ae03faa918bf0908c2704f884b13e91ae62d62fe52788a2eeb864acd515c7bb242d1065d2f2cb6a4fbf94e</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -8 24</string>
-          <string>hstem 185 23</string>
-          <string>hstem 399 43</string>
-          <string>hstem 411 23</string>
-          <string>vstem 12 76</string>
-          <string>vstem 231 87</string>
-          <string>vstem 441 24</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

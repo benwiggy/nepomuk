@@ -52,26 +52,6 @@
   <dict>
   <key>com.fontlab.recipe</key>
   <string>L+periodcentered</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>daeb9d115018a074957524dba8ae3c98da0d072a08fabc9ba520554a011767c13670a8c635267fabfc526c181c77f3e786255cf954fade1fd252d3565c7e68fc</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 36</string>
-          <string>hstem 359 162</string>
-          <string>hstem 645 35</string>
-          <string>vstem 137 95</string>
-          <string>vstem 299 162</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

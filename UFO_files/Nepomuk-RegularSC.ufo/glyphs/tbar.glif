@@ -27,10 +27,10 @@
       <point x="114" y="466"/>
       <point x="174" y="466" type="curve" smooth="yes"/>
       <point x="201" y="466"/>
-      <point x="212.944" y="462"/>
+      <point x="213" y="462"/>
       <point x="213" y="441" type="curve" smooth="yes"/>
       <point x="214" y="64" type="line" smooth="yes"/>
-      <point x="214.056" y="43"/>
+      <point x="214" y="43"/>
       <point x="202" y="32"/>
       <point x="177" y="32" type="curve" smooth="yes"/>
       <point x="142" y="32" type="line"/>
@@ -49,7 +49,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>46d2b256c892fd8309228ba8545f2e7b109cd98bc3fdc9bea3c712c2b9dd03104653d203e9c4fa5de74709852b5635b2a1f42b79f66ac4da8da3b103c79bd0f7</string>
+    <string>8844e1779ddadb299b62f24a584ddc0e37f9b324dc84bbf0139fcade5d5730b681132f175df360ebbcc838975992384b509aa888e40af9c83040a96bea1f2bfd</string>
     <key>hintSetList</key>
     <array>
       <dict>

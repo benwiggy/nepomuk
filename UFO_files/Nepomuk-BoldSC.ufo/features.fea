@@ -689,8 +689,105 @@ feature mark {
   lookup markLTR;
 #< feature
 } mark;
-feature kern {
+feature locl {
+# Localized Forms
+
 #> feature
+  script latn; # Latin
+  language MOL; # Moldavian
+  sub Scedilla by Scommaaccent;
+  sub Tcedilla by Tcommaaccent;
+  sub scedilla by scommaaccent;
+  sub tcedilla by tcommaaccent;
+
+  language ROM; # Romanian
+  sub Scedilla by Scommaaccent;
+  sub Tcedilla by Tcommaaccent;
+  sub scedilla by scommaaccent;
+  sub tcedilla by tcommaaccent;
+#< feature
+} locl;
+feature sups {
+# Superscript
+
+#> feature
+  sub one by onesuperior;
+  sub three by threesuperior;
+  sub two by twosuperior;
+#< feature
+} sups;
+feature frac {
+# Fractions
+
+#> feature
+lookup frac_precomposed {
+
+  sub one slash four by onequarter;
+  sub one slash two by onehalf;
+  sub three slash four by threequarters;
+} frac_precomposed;
+#< feature
+} frac;
+feature ordn {
+# Ordinals
+
+#> feature
+  sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+  sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+  sub N o period by numero;
+#< feature
+} ordn;
+feature salt {
+# Stylistic Alternates
+
+#> feature
+  sub one from [one.alt];
+#< feature
+} salt;
+feature hist {
+# Historical Forms
+
+#> feature
+  sub s by longs;
+#< feature
+} hist;
+feature mkmk {
+# GPOS feature : Mark to Mark Positioning
+#    markClass asciicircum <anchor 154 530> @t.asciicircum_1;
+#    markClass grave <anchor 106 530> @t.asciicircum_1;
+#    markClass asciitilde <anchor 160 530> @t.asciicircum_1;
+#    markClass acute <anchor 106 530> @t.asciicircum_1;
+#    markClass circumflex <anchor 154 530> @t.asciicircum_1;
+#    markClass caron <anchor 154 520> @t.asciicircum_1;
+#    markClass dotaccent <anchor 165 530> @t.asciicircum_1;
+#    markClass macronmod <anchor 171 494> @t.asciicircum_1;
+#    markClass ring <anchor 125 490> @t.asciicircum_1;
+#    markClass tilde <anchor 160 530> @t.asciicircum_1;
+#    markClass ringcomb <anchor 125 490> @t.asciicircum_1;
+#    markClass caroncomb <anchor 154 520> @t.asciicircum_1;
+#    markClass ringcomb.smcp <anchor 125 490> @t.asciicircum_1;
+#    markClass caroncomb.smcp <anchor 154 520> @t.asciicircum_1;
+#    markClass macron.smcp <anchor 171 494> @t.asciicircum_1;
+#    markClass acute.smcp <anchor 106 530> @t.asciicircum_1;
+#    markClass grave.smcp <anchor 106 530> @t.asciicircum_1;
+#    markClass circumflexcomb <anchor 154 530> @t.asciicircum_1;
+#    markClass circumflexcomb.smcp <anchor 154 530> @t.asciicircum_1;
+#    markClass tildecomb <anchor 160 530> @t.asciicircum_1;
+#    markClass tilde.smcp <anchor 160 530> @t.asciicircum_1;
+#    markClass circumflex.smcp <anchor 154 510> @t.asciicircum_1;
+#    markClass breve.smcp <anchor 125 497> @t.asciicircum_1;
+#    markClass dotaccent.smcp <anchor 165 530> @t.asciicircum_1;
+#    markClass hungarumlaut <anchor 175 532> @t.asciicircum_1;
+#    markClass jcircumflex.smcp <anchor 181 520> @t.asciicircum_1;
+
+  lookup mkmkLTR {
+      pos mark jcircumflex.smcp
+          <anchor 191 517> mark @t.asciicircum_1;
+  } mkmkLTR;
+
+  lookup mkmkLTR;
+} mkmk;
+feature kern {
   @_krA = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde];
   @_krC = [C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent];
   @_kra = [a.smcp aacute.smcp abreve.smcp acircumflex.smcp adieresis.smcp agrave.smcp amacron.smcp aring.smcp atilde.smcp];
@@ -720,6 +817,11 @@ feature kern {
     pos quotesingle Aacute -123;
     pos quotesingle Acircumflex -123;
     pos parenleft j.smcp 84;
+    pos parenleft y.smcp 48;
+    pos parenleft ydieresis.smcp 48;
+    pos parenleft ycircumflex.smcp 48;
+    pos parenleft yacute.smcp 48;
+    pos parenleft ygrave.smcp 48;
     pos comma T -63;
     pos comma V -130;
     pos comma Y -110;
@@ -1735,6 +1837,7 @@ feature kern {
     pos c.smcp b.smcp -47;
     pos e.smcp b.smcp -58;
     pos f.smcp exclam 92;
+    pos f.smcp parenright 44;
     pos f.smcp comma -13;
     pos f.smcp period -13;
     pos f.smcp question 97;
@@ -2158,103 +2261,4 @@ feature kern {
     pos @_krW @_kr_iSC -67;
   } KERN_LTR;
 
-#< feature
 } kern;
-feature locl {
-# Localized Forms
-
-#> feature
-  script latn; # Latin
-  language MOL; # Moldavian
-  sub Scedilla by Scommaaccent;
-  sub Tcedilla by Tcommaaccent;
-  sub scedilla by scommaaccent;
-  sub tcedilla by tcommaaccent;
-
-  language ROM; # Romanian
-  sub Scedilla by Scommaaccent;
-  sub Tcedilla by Tcommaaccent;
-  sub scedilla by scommaaccent;
-  sub tcedilla by tcommaaccent;
-#< feature
-} locl;
-feature sups {
-# Superscript
-
-#> feature
-  sub one by onesuperior;
-  sub three by threesuperior;
-  sub two by twosuperior;
-#< feature
-} sups;
-feature frac {
-# Fractions
-
-#> feature
-lookup frac_precomposed {
-
-  sub one slash four by onequarter;
-  sub one slash two by onehalf;
-  sub three slash four by threequarters;
-} frac_precomposed;
-#< feature
-} frac;
-feature ordn {
-# Ordinals
-
-#> feature
-  sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
-  sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
-  sub N o period by numero;
-#< feature
-} ordn;
-feature salt {
-# Stylistic Alternates
-
-#> feature
-  sub one from [one.alt];
-#< feature
-} salt;
-feature hist {
-# Historical Forms
-
-#> feature
-  sub s by longs;
-#< feature
-} hist;
-feature mkmk {
-# GPOS feature : Mark to Mark Positioning
-#    markClass asciicircum <anchor 154 530> @t.asciicircum_1;
-#    markClass grave <anchor 106 530> @t.asciicircum_1;
-#    markClass asciitilde <anchor 160 530> @t.asciicircum_1;
-#    markClass acute <anchor 106 530> @t.asciicircum_1;
-#    markClass circumflex <anchor 154 530> @t.asciicircum_1;
-#    markClass caron <anchor 154 520> @t.asciicircum_1;
-#    markClass dotaccent <anchor 165 530> @t.asciicircum_1;
-#    markClass macronmod <anchor 171 494> @t.asciicircum_1;
-#    markClass ring <anchor 125 490> @t.asciicircum_1;
-#    markClass tilde <anchor 160 530> @t.asciicircum_1;
-#    markClass ringcomb <anchor 125 490> @t.asciicircum_1;
-#    markClass caroncomb <anchor 154 520> @t.asciicircum_1;
-#    markClass ringcomb.smcp <anchor 125 490> @t.asciicircum_1;
-#    markClass caroncomb.smcp <anchor 154 520> @t.asciicircum_1;
-#    markClass macron.smcp <anchor 171 494> @t.asciicircum_1;
-#    markClass acute.smcp <anchor 106 530> @t.asciicircum_1;
-#    markClass grave.smcp <anchor 106 530> @t.asciicircum_1;
-#    markClass circumflexcomb <anchor 154 530> @t.asciicircum_1;
-#    markClass circumflexcomb.smcp <anchor 154 530> @t.asciicircum_1;
-#    markClass tildecomb <anchor 160 530> @t.asciicircum_1;
-#    markClass tilde.smcp <anchor 160 530> @t.asciicircum_1;
-#    markClass circumflex.smcp <anchor 154 510> @t.asciicircum_1;
-#    markClass breve.smcp <anchor 125 497> @t.asciicircum_1;
-#    markClass dotaccent.smcp <anchor 165 530> @t.asciicircum_1;
-#    markClass hungarumlaut <anchor 175 532> @t.asciicircum_1;
-#    markClass jcircumflex.smcp <anchor 181 520> @t.asciicircum_1;
-
-  lookup mkmkLTR {
-      pos mark jcircumflex.smcp
-          <anchor 191 517> mark @t.asciicircum_1;
-  } mkmkLTR;
-
-  lookup mkmkLTR;
-} mkmk;

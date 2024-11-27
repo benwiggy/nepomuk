@@ -2,8 +2,6 @@
 <glyph name="uni0123" format="2">
   <advance width="551"/>
   <unicode hex="0123"/>
-  <anchor x="265" y="541" name="t.asciicircum_1"/>
-  <anchor x="265" y="555" name="t.dieresis"/>
   <outline>
     <contour>
       <point x="299" y="236" type="line"/>
@@ -88,26 +86,6 @@
   <dict>
   <key>com.fontlab.recipe</key>
   <string>g.smcp+~uni0327.smcp</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>0ae8aef57f13a273ac38bc6dc9583737892253bf5e16b718ecdd2362ae0ebe28b0d1fed228e5b339e84a903653e42ca9c8ecb6edb44afd11f445166199b63116</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -5.5 28.5</string>
-          <string>hstem 238 24.5</string>
-          <string>hstem 478.5 25.5</string>
-          <string>vstem 35 107</string>
-          <string>vstem 289 85.5</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

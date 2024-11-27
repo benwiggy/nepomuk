@@ -2,8 +2,6 @@
 <glyph name="ramshorn" format="2">
   <advance width="590"/>
   <unicode hex="0264"/>
-  <anchor x="294" y="550" name="m.uni0363"/>
-  <anchor x="294" y="-50" name="m.uni1DCA"/>
   <outline>
     <contour>
       <point x="544" y="324" type="line"/>
@@ -78,29 +76,4 @@
       <point x="298" y="143" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>3fe6b7e836d411f7368939734137040bd11a58b487e1e2b4eff33d7db4acd5056d8e8261b902445a497181771e6224662cd567c4208a0fb172ebcef78c80504f</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -13 52</string>
-          <string>hstem 324 182</string>
-          <string>hstem 408 98</string>
-          <string>vstem 10 32</string>
-          <string>vstem 187 53</string>
-          <string>vstem 322 82</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

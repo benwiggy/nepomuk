@@ -817,6 +817,8 @@
     <integer>52</integer>
     <key>p</key>
     <integer>40</integer>
+    <key>public.kern2.kry</key>
+    <integer>40</integer>
   </dict>
   <key>questiondown</key>
   <dict>

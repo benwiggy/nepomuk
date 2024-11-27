@@ -2,7 +2,6 @@
 <glyph name="macronmod" format="2">
   <advance width="341"/>
   <unicode hex="02C9"/>
-  <anchor x="171" y="494" name="_t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="17" y="530" type="line"/>
@@ -11,24 +10,4 @@
       <point x="17" y="558" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w341m17,530l324,530l324,558l17,558</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 530 28</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

@@ -2,7 +2,6 @@
 <glyph name="caron" format="2">
   <advance width="271"/>
   <unicode hex="02C7"/>
-  <anchor x="218" y="490" name="_t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="197" y="534" type="line"/>
@@ -14,25 +13,4 @@
       <point x="254" y="534" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w271m197,534l125,689l153,707l246,606l395,707l411,691l254,534</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 555 -21</string>
-          <string>hstem 707 -20</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

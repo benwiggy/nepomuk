@@ -71,28 +71,6 @@
   <string>h+macron</string>
   <key>public.markColor</key>
   <string>0.6,0.602,1,1</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>fd647b8e1b96057d3dc78739b6ac5844247c3fcaf4d9612e8a54af55d7c6ae63d80baf15ebf9876a3187172d1dcc96f9e893142cf6341b9b5ccee2743c36ac22</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 35</string>
-          <string>hstem 418 44</string>
-          <string>hstem 532 38</string>
-          <string>hstem 645 35</string>
-          <string>vstem 92 86</string>
-          <string>vstem 92 82</string>
-          <string>vstem 374 90</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

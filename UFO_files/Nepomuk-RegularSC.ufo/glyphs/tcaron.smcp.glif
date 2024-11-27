@@ -3,6 +3,6 @@
   <advance width="422"/>
   <outline>
     <component base="t.smcp"/>
-    <component base="quoteright" xScale="0.9" yScale="0.9" xOffset="237" yOffset="93"/>
+    <component base="quoteright" xScale="0.9" yScale="0.9" xOffset="216" yOffset="93"/>
   </outline>
 </glyph>

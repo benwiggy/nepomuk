@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblleft" format="2">
-  <advance width="415"/>
+  <advance width="436"/>
   <unicode hex="201C"/>
   <outline>
     <contour>
@@ -46,29 +46,4 @@
       <point x="389" y="753" type="curve"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>48ed41261bdd420e1d58c13965fcb57d6ad3b14aa3e1ecb9fcbc7da258e598ba380682cf028087ec1e2d0b84650c98065cc84944c23cb3505ca83a9b9ba26e85</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 537 127</string>
-          <string>hstem 537 246</string>
-          <string>vstem 55 62</string>
-          <string>vstem 55 147</string>
-          <string>vstem 249 62</string>
-          <string>vstem 249 147</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ringcomb.smcp" format="2">
   <advance width="250"/>
-  <anchor x="125" y="490" name="_t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="54" y="631" type="curve" smooth="yes"/>

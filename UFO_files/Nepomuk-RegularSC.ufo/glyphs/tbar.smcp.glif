@@ -42,27 +42,6 @@
   <dict>
   <key>com.fontlab.recipe</key>
   <string>t+macron</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>fb9e23b2bd4901ea8ddc2fda1747c4013a89d15835b0157d4c6f56674bb4e4ae2784ca525ad61d5e1bbc43693f1cff583614d0bb1b35a6e5ad30b8a2f5b8582b</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -12 50</string>
-          <string>hstem 415 35</string>
-          <string>hstem 552 38</string>
-          <string>hstem 666 -20</string>
-          <string>vstem 90 85</string>
-          <string>vstem 286 30</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

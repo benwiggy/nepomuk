@@ -2,7 +2,6 @@
 <glyph name="dotlessj" format="2">
   <advance width="389"/>
   <unicode hex="0237"/>
-  <anchor x="256" y="498" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="301" y="308" type="line" smooth="yes"/>
@@ -56,26 +55,6 @@
   <dict>
   <key>com.fontlab.recipe</key>
   <string>j%</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>7cb8e7dc7051101fa3a1f6a6f1db7f9bd68bf77470b011d985002b6a093d6ff958f3b5e7588526808943acae873f1bc9a562678817697ff8a62951c9e289cf9a</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -225 28</string>
-          <string>hstem -225 150</string>
-          <string>hstem 414 44</string>
-          <string>vstem -150 130</string>
-          <string>vstem 212 102</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

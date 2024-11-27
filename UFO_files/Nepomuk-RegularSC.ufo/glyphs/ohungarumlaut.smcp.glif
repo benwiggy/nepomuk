@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ohungarumlaut.smcp" format="2">
   <advance width="488"/>
-  <anchor x="244" y="530" name="t.dieresis"/>
-  <anchor x="244" y="530" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="244" y="-12" type="curve" smooth="yes"/>
@@ -65,27 +63,6 @@
   <dict>
   <key>com.fontlab.recipe</key>
   <string>o+hungarumlaut</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>fe3e609e5375f41e918a6d507d92debe54f01145709200c04ba1985f9101eee624ce9444d6a20beaefeca0fa9c2baa7b02334c7004ac79965a944d7dcdca96b7</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -12 26</string>
-          <string>hstem 436 26</string>
-          <string>hstem 578 -20</string>
-          <string>hstem 738 -20</string>
-          <string>vstem 32 108</string>
-          <string>vstem 348 108</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

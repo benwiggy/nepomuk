@@ -80,28 +80,6 @@
   <dict>
   <key>com.fontlab.recipe</key>
   <string>h+circumflex</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>28cf96915cd5d3aaac87539f4efb3afc590652b695eed2fea85b31681b4bf475630c4d8c4d6c4ba5c0acf54c9d1264c7557d435eeabe448f51c2675f7472d076</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 35</string>
-          <string>hstem 418 44</string>
-          <string>hstem 645 35</string>
-          <string>hstem 878 -20</string>
-          <string>vstem 92 86</string>
-          <string>vstem 92 82</string>
-          <string>vstem 374 90</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

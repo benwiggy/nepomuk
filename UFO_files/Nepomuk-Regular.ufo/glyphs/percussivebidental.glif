@@ -2,8 +2,6 @@
 <glyph name="percussivebidental" format="2">
   <advance width="537"/>
   <unicode hex="02AD"/>
-  <anchor x="274" y="630" name="m.tonos"/>
-  <anchor x="274" y="-50" name="m.uni1DCA"/>
   <outline>
     <contour>
       <point x="144" y="21" type="line"/>
