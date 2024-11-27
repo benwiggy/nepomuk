@@ -11,11 +11,14 @@ The accidentals can be accessed using the ligatures $b, $n, and $s, or directly 
 v2.08: Fix to grave accent in Bold Italic; addition of vowel carons.  
 v2.07: Fixes to Windows naming; addition of most European diacritics and other characters.  
 v2.01: More improvements to kerning; Small Caps have been added to Regular and Bold styles.  
-v2.02: More kerning revisions! Also Unicode Roman Numerals to Regular and Italic styles.
-v2.50: Bold and Bold Italic styles have been substantially revised, with more kerning improvements all around.
+v2.02: More kerning revisions! Also Unicode Roman Numerals to Regular and Italic styles.  
+v2.50: Bold and Bold Italic styles have been substantially revised, with more kerning improvements all around.  
+v2.51: Snagging from 2.50; kerning and fixes to punctation (brackets, quotes).
 
 A small range of sample pages, such as this one below, can be found in the images folder.
 
 ![sample](images/Spoof_English.png)
 
 The fonts in this archive are free to use for everybody. They're licensed under the [SIL Open Font License](http://scripts.sil.org/ofl).
+
+Derivative versions must use a different name.
