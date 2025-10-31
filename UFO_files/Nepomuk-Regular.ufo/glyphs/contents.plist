@@ -614,6 +614,8 @@
   <string>dieresis.glif</string>
   <key>dieresis.smcp</key>
   <string>dieresis.smcp.glif</string>
+  <key>dieresiscomb</key>
+  <string>dieresiscomb.glif</string>
   <key>dieresistonos</key>
   <string>dieresistonos.glif</string>
   <key>divide</key>
@@ -676,6 +678,8 @@
   <string>eight.roman.glif</string>
   <key>eight.romansmall</key>
   <string>eight.romansmall.glif</string>
+  <key>eight.tnum</key>
+  <string>eight.tnum.glif</string>
   <key>eleven.roman</key>
   <string>eleven.roman.glif</string>
   <key>eleven.romansmall</key>
@@ -766,6 +770,8 @@
   <string>five.roman.glif</string>
   <key>five.romansmall</key>
   <string>five.romansmall.glif</string>
+  <key>five.tnum</key>
+  <string>five.tnum.glif</string>
   <key>fivehundred.roman</key>
   <string>fivehundred.roman.glif</string>
   <key>fivehundred.romansmall</key>
@@ -782,6 +788,8 @@
   <string>four.roman.glif</string>
   <key>four.romansmall</key>
   <string>four.romansmall.glif</string>
+  <key>four.tnum</key>
+  <string>four.tnum.glif</string>
   <key>fraction</key>
   <string>fraction.glif</string>
   <key>g</key>
@@ -846,6 +854,8 @@
   <string>h.glif</string>
   <key>h.smcp</key>
   <string>h.smcp.glif</string>
+  <key>hairspace</key>
+  <string>hairspace.glif</string>
   <key>hbar</key>
   <string>hbar.glif</string>
   <key>hbar.smcp</key>
@@ -1040,6 +1050,8 @@
   <string>napostrophe.glif</string>
   <key>napostrophe.smcp</key>
   <string>napostrophe.smcp.glif</string>
+  <key>narrownobreakspace</key>
+  <string>narrownobreakspace.glif</string>
   <key>nbspace</key>
   <string>nbspace.glif</string>
   <key>ncaron</key>
@@ -1060,6 +1072,8 @@
   <string>nine.roman.glif</string>
   <key>nine.romansmall</key>
   <string>nine.romansmall.glif</string>
+  <key>nine.tnum</key>
+  <string>nine.tnum.glif</string>
   <key>nonbreakinghyphen</key>
   <string>nonbreakinghyphen.glif</string>
   <key>notequal</key>
@@ -1136,6 +1150,8 @@
   <string>one.roman.glif</string>
   <key>one.romansmall</key>
   <string>one.romansmall.glif</string>
+  <key>one.tnum</key>
+  <string>one.tnum.glif</string>
   <key>onedotenleader</key>
   <string>onedotenleader.glif</string>
   <key>onehalf</key>
@@ -1334,6 +1350,8 @@
   <string>seven.roman.glif</string>
   <key>seven.romansmall</key>
   <string>seven.romansmall.glif</string>
+  <key>seven.tnum</key>
+  <string>seven.tnum.glif</string>
   <key>shook</key>
   <string>shook.glif</string>
   <key>sigma</key>
@@ -1346,6 +1364,8 @@
   <string>six.roman.glif</string>
   <key>six.romansmall</key>
   <string>six.romansmall.glif</string>
+  <key>six.tnum</key>
+  <string>six.tnum.glif</string>
   <key>slash</key>
   <string>slash.glif</string>
   <key>soundcopyright</key>
@@ -1386,6 +1406,8 @@
   <string>tesh.glif</string>
   <key>theta</key>
   <string>theta.glif</string>
+  <key>thinspace</key>
+  <string>thinspace.glif</string>
   <key>thorn</key>
   <string>thorn.glif</string>
   <key>thorn.smcp</key>
@@ -1396,6 +1418,8 @@
   <string>three.roman.glif</string>
   <key>three.romansmall</key>
   <string>three.romansmall.glif</string>
+  <key>three.tnum</key>
+  <string>three.tnum.glif</string>
   <key>threequarters</key>
   <string>threequarters.glif</string>
   <key>threesuperior</key>
@@ -1426,6 +1450,8 @@
   <string>two.roman.glif</string>
   <key>two.romansmall</key>
   <string>two.romansmall.glif</string>
+  <key>two.tnum</key>
+  <string>two.tnum.glif</string>
   <key>twoasterisksalignedvertically</key>
   <string>twoasterisksalignedvertically.glif</string>
   <key>twodotenleader</key>
@@ -1648,6 +1674,8 @@
   <string>zdotaccent.smcp.glif</string>
   <key>zero</key>
   <string>zero.glif</string>
+  <key>zero.tnum</key>
+  <string>zero.tnum.glif</string>
   <key>zeta</key>
   <string>zeta.glif</string>
   <key>zretroflexhook</key>

@@ -2,6 +2,8 @@
 <glyph name="ereversed-ipa" format="2">
   <advance width="467"/>
   <unicode hex="0258"/>
+  <anchor x="223" y="519" name="t.dieresis"/>
+  <anchor x="223" y="527" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="39" y="133" type="line"/>
@@ -40,4 +42,28 @@
       <point x="327" y="257" type="curve"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d410d8cdb06cd8f037c8b29a418ca79fe3e18ed33a4c9c54a5996fab6f8f2be4d98d2b780b0a7c8bd20f137035d3c423adbaee22b3714a3eaa00cf4084d1f4a4</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -12 37</string>
+          <string>hstem 227 30</string>
+          <string>hstem 436 26</string>
+          <string>vstem 35 104</string>
+          <string>vstem 327 108</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

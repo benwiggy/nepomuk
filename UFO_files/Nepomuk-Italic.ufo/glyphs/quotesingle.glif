@@ -10,7 +10,7 @@
       <point x="261" y="748" type="qcurve" smooth="yes"/>
       <point x="285" y="748"/>
       <point x="285" y="721" type="qcurve" smooth="yes"/>
-      <point x="286" y="709"/>
+      <point x="285.95" y="709.02"/>
       <point x="277" y="687" type="qcurve" smooth="yes"/>
       <point x="214" y="532" type="line"/>
       <point x="189" y="532" type="line"/>
@@ -23,7 +23,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w220m210,682q213,706q234,748l261,748q285,748l285,721q286,709l277,687l214,532l189,532</string>
+    <string>w220m210,682q213,706q234,748l261,748q285,748l285,721q285.95,709.02l277,687l214,532l189,532</string>
     <key>hintSetList</key>
     <array>
       <dict>

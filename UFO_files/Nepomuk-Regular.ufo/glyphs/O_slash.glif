@@ -2,6 +2,8 @@
 <glyph name="Oslash" format="2">
   <advance width="645"/>
   <unicode hex="00D8"/>
+  <anchor x="323" y="750" name="t.dieresis"/>
+  <anchor x="323" y="730" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="80" y="-41" type="line"/>
@@ -54,4 +56,27 @@
       <point x="207" y="100" type="curve"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>8b22b67dff166b6583c5ef43efb2acfe4ecac0dc9577b29c6c9340cb3f4997ad21c29b66a1484b7885c7739bacd468be385c1f09f44c240ab7e4d125cca45838</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -12 32</string>
+          <string>hstem 660 32</string>
+          <string>vstem 40 132</string>
+          <string>vstem 473 132</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

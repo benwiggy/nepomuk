@@ -6,24 +6,24 @@
     <component base="period" xScale="0.9659" xyScale="-0.2588" yxScale="0.2588" yScale="0.9659" xOffset="68" yOffset="335"/>
     <contour>
       <point x="118" y="132" type="curve" smooth="yes"/>
-      <point x="86" y="141"/>
+      <point x="85.8741" y="140.54"/>
       <point x="49" y="118"/>
       <point x="41" y="87" type="curve" smooth="yes"/>
       <point x="32" y="52"/>
-      <point x="53" y="18"/>
+      <point x="53.0435" y="18.1687"/>
       <point x="96" y="7" type="curve" smooth="yes"/>
-      <point x="103" y="5"/>
-      <point x="105" y="-2"/>
+      <point x="103.046" y="5.16808"/>
+      <point x="105.066" y="-2.01657"/>
       <point x="102" y="-14" type="curve" smooth="yes"/>
-      <point x="94" y="-45"/>
+      <point x="94.0655" y="-45.0168"/>
       <point x="55" y="-65"/>
       <point x="8" y="-62" type="curve"/>
       <point x="5" y="-92" type="line"/>
       <point x="84" y="-104"/>
-      <point x="154" y="-52"/>
+      <point x="154.36" y="-52.0972"/>
       <point x="175" y="25" type="curve" smooth="yes"/>
-      <point x="188" y="75"/>
-      <point x="165" y="120"/>
+      <point x="188.36" y="74.9049"/>
+      <point x="164.88" y="119.538"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>3cbe1411c9b76ed91910d2ca8a2a78aad0dcdb1bb29c6d92faca31c94f1b9452cae917a578e3a6f0971fd5d064b04581b3a785a4a45608f9c915c7bb4d84a2f1</string>
+    <string>e9f5c0b6b3f36d50012dcb8234ca3e84c2ef124d750db40324800d3b98cc3241556f3d3ad99821f9e1562515041571529d7a7f9c0e48f272f687d62ef2a138a8</string>
     <key>hintSetList</key>
     <array>
       <dict>

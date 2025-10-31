@@ -175,6 +175,7 @@ feature aalt {
   feature locl;
   feature sups;
   feature c2sc;
+  feature tnum;
 #< feature
 } aalt;
 feature ss01 {
@@ -654,7 +655,7 @@ feature kern {
     pos A V -155;
     pos A Y -105;
     pos A b -24;
-    pos A v -52;
+    pos A v -71;
     pos A quoteright -70;
     pos A v.smcp -86;
     pos A w.smcp -102;
@@ -1249,7 +1250,7 @@ feature kern {
     pos V C -13;
     pos V G -13;
     pos V O -40;
-    pos V a -72;
+    pos V a -139;
     pos V c -79;
     pos V d -80;
     pos V e -79;
@@ -1290,11 +1291,11 @@ feature kern {
     pos V Acircumflex -182;
     pos V Atilde -182;
     pos V Otilde -40;
-    pos V aacute -72;
-    pos V agrave -72;
-    pos V acircumflex -72;
-    pos V adieresis -72;
-    pos V aring -72;
+    pos V aacute -89;
+    pos V agrave -89;
+    pos V acircumflex -89;
+    pos V adieresis -89;
+    pos V aring -89;
     pos V eacute -79;
     pos V egrave -79;
     pos V ecircumflex -79;
@@ -1315,12 +1316,12 @@ feature kern {
     pos V racute -17;
     pos V ycircumflex -19;
     pos V Amacron -182;
-    pos V amacron -72;
+    pos V amacron -89;
     pos V emacron -79;
     pos V Omacron -40;
     pos V omacron -95;
     pos V Abreve -182;
-    pos V abreve -72;
+    pos V abreve -89;
     pos V ebreve -79;
     pos V Obreve -40;
     pos V obreve -95;
@@ -1378,13 +1379,14 @@ feature kern {
     pos V ohungarumlaut -95;
     pos V uhungarumlaut -7;
     pos V Aogonek -182;
-    pos V aogonek -72;
+    pos V aogonek -89;
     pos V eogonek -79;
     pos V rcommaaccent -17;
-    pos V atilde -72;
+    pos V atilde -89;
     pos W hyphen -70;
     pos W colon -44;
     pos W semicolon -67;
+    pos W a -118;
     pos W c -60;
     pos W d -62;
     pos W g -68;
@@ -1713,6 +1715,7 @@ feature kern {
     pos v comma -55;
     pos v hyphen -11;
     pos v period -55;
+    pos v a -29;
     pos v c -8;
     pos v d -7;
     pos v e -8;
@@ -1720,6 +1723,11 @@ feature kern {
     pos v o -29;
     pos v oslash -29;
     pos v ecaron -8;
+    pos v aacute -29;
+    pos v agrave -29;
+    pos v acircumflex -29;
+    pos v adieresis -29;
+    pos v aring -29;
     pos v eacute -8;
     pos v egrave -8;
     pos v ecircumflex -8;
@@ -1728,13 +1736,17 @@ feature kern {
     pos v ograve -29;
     pos v ocircumflex -29;
     pos v odieresis -29;
+    pos v amacron -29;
     pos v emacron -8;
     pos v omacron -29;
+    pos v abreve -29;
     pos v ebreve -8;
     pos v obreve -29;
     pos v edotaccent -8;
     pos v ohungarumlaut -29;
+    pos v aogonek -29;
     pos v eogonek -8;
+    pos v atilde -29;
     pos w hyphen -6;
     pos w c -8;
     pos w d -7;
@@ -1754,7 +1766,7 @@ feature kern {
     pos Aring V -155;
     pos Aring Y -105;
     pos Aring b -24;
-    pos Aring v -52;
+    pos Aring v -71;
     pos Aring quoteright -70;
     pos Aring v.smcp -86;
     pos Aring w.smcp -102;
@@ -1871,7 +1883,7 @@ feature kern {
     pos Aacute V -155;
     pos Aacute Y -105;
     pos Aacute b -24;
-    pos Aacute v -52;
+    pos Aacute v -71;
     pos Aacute quoteright -70;
     pos Aacute v.smcp -86;
     pos Aacute w.smcp -102;
@@ -1891,7 +1903,7 @@ feature kern {
     pos Agrave V -155;
     pos Agrave Y -105;
     pos Agrave b -24;
-    pos Agrave v -52;
+    pos Agrave v -71;
     pos Agrave quoteright -70;
     pos Agrave v.smcp -86;
     pos Agrave w.smcp -102;
@@ -1902,7 +1914,7 @@ feature kern {
     pos Acircumflex V -155;
     pos Acircumflex Y -105;
     pos Acircumflex b -24;
-    pos Acircumflex v -52;
+    pos Acircumflex v -71;
     pos Acircumflex quoteright -70;
     pos Acircumflex v.smcp -86;
     pos Acircumflex w.smcp -102;
@@ -1913,7 +1925,7 @@ feature kern {
     pos Atilde V -155;
     pos Atilde Y -105;
     pos Atilde b -24;
-    pos Atilde v -52;
+    pos Atilde v -71;
     pos Atilde quoteright -70;
     pos Atilde v.smcp -86;
     pos Atilde w.smcp -102;
@@ -1956,7 +1968,7 @@ feature kern {
     pos Adieresis V -155;
     pos Adieresis Y -105;
     pos Adieresis b -24;
-    pos Adieresis v -52;
+    pos Adieresis v -71;
     pos Adieresis quoteright -70;
     pos Adieresis v.smcp -86;
     pos Adieresis w.smcp -102;
@@ -2010,7 +2022,7 @@ feature kern {
     pos Amacron V -155;
     pos Amacron Y -105;
     pos Amacron b -24;
-    pos Amacron v -52;
+    pos Amacron v -71;
     pos Amacron quoteright -70;
     pos Amacron v.smcp -86;
     pos Amacron w.smcp -102;
@@ -2030,7 +2042,7 @@ feature kern {
     pos Abreve V -155;
     pos Abreve Y -105;
     pos Abreve b -24;
-    pos Abreve v -52;
+    pos Abreve v -71;
     pos Abreve quoteright -70;
     pos Abreve v.smcp -86;
     pos Abreve w.smcp -102;
@@ -2055,6 +2067,7 @@ feature kern {
     pos Wcircumflex hyphen -70;
     pos Wcircumflex colon -44;
     pos Wcircumflex semicolon -67;
+    pos Wcircumflex a -118;
     pos Wcircumflex c -60;
     pos Wcircumflex d -62;
     pos Wcircumflex g -68;
@@ -2072,6 +2085,7 @@ feature kern {
     pos Wgrave hyphen -70;
     pos Wgrave colon -44;
     pos Wgrave semicolon -67;
+    pos Wgrave a -118;
     pos Wgrave c -60;
     pos Wgrave d -62;
     pos Wgrave g -68;
@@ -2086,6 +2100,7 @@ feature kern {
     pos Wacute hyphen -70;
     pos Wacute colon -44;
     pos Wacute semicolon -67;
+    pos Wacute a -118;
     pos Wacute c -60;
     pos Wacute d -62;
     pos Wacute g -68;
@@ -2100,6 +2115,7 @@ feature kern {
     pos Wdieresis hyphen -70;
     pos Wdieresis colon -44;
     pos Wdieresis semicolon -67;
+    pos Wdieresis a -118;
     pos Wdieresis c -60;
     pos Wdieresis d -62;
     pos Wdieresis g -68;
@@ -2256,7 +2272,7 @@ feature kern {
     pos Aogonek V -155;
     pos Aogonek Y -105;
     pos Aogonek b -24;
-    pos Aogonek v -52;
+    pos Aogonek v -71;
     pos Aogonek quoteright -70;
     pos Aogonek v.smcp -86;
     pos Aogonek w.smcp -102;
@@ -2329,3 +2345,19 @@ feature kern {
   } KERN_LTR;
 
 } kern;
+feature tnum {
+# Tabular Figures
+
+#> feature
+  sub eight by eight.tnum;
+  sub five by five.tnum;
+  sub four by four.tnum;
+  sub nine by nine.tnum;
+  sub one by one.tnum;
+  sub seven by seven.tnum;
+  sub six by six.tnum;
+  sub three by three.tnum;
+  sub two by two.tnum;
+  sub zero by zero.tnum;
+#< feature
+} tnum;

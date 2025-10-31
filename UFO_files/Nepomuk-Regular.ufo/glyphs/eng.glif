@@ -2,6 +2,7 @@
 <glyph name="eng" format="2">
   <advance width="555"/>
   <unicode hex="014B"/>
+  <anchor x="268" y="520" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="32" y="0" type="line"/>
@@ -74,6 +75,31 @@
   <dict>
   <key>public.markColor</key>
   <string>0.604,0.6,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>7cbb06ad5eca3a9ce4417331dc6a57db4ffe83df0be99e734a5e0bbeadeabfefc6a4cee0ebd4ba2d11345b2c984fb448eeae161420035d97e3859d9f5d54436b</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -228 29</string>
+          <string>hstem -228 182</string>
+          <string>hstem 0 35</string>
+          <string>hstem 415 35</string>
+          <string>hstem 418 44</string>
+          <string>vstem 102 80</string>
+          <string>vstem 102 85</string>
+          <string>vstem 200 68</string>
+          <string>vstem 200 111</string>
+          <string>vstem 383 89</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

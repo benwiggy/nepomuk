@@ -276,6 +276,8 @@
   <string>acute.glif</string>
   <key>acute.smcp</key>
   <string>acute.smcp.glif</string>
+  <key>acutecomb</key>
+  <string>acutecomb.glif</string>
   <key>adieresis</key>
   <string>adieresis.glif</string>
   <key>adieresis.smcp</key>
@@ -424,6 +426,8 @@
   <string>dieresis.glif</string>
   <key>dieresis.smcp</key>
   <string>dieresis.smcp.glif</string>
+  <key>dieresiscomb</key>
+  <string>dieresiscomb.glif</string>
   <key>divide</key>
   <string>divide.glif</string>
   <key>dollar</key>
@@ -432,6 +436,8 @@
   <string>dotaccent.glif</string>
   <key>dotaccent.smcp</key>
   <string>dotaccent.smcp.glif</string>
+  <key>dotaccentcomb</key>
+  <string>dotaccentcomb.glif</string>
   <key>dotlessi</key>
   <string>dotlessi.glif</string>
   <key>e</key>
@@ -468,6 +474,8 @@
   <string>egrave.smcp.glif</string>
   <key>eight</key>
   <string>eight.glif</string>
+  <key>eight.tnum</key>
+  <string>eight.tnum.glif</string>
   <key>ellipsis</key>
   <string>ellipsis.glif</string>
   <key>emacron</key>
@@ -510,12 +518,16 @@
   <string>fi.glif</string>
   <key>five</key>
   <string>five.glif</string>
+  <key>five.tnum</key>
+  <string>five.tnum.glif</string>
   <key>fl</key>
   <string>fl.glif</string>
   <key>florin</key>
   <string>florin.glif</string>
   <key>four</key>
   <string>four.glif</string>
+  <key>four.tnum</key>
+  <string>four.tnum.glif</string>
   <key>g</key>
   <string>g.glif</string>
   <key>g.smcp</key>
@@ -542,6 +554,8 @@
   <string>grave.glif</string>
   <key>grave.smcp</key>
   <string>grave.smcp.glif</string>
+  <key>gravecomb</key>
+  <string>gravecomb.glif</string>
   <key>greater</key>
   <string>greater.glif</string>
   <key>greaterequal</key>
@@ -716,6 +730,8 @@
   <string>ncommaaccent.smcp.glif</string>
   <key>nine</key>
   <string>nine.glif</string>
+  <key>nine.tnum</key>
+  <string>nine.tnum.glif</string>
   <key>notequal</key>
   <string>notequal.glif</string>
   <key>ntilde</key>
@@ -772,6 +788,8 @@
   <string>one.glif</string>
   <key>one.alt</key>
   <string>one.alt.glif</string>
+  <key>one.tnum</key>
+  <string>one.tnum.glif</string>
   <key>onedotenleader</key>
   <string>onedotenleader.glif</string>
   <key>onehalf</key>
@@ -906,8 +924,12 @@
   <string>semicolon.glif</string>
   <key>seven</key>
   <string>seven.glif</string>
+  <key>seven.tnum</key>
+  <string>seven.tnum.glif</string>
   <key>six</key>
   <string>six.glif</string>
+  <key>six.tnum</key>
+  <string>six.tnum.glif</string>
   <key>slash</key>
   <string>slash.glif</string>
   <key>soundcopyright</key>
@@ -944,6 +966,8 @@
   <string>thorn.smcp.glif</string>
   <key>three</key>
   <string>three.glif</string>
+  <key>three.tnum</key>
+  <string>three.tnum.glif</string>
   <key>threequarters</key>
   <string>threequarters.glif</string>
   <key>threesuperior</key>
@@ -958,6 +982,8 @@
   <string>trademark.glif</string>
   <key>two</key>
   <string>two.glif</string>
+  <key>two.tnum</key>
+  <string>two.tnum.glif</string>
   <key>twodotenleader</key>
   <string>twodotenleader.glif</string>
   <key>twosuperior</key>
@@ -1124,5 +1150,7 @@
   <string>zdotaccent.smcp.glif</string>
   <key>zero</key>
   <string>zero.glif</string>
+  <key>zero.tnum</key>
+  <string>zero.tnum.glif</string>
 </dict>
 </plist>

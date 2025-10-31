@@ -2,6 +2,7 @@
 <glyph name="dotaccent" format="2">
   <advance width="330"/>
   <unicode hex="02D9"/>
+  <anchor x="256" y="490" name="_accent1"/>
   <outline>
     <contour>
       <point x="216" y="616" type="curve" smooth="yes"/>
@@ -18,4 +19,25 @@
       <point x="216" y="648"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w330m216,616c216,584 242,558 274,558c306,558 332,584 332,616c332,648 306,674 274,674c242,674 216,648 216,616</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 558 116</string>
+          <string>vstem 216 116</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

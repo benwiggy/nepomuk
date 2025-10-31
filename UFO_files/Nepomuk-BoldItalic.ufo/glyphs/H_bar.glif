@@ -6,9 +6,9 @@
     <component base="H" xOffset="8"/>
     <contour>
       <point x="142" y="482" type="line"/>
-      <point x="152" y="523" type="line"/>
-      <point x="764" y="523" type="line"/>
       <point x="754" y="482" type="line"/>
+      <point x="764" y="523" type="line"/>
+      <point x="152" y="523" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -20,7 +20,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w761m142,482l152,523l764,523l754,482</string>
+    <string>w761m142,482l754,482l764,523l152,523</string>
     <key>hintSetList</key>
     <array>
       <dict>

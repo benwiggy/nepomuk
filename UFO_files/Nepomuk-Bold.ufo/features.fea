@@ -2809,3 +2809,35 @@ feature kern {
   } KERN_LTR;
 
 } kern;
+feature pnum {
+# Proportional Figures
+
+#> feature
+  sub eight.tnum by eight;
+  sub five.tnum by five;
+  sub four.tnum by four;
+  sub nine.tnum by nine;
+  sub one.tnum by one;
+  sub seven.tnum by seven;
+  sub six.tnum by six;
+  sub three.tnum by three;
+  sub two.tnum by two;
+  sub zero.tnum by zero;
+#< feature
+} pnum;
+feature tnum {
+# Tabular Figures
+
+#> feature
+  sub eight by eight.tnum;
+  sub five by five.tnum;
+  sub four by four.tnum;
+  sub nine by nine.tnum;
+  sub one by one.tnum;
+  sub seven by seven.tnum;
+  sub six by six.tnum;
+  sub three by three.tnum;
+  sub two by two.tnum;
+  sub zero by zero.tnum;
+#< feature
+} tnum;

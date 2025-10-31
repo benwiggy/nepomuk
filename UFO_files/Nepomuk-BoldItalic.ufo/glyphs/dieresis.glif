@@ -2,34 +2,57 @@
 <glyph name="dieresis" format="2">
   <advance width="506"/>
   <unicode hex="00A8"/>
+  <anchor x="351" y="524" name="_t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="261" y="553" type="curve" smooth="yes"/>
-      <point x="234" y="553"/>
-      <point x="208" y="578"/>
-      <point x="208" y="606" type="curve" smooth="yes"/>
-      <point x="208" y="637"/>
-      <point x="234" y="659"/>
-      <point x="261" y="659" type="curve" smooth="yes"/>
-      <point x="292" y="659"/>
-      <point x="314" y="637"/>
-      <point x="314" y="606" type="curve" smooth="yes"/>
-      <point x="314" y="578"/>
       <point x="292" y="553"/>
+      <point x="314" y="578"/>
+      <point x="314" y="606" type="curve" smooth="yes"/>
+      <point x="314" y="637"/>
+      <point x="292" y="659"/>
+      <point x="261" y="659" type="curve" smooth="yes"/>
+      <point x="234" y="659"/>
+      <point x="208" y="637"/>
+      <point x="208" y="606" type="curve" smooth="yes"/>
+      <point x="208" y="578"/>
+      <point x="234" y="553"/>
     </contour>
     <contour>
       <point x="451" y="553" type="curve" smooth="yes"/>
-      <point x="422" y="553"/>
-      <point x="397" y="578"/>
-      <point x="397" y="606" type="curve" smooth="yes"/>
-      <point x="397" y="637"/>
-      <point x="422" y="659"/>
-      <point x="451" y="659" type="curve" smooth="yes"/>
-      <point x="481" y="659"/>
-      <point x="505" y="637"/>
-      <point x="505" y="606" type="curve" smooth="yes"/>
-      <point x="505" y="578"/>
       <point x="481" y="553"/>
+      <point x="505" y="578"/>
+      <point x="505" y="606" type="curve" smooth="yes"/>
+      <point x="505" y="637"/>
+      <point x="481" y="659"/>
+      <point x="451" y="659" type="curve" smooth="yes"/>
+      <point x="422" y="659"/>
+      <point x="397" y="637"/>
+      <point x="397" y="606" type="curve" smooth="yes"/>
+      <point x="397" y="578"/>
+      <point x="422" y="553"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>f39f501fef2d666c5ed81b7c5516c2d5b61c9f305e92dd2375f3fa504079b7a9d7234792eae73cf4fe7a574183244e3a633ac2db44f8722ac388de179f304eb9</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 553 106</string>
+          <string>vstem 208 106</string>
+          <string>vstem 397 108</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

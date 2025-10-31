@@ -2,6 +2,8 @@
 <glyph name="aturned" format="2">
   <advance width="552"/>
   <unicode hex="0250"/>
+  <anchor x="307" y="512" name="t.dieresis"/>
+  <anchor x="307" y="518" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="229" y="172" type="line"/>
@@ -65,4 +67,31 @@
       <point x="295" y="217" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>7d5330567c9eb6f90a2914254e8e1d4363753b7433ae6cfeef8e4980867d5c11b529bb9673e8d4cbcbe56f822d680dcfbf1239b0856bd08a563d8a2464d24776</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 31</string>
+          <string>hstem 0 166</string>
+          <string>hstem 428 46</string>
+          <string>hstem 438 36</string>
+          <string>vstem 139 90</string>
+          <string>vstem 384 101</string>
+          <string>vstem 404 81</string>
+          <string>vstem 410 101</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

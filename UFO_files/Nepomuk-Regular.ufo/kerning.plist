@@ -315,6 +315,8 @@
     <integer>-148</integer>
     <key>G</key>
     <integer>-13</integer>
+    <key>a</key>
+    <integer>-139</integer>
     <key>ae</key>
     <integer>-66</integer>
     <key>ae.smcp</key>
@@ -372,7 +374,7 @@
     <key>public.kern2.kr_uSC</key>
     <integer>-84</integer>
     <key>public.kern2.kra</key>
-    <integer>-72</integer>
+    <integer>-89</integer>
     <key>public.kern2.kre</key>
     <integer>-79</integer>
     <key>public.kern2.kro</key>
@@ -794,6 +796,8 @@
     <integer>-14</integer>
     <key>hyphen</key>
     <integer>-11</integer>
+    <key>public.kern2.kra</key>
+    <integer>-29</integer>
     <key>public.kern2.kre</key>
     <integer>-8</integer>
     <key>public.kern2.kro</key>
@@ -839,7 +843,7 @@
     <key>quotesingle</key>
     <integer>-93</integer>
     <key>v</key>
-    <integer>-52</integer>
+    <integer>-71</integer>
     <key>v.smcp</key>
     <integer>-86</integer>
     <key>w.smcp</key>
@@ -917,6 +921,8 @@
   </dict>
   <key>public.kern1.krW</key>
   <dict>
+    <key>a</key>
+    <integer>-118</integer>
     <key>ae.smcp</key>
     <integer>-209</integer>
     <key>c</key>

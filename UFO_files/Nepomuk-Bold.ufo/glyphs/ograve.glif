@@ -5,7 +5,7 @@
   <anchor x="261" y="530" name="t.dieresis"/>
   <outline>
     <component base="o"/>
-    <component base="grave" xOffset="155"/>
+    <component base="gravecomb" xOffset="155" yOffset="-5"/>
   </outline>
   <lib>
   <dict>

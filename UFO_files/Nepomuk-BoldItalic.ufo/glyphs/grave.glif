@@ -2,6 +2,7 @@
 <glyph name="grave" format="2">
   <advance width="220"/>
   <unicode hex="0060"/>
+  <anchor x="258" y="490" name="_t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="238" y="693" type="line"/>
@@ -16,4 +17,25 @@
       <point x="238" y="694" type="curve"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w220m238,693l110,707l103,688c147,654 273,565 331,533l341,560c310,590 262,652 238,694</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 554 -21</string>
+          <string>hstem 707 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

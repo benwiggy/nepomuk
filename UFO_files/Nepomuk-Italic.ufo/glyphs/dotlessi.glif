@@ -2,6 +2,7 @@
 <glyph name="dotlessi" format="2">
   <advance width="312"/>
   <unicode hex="0131"/>
+  <anchor x="187" y="515" name="accent1"/>
   <outline>
     <contour>
       <point x="78" y="138" type="line" smooth="yes"/>
@@ -46,4 +47,27 @@
       <point x="144" y="312" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>3d78fc61a7342b2f6e0def79c087b36f43e63f22f53680303e2925d26ace16f46dbf5179d7a7dd112dcdae43bfdcccd9883d62f962ce1575b32cf4def3e76d6b</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -12 44</string>
+          <string>hstem 418 44</string>
+          <string>vstem 63 80</string>
+          <string>vstem 169 80</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

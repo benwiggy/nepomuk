@@ -2,6 +2,7 @@
 <glyph name="gravecomb" format="2">
   <advance width="212"/>
   <unicode hex="0300"/>
+  <anchor x="106" y="530" name="_t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="0" y="686" type="line"/>
@@ -19,6 +20,23 @@
   <dict>
   <key>com.fontlab.recipe</key>
   <string>grave%</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w212m49,663c91,623 197,541 253,509l261,531c227,571 185,639 167,683l56,683</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 553 -21</string>
+          <string>hstem 706 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

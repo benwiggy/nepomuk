@@ -112,4 +112,32 @@
       <point x="278" y="0" type="qcurve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>973f6eaf39100c8fff1a0ce35ecb910b7a568af38f4fb16af6f39ddf41e4dede22c4a25ee6390e171d9bc978cd53f2a6c3b4653daff354ddbc0bad22aab42781</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -144 67</string>
+          <string>hstem 0 72</string>
+          <string>hstem 0 77</string>
+          <string>hstem 453 -20</string>
+          <string>hstem 649 84</string>
+          <string>hstem 684 -20</string>
+          <string>vstem 42 27</string>
+          <string>vstem 127 24</string>
+          <string>vstem 412 28</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

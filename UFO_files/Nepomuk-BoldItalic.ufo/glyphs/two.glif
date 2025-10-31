@@ -4,9 +4,8 @@
   <unicode hex="0032"/>
   <outline>
     <contour>
-      <point x="250" y="584" type="curve"/>
-      <point x="251" y="584" type="line"/>
-      <point x="242" y="587"/>
+      <point x="250" y="584" type="curve" smooth="yes"/>
+      <point x="243" y="587"/>
       <point x="238" y="596"/>
       <point x="238" y="605" type="curve" smooth="yes"/>
       <point x="238" y="641"/>
@@ -57,7 +56,7 @@
       <point x="304" y="470"/>
       <point x="304" y="515" type="curve" smooth="yes"/>
       <point x="304" y="547"/>
-      <point x="280" y="574"/>
+      <point x="278.847" y="571.637"/>
     </contour>
   </outline>
   <lib>
@@ -67,18 +66,18 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>fd19bad7271d722e8d8586faf732bc11b6b178115960b4f61bfb13fe57fd61fe2abb35a0d1aabcd5299451cbf1e240c9214c742cda19e713c2ec303d57496170</string>
+    <string>8c343eb9d5dd6e37b9256e3bef9bbc4deffe6f43eca3f169a0c1c3a7041b6928b861d2276da23cca19e217598d54c1a54fa400ee10f84c8ae6d9793d58d86379</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 82 206</string>
-          <string>hstem 85 -21</string>
-          <string>hstem 655 37</string>
-          <string>vstem 137 101</string>
+          <string>hstem 6 -21</string>
+          <string>hstem 137 43</string>
+          <string>hstem 605 37</string>
+          <string>vstem 137 106</string>
           <string>vstem 137 167</string>
-          <string>vstem 304 137</string>
+          <string>vstem 223 116</string>
         </array>
       </dict>
     </array>

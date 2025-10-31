@@ -5,9 +5,9 @@
   <outline>
     <contour>
       <point x="254" y="-20" type="line"/>
-      <point x="219" y="4" type="line"/>
-      <point x="669" y="720" type="line"/>
       <point x="703" y="696" type="line"/>
+      <point x="669" y="720" type="line"/>
+      <point x="219" y="4" type="line"/>
     </contour>
     <contour>
       <point x="292" y="524" type="line"/>
@@ -137,7 +137,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>abfecb49a4d939da626fd592b92d95deee823fc2ed8bd14cf9f3ac98520eac80b661ea99ce90db77276bc9fc92c63c844228fd9f35d268dd6312d678745073c8</string>
+    <string>882daabb061d704571f339303211076bae60f47965615d4cb5c1e81ac7e8f68c4282ebd7321bd8d25826e761c07dfe3f4dac5098f6b464534a1e2429bf451282</string>
     <key>hintSetList</key>
     <array>
       <dict>

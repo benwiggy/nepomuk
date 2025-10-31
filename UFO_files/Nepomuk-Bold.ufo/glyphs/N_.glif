@@ -2,12 +2,11 @@
 <glyph name="N" format="2">
   <advance width="763"/>
   <unicode hex="004E"/>
-  <anchor x="394" y="730" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="647.43" y="583.371" type="line" smooth="yes"/>
       <point x="647.43" y="622.783"/>
-      <point x="652.357" y="636.577"/>
+      <point x="652.36" y="636.15"/>
       <point x="677.975" y="636.577" type="curve" smooth="yes"/>
       <point x="737.093" y="637.563" type="line"/>
       <point x="737.093" y="679.931" type="line"/>
@@ -27,7 +26,7 @@
       <point x="147.883" y="556.768" type="curve" smooth="yes"/>
       <point x="147.883" y="96.6329" type="line" smooth="yes"/>
       <point x="147.883" y="57.2209"/>
-      <point x="144.927" y="43.4267"/>
+      <point x="144.925" y="43.8014"/>
       <point x="118.324" y="43.4267" type="curve" smooth="yes"/>
       <point x="48.3679" y="42.4414" type="line"/>
       <point x="48.3679" y="0.0735" type="line"/>
@@ -42,28 +41,4 @@
       <point x="647.43" y="-11.7501" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>42c1cb59a5eb3f89b9c2b3abaf894c5014a438e97e1505b8ca12b377195bcd181d89fee221cc20adb2333b8a87f93a28a6a8cda17f9359e4413a5deb14017910</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0.07 43.35</string>
-          <string>hstem 9.25 -21</string>
-          <string>hstem 637.56 42.37</string>
-          <string>vstem 147.88 50.25</string>
-          <string>vstem 597.18 50.25</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

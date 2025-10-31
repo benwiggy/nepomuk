@@ -2,6 +2,7 @@
 <glyph name="Z" format="2">
   <advance width="597"/>
   <unicode hex="005A"/>
+  <anchor x="443" y="718" name="accent1"/>
   <outline>
     <contour>
       <point x="484" y="0" type="line"/>
@@ -30,4 +31,25 @@
       <point x="-16" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>3fe18c718a5d0a0948bb79b3747d232c0fe2efcc9fa9c7bf76cf41e7f53f99d5d1c2085392b822838f1e8e9e8a487ffcc84a4640a14fd4011acd25c5a8d87e9d</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 36</string>
+          <string>hstem 644 36</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

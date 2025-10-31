@@ -2,6 +2,7 @@
 <glyph name="lslash" format="2">
   <advance width="358"/>
   <unicode hex="0142"/>
+  <anchor x="326" y="714" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="12" y="302" type="line"/>
@@ -48,6 +49,24 @@
   <dict>
   <key>com.fontlab.recipe</key>
   <string>l+endash</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>a459815c0c2e7cd168e65d4c8a9022c1482ec4a0486dc856e533a76e1cd5da1a72f9d8ac39481ba5e29971689f44737718af2fda99dc2f07c1a7c12071095327</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -8 44</string>
+          <string>hstem 675 -20</string>
+          <string>vstem 40 101</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

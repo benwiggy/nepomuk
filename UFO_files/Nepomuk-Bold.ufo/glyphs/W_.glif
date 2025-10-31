@@ -6,8 +6,8 @@
     <contour>
       <point x="20.7795" y="637.563" type="line"/>
       <point x="51.3238" y="636.577" type="line" smooth="yes"/>
-      <point x="84.824" y="635.592"/>
-      <point x="90.7358" y="625.739"/>
+      <point x="84.8211" y="635.497"/>
+      <point x="90.5574" y="625.683"/>
       <point x="110.442" y="562.68" type="curve" smooth="yes"/>
       <point x="291.737" y="-11.7501" type="line"/>
       <point x="358.737" y="-11.7501" type="line"/>
@@ -56,25 +56,4 @@
       <point x="20.7795" y="679.931" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>42a9033c10079a08a820aaf0306e94fb9a2f39b3606f587f072639451862ea0aa0b72da42c2f76c89ff189497323a7240a9385f93b66b1f6e7ec77b14bdd0f64</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 9.25 -21</string>
-          <string>hstem 636.58 43.35</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

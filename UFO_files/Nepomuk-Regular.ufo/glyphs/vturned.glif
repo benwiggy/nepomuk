@@ -33,4 +33,25 @@
       <point x="19" y="35" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>7b65ca5c3500ed7060a7eaf26cb024f60917ca58349bda089c208e65d3fdb623894f50956e32f096ac36668092cfc6a1ee8f89ed22e235b4a45d99cbc202acdd</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 35 35</string>
+          <string>hstem 462 495</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

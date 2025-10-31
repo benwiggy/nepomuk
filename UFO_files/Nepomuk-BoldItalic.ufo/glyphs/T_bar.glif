@@ -6,9 +6,9 @@
     <component base="T" xOffset="-11"/>
     <contour>
       <point x="146" y="332" type="line"/>
-      <point x="159" y="373" type="line"/>
-      <point x="500" y="373" type="line"/>
       <point x="487" y="332" type="line"/>
+      <point x="500" y="373" type="line"/>
+      <point x="159" y="373" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -20,7 +20,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w603m146,332l159,373l500,373l487,332</string>
+    <string>w603m146,332l487,332l500,373l159,373</string>
     <key>hintSetList</key>
     <array>
       <dict>

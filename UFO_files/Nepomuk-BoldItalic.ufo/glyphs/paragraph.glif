@@ -4,22 +4,43 @@
   <unicode hex="00B6"/>
   <outline>
     <contour>
-      <point x="300" y="389" type="line"/>
-      <point x="223" y="392"/>
-      <point x="170" y="439"/>
-      <point x="170" y="508" type="curve" smooth="yes"/>
-      <point x="170" y="626"/>
-      <point x="282" y="728"/>
-      <point x="396" y="728" type="curve" smooth="yes"/>
-      <point x="649" y="728" type="line"/>
-      <point x="637" y="684" type="line"/>
-      <point x="568" y="684" type="line"/>
-      <point x="340" y="-158" type="line"/>
-      <point x="291" y="-158" type="line"/>
-      <point x="518" y="684" type="line"/>
-      <point x="429" y="684" type="line"/>
-      <point x="200" y="-158" type="line"/>
+      <point x="300" y="389" type="curve"/>
       <point x="152" y="-158" type="line"/>
+      <point x="200" y="-158" type="line"/>
+      <point x="429" y="684" type="line"/>
+      <point x="518" y="684" type="line"/>
+      <point x="291" y="-158" type="line"/>
+      <point x="340" y="-158" type="line"/>
+      <point x="568" y="684" type="line"/>
+      <point x="637" y="684" type="line"/>
+      <point x="649" y="728" type="line"/>
+      <point x="396" y="728" type="line" smooth="yes"/>
+      <point x="282" y="728"/>
+      <point x="170" y="626"/>
+      <point x="170" y="508" type="curve" smooth="yes"/>
+      <point x="170" y="439"/>
+      <point x="223" y="392"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>6efb7afcc5ad8b3a34c38cf5d49830b87c4df833aaf86a334c4e420202e4a151112d6845617d5a4dbc7f25f85039626f400849045173d5f7a6f1e7c3d173f50c</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -137 -21</string>
+          <string>hstem 684 44</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

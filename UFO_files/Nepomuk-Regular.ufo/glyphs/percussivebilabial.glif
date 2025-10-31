@@ -2,6 +2,8 @@
 <glyph name="percussivebilabial" format="2">
   <advance width="513"/>
   <unicode hex="02AC"/>
+  <anchor x="264" y="685" name="m.tonos"/>
+  <anchor x="264" y="-50" name="m.uni1DCA"/>
   <outline>
     <contour>
       <point x="136" y="331" type="qcurve"/>

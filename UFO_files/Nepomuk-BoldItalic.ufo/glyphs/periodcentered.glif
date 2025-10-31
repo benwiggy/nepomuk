@@ -5,17 +5,38 @@
   <outline>
     <contour>
       <point x="203" y="256" type="curve" smooth="yes"/>
-      <point x="164" y="256"/>
-      <point x="135" y="285"/>
-      <point x="135" y="324" type="curve" smooth="yes"/>
-      <point x="135" y="363"/>
-      <point x="164" y="391"/>
-      <point x="203" y="391" type="curve" smooth="yes"/>
-      <point x="242" y="391"/>
-      <point x="270" y="363"/>
-      <point x="270" y="324" type="curve" smooth="yes"/>
-      <point x="270" y="285"/>
       <point x="242" y="256"/>
+      <point x="270" y="285"/>
+      <point x="270" y="324" type="curve" smooth="yes"/>
+      <point x="270" y="363"/>
+      <point x="242" y="391"/>
+      <point x="203" y="391" type="curve" smooth="yes"/>
+      <point x="164" y="391"/>
+      <point x="135" y="363"/>
+      <point x="135" y="324" type="curve" smooth="yes"/>
+      <point x="135" y="285"/>
+      <point x="164" y="256"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w295m203,256c242,256 270,285 270,324c270,363 242,391 203,391c164,391 135,363 135,324c135,285 164,256 203,256</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 256 135</string>
+          <string>vstem 135 135</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

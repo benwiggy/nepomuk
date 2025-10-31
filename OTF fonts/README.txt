@@ -8,13 +8,17 @@ The text is deliberately 'quite tight', so that it can be used for lyrics withou
 
 The accidentals can be accessed using the ligatures $b, $n, and $s, or directly using their Unicode values U+266D - U+266F).
 
+The SC variants are designed primarily so that Small Caps can be used in apps that do not support OpenType features. However, they should be considered 'legacy' for existing documents; and will not be updated further.
+
 v2.01: More improvements to kerning; Small Caps have been added to Regular and Bold styles.  
 v2.02: More kerning revisions! Also Unicode Roman Numerals to Regular and Italic styles.
 v2.07: Bold and Bold Italic styles have been improved. Windows naming issues are fixed.
 v2.08: Fix and additions to diacritics.
-
+...
 v2.50: Major revision to the Bold and Bold Italic styles; further improvements to kerning throughout.
 v2.51: Snagging from 2.50; kerning and fixes to punctation (brackets, quotes).
+v2.60: Addition of tabular numerals.
+
 
 The fonts in this archive are free to use for everybody. They're licensed under the [SIL Open Font License](http://scripts.sil.org/ofl).
 

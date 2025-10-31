@@ -4,32 +4,32 @@
   <unicode hex="0022"/>
   <outline>
     <contour>
-      <point x="197" y="678" type="line" smooth="yes"/>
-      <point x="201" y="710"/>
-      <point x="214" y="747"/>
-      <point x="252" y="747" type="curve" smooth="yes"/>
-      <point x="271" y="747"/>
-      <point x="281" y="736"/>
-      <point x="281" y="715" type="curve" smooth="yes"/>
-      <point x="281" y="707"/>
-      <point x="278" y="696"/>
-      <point x="273" y="680" type="curve"/>
-      <point x="209" y="524" type="line"/>
+      <point x="197" y="678" type="curve" smooth="yes"/>
       <point x="176" y="524" type="line"/>
+      <point x="209" y="524" type="line"/>
+      <point x="273" y="680" type="line"/>
+      <point x="278" y="696"/>
+      <point x="281" y="707"/>
+      <point x="281" y="715" type="curve" smooth="yes"/>
+      <point x="281" y="736"/>
+      <point x="271" y="747"/>
+      <point x="252" y="747" type="curve" smooth="yes"/>
+      <point x="214" y="747"/>
+      <point x="201" y="710"/>
     </contour>
     <contour>
-      <point x="352" y="678" type="line" smooth="yes"/>
-      <point x="356" y="711"/>
-      <point x="369" y="747"/>
-      <point x="408" y="747" type="curve" smooth="yes"/>
-      <point x="427" y="747"/>
-      <point x="437" y="736"/>
-      <point x="437" y="715" type="curve" smooth="yes"/>
-      <point x="437" y="707"/>
-      <point x="434" y="696"/>
-      <point x="429" y="680" type="curve"/>
-      <point x="364" y="524" type="line"/>
+      <point x="352" y="678" type="curve" smooth="yes"/>
       <point x="331" y="524" type="line"/>
+      <point x="364" y="524" type="line"/>
+      <point x="429" y="680" type="line"/>
+      <point x="434" y="696"/>
+      <point x="437" y="707"/>
+      <point x="437" y="715" type="curve" smooth="yes"/>
+      <point x="437" y="736"/>
+      <point x="427" y="747"/>
+      <point x="408" y="747" type="curve" smooth="yes"/>
+      <point x="369" y="747"/>
+      <point x="356" y="711"/>
     </contour>
   </outline>
   <lib>
@@ -39,7 +39,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>c2d526864648b2f95ba1d40b4b033193af2fcc6543f9279162f137fbcd8f42d9c8568b4b263b4e44abb73ee64268e8aff59f50d26e96bdeb46277e62493fac33</string>
+    <string>aa8fc4be7465c6d564f0fc2c0356e696413c9072baadf6c3bb2f5e4a5c16830cf968182e34f0c3caa3716ec5826f07cebd58f705583cf25f65e9828f2b0d84a4</string>
     <key>hintSetList</key>
     <array>
       <dict>

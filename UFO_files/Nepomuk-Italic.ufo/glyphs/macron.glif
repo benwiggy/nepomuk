@@ -2,6 +2,7 @@
 <glyph name="macron" format="2">
   <advance width="527"/>
   <unicode hex="00AF"/>
+  <anchor x="348" y="492" name="_accent1"/>
   <outline>
     <contour>
       <point x="193" y="559" type="line"/>
@@ -10,4 +11,24 @@
       <point x="514" y="559" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w527m193,559l203,600l524,600l514,559</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 559 41</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

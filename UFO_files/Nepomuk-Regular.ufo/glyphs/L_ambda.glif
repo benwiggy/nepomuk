@@ -2,6 +2,8 @@
 <glyph name="Lambda" format="2">
   <advance width="734"/>
   <unicode hex="039B"/>
+  <anchor x="386" y="750" name="t.dieresis"/>
+  <anchor x="386" y="720" name="t.asciicircum_1"/>
   <outline>
     <contour>
       <point x="16" y="0" type="line"/>
@@ -33,4 +35,25 @@
       <point x="16" y="35" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>058b4e61530102ac977a71e437ac2992a8b77b47550e1880a127e7ea0520da8a419e6b46ccbe744a6a88c1d66c24e539f06d94a9e584d39fdf9bc406a81d4fa9</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 35</string>
+          <string>hstem 692 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

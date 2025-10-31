@@ -8,7 +8,7 @@
       <point x="8.9334" y="449.899" type="line"/>
       <point x="8.9334" y="410.787" type="line"/>
       <point x="61.7346" y="410.787"/>
-      <point x="59.779" y="393.187"/>
+      <point x="59.6333" y="393.132"/>
       <point x="75.4238" y="351.141" type="curve" smooth="yes"/>
       <point x="207.427" y="0.111" type="line"/>
       <point x="237.739" y="0.111" type="line"/>
@@ -66,7 +66,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>73c6044ea9ec2cef9f4bc63cc3133a1d4e3959d2134f02ef3a0ef288c934038b95da2fd83d3259ef6e929ec027fc2665c0d77e38c0dd32c9021670a037ce84b5</string>
+    <string>5431a3a3b6501c619069cd8e3cedfc381bd4e7f990606d6c37d4bd777713ac76f39f2378d6266d4db0e3b0734943e92983d620bdb6baac7cca3da7812d576f69</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -59,7 +59,7 @@
       <point x="174" y="406"/>
       <point x="174" y="398" type="curve" smooth="yes"/>
       <point x="174" y="375"/>
-      <point x="158" y="335"/>
+      <point x="158.404" y="334.873"/>
       <point x="151" y="312" type="curve" smooth="yes"/>
     </contour>
   </outline>
@@ -70,7 +70,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>0017cf14de407f65441adc2c141ce2a460d0386f36ee39c9e35ac68d7ced020002c8e6c766be6782e855a3f209e36366bd392e30beb2a8aac8172b1b05d34768</string>
+    <string>80263b21c2d19d881f0d2d83e7acbb92444f7db62125a29fa81966d8986ff57952ef3895b2014023fabb4f82e58304d817528f411ae1c3169c46293595228883</string>
     <key>hintSetList</key>
     <array>
       <dict>

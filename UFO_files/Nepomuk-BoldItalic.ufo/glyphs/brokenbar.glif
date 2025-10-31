@@ -5,15 +5,37 @@
   <outline>
     <contour>
       <point x="147" y="374" type="line"/>
-      <point x="147" y="747" type="line"/>
-      <point x="202" y="747" type="line"/>
       <point x="202" y="374" type="line"/>
+      <point x="202" y="747" type="line"/>
+      <point x="147" y="747" type="line"/>
     </contour>
     <contour>
       <point x="147" y="-169" type="line"/>
-      <point x="147" y="204" type="line"/>
-      <point x="202" y="204" type="line"/>
       <point x="202" y="-169" type="line"/>
+      <point x="202" y="204" type="line"/>
+      <point x="147" y="204" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w300m147,374l202,374l202,747l147,747m147,-169l202,-169l202,204l147,204</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -148 -21</string>
+          <string>hstem 747 -20</string>
+          <string>vstem 147 55</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

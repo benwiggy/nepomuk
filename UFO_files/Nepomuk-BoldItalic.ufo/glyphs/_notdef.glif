@@ -15,4 +15,27 @@
       <point x="400" y="51" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w512m41,0l471,0l471,506l41,506m112,51l112,455l400,455l400,51</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 51</string>
+          <string>hstem 455 51</string>
+          <string>vstem 41 71</string>
+          <string>vstem 400 71</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

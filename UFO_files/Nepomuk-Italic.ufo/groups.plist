@@ -30,6 +30,7 @@
     <string>five</string>
     <string>four</string>
     <string>nine</string>
+    <string>nine.tnum</string>
     <string>one</string>
     <string>seven</string>
     <string>six</string>
@@ -428,6 +429,7 @@
     <string>five</string>
     <string>four</string>
     <string>nine</string>
+    <string>nine.tnum</string>
     <string>one</string>
     <string>seven</string>
     <string>six</string>

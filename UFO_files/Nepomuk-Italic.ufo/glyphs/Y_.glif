@@ -2,6 +2,7 @@
 <glyph name="Y" format="2">
   <advance width="613"/>
   <unicode hex="0059"/>
+  <anchor x="444" y="711" name="accent1"/>
   <outline>
     <contour>
       <point x="217" y="85" type="line" smooth="yes"/>
@@ -45,4 +46,25 @@
       <point x="280" y="303" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>8f39c2b277f7959b449f1a89cd11f06cd7f011a9f6e41239a31e5f7109be5ece76dcc12c7480687ad919832ee66f84937db118d85a4f391c1af67bde9ba70046</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 35</string>
+          <string>hstem 645 35</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>
